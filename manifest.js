@@ -1910,5 +1910,279 @@ window.MANIFEST = [
         "title": "AS A MAN THINKETH"
       }
     ]
+  },
+  {
+    "slug": "allen-heart-and-life",
+    "title": "THE HEART AND THE LIFE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-heart-and-life/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-heart-and-life/card-01.png",
+        "title": "AS THE HEART, SO IS THE LIFE"
+      },
+      {
+        "src": "img/allen-heart-and-life/card-02.png",
+        "title": "UNFOLDING FROM WITHIN"
+      },
+      {
+        "src": "img/allen-heart-and-life/card-03.png",
+        "title": "SOLELY MENTAL CONDITIONS"
+      },
+      {
+        "src": "img/allen-heart-and-life/card-04.png",
+        "title": "DILIGENT OR NEGLIGENT"
+      },
+      {
+        "src": "img/allen-heart-and-life/card-05.png",
+        "title": "THE WAY OF BLESSEDNESS"
+      },
+      {
+        "src": "img/allen-heart-and-life/card-06.png",
+        "title": "THE GATEWAY OF HIS HEART"
+      }
+    ]
+  },
+  {
+    "slug": "allen-heart-power-of-mind",
+    "title": "THE NATURE AND POWER OF MIND",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-heart-power-of-mind/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-heart-power-of-mind/card-01.png",
+        "title": "THE ARBITER OF LIFE"
+      },
+      {
+        "src": "img/allen-heart-power-of-mind/card-02.png",
+        "title": "ILLIMITABLE CHOICE"
+      },
+      {
+        "src": "img/allen-heart-power-of-mind/card-03.png",
+        "title": "HIS FREEDOM IS COMPLETE"
+      },
+      {
+        "src": "img/allen-heart-power-of-mind/card-04.png",
+        "title": "IT CREATES ITS OWN CONDITIONS"
+      },
+      {
+        "src": "img/allen-heart-power-of-mind/card-05.png",
+        "title": "THE BONDS ARE SELF-MADE"
+      },
+      {
+        "src": "img/allen-heart-power-of-mind/card-06.png",
+        "title": "TEMPTATION ARISES IN THE MIND"
+      },
+      {
+        "src": "img/allen-heart-power-of-mind/card-07.png",
+        "title": "WHEN THE HEART IS PURE"
+      },
+      {
+        "src": "img/allen-heart-power-of-mind/card-08.png",
+        "title": "ALL GROWTH FROM WITHIN"
+      }
+    ]
+  },
+  {
+    "slug": "allen-heart-formation-of-habit",
+    "title": "FORMATION OF HABIT",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-heart-formation-of-habit/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-heart-formation-of-habit/card-01.png",
+        "title": "AN ACQUIRED HABIT"
+      },
+      {
+        "src": "img/allen-heart-formation-of-habit/card-02.png",
+        "title": "DIFFICULT AT FIRST"
+      },
+      {
+        "src": "img/allen-heart-formation-of-habit/card-03.png",
+        "title": "LEARNING A TRADE"
+      },
+      {
+        "src": "img/allen-heart-formation-of-habit/card-04.png",
+        "title": "THE BASIS OF MAN'S SALVATION"
+      },
+      {
+        "src": "img/allen-heart-formation-of-habit/card-05.png",
+        "title": "HABITUAL AND EASY"
+      },
+      {
+        "src": "img/allen-heart-formation-of-habit/card-06.png",
+        "title": "ACCOMPLISHED IN GOODNESS"
+      },
+      {
+        "src": "img/allen-heart-formation-of-habit/card-07.png",
+        "title": "THE THIEF AND THE HONEST MAN"
+      },
+      {
+        "src": "img/allen-heart-formation-of-habit/card-08.png",
+        "title": "USE BECOMES SECOND NATURE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-heart-doing-and-knowing",
+    "title": "DOING AND KNOWING",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-heart-doing-and-knowing/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-heart-doing-and-knowing/card-01.png",
+        "title": "POSSESSION OF THE KEY"
+      },
+      {
+        "src": "img/allen-heart-doing-and-knowing/card-02.png",
+        "title": "STEADY GROWTH FROM WITHIN"
+      },
+      {
+        "src": "img/allen-heart-doing-and-knowing/card-03.png",
+        "title": "THE PATIENT SCULPTOR"
+      },
+      {
+        "src": "img/allen-heart-doing-and-knowing/card-04.png",
+        "title": "GRADUAL AND ASCENDING STAGES"
+      },
+      {
+        "src": "img/allen-heart-doing-and-knowing/card-05.png",
+        "title": "A HIGHER LIVING"
+      },
+      {
+        "src": "img/allen-heart-doing-and-knowing/card-06.png",
+        "title": "PRACTICE PRECEDES KNOWLEDGE"
+      },
+      {
+        "src": "img/allen-heart-doing-and-knowing/card-07.png",
+        "title": "KNOWN BY DOING"
+      }
+    ]
+  },
+  {
+    "slug": "allen-heart-higher-life",
+    "title": "FIRST STEPS IN THE HIGHER LIFE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-heart-higher-life/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-heart-higher-life/card-01.png",
+        "title": "SUPPRESSING THE WRONG ACT"
+      },
+      {
+        "src": "img/allen-heart-higher-life/card-02.png",
+        "title": "THE OVERCOMING OF INDOLENCE"
+      },
+      {
+        "src": "img/allen-heart-higher-life/card-03.png",
+        "title": "THE OVERCOMING OF SELF-INDULGENCE"
+      },
+      {
+        "src": "img/allen-heart-higher-life/card-04.png",
+        "title": "CHANGE OF HEART IS THE NEEDFUL THING"
+      },
+      {
+        "src": "img/allen-heart-higher-life/card-05.png",
+        "title": "THE OVERCOMING OF SLANDER"
+      },
+      {
+        "src": "img/allen-heart-higher-life/card-06.png",
+        "title": "BRIDLE HIS TONGUE"
+      },
+      {
+        "src": "img/allen-heart-higher-life/card-07.png",
+        "title": "DUTY CEASES TO BE IRKSOME"
+      },
+      {
+        "src": "img/allen-heart-higher-life/card-08.png",
+        "title": "UNLIMITED FORGIVENESS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-heart-mental-conditions",
+    "title": "MENTAL CONDITIONS AND THEIR EFFECTS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-heart-mental-conditions/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-heart-mental-conditions/card-01.png",
+        "title": "ALL SIN IS IGNORANCE"
+      },
+      {
+        "src": "img/allen-heart-mental-conditions/card-02.png",
+        "title": "A SERIES OF LESSONS"
+      },
+      {
+        "src": "img/allen-heart-mental-conditions/card-03.png",
+        "title": "MENTAL HARMONY"
+      },
+      {
+        "src": "img/allen-heart-mental-conditions/card-04.png",
+        "title": "FREEDOM AND PEACE"
+      },
+      {
+        "src": "img/allen-heart-mental-conditions/card-05.png",
+        "title": "EVIL IS NOT A POWER"
+      },
+      {
+        "src": "img/allen-heart-mental-conditions/card-06.png",
+        "title": "STATES OF POSITIVE POWER"
+      },
+      {
+        "src": "img/allen-heart-mental-conditions/card-07.png",
+        "title": "GUARD AND PURIFY HIS HEART"
+      }
+    ]
+  },
+  {
+    "slug": "allen-heart-exhortation",
+    "title": "EXHORTATION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-heart-exhortation/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-heart-exhortation/card-01.png",
+        "title": "NO LAZY WAY TO TRUTH"
+      },
+      {
+        "src": "img/allen-heart-exhortation/card-02.png",
+        "title": "THE SILENT HOUR"
+      },
+      {
+        "src": "img/allen-heart-exhortation/card-03.png",
+        "title": "UNABATED DISCIPLINE"
+      },
+      {
+        "src": "img/allen-heart-exhortation/card-04.png",
+        "title": "NOT IRKSOME TO THE TRUTH-LOVER"
+      },
+      {
+        "src": "img/allen-heart-exhortation/card-05.png",
+        "title": "WATCHFUL, THOUGHTFUL, RESOLUTE"
+      },
+      {
+        "src": "img/allen-heart-exhortation/card-06.png",
+        "title": "FAIL A THOUSAND TIMES"
+      },
+      {
+        "src": "img/allen-heart-exhortation/card-07.png",
+        "title": "FIRST STRIFE, THEN VICTORY"
+      }
+    ]
   }
 ];
