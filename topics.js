@@ -1,0 +1,2 @@
+window.TOPIC_ORDER = ["bible", "faith", "family", "marriage", "parenting", "health", "psychology", "leadership", "entrepreneurship", "money", "work", "purpose", "prayer", "wisdom", "character"];
+window.TOPIC_LABELS = {"bible": "Bible", "faith": "Faith", "family": "Family", "marriage": "Marriage", "parenting": "Parenting", "health": "Health", "psychology": "Psychology", "leadership": "Leadership", "entrepreneurship": "Entrepreneurship", "money": "Money", "work": "Work", "purpose": "Purpose", "prayer": "Prayer", "wisdom": "Wisdom", "character": "Character"};

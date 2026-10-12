@@ -4,8 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
 <meta name="theme-color" content="#111111">
-<title>Infographic Feed</title>
+<title>MicroKnow by KnowHoly</title>
 <script src="manifest.js"></script>
+<script src="topics.js"></script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
   html, body { height: 100%; background: #000; }
@@ -50,15 +51,15 @@
   }
   .btn:active { transform: scale(.93); }
   .btn svg { width: 20px; height: 20px; }
-  .art { flex: 1; min-height: 0; display: flex; align-items: center; justify-content: center; padding: 84px 8px 112px; }
+  .art { flex: 1; min-height: 0; display: flex; align-items: center; justify-content: center; padding: 84px 8px 52px; }
   .art img { max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 6px; }
   .counter {
-    position: absolute; right: 14px; bottom: calc(60px + env(safe-area-inset-bottom));
+    position: absolute; right: 14px; bottom: calc(14px + env(safe-area-inset-bottom));
     font-size: 12px; color: rgba(255,255,255,.65); background: rgba(0,0,0,.5);
     padding: 5px 10px; border-radius: 20px; z-index: 5;
   }
   .filter-chip {
-    position: absolute; left: 14px; bottom: calc(60px + env(safe-area-inset-bottom)); z-index: 5;
+    position: absolute; left: 14px; bottom: calc(14px + env(safe-area-inset-bottom)); z-index: 5;
     display: none; align-items: center; gap: 8px; font-size: 12px; color: #fff;
     background: rgba(0,0,0,.55); padding: 6px 8px 6px 12px; border-radius: 20px;
     border: 1px solid rgba(255,255,255,.2);
@@ -66,7 +67,7 @@
   .filter-chip.show { display: inline-flex; }
   .filter-chip button { background: none; border: none; color: #ffd479; font-size: 14px; cursor: pointer; padding: 2px 6px; }
   .swipe-hint {
-    position: absolute; left: 0; right: 0; bottom: calc(112px + env(safe-area-inset-bottom));
+    position: absolute; left: 0; right: 0; bottom: calc(52px + env(safe-area-inset-bottom));
     text-align: center; font-size: 13px; letter-spacing: 3px; text-transform: uppercase;
     color: rgba(255,255,255,.75); z-index: 5; pointer-events: none;
     animation: hintfade 2.6s ease-in-out infinite;
@@ -90,29 +91,40 @@
   .pcard.all { display: flex; align-items: center; justify-content: center; min-height: 120px;
                font-size: 15px; font-weight: 700; color: #ffd479; }
   #toast {
-    position: absolute; left: 50%; bottom: calc(130px + env(safe-area-inset-bottom)); transform: translateX(-50%) translateY(20px);
+    position: absolute; left: 50%; bottom: calc(70px + env(safe-area-inset-bottom)); transform: translateX(-50%) translateY(20px);
     background: rgba(255,255,255,.94); color: #111; font-size: 14px; font-weight: 600;
     padding: 10px 18px; border-radius: 24px; opacity: 0; transition: all .25s ease; z-index: 30; pointer-events: none;
     white-space: nowrap;
   }
   #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
   #empty { display: none; height: 100%; align-items: center; justify-content: center; text-align: center; padding: 40px; color: #999; font-size: 15px; line-height: 1.6; }
-  #laneanav {
-    position: absolute; left: 0; right: 0; bottom: 0; z-index: 10;
-    display: flex; background: rgba(10,10,10,.94);
-    border-top: 1px solid #2a2a2a;
-    padding-bottom: env(safe-area-inset-bottom);
+  #scrim {
+    position: absolute; inset: 0; z-index: 24; background: rgba(0,0,0,.55);
+    opacity: 0; pointer-events: none; transition: opacity .25s ease;
   }
-  #laneanav button {
-    flex: 1; background: none; border: none; color: #8a8a8a; font: inherit;
-    font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;
-    padding: 15px 0 13px; cursor: pointer; position: relative;
+  #scrim.show { opacity: 1; pointer-events: auto; }
+  #drawer {
+    position: absolute; top: 0; left: 0; bottom: 0; width: min(78%, 300px); z-index: 25;
+    background: #141414; border-right: 1px solid #2a2a2a;
+    transform: translateX(-102%); transition: transform .28s ease;
+    display: flex; flex-direction: column;
+    padding: calc(12px + env(safe-area-inset-top)) 0 calc(12px + env(safe-area-inset-bottom));
   }
-  #laneanav button.active { color: #ffd479; }
-  #laneanav button.active::after {
-    content: ""; position: absolute; left: 50%; bottom: 6px; transform: translateX(-50%);
-    width: 4px; height: 4px; border-radius: 50%; background: #ffd479;
+  #drawer.open { transform: translateX(0); }
+  .drawer-head { display: flex; align-items: center; justify-content: space-between; padding: 0 14px 10px; }
+  .drawer-head h2 { font-size: 18px; font-weight: 800; }
+  .drawer-brand { font-size: 11px; letter-spacing: 2.5px; text-transform: uppercase; color: #8a8a8a; padding: 0 14px 8px; }
+  #topicList { overflow-y: auto; padding: 0 8px; }
+  .topic-item {
+    display: flex; align-items: center; justify-content: space-between; width: 100%;
+    background: none; border: none; color: #f2f2f2; font: inherit; text-align: left;
+    padding: 13px 12px; border-radius: 10px; cursor: pointer; font-size: 15px; font-weight: 600;
   }
+  .topic-item:active { background: #222; }
+  .topic-item.active { color: #ffd479; background: #1e1a12; }
+  .topic-count { font-size: 12px; color: #8a8a8a; font-weight: 400; }
+  .topic-item.active .topic-count { color: #ffd479; }
+  .topgroup { display: flex; align-items: flex-start; gap: 10px; pointer-events: auto; min-width: 0; }
   .picker-section { grid-column: 1 / -1; font-size: 12px; font-weight: 700; letter-spacing: 2px;
     text-transform: uppercase; color: #ffd479; margin: 8px 2px 0; }
 </style>
@@ -136,11 +148,17 @@
     <div class="picker-grid" id="pickerGrid"></div>
   </div>
 
-  <nav id="laneanav" aria-label="Sections">
-    <button data-lane="all" class="active">All</button>
-    <button data-lane="bible">Bible</button>
-    <button data-lane="servants">Servants</button>
-  </nav>
+  <div id="scrim"></div>
+  <aside id="drawer" aria-label="Topics">
+    <div class="drawer-head">
+      <h2>Topics</h2>
+      <button class="btn" id="closeDrawer" aria-label="Close">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <div class="drawer-brand">MicroKnow by KnowHoly</div>
+    <div id="topicList"></div>
+  </aside>
 
   <div id="toast"></div>
 </div>
@@ -158,9 +176,15 @@
 
   var SETS = Array.isArray(window.MANIFEST) ? window.MANIFEST : [];
   var filter = null;
-  var lane = "all";
+  var topic = "all";
   var toastTimer = null;
-  var navEl = document.getElementById("laneanav");
+  var drawer = document.getElementById("drawer");
+  var scrim = document.getElementById("scrim");
+  var topicList = document.getElementById("topicList");
+  var TOPICS = Array.isArray(window.TOPIC_ORDER) ? window.TOPIC_ORDER : ["bible", "servants"];
+  var TOPIC_LABELS = window.TOPIC_LABELS || {};
+  function topicLabel(t) { return TOPIC_LABELS[t] || t; }
+  function topicOfSet(s) { return s.topic || "bible"; }
 
   function showToast(msg) {
     toast.textContent = msg;
@@ -179,9 +203,14 @@
       '<path d="M12 15V4"/><path d="M7 8l5-5 5 5"/><path d="M5 12v7a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 19 19v-7"/></svg>';
   }
 
+  function iconMenu() {
+    return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">' +
+      '<path d="M4 7h16M4 12h16M4 17h16"/></svg>';
+  }
+
   function activeSets() {
     var sets = SETS;
-    if (lane !== "all") sets = sets.filter(function (s) { return (s.lane || "servants") === lane; });
+    if (topic !== "all") sets = sets.filter(function (s) { return topicOfSet(s) === topic; });
     if (!filter) return sets;
     return sets.filter(function (s) { return s.slug === filter; });
   }
@@ -249,8 +278,9 @@
       var bar = document.createElement("div");
       bar.className = "topbar";
       bar.innerHTML =
+        '<div class="topgroup"><button class="btn" data-act="menu" aria-label="Topics">' + iconMenu() + "</button>" +
         '<div class="meta"><div class="subject-tag">' + escapeHtml(set.title) + "</div>" +
-        '<div class="speaker">' + escapeHtml(set.credit || "") + "</div></div>" +
+        '<div class="speaker">' + escapeHtml(set.credit || "") + "</div></div></div>" +
         '<div class="actions">' +
         '<button class="btn" data-act="subjects" aria-label="Subjects">' + iconGrid() + "</button>" +
         '<button class="btn" data-act="share" aria-label="Share this card">' + iconShare() + "</button>" +
@@ -282,7 +312,9 @@
       bar.addEventListener("click", function (ev) {
         var b = ev.target.closest("button");
         if (!b) return;
-        if (b.getAttribute("data-act") === "subjects") openPicker();
+        var act = b.getAttribute("data-act");
+        if (act === "subjects") openPicker();
+        else if (act === "menu") openDrawer();
         else shareImage(sc.src, sc.label);
       });
 
@@ -304,17 +336,45 @@
     all.textContent = "All subjects";
     all.addEventListener("click", function () { setFilter(null); });
     pickerGrid.appendChild(all);
-    var groups = [["bible", "Bible"], ["servants", "Servants"]];
-    groups.forEach(function (g) {
-      var laneSets = SETS.filter(function (s) { return (s.lane || "servants") === g[0]; });
-      if (!laneSets.length) return;
+    TOPICS.forEach(function (t) {
+      var tSets = SETS.filter(function (s) { return topicOfSet(s) === t; });
+      if (!tSets.length) return;
       var h = document.createElement("div");
       h.className = "picker-section";
-      h.textContent = g[1];
+      h.textContent = topicLabel(t);
       pickerGrid.appendChild(h);
-      laneSets.forEach(function (set) { pickerGrid.appendChild(pickerCard(set)); });
+      tSets.forEach(function (set) { pickerGrid.appendChild(pickerCard(set)); });
     });
   }
+
+  function renderDrawer() {
+    topicList.innerHTML = "";
+    var allBtn = document.createElement("button");
+    allBtn.className = "topic-item" + (topic === "all" ? " active" : "");
+    allBtn.innerHTML = "<span>All topics</span>" + '<span class="topic-count">' + SETS.length + "</span>";
+    allBtn.addEventListener("click", function () { setTopic("all"); });
+    topicList.appendChild(allBtn);
+    TOPICS.forEach(function (t) {
+      var sets = SETS.filter(function (s) { return topicOfSet(s) === t; });
+      if (!sets.length) return;
+      var b = document.createElement("button");
+      b.className = "topic-item" + (topic === t ? " active" : "");
+      b.innerHTML = "<span>" + escapeHtml(topicLabel(t)) + "</span>" +
+        '<span class="topic-count">' + sets.length + "</span>";
+      b.addEventListener("click", function () { setTopic(t); });
+      topicList.appendChild(b);
+    });
+  }
+
+  function setTopic(t) {
+    topic = t;
+    filter = null; filterChip.classList.remove("show");
+    closeDrawer();
+    renderFeed();
+  }
+
+  function openDrawer() { renderDrawer(); drawer.classList.add("open"); scrim.classList.add("show"); }
+  function closeDrawer() { drawer.classList.remove("open"); scrim.classList.remove("show"); }
 
   function pickerCard(set) {
     var card = document.createElement("button");
@@ -332,6 +392,7 @@
     if (set) { filterName.textContent = set.title; filterChip.classList.add("show"); }
     else { filterChip.classList.remove("show"); }
     closePicker();
+    closeDrawer();
     renderFeed();
   }
 
@@ -339,18 +400,10 @@
   function closePicker() { picker.classList.remove("open"); }
 
   document.getElementById("closePicker").addEventListener("click", closePicker);
+  document.getElementById("closeDrawer").addEventListener("click", closeDrawer);
+  scrim.addEventListener("click", closeDrawer);
   document.getElementById("clearFilter").addEventListener("click", function () { setFilter(null); });
   picker.addEventListener("click", function (ev) { if (ev.target === picker) closePicker(); });
-  navEl.addEventListener("click", function (ev) {
-    var b = ev.target.closest("button");
-    if (!b) return;
-    lane = b.getAttribute("data-lane") || "all";
-    var btns = navEl.querySelectorAll("button");
-    for (var i = 0; i < btns.length; i++) btns[i].classList.toggle("active", btns[i] === b);
-    filter = null; filterChip.classList.remove("show");
-    closePicker();
-    renderFeed();
-  });
 
   renderFeed();
 })();
