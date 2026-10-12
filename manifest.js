@@ -15758,5 +15758,345 @@ window.MANIFEST = [
         "title": "MARTIN LUTHER WHEN ONCE ASKED WHAT"
       }
     ]
+  },
+  {
+    "slug": "bounds-more-praying-and-better",
+    "title": "MORE PRAYING AND BETTER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-more-praying-and-better/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-more-praying-and-better/card-01.png",
+        "title": "MORE PRAYING AND BETTER"
+      },
+      {
+        "src": "img/bounds-more-praying-and-better/card-02.png",
+        "title": "ONE OF THE PRINCIPAL RESULTS"
+      },
+      {
+        "src": "img/bounds-more-praying-and-better/card-03.png",
+        "title": "FAITH IS ONLY OMNIPOTENT WHEN"
+      },
+      {
+        "src": "img/bounds-more-praying-and-better/card-04.png",
+        "title": "HE WAS ANSWERED NO AND TOLD"
+      },
+      {
+        "src": "img/bounds-more-praying-and-better/card-05.png",
+        "title": "AND THEN IN THE TWINKLING"
+      },
+      {
+        "src": "img/bounds-more-praying-and-better/card-06.png",
+        "title": "SUCH AN ATTITUDE REPRESENTS PRAYER WITHOUT"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-perseverance-in-prayer",
+    "title": "PERSEVERANCE IN PRAYER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-perseverance-in-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-perseverance-in-prayer/card-01.png",
+        "title": "THESE QUESTIONS MUST BE CONSIDERED"
+      },
+      {
+        "src": "img/bounds-perseverance-in-prayer/card-02.png",
+        "title": "A HOLY LIFE DOES NOT LIVE"
+      },
+      {
+        "src": "img/bounds-perseverance-in-prayer/card-03.png",
+        "title": "THE CLOSET IS NOT AN ASYLUM"
+      },
+      {
+        "src": "img/bounds-perseverance-in-prayer/card-04.png",
+        "title": "SHE IS ARRESTED IN HER APPROACHES"
+      },
+      {
+        "src": "img/bounds-perseverance-in-prayer/card-05.png",
+        "title": "WE PRAY WITH ALL PERSEVERANCE"
+      },
+      {
+        "src": "img/bounds-perseverance-in-prayer/card-06.png",
+        "title": "TOO OFTEN WE GET FAINT HEARTED"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-always-pray-not-faint",
+    "title": "ALWAYS TO PRAY, NOT TO FAINT",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-always-pray-not-faint/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-always-pray-not-faint/card-01.png",
+        "title": "MEN OUGHT ALWAYS TO PRAY"
+      },
+      {
+        "src": "img/bounds-always-pray-not-faint/card-02.png",
+        "title": "THERE IS A CONSTANT TENDENCY"
+      },
+      {
+        "src": "img/bounds-always-pray-not-faint/card-03.png",
+        "title": "PRAYING WOMEN AND CHILDREN ARE INVALUABLE"
+      },
+      {
+        "src": "img/bounds-always-pray-not-faint/card-04.png",
+        "title": "PRAYING MEN ARE THE MEN"
+      },
+      {
+        "src": "img/bounds-always-pray-not-faint/card-05.png",
+        "title": "THE MAN AND HIS SPIRITUAL CHARACTER"
+      },
+      {
+        "src": "img/bounds-always-pray-not-faint/card-06.png",
+        "title": "SURELY BRETHREN IF WE HAVE GIVEN"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-no-lazy-saint-prays",
+    "title": "NO LAZY SAINT PRAYS",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-no-lazy-saint-prays/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-no-lazy-saint-prays/card-01.png",
+        "title": "IT MAY BE SAID WITH EMPHASIS"
+      },
+      {
+        "src": "img/bounds-no-lazy-saint-prays/card-02.png",
+        "title": "PETER KNEELED DOWN AND PRAYED BESIDE"
+      },
+      {
+        "src": "img/bounds-no-lazy-saint-prays/card-03.png",
+        "title": "CHRIST MEANT THIS WHEN HE CHARGED"
+      },
+      {
+        "src": "img/bounds-no-lazy-saint-prays/card-04.png",
+        "title": "WE MUST LIVE FOR GOD OUT"
+      },
+      {
+        "src": "img/bounds-no-lazy-saint-prays/card-05.png",
+        "title": "THE TWO GREAT EVILS NOT ASKING"
+      },
+      {
+        "src": "img/bounds-no-lazy-saint-prays/card-06.png",
+        "title": "IN CONTRAST WITH THIS WHAT"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-prayer-can-do-anything",
+    "title": "PRAYER CAN DO ANYTHING GOD CAN DO",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-prayer-can-do-anything/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-prayer-can-do-anything/card-01.png",
+        "title": "THE PRECEDING CHAPTER CLOSED"
+      },
+      {
+        "src": "img/bounds-prayer-can-do-anything/card-02.png",
+        "title": "IT IS SIX O'CLOCK"
+      },
+      {
+        "src": "img/bounds-prayer-can-do-anything/card-03.png",
+        "title": "HE WENT BACK TO HIS CONSTITUENCY"
+      },
+      {
+        "src": "img/bounds-prayer-can-do-anything/card-04.png",
+        "title": "THAT REVIVALS ARE TO BE EXPECTED"
+      },
+      {
+        "src": "img/bounds-prayer-can-do-anything/card-05.png",
+        "title": "OUT OF THAT MEETING ONE CONVERT"
+      },
+      {
+        "src": "img/bounds-prayer-can-do-anything/card-06.png",
+        "title": "WITHOUT PRAYER THE CHRISTIAN LIFE ROBBED"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-saints-of-the-old-testament",
+    "title": "PRAYING SAINTS OF THE OLD TESTAMENT",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bounds-saints-of-the-old-testament/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-saints-of-the-old-testament/card-01.png",
+        "title": "TO BEGIN WITH NOTE THE INCIDENT"
+      },
+      {
+        "src": "img/bounds-saints-of-the-old-testament/card-02.png",
+        "title": "HER DESIRES WERE TOO INTENSE"
+      },
+      {
+        "src": "img/bounds-saints-of-the-old-testament/card-03.png",
+        "title": "READ THE RECORD AS FOUND"
+      },
+      {
+        "src": "img/bounds-saints-of-the-old-testament/card-04.png",
+        "title": "IT WAS JONAH WHO"
+      },
+      {
+        "src": "img/bounds-saints-of-the-old-testament/card-05.png",
+        "title": "EVEN THOUGH HE DID NOT RECEIVE"
+      },
+      {
+        "src": "img/bounds-saints-of-the-old-testament/card-06.png",
+        "title": "THESE ARE SUFFICIENT"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-abraham-and-moses",
+    "title": "ABRAHAM AND MOSES",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bounds-abraham-and-moses/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-abraham-and-moses/card-01.png",
+        "title": "ABRAHAM THE FRIEND OF GOD"
+      },
+      {
+        "src": "img/bounds-abraham-and-moses/card-02.png",
+        "title": "THIS WAS A CASE SOMEWHAT"
+      },
+      {
+        "src": "img/bounds-abraham-and-moses/card-03.png",
+        "title": "MOSES HIMSELF AND HIS MISSION WERE"
+      },
+      {
+        "src": "img/bounds-abraham-and-moses/card-04.png",
+        "title": "MOSES ACCEPTS AT ITS FULL FACE"
+      },
+      {
+        "src": "img/bounds-abraham-and-moses/card-05.png",
+        "title": "THE MURMURINGS OF THE CHILDREN"
+      },
+      {
+        "src": "img/bounds-abraham-and-moses/card-06.png",
+        "title": "WISE WILL WE"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-elijah-and-hezekiah",
+    "title": "ELIJAH AND HEZEKIAH",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bounds-elijah-and-hezekiah/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-elijah-and-hezekiah/card-01.png",
+        "title": "ELIJAH IS PRE MINENTLY THE ELDER"
+      },
+      {
+        "src": "img/bounds-elijah-and-hezekiah/card-02.png",
+        "title": "ELIJAH'S PRESENCE AND PRAYING KEEP"
+      },
+      {
+        "src": "img/bounds-elijah-and-hezekiah/card-03.png",
+        "title": "ELIJAH'S IMPORTUNATE FIERY PRAYING AND GOD'S"
+      },
+      {
+        "src": "img/bounds-elijah-and-hezekiah/card-04.png",
+        "title": "HE WAS A STATESMAN A GENERAL"
+      },
+      {
+        "src": "img/bounds-elijah-and-hezekiah/card-05.png",
+        "title": "FATHER I HAVE GLORIFIED THEE"
+      },
+      {
+        "src": "img/bounds-elijah-and-hezekiah/card-06.png",
+        "title": "ISAIAH LAMENTS THAT THERE"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-ezra-and-nehemiah",
+    "title": "EZRA AND NEHEMIAH",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bounds-ezra-and-nehemiah/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-ezra-and-nehemiah/card-01.png",
+        "title": "EZRA THE PRIEST AND ONE"
+      },
+      {
+        "src": "img/bounds-ezra-and-nehemiah/card-02.png",
+        "title": "NOR DID HE MINIMIZE THE CONDITION"
+      },
+      {
+        "src": "img/bounds-ezra-and-nehemiah/card-03.png",
+        "title": "AGAIN WE MUST SAY THAT PRAYER"
+      },
+      {
+        "src": "img/bounds-ezra-and-nehemiah/card-04.png",
+        "title": "THERE IS SO MUCH"
+      },
+      {
+        "src": "img/bounds-ezra-and-nehemiah/card-05.png",
+        "title": "GOD CAN EVEN AFFECT THE MIND"
+      },
+      {
+        "src": "img/bounds-ezra-and-nehemiah/card-06.png",
+        "title": "PRAYER HELPS TO BUILD CHURCHES"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-samuel-and-daniel",
+    "title": "SAMUEL AND DANIEL",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bounds-samuel-and-daniel/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-samuel-and-daniel/card-01.png",
+        "title": "SAMUEL CAME INTO THIS WORLD"
+      },
+      {
+        "src": "img/bounds-samuel-and-daniel/card-02.png",
+        "title": "HE JUDGED ISRAEL ALL THE DAYS"
+      },
+      {
+        "src": "img/bounds-samuel-and-daniel/card-03.png",
+        "title": "PRAYING MEN ARE DEMANDED TO CARRY"
+      },
+      {
+        "src": "img/bounds-samuel-and-daniel/card-04.png",
+        "title": "GOD SENT AN ANGEL INTO"
+      },
+      {
+        "src": "img/bounds-samuel-and-daniel/card-05.png",
+        "title": "IN ANSWER TO THIS UNITED PRAYING"
+      },
+      {
+        "src": "img/bounds-samuel-and-daniel/card-06.png",
+        "title": "WELL WAS IT FOR PRAYING DANIEL"
+      }
+    ]
   }
 ];
