@@ -13348,5 +13348,345 @@ window.MANIFEST = [
         "title": "ALL REASON AND NATURAL INVESTIGATION OUGHT"
       }
     ]
+  },
+  {
+    "slug": "guyon-prayer-for-all",
+    "title": "PRAYER FOR ALL",
+    "credit": "Madame Guyon",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/guyon-prayer-for-all/overview.png",
+    "cards": [
+      {
+        "src": "img/guyon-prayer-for-all/card-01.png",
+        "title": "COME AND BE FILLED"
+      },
+      {
+        "src": "img/guyon-prayer-for-all/card-02.png",
+        "title": "COME TO YOUR FATHER"
+      },
+      {
+        "src": "img/guyon-prayer-for-all/card-03.png",
+        "title": "GIVE YOUR HEART TO GOD"
+      },
+      {
+        "src": "img/guyon-prayer-for-all/card-04.png",
+        "title": "THE PRAYER OF THE HEART"
+      },
+      {
+        "src": "img/guyon-prayer-for-all/card-05.png",
+        "title": "NOTHING IS EASIER THAN TO HAVE GOD"
+      },
+      {
+        "src": "img/guyon-prayer-for-all/card-06.png",
+        "title": "LIVE IN PRAYER AS BY AIR"
+      }
+    ]
+  },
+  {
+    "slug": "guyon-first-degree-of-prayer",
+    "title": "THE FIRST DEGREE OF PRAYER",
+    "credit": "Madame Guyon",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/guyon-first-degree-of-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/guyon-first-degree-of-prayer/card-01.png",
+        "title": "MEDITATION AND MEDITATIVE READING"
+      },
+      {
+        "src": "img/guyon-first-degree-of-prayer/card-02.png",
+        "title": "ENTER BY AN ACT OF FAITH"
+      },
+      {
+        "src": "img/guyon-first-degree-of-prayer/card-03.png",
+        "title": "SWALLOW AND BE NOURISHED"
+      },
+      {
+        "src": "img/guyon-first-degree-of-prayer/card-04.png",
+        "title": "DIFFICULT AT FIRST THEN EASY"
+      },
+      {
+        "src": "img/guyon-first-degree-of-prayer/card-05.png",
+        "title": "REMAIN IN PEACE AND SILENCE"
+      },
+      {
+        "src": "img/guyon-first-degree-of-prayer/card-06.png",
+        "title": "COME TO HIM AS TO A PHYSICIAN"
+      }
+    ]
+  },
+  {
+    "slug": "guyon-prayer-of-simplicity",
+    "title": "THE PRAYER OF SIMPLICITY",
+    "credit": "Madame Guyon",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/guyon-prayer-of-simplicity/overview.png",
+    "cards": [
+      {
+        "src": "img/guyon-prayer-of-simplicity/card-01.png",
+        "title": "THE PRAYER OF SIMPLICITY"
+      },
+      {
+        "src": "img/guyon-prayer-of-simplicity/card-02.png",
+        "title": "REMAIN IN RESPECTFUL SILENCE"
+      },
+      {
+        "src": "img/guyon-prayer-of-simplicity/card-03.png",
+        "title": "GO TO GOD TO PLEASE HIM"
+      },
+      {
+        "src": "img/guyon-prayer-of-simplicity/card-04.png",
+        "title": "GOD HIDES HIMSELF TO AROUSE THE SOUL"
+      },
+      {
+        "src": "img/guyon-prayer-of-simplicity/card-05.png",
+        "title": "DO NOT TAKE YOURSELF BACK"
+      },
+      {
+        "src": "img/guyon-prayer-of-simplicity/card-06.png",
+        "title": "FEELING THE WEIGHT OF THE CROSS"
+      }
+    ]
+  },
+  {
+    "slug": "guyon-perfect-conversion",
+    "title": "PERFECT CONVERSION",
+    "credit": "Madame Guyon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/guyon-perfect-conversion/overview.png",
+    "cards": [
+      {
+        "src": "img/guyon-perfect-conversion/card-01.png",
+        "title": "MYSTERIES GIVEN IN REALITY"
+      },
+      {
+        "src": "img/guyon-perfect-conversion/card-02.png",
+        "title": "LOVING ATTENTION INCLUDES ALL DEVOTION"
+      },
+      {
+        "src": "img/guyon-perfect-conversion/card-03.png",
+        "title": "TURNING FROM WITHOUT TO WITHIN"
+      },
+      {
+        "src": "img/guyon-perfect-conversion/card-04.png",
+        "title": "GOD DRAWS AND PURIFIES"
+      },
+      {
+        "src": "img/guyon-perfect-conversion/card-05.png",
+        "title": "THE SOUL TENDS TO ITS CENTRE"
+      },
+      {
+        "src": "img/guyon-perfect-conversion/card-06.png",
+        "title": "PROMOTE INWARD RECOLLECTION"
+      }
+    ]
+  },
+  {
+    "slug": "guyon-presence-and-rest",
+    "title": "REST IN THE PRESENCE OF GOD",
+    "credit": "Madame Guyon",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/guyon-presence-and-rest/overview.png",
+    "cards": [
+      {
+        "src": "img/guyon-presence-and-rest/card-01.png",
+        "title": "HIS PRESENCE BECOMES HABITUAL"
+      },
+      {
+        "src": "img/guyon-presence-and-rest/card-02.png",
+        "title": "NOT A STATE OF IDLENESS"
+      },
+      {
+        "src": "img/guyon-presence-and-rest/card-03.png",
+        "title": "LED WITHOUT EFFORT"
+      },
+      {
+        "src": "img/guyon-presence-and-rest/card-04.png",
+        "title": "THE GRANDEST PART IS MOST SIMPLE"
+      },
+      {
+        "src": "img/guyon-presence-and-rest/card-05.png",
+        "title": "REMAIN IN SIMPLE REST"
+      },
+      {
+        "src": "img/guyon-presence-and-rest/card-06.png",
+        "title": "HEARING THE WORD WITHIN"
+      }
+    ]
+  },
+  {
+    "slug": "guyon-reading-and-vocal-prayer",
+    "title": "READING AND VOCAL PRAYER",
+    "credit": "Madame Guyon",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/guyon-reading-and-vocal-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/guyon-reading-and-vocal-prayer/card-01.png",
+        "title": "EXPOSE YOURSELF TO GOD"
+      },
+      {
+        "src": "img/guyon-reading-and-vocal-prayer/card-02.png",
+        "title": "GOD HIMSELF CONDUCTS THE EXAMINATION"
+      },
+      {
+        "src": "img/guyon-reading-and-vocal-prayer/card-03.png",
+        "title": "DO NOT LOSE TRUE CONTRITION"
+      },
+      {
+        "src": "img/guyon-reading-and-vocal-prayer/card-04.png",
+        "title": "SAY BUT LITTLE"
+      },
+      {
+        "src": "img/guyon-reading-and-vocal-prayer/card-05.png",
+        "title": "TURN AGAIN WITHIN YOURSELF"
+      },
+      {
+        "src": "img/guyon-reading-and-vocal-prayer/card-06.png",
+        "title": "FORTIFIED IN THE PRESENCE OF GOD"
+      }
+    ]
+  },
+  {
+    "slug": "guyon-preparation-for-union",
+    "title": "PREPARATION FOR DIVINE UNION",
+    "credit": "Madame Guyon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/guyon-preparation-for-union/overview.png",
+    "cards": [
+      {
+        "src": "img/guyon-preparation-for-union/card-01.png",
+        "title": "ALL THAT IS OF MAN MUST DIE"
+      },
+      {
+        "src": "img/guyon-preparation-for-union/card-02.png",
+        "title": "GOLD PURIFIED BY FIRE"
+      },
+      {
+        "src": "img/guyon-preparation-for-union/card-03.png",
+        "title": "WISDOM AND JUSTICE MUST TAKE ALL"
+      },
+      {
+        "src": "img/guyon-preparation-for-union/card-04.png",
+        "title": "CONFORMED TO HIMSELF"
+      },
+      {
+        "src": "img/guyon-preparation-for-union/card-05.png",
+        "title": "THE ENJOYMENT OF GOD HIMSELF"
+      },
+      {
+        "src": "img/guyon-preparation-for-union/card-06.png",
+        "title": "CONSTANTLY GOING FARTHER"
+      }
+    ]
+  },
+  {
+    "slug": "lawrence-establishing-his-presence",
+    "title": "ESTABLISHING OURSELVES IN HIS PRESENCE",
+    "credit": "Brother Lawrence",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/lawrence-establishing-his-presence/overview.png",
+    "cards": [
+      {
+        "src": "img/lawrence-establishing-his-presence/card-01.png",
+        "title": "A TREE STRIPPED OF ITS LEAVES"
+      },
+      {
+        "src": "img/lawrence-establishing-his-presence/card-02.png",
+        "title": "GOVERNED BY LOVE"
+      },
+      {
+        "src": "img/lawrence-establishing-his-presence/card-03.png",
+        "title": "A HABIT OF CONVERSING WITH GOD"
+      },
+      {
+        "src": "img/lawrence-establishing-his-presence/card-04.png",
+        "title": "EVERYTHING EASY IN THE KITCHEN"
+      },
+      {
+        "src": "img/lawrence-establishing-his-presence/card-05.png",
+        "title": "DIRECTING ALL HIS ACTIONS TO HIM"
+      },
+      {
+        "src": "img/lawrence-establishing-his-presence/card-06.png",
+        "title": "NO SCRUPLES"
+      }
+    ]
+  },
+  {
+    "slug": "lawrence-continual-conversation",
+    "title": "CONTINUAL CONVERSATION WITH GOD",
+    "credit": "Brother Lawrence",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/lawrence-continual-conversation/overview.png",
+    "cards": [
+      {
+        "src": "img/lawrence-continual-conversation/card-01.png",
+        "title": "A HIGH NOTION OF GOD IN FAITH"
+      },
+      {
+        "src": "img/lawrence-continual-conversation/card-02.png",
+        "title": "PERFECT RESIGNATION TO GOD"
+      },
+      {
+        "src": "img/lawrence-continual-conversation/card-03.png",
+        "title": "PRAY WITH A PERFECT CONFIDENCE"
+      },
+      {
+        "src": "img/lawrence-continual-conversation/card-04.png",
+        "title": "HIS PRAYER WAS A SENSE OF HIS PRESENCE"
+      },
+      {
+        "src": "img/lawrence-continual-conversation/card-05.png",
+        "title": "GOD AS THE END OF ALL HIS THOUGHTS"
+      },
+      {
+        "src": "img/lawrence-continual-conversation/card-06.png",
+        "title": "LITTLE THINGS FOR THE LOVE OF GOD"
+      }
+    ]
+  },
+  {
+    "slug": "lawrence-the-method",
+    "title": "THE METHOD OF GOING TO GOD",
+    "credit": "Brother Lawrence",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/lawrence-the-method/overview.png",
+    "cards": [
+      {
+        "src": "img/lawrence-the-method/card-01.png",
+        "title": "SHOW MY LETTER TO NOBODY"
+      },
+      {
+        "src": "img/lawrence-the-method/card-02.png",
+        "title": "GREAT ADVANTAGES BY IT"
+      },
+      {
+        "src": "img/lawrence-the-method/card-03.png",
+        "title": "THE THOUGHTS OF DEATH AND JUDGEMENT"
+      },
+      {
+        "src": "img/lawrence-the-method/card-04.png",
+        "title": "A PROFOUND INWARD PEACE"
+      },
+      {
+        "src": "img/lawrence-the-method/card-05.png",
+        "title": "THIS KING FULL OF MERCY"
+      },
+      {
+        "src": "img/lawrence-the-method/card-06.png",
+        "title": "NOT DELUSION"
+      }
+    ]
   }
 ];
