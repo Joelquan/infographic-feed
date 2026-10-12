@@ -10326,5 +10326,1463 @@ window.MANIFEST = [
         "title": "THE FULLNESS OF PEACE"
       }
     ]
+  },
+  {
+    "slug": "watson-good-we-know",
+    "title": "WE KNOW",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-good-we-know/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-good-we-know/card-01.png",
+        "title": "IF THE WHOLE SCRIPTURE BE THE"
+      },
+      {
+        "src": "img/watson-good-we-know/card-02.png",
+        "title": "IT IS NOT A MATTER WAVERING"
+      },
+      {
+        "src": "img/watson-good-we-know/card-03.png",
+        "title": "AS AXIOMS AND APHORISMS ARE EVIDENT"
+      },
+      {
+        "src": "img/watson-good-we-know/card-04.png",
+        "title": "THE SPIRIT OF GOD IMPRINTS HEAVENLY"
+      },
+      {
+        "src": "img/watson-good-we-know/card-05.png",
+        "title": "WE KNOW THAT IF OUR EARTHLY"
+      },
+      {
+        "src": "img/watson-good-we-know/card-06.png",
+        "title": "WE HAVE BOTH THE SPIRIT OF"
+      }
+    ]
+  },
+  {
+    "slug": "watson-good-best-things",
+    "title": "THE BEST THINGS WORK FOR GOOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-good-best-things/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-good-best-things/card-01.png",
+        "title": "WE SHALL CONSIDER FIRST WHAT THINGS"
+      },
+      {
+        "src": "img/watson-good-best-things/card-02.png",
+        "title": "THE BLESSED ATTRIBUTES OF GOD WORK"
+      },
+      {
+        "src": "img/watson-good-best-things/card-03.png",
+        "title": "OH SAYS THE SOUL I SHALL"
+      },
+      {
+        "src": "img/watson-good-best-things/card-04.png",
+        "title": "THOUGH THE LORD MIGHT TRY GODLY"
+      },
+      {
+        "src": "img/watson-good-best-things/card-05.png",
+        "title": "THE PROMISES ARE AS CORK TO"
+      },
+      {
+        "src": "img/watson-good-best-things/card-06.png",
+        "title": "THE MERCIES OF GOD HAVE A"
+      }
+    ]
+  },
+  {
+    "slug": "watson-good-worst-things",
+    "title": "THE WORST THINGS WORK FOR GOOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-good-worst-things/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-good-worst-things/card-01.png",
+        "title": "DO NOT MISTAKE ME I DO"
+      },
+      {
+        "src": "img/watson-good-worst-things/card-02.png",
+        "title": "IN THE WORD PREACHED WE HEAR"
+      },
+      {
+        "src": "img/watson-good-worst-things/card-03.png",
+        "title": "THE HEART CLEAVES PARTLY TO GOD"
+      },
+      {
+        "src": "img/watson-good-worst-things/card-04.png",
+        "title": "IT IS GOOD TO BE LIKE"
+      },
+      {
+        "src": "img/watson-good-worst-things/card-05.png",
+        "title": "WHEN YOU DIG AWAY THE EARTH"
+      },
+      {
+        "src": "img/watson-good-worst-things/card-06.png",
+        "title": "AFFLICTIONS MAGNIFY THE SAINTS"
+      }
+    ]
+  },
+  {
+    "slug": "watson-good-affliction-and-sin",
+    "title": "AFFLICTION AND SIN WORK FOR GOOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-good-affliction-and-sin/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-good-affliction-and-sin/card-01.png",
+        "title": "HE IS MORE SHY AND FEARFUL"
+      },
+      {
+        "src": "img/watson-good-affliction-and-sin/card-02.png",
+        "title": "DESERTION IS VERY SAD FOR AS"
+      },
+      {
+        "src": "img/watson-good-affliction-and-sin/card-03.png",
+        "title": "WHEN THE SOUL HAS BEEN LONG"
+      },
+      {
+        "src": "img/watson-good-affliction-and-sin/card-04.png",
+        "title": "A STONE IN THE PIPE HINDERS"
+      },
+      {
+        "src": "img/watson-good-affliction-and-sin/card-05.png",
+        "title": "THE GODLY ARE WEEPING DOVES THEY"
+      },
+      {
+        "src": "img/watson-good-affliction-and-sin/card-06.png",
+        "title": "THE WICKED HAVE NOTHING TO ENCOURAGE"
+      }
+    ]
+  },
+  {
+    "slug": "watson-good-why-all-things",
+    "title": "WHY ALL THINGS WORK FOR GOOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/watson-good-why-all-things/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-good-why-all-things/card-01.png",
+        "title": "IF GOD DOES NOT GIVE YOU"
+      },
+      {
+        "src": "img/watson-good-why-all-things/card-02.png",
+        "title": "SO IF PROSPERITY SHINE ON MEN"
+      },
+      {
+        "src": "img/watson-good-why-all-things/card-03.png",
+        "title": "IF THE BODY BE A MICROCOSM"
+      },
+      {
+        "src": "img/watson-good-why-all-things/card-04.png",
+        "title": "WE READ IN THE FIRST OF"
+      },
+      {
+        "src": "img/watson-good-why-all-things/card-05.png",
+        "title": "IF ONE FRIEND SHOULD THROW A"
+      },
+      {
+        "src": "img/watson-good-why-all-things/card-06.png",
+        "title": "IF GOD'S ROD HAS HONEY AT"
+      }
+    ]
+  },
+  {
+    "slug": "watson-love-to-god",
+    "title": "OF LOVE TO GOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-love-to-god/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-love-to-god/card-01.png",
+        "title": "I PROCEED TO THE SECOND GENERAL"
+      },
+      {
+        "src": "img/watson-love-to-god/card-02.png",
+        "title": "BECAUSE LOVE IS THE VERY HEART"
+      },
+      {
+        "src": "img/watson-love-to-god/card-03.png",
+        "title": "HERE IS THE GROUND OF LOVE"
+      },
+      {
+        "src": "img/watson-love-to-god/card-04.png",
+        "title": "IN THE OLD LAW A HIGH"
+      },
+      {
+        "src": "img/watson-love-to-god/card-05.png",
+        "title": "OUR LOVE TO GOD IS SINCERE"
+      },
+      {
+        "src": "img/watson-love-to-god/card-06.png",
+        "title": "HE THAT LOVES CHRIST WILL BE"
+      }
+    ]
+  },
+  {
+    "slug": "watson-love-tests-of-love",
+    "title": "THE TESTS OF LOVE TO GOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-love-tests-of-love/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-love-tests-of-love/card-01.png",
+        "title": "LET US TEST OURSELVES IMPARTIALLY WHETHER"
+      },
+      {
+        "src": "img/watson-love-tests-of-love/card-02.png",
+        "title": "DID NOT MY LORD SUFFER ENOUGH"
+      },
+      {
+        "src": "img/watson-love-tests-of-love/card-03.png",
+        "title": "DOES HE LOVE HIS FRIEND THAT"
+      },
+      {
+        "src": "img/watson-love-tests-of-love/card-04.png",
+        "title": "DOES HE LOVE HIS PRINCE THAT"
+      },
+      {
+        "src": "img/watson-love-tests-of-love/card-05.png",
+        "title": "A GRACIOUS SOUL IS GLAD OF"
+      },
+      {
+        "src": "img/watson-love-tests-of-love/card-06.png",
+        "title": "WE LOVE A SAINT THOUGH POOR"
+      }
+    ]
+  },
+  {
+    "slug": "watson-love-exhortation-to-love",
+    "title": "AN EXHORTATION TO LOVE GOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-love-exhortation-to-love/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-love-exhortation-to-love/card-01.png",
+        "title": "GOD IS THE MOST ADEQUATE AND"
+      },
+      {
+        "src": "img/watson-love-exhortation-to-love/card-02.png",
+        "title": "IF YOU DO NOT LOVE GOD"
+      },
+      {
+        "src": "img/watson-love-exhortation-to-love/card-03.png",
+        "title": "PROSPERITY TO MANY IS LIKE THE"
+      },
+      {
+        "src": "img/watson-love-exhortation-to-love/card-04.png",
+        "title": "YOU LOVE A FAIR HOUSE A"
+      },
+      {
+        "src": "img/watson-love-exhortation-to-love/card-05.png",
+        "title": "IF WE COULD LOVE GOD FAR"
+      },
+      {
+        "src": "img/watson-love-exhortation-to-love/card-06.png",
+        "title": "THE EYE HAS SEEN RARE SIGHTS"
+      }
+    ]
+  },
+  {
+    "slug": "watson-calling-effectual-calling",
+    "title": "EFFECTUAL CALLING",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-calling-effectual-calling/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-calling-effectual-calling/card-01.png",
+        "title": "THE SECOND QUALIFICATION OF THE PERSONS"
+      },
+      {
+        "src": "img/watson-calling-effectual-calling/card-02.png",
+        "title": "IF HE SAY GO HE GOES"
+      },
+      {
+        "src": "img/watson-calling-effectual-calling/card-03.png",
+        "title": "HE USES MORE WEDGES OF THE"
+      },
+      {
+        "src": "img/watson-calling-effectual-calling/card-04.png",
+        "title": "A CHRISTIAN'S HEART IS TO BE"
+      },
+      {
+        "src": "img/watson-calling-effectual-calling/card-05.png",
+        "title": "THE FINGER OF THE BLESSED SPIRIT"
+      },
+      {
+        "src": "img/watson-calling-effectual-calling/card-06.png",
+        "title": "THIS IS A HIGH CALLING HERE"
+      }
+    ]
+  },
+  {
+    "slug": "watson-calling-walk-worthy",
+    "title": "WALK WORTHY OF YOUR CALLING",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-calling-walk-worthy/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-calling-walk-worthy/card-01.png",
+        "title": "IF AFTER SEARCHING YOU FIND THAT"
+      },
+      {
+        "src": "img/watson-calling-walk-worthy/card-02.png",
+        "title": "IT SEEMS THE PRODIGAL BEFORE CONVERSION"
+      },
+      {
+        "src": "img/watson-calling-walk-worthy/card-03.png",
+        "title": "THIS IS A SEASONABLE ADVICE WHEN"
+      },
+      {
+        "src": "img/watson-calling-walk-worthy/card-04.png",
+        "title": "IT IS ONE OF THE SADDEST"
+      },
+      {
+        "src": "img/watson-calling-walk-worthy/card-05.png",
+        "title": "THE NAZARITE THAT HAD A VOW"
+      },
+      {
+        "src": "img/watson-calling-walk-worthy/card-06.png",
+        "title": "ATHANASIUS WAS SINGULARLY HOLY HE APPEARED"
+      }
+    ]
+  },
+  {
+    "slug": "watson-purpose-gods-purpose",
+    "title": "CONCERNING GOD'S PURPOSE",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/watson-purpose-gods-purpose/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-purpose-gods-purpose/card-01.png",
+        "title": "THIS PURPOSE OR DECREE OF GOD"
+      },
+      {
+        "src": "img/watson-purpose-gods-purpose/card-02.png",
+        "title": "WHAT IS THE REASON THAT ONE"
+      },
+      {
+        "src": "img/watson-purpose-gods-purpose/card-03.png",
+        "title": "LET US THEN ASCRIBE THE WHOLE"
+      },
+      {
+        "src": "img/watson-purpose-gods-purpose/card-04.png",
+        "title": "WHILE MANY CRY OUT AGAINST CHURCH"
+      },
+      {
+        "src": "img/watson-purpose-gods-purpose/card-05.png",
+        "title": "IF IT BE GOD'S PURPOSE THAT"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-mans-chief-end",
+    "title": "MAN'S CHIEF END",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "purpose",
+    "overview": "img/watson-divinity-mans-chief-end/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-mans-chief-end/card-01.png",
+        "title": "THOU LORD ART MOST HIGH FOR"
+      },
+      {
+        "src": "img/watson-divinity-mans-chief-end/card-02.png",
+        "title": "IT IS ONE THING TO ADVANCE"
+      },
+      {
+        "src": "img/watson-divinity-mans-chief-end/card-03.png",
+        "title": "AS THE SILKWORM WHEN SHE WEAVES"
+      },
+      {
+        "src": "img/watson-divinity-mans-chief-end/card-04.png",
+        "title": "ENJOYING SPIRITUAL COMMUNION WITH GOD IS"
+      },
+      {
+        "src": "img/watson-divinity-mans-chief-end/card-05.png",
+        "title": "GRACE PRECEDES GLORY AS THE MORNING"
+      },
+      {
+        "src": "img/watson-divinity-mans-chief-end/card-06.png",
+        "title": "FRESH JOYS SPRING CONTINUALLY FROM HIS"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-the-scriptures",
+    "title": "THE SCRIPTURES",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/watson-divinity-the-scriptures/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-the-scriptures/card-01.png",
+        "title": "GOOD MEN COULD NOT BE THE"
+      },
+      {
+        "src": "img/watson-divinity-the-scriptures/card-02.png",
+        "title": "NOR HAS THE CHURCH OF GOD"
+      },
+      {
+        "src": "img/watson-divinity-the-scriptures/card-03.png",
+        "title": "SANCTIFY THEM THROUGH THY TRUTH '"
+      },
+      {
+        "src": "img/watson-divinity-the-scriptures/card-04.png",
+        "title": "PETER RELATES HIS OWN PUSILLANIMITY IN"
+      },
+      {
+        "src": "img/watson-divinity-the-scriptures/card-05.png",
+        "title": "THE LORD WILL NOT CAST OFF"
+      },
+      {
+        "src": "img/watson-divinity-the-scriptures/card-06.png",
+        "title": "THE WORD IS TO SUBLIMATE AND"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-wisdom-of-god",
+    "title": "THE WISDOM OF GOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/watson-divinity-wisdom-of-god/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-wisdom-of-god/card-01.png",
+        "title": "GOD'S WISDOM IS SEEN IN APPOINTING"
+      },
+      {
+        "src": "img/watson-divinity-wisdom-of-god/card-02.png",
+        "title": "GOD'S WISDOM IS SEEN IN SETTING"
+      },
+      {
+        "src": "img/watson-divinity-wisdom-of-god/card-03.png",
+        "title": "MERCY HAD A MIND TO SAVE"
+      },
+      {
+        "src": "img/watson-divinity-wisdom-of-god/card-04.png",
+        "title": "GOD HAD A MIND TO SAVE"
+      },
+      {
+        "src": "img/watson-divinity-wisdom-of-god/card-05.png",
+        "title": "THE APOSTLES WERE SCATTERED BY REASON"
+      },
+      {
+        "src": "img/watson-divinity-wisdom-of-god/card-06.png",
+        "title": "HE HAS A HAND IN THE"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-power-of-god",
+    "title": "THE POWER OF GOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-divinity-power-of-god/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-power-of-god/card-01.png",
+        "title": "THY POMP IS BROUGHT DOWN TO"
+      },
+      {
+        "src": "img/watson-divinity-power-of-god/card-02.png",
+        "title": "CONVERSION IS THE WORK OF GOD'S"
+      },
+      {
+        "src": "img/watson-divinity-power-of-god/card-03.png",
+        "title": "GOD'S POWER IS OF EQUAL EXTENT"
+      },
+      {
+        "src": "img/watson-divinity-power-of-god/card-04.png",
+        "title": "XERXES THE PERSIAN MONARCH THREW FETTERS"
+      },
+      {
+        "src": "img/watson-divinity-power-of-god/card-05.png",
+        "title": "THERE IS NONE THAT CAN DELIVER"
+      },
+      {
+        "src": "img/watson-divinity-power-of-god/card-06.png",
+        "title": "THEY HAVE NO UNION WITH GOD"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-holiness-of-god",
+    "title": "THE HOLINESS OF GOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-divinity-holiness-of-god/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-holiness-of-god/card-01.png",
+        "title": "HE IS HOLY IN HIS NATURE"
+      },
+      {
+        "src": "img/watson-divinity-holiness-of-god/card-02.png",
+        "title": "HE INFUSED ALL HOLINESS INTO CHRIST'S"
+      },
+      {
+        "src": "img/watson-divinity-holiness-of-god/card-03.png",
+        "title": "GRACE CANNOT DIE YET THE FLAME"
+      },
+      {
+        "src": "img/watson-divinity-holiness-of-god/card-04.png",
+        "title": "THERE IS NOT A GREATER SIGN"
+      },
+      {
+        "src": "img/watson-divinity-holiness-of-god/card-05.png",
+        "title": "THERE IS A HOLINESS OF SIMILITUDE"
+      },
+      {
+        "src": "img/watson-divinity-holiness-of-god/card-06.png",
+        "title": "HEREIN IS THE SAINTS' HOLINESS WHEN"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-mercy-of-god",
+    "title": "THE MERCY OF GOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-divinity-mercy-of-god/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-mercy-of-god/card-01.png",
+        "title": "WHEN THE LORD WOULD SHAVE OFF"
+      },
+      {
+        "src": "img/watson-divinity-mercy-of-god/card-02.png",
+        "title": "WHEN THE WATER WAS BITTER AND"
+      },
+      {
+        "src": "img/watson-divinity-mercy-of-god/card-03.png",
+        "title": "UNBELIEF STOPS THE CURRENT OF GOD'S"
+      },
+      {
+        "src": "img/watson-divinity-mercy-of-god/card-04.png",
+        "title": "IF HE BLESS HIMSELF SAYING I"
+      },
+      {
+        "src": "img/watson-divinity-mercy-of-god/card-05.png",
+        "title": "GOD HAS TREASURES OF MERCY PRAYER"
+      },
+      {
+        "src": "img/watson-divinity-mercy-of-god/card-06.png",
+        "title": "I WAS BEMIRACLED WITH MERCY AS"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-providence-of-god",
+    "title": "THE PROVIDENCE OF GOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/watson-divinity-providence-of-god/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-providence-of-god/card-01.png",
+        "title": "GOD'S WORKS OF PROVIDENCE"
+      },
+      {
+        "src": "img/watson-divinity-providence-of-god/card-02.png",
+        "title": "GOD TAKES CARE OF EVERY SAINT"
+      },
+      {
+        "src": "img/watson-divinity-providence-of-god/card-03.png",
+        "title": "THE VIRGIN MARY THROUGH BEARING AND"
+      },
+      {
+        "src": "img/watson-divinity-providence-of-god/card-04.png",
+        "title": "THAT AMONG ALL VIRGINS BROUGHT BEFORE"
+      },
+      {
+        "src": "img/watson-divinity-providence-of-god/card-05.png",
+        "title": "SUPPOSE YOU WERE IN A SMITH'S"
+      },
+      {
+        "src": "img/watson-divinity-providence-of-god/card-06.png",
+        "title": "I ANSWER NO BY NO MEANS"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-covenant-of-grace",
+    "title": "THE COVENANT OF GRACE",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-divinity-covenant-of-grace/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-covenant-of-grace/card-01.png",
+        "title": "HE ENTERED INTO A COVENANT OF"
+      },
+      {
+        "src": "img/watson-divinity-covenant-of-grace/card-02.png",
+        "title": "IT WOULD BE SAD IF AS"
+      },
+      {
+        "src": "img/watson-divinity-covenant-of-grace/card-03.png",
+        "title": "THIS SPONTANEITY AND WILLINGNESS IS FROM"
+      },
+      {
+        "src": "img/watson-divinity-covenant-of-grace/card-04.png",
+        "title": "HOW GLAD WOULD THE OLD WORLD"
+      },
+      {
+        "src": "img/watson-divinity-covenant-of-grace/card-05.png",
+        "title": "SOME OF THE JEWS THAT CRUCIFIED"
+      },
+      {
+        "src": "img/watson-divinity-covenant-of-grace/card-06.png",
+        "title": "THEY SHALL CALL UPON MY NAME"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-christs-prophetic-office",
+    "title": "CHRIST'S PROPHETIC OFFICE",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-divinity-christs-prophetic-office/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-christs-prophetic-office/card-01.png",
+        "title": "IT IS ONE THING TO HEAR"
+      },
+      {
+        "src": "img/watson-divinity-christs-prophetic-office/card-02.png",
+        "title": "THE PROPHET HAD BEEN DENOUNCING JUDGEMENTS"
+      },
+      {
+        "src": "img/watson-divinity-christs-prophetic-office/card-03.png",
+        "title": "THEY COMPLAIN I HAVE SPENT MY"
+      },
+      {
+        "src": "img/watson-divinity-christs-prophetic-office/card-04.png",
+        "title": "HAD HE NOT BEEN GOD HE"
+      },
+      {
+        "src": "img/watson-divinity-christs-prophetic-office/card-05.png",
+        "title": "THE MIDDLE LAMP OF THE SANCTUARY"
+      },
+      {
+        "src": "img/watson-divinity-christs-prophetic-office/card-06.png",
+        "title": "WHAT IS CHRIST TO HIM OR"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-christs-priestly-office",
+    "title": "CHRIST'S PRIESTLY OFFICE",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-divinity-christs-priestly-office/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-christs-priestly-office/card-01.png",
+        "title": "HIS ONCE OFFERING UP OF HIMSELF"
+      },
+      {
+        "src": "img/watson-divinity-christs-priestly-office/card-02.png",
+        "title": "THE EVANGELISTS USE THREE WORDS TO"
+      },
+      {
+        "src": "img/watson-divinity-christs-priestly-office/card-03.png",
+        "title": "THE SIGHT OF CAESAR'S BLOODY ROBE"
+      },
+      {
+        "src": "img/watson-divinity-christs-priestly-office/card-04.png",
+        "title": "WHEN ESCULUS WAS ACCUSED FOR SOME"
+      },
+      {
+        "src": "img/watson-divinity-christs-priestly-office/card-05.png",
+        "title": "AN ORDINARY LAWYER IS NOT AFFECTED"
+      },
+      {
+        "src": "img/watson-divinity-christs-priestly-office/card-06.png",
+        "title": "THE PEOPLE OF GOD HAVE SINS"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-christs-kingly-office",
+    "title": "CHRIST'S KINGLY OFFICE",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "leadership",
+    "overview": "img/watson-divinity-christs-kingly-office/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-christs-kingly-office/card-01.png",
+        "title": "IN SUBDUING US TO HIMSELF"
+      },
+      {
+        "src": "img/watson-divinity-christs-kingly-office/card-02.png",
+        "title": "HE MUST NEEDS BE SO FOR"
+      },
+      {
+        "src": "img/watson-divinity-christs-kingly-office/card-03.png",
+        "title": "WHATSOEVER HE PLEASED THAT DID HE"
+      },
+      {
+        "src": "img/watson-divinity-christs-kingly-office/card-04.png",
+        "title": "GOD THE FATHER HAS DECREED HIM"
+      },
+      {
+        "src": "img/watson-divinity-christs-kingly-office/card-05.png",
+        "title": "THOUGH HE BE THE LION OF"
+      },
+      {
+        "src": "img/watson-divinity-christs-kingly-office/card-06.png",
+        "title": "IF THE ENEMIES DESTROY THE CHURCH"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-faith",
+    "title": "FAITH",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-divinity-faith/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-faith/card-01.png",
+        "title": "'THE LIFE THAT I NOW LIVE"
+      },
+      {
+        "src": "img/watson-divinity-faith/card-02.png",
+        "title": "FAITH BELIEVES THE PROMISE BUT THAT"
+      },
+      {
+        "src": "img/watson-divinity-faith/card-03.png",
+        "title": "THE SAME POWER IS PUT FORTH"
+      },
+      {
+        "src": "img/watson-divinity-faith/card-04.png",
+        "title": "LOVE TAKES POSSESSION OF GLORY BUT"
+      },
+      {
+        "src": "img/watson-divinity-faith/card-05.png",
+        "title": "HE HAS APPOINTED THIS GRACE TO"
+      },
+      {
+        "src": "img/watson-divinity-faith/card-06.png",
+        "title": "EXAMINE IF YOUR HEARTS BE AN"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-justification",
+    "title": "JUSTIFICATION",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-divinity-justification/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-justification/card-01.png",
+        "title": "IT WAS A SAYING OF LUTHER"
+      },
+      {
+        "src": "img/watson-divinity-justification/card-02.png",
+        "title": "THE CAUSA THE INWARD IMPELLANT MOTIVE"
+      },
+      {
+        "src": "img/watson-divinity-justification/card-03.png",
+        "title": "IT IS A JUST THING FOR"
+      },
+      {
+        "src": "img/watson-divinity-justification/card-04.png",
+        "title": "ALL THE PERSONS IN THE BLESSED"
+      },
+      {
+        "src": "img/watson-divinity-justification/card-05.png",
+        "title": "YE ARE JUSTIFIED BY THE SPIRIT"
+      },
+      {
+        "src": "img/watson-divinity-justification/card-06.png",
+        "title": "HOW CAN THOSE WORKS JUSTIFY US"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-adoption",
+    "title": "ADOPTION",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "family",
+    "overview": "img/watson-divinity-adoption/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-adoption/card-01.png",
+        "title": "'AS MANY AS RECEIVED HIM TO"
+      },
+      {
+        "src": "img/watson-divinity-adoption/card-02.png",
+        "title": "A FIRST ADOPTION WAS CONFINED TO"
+      },
+      {
+        "src": "img/watson-divinity-adoption/card-03.png",
+        "title": "GOD IS PLEASED TO ADOPT ONE"
+      },
+      {
+        "src": "img/watson-divinity-adoption/card-04.png",
+        "title": "THE SCRIPTURE HAS SET FORTH THEIR"
+      },
+      {
+        "src": "img/watson-divinity-adoption/card-05.png",
+        "title": "FAITH INTERESTS US IN THE PRIVILEGE"
+      },
+      {
+        "src": "img/watson-divinity-adoption/card-06.png",
+        "title": "IT IS AN ECCE ADMIRANTIS A"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-sanctification",
+    "title": "SANCTIFICATION",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-divinity-sanctification/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-sanctification/card-01.png",
+        "title": "'FOR THIS IS THE WILL OF"
+      },
+      {
+        "src": "img/watson-divinity-sanctification/card-02.png",
+        "title": "THIS MAY BE THE SINNER'S MOTTO"
+      },
+      {
+        "src": "img/watson-divinity-sanctification/card-03.png",
+        "title": "HE WILL SUBDUE OUR INIQUITIES '"
+      },
+      {
+        "src": "img/watson-divinity-sanctification/card-04.png",
+        "title": "WILL GOD EVER LAY SUCH VIPERS"
+      },
+      {
+        "src": "img/watson-divinity-sanctification/card-05.png",
+        "title": "THE SANCTIFIED SOUL PRAYS OUT OF"
+      },
+      {
+        "src": "img/watson-divinity-sanctification/card-06.png",
+        "title": "HER CLOTHING IS OF WROUGHT GOLD"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-assurance",
+    "title": "ASSURANCE",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-divinity-assurance/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-assurance/card-01.png",
+        "title": "ASSURANCE OF GOD'S LOVE"
+      },
+      {
+        "src": "img/watson-divinity-assurance/card-02.png",
+        "title": "THIS I THE RATHER SPEAK TO"
+      },
+      {
+        "src": "img/watson-divinity-assurance/card-03.png",
+        "title": "DOUBTING DISCOURAGES US IN GOD'S SERVICE"
+      },
+      {
+        "src": "img/watson-divinity-assurance/card-04.png",
+        "title": "SUCH AS WANT IT CANNOT DIE"
+      },
+      {
+        "src": "img/watson-divinity-assurance/card-05.png",
+        "title": "HOW MAY WE KNOW THAT WE"
+      },
+      {
+        "src": "img/watson-divinity-assurance/card-06.png",
+        "title": "ASSURANCE OF GOD'S LOVE IS A"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-peace-and-joy",
+    "title": "PEACE AND JOY",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-divinity-peace-and-joy/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-peace-and-joy/card-01.png",
+        "title": "THEY MAY BE FEARLESS AND STUPID"
+      },
+      {
+        "src": "img/watson-divinity-peace-and-joy/card-02.png",
+        "title": "THE WORD SPEAKS OF A HUMBLING"
+      },
+      {
+        "src": "img/watson-divinity-peace-and-joy/card-03.png",
+        "title": "THOU WHO NEVER HADST ANY LEGAL"
+      },
+      {
+        "src": "img/watson-divinity-peace-and-joy/card-04.png",
+        "title": "IT SHALL KEEP YOU AS IN"
+      },
+      {
+        "src": "img/watson-divinity-peace-and-joy/card-05.png",
+        "title": "HE WHO HAS A PARDON SEALED"
+      },
+      {
+        "src": "img/watson-divinity-peace-and-joy/card-06.png",
+        "title": "THE JEWS HAD A CUSTOM AT"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-perseverance",
+    "title": "PERSEVERANCE",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-divinity-perseverance/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-perseverance/card-01.png",
+        "title": "'WHO ARE KEPT BY THE POWER"
+      },
+      {
+        "src": "img/watson-divinity-perseverance/card-02.png",
+        "title": "THOUGH ALL THIS BE GRANTED YET"
+      },
+      {
+        "src": "img/watson-divinity-perseverance/card-03.png",
+        "title": "THE TRUTH OF GOD THE MOST"
+      },
+      {
+        "src": "img/watson-divinity-perseverance/card-04.png",
+        "title": "WHY NOT JUDAS AS WELL AS"
+      },
+      {
+        "src": "img/watson-divinity-perseverance/card-05.png",
+        "title": "HE SHOOTS HIS FIERY DARTS OF"
+      },
+      {
+        "src": "img/watson-divinity-perseverance/card-06.png",
+        "title": "IN CHRISTIANIS NON INITIA SED FINES"
+      }
+    ]
+  },
+  {
+    "slug": "watson-divinity-death-of-the-righteous",
+    "title": "THE DEATH OF THE RIGHTEOUS",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-divinity-death-of-the-righteous/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-divinity-death-of-the-righteous/card-01.png",
+        "title": "TO ME TO LIVE IS CHRIST"
+      },
+      {
+        "src": "img/watson-divinity-death-of-the-righteous/card-02.png",
+        "title": "TO ME TO DIE IS GAIN"
+      },
+      {
+        "src": "img/watson-divinity-death-of-the-righteous/card-03.png",
+        "title": "TO KNOW THE LOVE THAT PASSETH"
+      },
+      {
+        "src": "img/watson-divinity-death-of-the-righteous/card-04.png",
+        "title": "BELIEVERS AT DEATH WILL HAVE CLOSE"
+      },
+      {
+        "src": "img/watson-divinity-death-of-the-righteous/card-05.png",
+        "title": "EVER IN CHRIST'S BOSOM IS THE"
+      },
+      {
+        "src": "img/watson-divinity-death-of-the-righteous/card-06.png",
+        "title": "THEY LOSE FOUR THINGS THEY LOSE"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-blessedness",
+    "title": "BLESSEDNESS",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-beatitudes-blessedness/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-blessedness/card-01.png",
+        "title": "I SHALL SHOW WHEREIN IT DOES"
+      },
+      {
+        "src": "img/watson-beatitudes-blessedness/card-02.png",
+        "title": "THE SITUATION OF HIS PALACE IT"
+      },
+      {
+        "src": "img/watson-beatitudes-blessedness/card-03.png",
+        "title": "BECAUSE THEY ARE NOT REAL THE"
+      },
+      {
+        "src": "img/watson-beatitudes-blessedness/card-04.png",
+        "title": "WHEN SAUL WAS SORELY DISTRESSED SAMUEL"
+      },
+      {
+        "src": "img/watson-beatitudes-blessedness/card-05.png",
+        "title": "THOSE THINGS WHICH IF WE HAVE"
+      },
+      {
+        "src": "img/watson-beatitudes-blessedness/card-06.png",
+        "title": "JUST LIKE A SICK MAN IF"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-poor-in-spirit",
+    "title": "POOR IN SPIRIT",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-beatitudes-poor-in-spirit/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-poor-in-spirit/card-01.png",
+        "title": "HAVING SPOKEN OF THE GENERAL NOTION"
+      },
+      {
+        "src": "img/watson-beatitudes-poor-in-spirit/card-02.png",
+        "title": "OUR LORD CHRIST HAVING SET DOWN"
+      },
+      {
+        "src": "img/watson-beatitudes-poor-in-spirit/card-03.png",
+        "title": "HE THAT IS POOR IN SPIRIT"
+      },
+      {
+        "src": "img/watson-beatitudes-poor-in-spirit/card-04.png",
+        "title": "THIS CROWN OF GLORY DOES NOT"
+      },
+      {
+        "src": "img/watson-beatitudes-poor-in-spirit/card-05.png",
+        "title": "IT SHALL BE A HIGH THRONE"
+      },
+      {
+        "src": "img/watson-beatitudes-poor-in-spirit/card-06.png",
+        "title": "THE KINGDOM OF HEAVEN IS SO"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-they-that-mourn",
+    "title": "THEY THAT MOURN",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-beatitudes-they-that-mourn/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-they-that-mourn/card-01.png",
+        "title": "HERE ARE EIGHT STEPS LEADING TO"
+      },
+      {
+        "src": "img/watson-beatitudes-they-that-mourn/card-02.png",
+        "title": "MANY ARE SO DEVILISH THAT THEY"
+      },
+      {
+        "src": "img/watson-beatitudes-they-that-mourn/card-03.png",
+        "title": "FIFTH A VAIN AND FRUITLESS MOURNING"
+      },
+      {
+        "src": "img/watson-beatitudes-they-that-mourn/card-04.png",
+        "title": "SECOND WE MUST MOURN FOR SIN"
+      },
+      {
+        "src": "img/watson-beatitudes-they-that-mourn/card-05.png",
+        "title": "NATURALISTS SAY OF THE SERPENT BEFORE"
+      },
+      {
+        "src": "img/watson-beatitudes-they-that-mourn/card-06.png",
+        "title": "WHAT CURSED OPINION THAT HAS BEEN"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-comfort-for-mourners",
+    "title": "COMFORT FOR MOURNERS",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-beatitudes-comfort-for-mourners/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-comfort-for-mourners/card-01.png",
+        "title": "GOD STOOD LOOKING ON HEZEKIAH'S TEARS"
+      },
+      {
+        "src": "img/watson-beatitudes-comfort-for-mourners/card-02.png",
+        "title": "THE DEVIL HOLDS THE SMALL END"
+      },
+      {
+        "src": "img/watson-beatitudes-comfort-for-mourners/card-03.png",
+        "title": "A GENERAL BESIEGING A GARRISON SUMMONS"
+      },
+      {
+        "src": "img/watson-beatitudes-comfort-for-mourners/card-04.png",
+        "title": "THE SWEET WATERS OF PLEASURE DESTROY"
+      },
+      {
+        "src": "img/watson-beatitudes-comfort-for-mourners/card-05.png",
+        "title": "LET US PRAY THAT WE WHO"
+      },
+      {
+        "src": "img/watson-beatitudes-comfort-for-mourners/card-06.png",
+        "title": "BLESSED ARE THEY THAT MOURN FOR"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-the-meek",
+    "title": "THE MEEK",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-beatitudes-the-meek/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-the-meek/card-01.png",
+        "title": "MEEKNESS IS A GRACE WHEREBY WE"
+      },
+      {
+        "src": "img/watson-beatitudes-the-meek/card-02.png",
+        "title": "THE ANGRY MAN IS LIKE FLAX"
+      },
+      {
+        "src": "img/watson-beatitudes-the-meek/card-03.png",
+        "title": "A MALICIOUS SPIRIT IS NOT A"
+      },
+      {
+        "src": "img/watson-beatitudes-the-meek/card-04.png",
+        "title": "SURELY IT IS LITTLE WISDOM FOR"
+      },
+      {
+        "src": "img/watson-beatitudes-the-meek/card-05.png",
+        "title": "THE TONGUES OF MANY ARE ON"
+      },
+      {
+        "src": "img/watson-beatitudes-the-meek/card-06.png",
+        "title": "NOT BUT THAT A CHRISTIAN OUGHT"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-hunger-and-thirst",
+    "title": "HUNGER AND THIRST",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-beatitudes-hunger-and-thirst/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-hunger-and-thirst/card-01.png",
+        "title": "THIS IS A CHRISTIAN'S TRIUMPH WHEN"
+      },
+      {
+        "src": "img/watson-beatitudes-hunger-and-thirst/card-02.png",
+        "title": "GOD REQUIRES NOT RIVERS OF OIL"
+      },
+      {
+        "src": "img/watson-beatitudes-hunger-and-thirst/card-03.png",
+        "title": "WHO DESIRE TO BE EXCUSED FROM"
+      },
+      {
+        "src": "img/watson-beatitudes-hunger-and-thirst/card-04.png",
+        "title": "IF A MAN WERE INVITED TO"
+      },
+      {
+        "src": "img/watson-beatitudes-hunger-and-thirst/card-05.png",
+        "title": "READ THE PLUNDERER'S CURSE ISAIAH WOE"
+      },
+      {
+        "src": "img/watson-beatitudes-hunger-and-thirst/card-06.png",
+        "title": "ACTIONS MAY BE COMPULSORY A MAN"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-they-shall-be-filled",
+    "title": "THEY SHALL BE FILLED",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-beatitudes-they-shall-be-filled/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-they-shall-be-filled/card-01.png",
+        "title": "PENURY IS THE SAUCE WHICH CURES"
+      },
+      {
+        "src": "img/watson-beatitudes-they-shall-be-filled/card-02.png",
+        "title": "GOD WILL NOT LET US LOSE"
+      },
+      {
+        "src": "img/watson-beatitudes-they-shall-be-filled/card-03.png",
+        "title": "FIRST THAT GOD CAN FILL THE"
+      },
+      {
+        "src": "img/watson-beatitudes-they-shall-be-filled/card-04.png",
+        "title": "THE FULLNESS OF THE CREATURE IS"
+      },
+      {
+        "src": "img/watson-beatitudes-they-shall-be-filled/card-05.png",
+        "title": "SURELY IT IS GOOD TO DRAW"
+      },
+      {
+        "src": "img/watson-beatitudes-they-shall-be-filled/card-06.png",
+        "title": "MUCH MORE WILL HE HAVE COMPASSION"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-the-merciful",
+    "title": "THE MERCIFUL",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-beatitudes-the-merciful/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-the-merciful/card-01.png",
+        "title": "BY NATURE WE DO NOT SEND"
+      },
+      {
+        "src": "img/watson-beatitudes-the-merciful/card-02.png",
+        "title": "HOW MANY UNMERCIFUL MEN ARE THERE"
+      },
+      {
+        "src": "img/watson-beatitudes-the-merciful/card-03.png",
+        "title": "THIS WORD MEANS 'PUTTING AWAY '"
+      },
+      {
+        "src": "img/watson-beatitudes-the-merciful/card-04.png",
+        "title": "IF GOD HAS ENRICHED MEN WITH"
+      },
+      {
+        "src": "img/watson-beatitudes-the-merciful/card-05.png",
+        "title": "FAITH IS THE GRACE WHICH MARRIES"
+      },
+      {
+        "src": "img/watson-beatitudes-the-merciful/card-06.png",
+        "title": "I TELL YOU THESE DEVOUT MISERS"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-pure-in-heart",
+    "title": "PURE IN HEART",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-beatitudes-pure-in-heart/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-pure-in-heart/card-01.png",
+        "title": "THE HOLY GOD WHO IS OF"
+      },
+      {
+        "src": "img/watson-beatitudes-pure-in-heart/card-02.png",
+        "title": "HE MAY BE SWEPT BY CIVILITY"
+      },
+      {
+        "src": "img/watson-beatitudes-pure-in-heart/card-03.png",
+        "title": "THIRD BECAUSE NONE BUT THE PURE"
+      },
+      {
+        "src": "img/watson-beatitudes-pure-in-heart/card-04.png",
+        "title": "A KING'S PALACE MUST BE KEPT"
+      },
+      {
+        "src": "img/watson-beatitudes-pure-in-heart/card-05.png",
+        "title": "THIS IS A BEAUTY THAT NEVER"
+      },
+      {
+        "src": "img/watson-beatitudes-pure-in-heart/card-06.png",
+        "title": "LET US PUT OURSELVES TO THE"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-seeing-god",
+    "title": "SEEING GOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/watson-beatitudes-seeing-god/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-seeing-god/card-01.png",
+        "title": "SEVENTH SIGN A PURE HEART IS"
+      },
+      {
+        "src": "img/watson-beatitudes-seeing-god/card-02.png",
+        "title": "WHAT SHOULD UNHOLY HEARTS DO AMONG"
+      },
+      {
+        "src": "img/watson-beatitudes-seeing-god/card-03.png",
+        "title": "HAPPINESS IS NOTHING BUT THE QUINTESSENCE"
+      },
+      {
+        "src": "img/watson-beatitudes-seeing-god/card-04.png",
+        "title": "THE SPIRIT IS COMPARED TO WIND"
+      },
+      {
+        "src": "img/watson-beatitudes-seeing-god/card-05.png",
+        "title": "THOUGH CHRIST DID CONVERSE WITH SINNERS"
+      },
+      {
+        "src": "img/watson-beatitudes-seeing-god/card-06.png",
+        "title": "ONLY AT PRESENT I SHALL LAY"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-peacemakers",
+    "title": "THE PEACEMAKERS",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "family",
+    "overview": "img/watson-beatitudes-peacemakers/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-peacemakers/card-01.png",
+        "title": "PEACE BRINGS PLENTY ALONG WITH IT"
+      },
+      {
+        "src": "img/watson-beatitudes-peacemakers/card-02.png",
+        "title": "DAVID WAS FOR PEACE PSALM BUT"
+      },
+      {
+        "src": "img/watson-beatitudes-peacemakers/card-03.png",
+        "title": "THE PSALMIST SAYS IT IS NOT"
+      },
+      {
+        "src": "img/watson-beatitudes-peacemakers/card-04.png",
+        "title": "IF A MAN HAS RECEIVED POISON"
+      },
+      {
+        "src": "img/watson-beatitudes-peacemakers/card-05.png",
+        "title": "WE SHOULD STOP OUR EARS TO"
+      },
+      {
+        "src": "img/watson-beatitudes-peacemakers/card-06.png",
+        "title": "HOW DID THEY COUNSEL COMFORT AND"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-children-of-god",
+    "title": "CHILDREN OF GOD",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "family",
+    "overview": "img/watson-beatitudes-children-of-god/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-children-of-god/card-01.png",
+        "title": "HE WHO LOVES THE PERSON LOVES"
+      },
+      {
+        "src": "img/watson-beatitudes-children-of-god/card-02.png",
+        "title": "IN PRAYER WE HAVE SECRET CONFERENCE"
+      },
+      {
+        "src": "img/watson-beatitudes-children-of-god/card-03.png",
+        "title": "THEY WILL LET THEM LIE AND"
+      },
+      {
+        "src": "img/watson-beatitudes-children-of-god/card-04.png",
+        "title": "IT IS LOVE IN GOD TO"
+      },
+      {
+        "src": "img/watson-beatitudes-children-of-god/card-05.png",
+        "title": "THE PRAYER OF GOD'S CHILDREN IS"
+      },
+      {
+        "src": "img/watson-beatitudes-children-of-god/card-06.png",
+        "title": "FIRST COMPARE THE CHILDREN OF GOD"
+      }
+    ]
+  },
+  {
+    "slug": "watson-beatitudes-persecuted",
+    "title": "PERSECUTED FOR RIGHTEOUSNESS",
+    "credit": "Thomas Watson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/watson-beatitudes-persecuted/overview.png",
+    "cards": [
+      {
+        "src": "img/watson-beatitudes-persecuted/card-01.png",
+        "title": "THE MARIAN PERSECUTION ENGLAND FOR FIVE"
+      },
+      {
+        "src": "img/watson-beatitudes-persecuted/card-02.png",
+        "title": "I AM DARK BUT LOVELY SONG"
+      },
+      {
+        "src": "img/watson-beatitudes-persecuted/card-03.png",
+        "title": "I AM SET FOR THE DEFENSE"
+      },
+      {
+        "src": "img/watson-beatitudes-persecuted/card-04.png",
+        "title": "WHEN MEN SUFFER BY THE HAND"
+      },
+      {
+        "src": "img/watson-beatitudes-persecuted/card-05.png",
+        "title": "PATIENCE IS BEARING THE CROSS CHEERFULNESS"
+      },
+      {
+        "src": "img/watson-beatitudes-persecuted/card-06.png",
+        "title": "LABOR TO BE PERSONS RIGHTLY QUALIFIED"
+      }
+    ]
   }
 ];
