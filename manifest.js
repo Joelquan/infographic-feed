@@ -19532,5 +19532,345 @@ window.MANIFEST = [
         "title": "I WANT THE TIMES WE LIVE"
       }
     ]
+  },
+  {
+    "slug": "ryle-practical-bible-reading",
+    "title": "BIBLE READING",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/ryle-practical-bible-reading/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-practical-bible-reading/card-01.png",
+        "title": "NEVERTHELESS IT IS A SORROWFUL FACT"
+      },
+      {
+        "src": "img/ryle-practical-bible-reading/card-02.png",
+        "title": "THIS IS THE BOOK ABOUT WHICH"
+      },
+      {
+        "src": "img/ryle-practical-bible-reading/card-03.png",
+        "title": "THE BIBLE CAN SHOW A BELIEVER"
+      },
+      {
+        "src": "img/ryle-practical-bible-reading/card-04.png",
+        "title": "THERE IS ONLY ONE ANSWER TO"
+      },
+      {
+        "src": "img/ryle-practical-bible-reading/card-05.png",
+        "title": "I DO NOT AT ALL SAY"
+      },
+      {
+        "src": "img/ryle-practical-bible-reading/card-06.png",
+        "title": "I COMMEND ALL THESE THINGS TO"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-practical-charity",
+    "title": "CHARITY",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/ryle-practical-charity/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-practical-charity/card-01.png",
+        "title": "IT SEEMS A PLAIN PRACTICAL THING"
+      },
+      {
+        "src": "img/ryle-practical-charity/card-02.png",
+        "title": "IT WILL MAKE HIM DILIGENT IN"
+      },
+      {
+        "src": "img/ryle-practical-charity/card-03.png",
+        "title": "THINK FOR ANOTHER THING WHAT A"
+      },
+      {
+        "src": "img/ryle-practical-charity/card-04.png",
+        "title": "I GRANT MOST FREELY THAT EVERY"
+      },
+      {
+        "src": "img/ryle-practical-charity/card-05.png",
+        "title": "IT IS UNSCRIPTURAL IGNORANCE NOT TO"
+      },
+      {
+        "src": "img/ryle-practical-charity/card-06.png",
+        "title": "IF THEY CANNOT KNOW MUCH OR"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-practical-zeal",
+    "title": "ZEAL",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/ryle-practical-zeal/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-practical-zeal/card-01.png",
+        "title": "ZEAL IS A SUBJECT WHICH NO"
+      },
+      {
+        "src": "img/ryle-practical-zeal/card-02.png",
+        "title": "THERE NEVER WAS A GRACE OF"
+      },
+      {
+        "src": "img/ryle-practical-zeal/card-03.png",
+        "title": "THESE IDOLATERS OF EARNESTNESS WOULD MAKE"
+      },
+      {
+        "src": "img/ryle-practical-zeal/card-04.png",
+        "title": "ZEAL DOES NOT STAND PORING OVER"
+      },
+      {
+        "src": "img/ryle-practical-zeal/card-05.png",
+        "title": "GO AND LOOK AT THE CROSS"
+      },
+      {
+        "src": "img/ryle-practical-zeal/card-06.png",
+        "title": "CARE NOT FOR THE PRAISE OR"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-practical-happiness",
+    "title": "HAPPINESS",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/ryle-practical-happiness/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-practical-happiness/card-01.png",
+        "title": "AN INFIDEL WAS ONCE ADDRESSING A"
+      },
+      {
+        "src": "img/ryle-practical-happiness/card-02.png",
+        "title": "YOUR HEALTH MAY BE GOOD YOUR"
+      },
+      {
+        "src": "img/ryle-practical-happiness/card-03.png",
+        "title": "IT IS A NOTORIOUS FACT THAT"
+      },
+      {
+        "src": "img/ryle-practical-happiness/card-04.png",
+        "title": "IT SOUNDS TOO SIMPLE TO BE"
+      },
+      {
+        "src": "img/ryle-practical-happiness/card-05.png",
+        "title": "ALAS YOU HAVE YET TO LEARN"
+      },
+      {
+        "src": "img/ryle-practical-happiness/card-06.png",
+        "title": "THERE IS MUCH THAT YOU MIGHT"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-practical-formality",
+    "title": "FORMALITY",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/ryle-practical-formality/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-practical-formality/card-01.png",
+        "title": "THE TEXTS WHICH HEAD THIS PAGE"
+      },
+      {
+        "src": "img/ryle-practical-formality/card-02.png",
+        "title": "IT MEETS US AMONG EVANGELICALS AND"
+      },
+      {
+        "src": "img/ryle-practical-formality/card-03.png",
+        "title": "GOD SEES UNDER ALL THIS FAIR"
+      },
+      {
+        "src": "img/ryle-practical-formality/card-04.png",
+        "title": "HOW SOON FORMALISM ATE OUT THE"
+      },
+      {
+        "src": "img/ryle-practical-formality/card-05.png",
+        "title": "AFTER ALL IT SIGNIFIES LITTLE WHAT"
+      },
+      {
+        "src": "img/ryle-practical-formality/card-06.png",
+        "title": "LOOK FORWARD FINALLY AND HOPE FOR"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-practical-the-world",
+    "title": "THE WORLD",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/ryle-practical-the-world/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-practical-the-world/card-01.png",
+        "title": "THE TEXT WHICH HEADS THIS PAGE"
+      },
+      {
+        "src": "img/ryle-practical-the-world/card-02.png",
+        "title": "THIS IS THE GREAT ROCK ON"
+      },
+      {
+        "src": "img/ryle-practical-the-world/card-03.png",
+        "title": "I DO NOT HESITATE TO WARN"
+      },
+      {
+        "src": "img/ryle-practical-the-world/card-04.png",
+        "title": "IT IS THE EXCESS OF THESE"
+      },
+      {
+        "src": "img/ryle-practical-the-world/card-05.png",
+        "title": "IT IS PRECISELY THIS WHICH MAKES"
+      },
+      {
+        "src": "img/ryle-practical-the-world/card-06.png",
+        "title": "ONE THING ONLY IS PERFECTLY CERTAIN"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-practical-riches-and-poverty",
+    "title": "RICHES AND POVERTY",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "money",
+    "overview": "img/ryle-practical-riches-and-poverty/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-practical-riches-and-poverty/card-01.png",
+        "title": "THERE ARE PROBABLY FEW READERS OF"
+      },
+      {
+        "src": "img/ryle-practical-riches-and-poverty/card-02.png",
+        "title": "SLACK NOT YOUR HAND FROM ANY"
+      },
+      {
+        "src": "img/ryle-practical-riches-and-poverty/card-03.png",
+        "title": "THE RICH MAN IN THE PARABLE"
+      },
+      {
+        "src": "img/ryle-practical-riches-and-poverty/card-04.png",
+        "title": "ACQUAINT YOURSELVES WITH THE FULNESS OF"
+      },
+      {
+        "src": "img/ryle-practical-riches-and-poverty/card-05.png",
+        "title": "ALL MEN ARE NATURALLY IN DANGER"
+      },
+      {
+        "src": "img/ryle-practical-riches-and-poverty/card-06.png",
+        "title": "I BELIEVE THAT IN GIVING TO"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-practical-the-best-friend",
+    "title": "THE BEST FRIEND",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/ryle-practical-the-best-friend/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-practical-the-best-friend/card-01.png",
+        "title": "THIS WORLD IS FULL OF SORROW"
+      },
+      {
+        "src": "img/ryle-practical-the-best-friend/card-02.png",
+        "title": "THE DOINGS OF THE LORD JESUS"
+      },
+      {
+        "src": "img/ryle-practical-the-best-friend/card-03.png",
+        "title": "LOVE SHINES FORTH IN HIS RECEPTION"
+      },
+      {
+        "src": "img/ryle-practical-the-best-friend/card-04.png",
+        "title": "THE LORD JESUS MAKES NO MISTAKES"
+      },
+      {
+        "src": "img/ryle-practical-the-best-friend/card-05.png",
+        "title": "THE LORD JESUS GOES WITH HIS"
+      },
+      {
+        "src": "img/ryle-practical-the-best-friend/card-06.png",
+        "title": "THINK ABOVE ALL OF THE MERCY"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-practical-sickness",
+    "title": "SICKNESS",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/ryle-practical-sickness/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-practical-sickness/card-01.png",
+        "title": "THE CHAPTER FROM WHICH THIS TEXT"
+      },
+      {
+        "src": "img/ryle-practical-sickness/card-02.png",
+        "title": "THEY ARE ALL A PART OF"
+      },
+      {
+        "src": "img/ryle-practical-sickness/card-03.png",
+        "title": "I ASK ALL WHO FIND IT"
+      },
+      {
+        "src": "img/ryle-practical-sickness/card-04.png",
+        "title": "THESE ARE NO MERE WORDS AND"
+      },
+      {
+        "src": "img/ryle-practical-sickness/card-05.png",
+        "title": "IF YOU HAVE AND WHO WILL"
+      },
+      {
+        "src": "img/ryle-practical-sickness/card-06.png",
+        "title": "A FEW MORE SICKNESSES AND ALL"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-practical-family-of-god",
+    "title": "THE FAMILY OF GOD",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "family",
+    "overview": "img/ryle-practical-family-of-god/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-practical-family-of-god/card-01.png",
+        "title": "THE WORDS WHICH FORM THE TITLE"
+      },
+      {
+        "src": "img/ryle-practical-family-of-god/card-02.png",
+        "title": "I ASK THE ATTENTION OF EVERY"
+      },
+      {
+        "src": "img/ryle-practical-family-of-god/card-03.png",
+        "title": "THIS IS THE FAMILY TO WHICH"
+      },
+      {
+        "src": "img/ryle-practical-family-of-god/card-04.png",
+        "title": "ALL ARE RUNNING A RACE DOING"
+      },
+      {
+        "src": "img/ryle-practical-family-of-god/card-05.png",
+        "title": "LOOK ROUND THE FAMILIES OF EARTH"
+      },
+      {
+        "src": "img/ryle-practical-family-of-god/card-06.png",
+        "title": "LIVING BY THE GRACE OF GOD"
+      }
+    ]
   }
 ];
