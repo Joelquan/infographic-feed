@@ -7660,5 +7660,203 @@ window.MANIFEST = [
         "title": "NEVER MOURN AN ABSENT CHRIST"
       }
     ]
+  },
+  {
+    "slug": "murray-abide-stillness-and-affliction",
+    "title": "IN STILLNESS AND IN AFFLICTION",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-stillness-and-affliction/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-stillness-and-affliction/card-01.png",
+        "title": "CEASE FROM SELF AND WAIT"
+      },
+      {
+        "src": "img/murray-abide-stillness-and-affliction/card-02.png",
+        "title": "A SOUL SILENT UNTO GOD"
+      },
+      {
+        "src": "img/murray-abide-stillness-and-affliction/card-03.png",
+        "title": "LISTEN, AND HEAR, AND BELIEVE"
+      },
+      {
+        "src": "img/murray-abide-stillness-and-affliction/card-04.png",
+        "title": "DAILY A QUIET TIME"
+      },
+      {
+        "src": "img/murray-abide-stillness-and-affliction/card-05.png",
+        "title": "THE FATHER COMES WITH CHASTISEMENT"
+      },
+      {
+        "src": "img/murray-abide-stillness-and-affliction/card-06.png",
+        "title": "IN EVERY TROUBLE, ABIDE IN HIM"
+      },
+      {
+        "src": "img/murray-abide-stillness-and-affliction/card-07.png",
+        "title": "COMFORT IN BEING MADE HOLY"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-much-fruit-and-prayer",
+    "title": "MUCH FRUIT AND POWER IN PRAYER",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-much-fruit-and-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-much-fruit-and-prayer/card-01.png",
+        "title": "A CENTRE OF LIFE AND BLESSING"
+      },
+      {
+        "src": "img/murray-abide-much-fruit-and-prayer/card-02.png",
+        "title": "HE HAS PLEDGED HIMSELF TO SUPPLY"
+      },
+      {
+        "src": "img/murray-abide-much-fruit-and-prayer/card-03.png",
+        "title": "WE ARE NOTHING, HE IS EVERYTHING"
+      },
+      {
+        "src": "img/murray-abide-much-fruit-and-prayer/card-04.png",
+        "title": "MEN AND WOMEN FULL OF LOVE"
+      },
+      {
+        "src": "img/murray-abide-much-fruit-and-prayer/card-05.png",
+        "title": "PRAYER, THE FRUIT OF ABIDING"
+      },
+      {
+        "src": "img/murray-abide-much-fruit-and-prayer/card-06.png",
+        "title": "THE RIGHT TO USE HIS NAME"
+      },
+      {
+        "src": "img/murray-abide-much-fruit-and-prayer/card-07.png",
+        "title": "ONE WITH HIM, IT DARES TO CLAIM"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-in-his-love",
+    "title": "ABIDE IN HIS LOVE",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-in-his-love/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-in-his-love/card-01.png",
+        "title": "HIS DELIGHT AND HIS DESIRE"
+      },
+      {
+        "src": "img/murray-abide-in-his-love/card-02.png",
+        "title": "WITH TENDEREST COMPASSION"
+      },
+      {
+        "src": "img/murray-abide-in-his-love/card-03.png",
+        "title": "FAITH IN THAT LOVE"
+      },
+      {
+        "src": "img/murray-abide-in-his-love/card-04.png",
+        "title": "AS CHRIST IN THE FATHER"
+      },
+      {
+        "src": "img/murray-abide-in-his-love/card-05.png",
+        "title": "A BLESSED REST IN THE UNION"
+      },
+      {
+        "src": "img/murray-abide-in-his-love/card-06.png",
+        "title": "DELIVERED FROM THE LIFE OF SELF"
+      },
+      {
+        "src": "img/murray-abide-in-his-love/card-07.png",
+        "title": "EACH NEW SURRENDER, DEEPER UNION"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-joy-full-and-love",
+    "title": "JOY FULL AND LOVE TO THE BRETHREN",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-joy-full-and-love/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-joy-full-and-love/card-01.png",
+        "title": "JOY, AN ESSENTIAL CHARACTERISTIC"
+      },
+      {
+        "src": "img/murray-abide-joy-full-and-love/card-02.png",
+        "title": "THE JOY OF THE LORD IS STRENGTH"
+      },
+      {
+        "src": "img/murray-abide-joy-full-and-love/card-03.png",
+        "title": "THE THREE STREAMS OF HIS JOY"
+      },
+      {
+        "src": "img/murray-abide-joy-full-and-love/card-04.png",
+        "title": "THE CHIEF EVIDENCE OF CHRISTIANITY"
+      },
+      {
+        "src": "img/murray-abide-joy-full-and-love/card-05.png",
+        "title": "ONLY ABIDE TO LOVE LIKE HIM"
+      },
+      {
+        "src": "img/murray-abide-joy-full-and-love/card-06.png",
+        "title": "THE LOVE OF CHRIST IN YOU"
+      },
+      {
+        "src": "img/murray-abide-joy-full-and-love/card-07.png",
+        "title": "HE THAT ABIDETH SINNETH NOT"
+      },
+      {
+        "src": "img/murray-abide-joy-full-and-love/card-08.png",
+        "title": "JESUS HIMSELF MAKES IT POSSIBLE"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-strength-and-glory",
+    "title": "HIS STRENGTH AND HIS GLORY",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-strength-and-glory/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-strength-and-glory/card-01.png",
+        "title": "REMEMBER AND REJOICE IN WEAKNESS"
+      },
+      {
+        "src": "img/murray-abide-strength-and-glory/card-02.png",
+        "title": "HIS LIFE IN US IS HIS POWER"
+      },
+      {
+        "src": "img/murray-abide-strength-and-glory/card-03.png",
+        "title": "UTTERLY HELPLESS, YET JOYOUS"
+      },
+      {
+        "src": "img/murray-abide-strength-and-glory/card-04.png",
+        "title": "SELF, THE GREATEST ENEMY"
+      },
+      {
+        "src": "img/murray-abide-strength-and-glory/card-05.png",
+        "title": "COME AWAY OUT OF SELF"
+      },
+      {
+        "src": "img/murray-abide-strength-and-glory/card-06.png",
+        "title": "THE LIVING SURETY OF THE COVENANT"
+      },
+      {
+        "src": "img/murray-abide-strength-and-glory/card-07.png",
+        "title": "AN ENDLESS LIFE OF ABIDING"
+      },
+      {
+        "src": "img/murray-abide-strength-and-glory/card-08.png",
+        "title": "PARTAKER OF HIS GLORIFIED LIFE"
+      }
+    ]
   }
 ];
