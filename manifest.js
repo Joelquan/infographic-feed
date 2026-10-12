@@ -12464,5 +12464,345 @@ window.MANIFEST = [
         "title": "TRANSFIGURED AT THE GATE"
       }
     ]
+  },
+  {
+    "slug": "kempis-imitation-of-christ",
+    "title": "THE IMITATION OF CHRIST",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-imitation-of-christ/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-imitation-of-christ/card-01.png",
+        "title": "THESE ARE THE WORDS OF CHRIST"
+      },
+      {
+        "src": "img/kempis-imitation-of-christ/card-02.png",
+        "title": "WHAT DOTH IT PROFIT THEE"
+      },
+      {
+        "src": "img/kempis-imitation-of-christ/card-03.png",
+        "title": "I HAD RATHER FEEL CONTRITION THAN"
+      },
+      {
+        "src": "img/kempis-imitation-of-christ/card-04.png",
+        "title": "IT IS VANITY THEN TO SEEK"
+      },
+      {
+        "src": "img/kempis-imitation-of-christ/card-05.png",
+        "title": "VANITY TO DESIRE A LONG LIFE"
+      },
+      {
+        "src": "img/kempis-imitation-of-christ/card-06.png",
+        "title": "TURN AWAY THY HEART"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-thinking-humbly-of-oneself",
+    "title": "THINKING HUMBLY OF ONESELF",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/kempis-thinking-humbly-of-oneself/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-thinking-humbly-of-oneself/card-01.png",
+        "title": "THERE IS NATURALLY IN EVERY MAN"
+      },
+      {
+        "src": "img/kempis-thinking-humbly-of-oneself/card-02.png",
+        "title": "HE WHO KNOWETH HIMSELF WELL"
+      },
+      {
+        "src": "img/kempis-thinking-humbly-of-oneself/card-03.png",
+        "title": "REST FROM INORDINATE DESIRE OF KNOWLEDGE"
+      },
+      {
+        "src": "img/kempis-thinking-humbly-of-oneself/card-04.png",
+        "title": "THE GREATER THY KNOWLEDGE"
+      },
+      {
+        "src": "img/kempis-thinking-humbly-of-oneself/card-05.png",
+        "title": "MANY THINGS THOU KNOWEST NOT"
+      },
+      {
+        "src": "img/kempis-thinking-humbly-of-oneself/card-06.png",
+        "title": "THAT IS THE HIGHEST AND MOST"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-knowledge-of-truth",
+    "title": "THE KNOWLEDGE OF TRUTH",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/kempis-knowledge-of-truth/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-knowledge-of-truth/card-01.png",
+        "title": "WHAT DOTH IT PROFIT TO ARGUE"
+      },
+      {
+        "src": "img/kempis-knowledge-of-truth/card-02.png",
+        "title": "WHO IS SO FULL OF HINDRANCE"
+      },
+      {
+        "src": "img/kempis-knowledge-of-truth/card-03.png",
+        "title": "OF A SURETY AT THE DAY"
+      },
+      {
+        "src": "img/kempis-knowledge-of-truth/card-04.png",
+        "title": "WE MUST NOT TRUST EVERY WORD"
+      },
+      {
+        "src": "img/kempis-knowledge-of-truth/card-05.png",
+        "title": "IT IS TRUTH WHICH WE MUST"
+      },
+      {
+        "src": "img/kempis-knowledge-of-truth/card-06.png",
+        "title": "PROFIT BY THY READING"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-resisting-temptation",
+    "title": "RESISTING TEMPTATION",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/kempis-resisting-temptation/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-resisting-temptation/card-01.png",
+        "title": "WE MAY ENJOY ABUNDANCE OF PEACE"
+      },
+      {
+        "src": "img/kempis-resisting-temptation/card-02.png",
+        "title": "IF WE LOOK UPON OUR PROGRESS"
+      },
+      {
+        "src": "img/kempis-resisting-temptation/card-03.png",
+        "title": "HARD TO BREAK THROUGH A HABIT"
+      },
+      {
+        "src": "img/kempis-resisting-temptation/card-04.png",
+        "title": "TEMPTATIONS TURN TO OUR PROFIT"
+      },
+      {
+        "src": "img/kempis-resisting-temptation/card-05.png",
+        "title": "THE BEGINNING OF ALL TEMPTATIONS"
+      },
+      {
+        "src": "img/kempis-resisting-temptation/card-06.png",
+        "title": "IN TEMPTATIONS AND TROUBLES A MAN"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-bearing-with-others",
+    "title": "BEARING WITH THE FAULTS OF OTHERS",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/kempis-bearing-with-others/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-bearing-with-others/card-01.png",
+        "title": "LOOK WELL UNTO THYSELF AND BEWARE"
+      },
+      {
+        "src": "img/kempis-bearing-with-others/card-02.png",
+        "title": "OFTEN SOME SECRET THOUGHT LURKING WITHIN"
+      },
+      {
+        "src": "img/kempis-bearing-with-others/card-03.png",
+        "title": "WITHOUT CHARITY NO WORK PROFITETH"
+      },
+      {
+        "src": "img/kempis-bearing-with-others/card-04.png",
+        "title": "HE ASCRIBETH GOOD TO NONE SAVE"
+      },
+      {
+        "src": "img/kempis-bearing-with-others/card-05.png",
+        "title": "ENDEAVOUR TO BE PATIENT IN BEARING"
+      },
+      {
+        "src": "img/kempis-bearing-with-others/card-06.png",
+        "title": "BEAR ONE ANOTHER'S BURDENS"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-solitude-and-silence",
+    "title": "THE LOVE OF SOLITUDE AND SILENCE",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/kempis-solitude-and-silence/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-solitude-and-silence/card-01.png",
+        "title": "STUDY SUCH MATTERS AS BRING THEE"
+      },
+      {
+        "src": "img/kempis-solitude-and-silence/card-02.png",
+        "title": "THOSE WHO STAND HIGHEST FALL"
+      },
+      {
+        "src": "img/kempis-solitude-and-silence/card-03.png",
+        "title": "GOD WILL DRAW NIGH TO HIM"
+      },
+      {
+        "src": "img/kempis-solitude-and-silence/card-04.png",
+        "title": "REMAIN WITH HIM IN THY CHAMBER"
+      },
+      {
+        "src": "img/kempis-solitude-and-silence/card-05.png",
+        "title": "HAPPY IS HE WHO CAN CAST"
+      },
+      {
+        "src": "img/kempis-solitude-and-silence/card-06.png",
+        "title": "IF THOU THOUGHTEST UPON THY DEATH"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-meditation-on-death",
+    "title": "MEDITATION ON DEATH",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-meditation-on-death/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-meditation-on-death/card-01.png",
+        "title": "THOU ART MISERABLE WHERESOEVER THOU ART"
+      },
+      {
+        "src": "img/kempis-meditation-on-death/card-02.png",
+        "title": "WHAT SHALL BECOME OF US AT"
+      },
+      {
+        "src": "img/kempis-meditation-on-death/card-03.png",
+        "title": "LEARN NOW TO DIE TO THE WORLD"
+      },
+      {
+        "src": "img/kempis-meditation-on-death/card-04.png",
+        "title": "SHALL IT BE SEEN THAT HE"
+      },
+      {
+        "src": "img/kempis-meditation-on-death/card-05.png",
+        "title": "ONE THING THERE IS WHICH HOLDETH"
+      },
+      {
+        "src": "img/kempis-meditation-on-death/card-06.png",
+        "title": "A ZEALOUS AND DILIGENT MAN"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-inward-life",
+    "title": "THE INWARD LIFE",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-inward-life/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-inward-life/card-01.png",
+        "title": "TURN THEE WITH ALL THINE HEART"
+      },
+      {
+        "src": "img/kempis-inward-life/card-02.png",
+        "title": "WHY DOST THOU CAST THINE EYES"
+      },
+      {
+        "src": "img/kempis-inward-life/card-03.png",
+        "title": "CHRIST HAD ADVERSARIES AND GAINSAYERS"
+      },
+      {
+        "src": "img/kempis-inward-life/card-04.png",
+        "title": "IF IT WERE WELL WITH THEE"
+      },
+      {
+        "src": "img/kempis-inward-life/card-05.png",
+        "title": "FIRST KEEP THYSELF IN PEACE"
+      },
+      {
+        "src": "img/kempis-inward-life/card-06.png",
+        "title": "THOSE WHO KEEP THEMSELVES IN PEACE"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-joy-of-good-conscience",
+    "title": "THE JOY OF A GOOD CONSCIENCE",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/kempis-joy-of-good-conscience/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-joy-of-good-conscience/card-01.png",
+        "title": "BY TWO WINGS IS MAN LIFTED"
+      },
+      {
+        "src": "img/kempis-joy-of-good-conscience/card-02.png",
+        "title": "WHEN A MAN BEGINNETH TO GROW"
+      },
+      {
+        "src": "img/kempis-joy-of-good-conscience/card-03.png",
+        "title": "WE OFTEN DO ILL AND EXCUSE"
+      },
+      {
+        "src": "img/kempis-joy-of-good-conscience/card-04.png",
+        "title": "GREAT PROGRESS FREE FROM TEMPORAL CARE"
+      },
+      {
+        "src": "img/kempis-joy-of-good-conscience/card-05.png",
+        "title": "THE TESTIMONY OF A GOOD CONSCIENCE"
+      },
+      {
+        "src": "img/kempis-joy-of-good-conscience/card-06.png",
+        "title": "CONTENTED WHOSE CONSCIENCE IS PURE"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-loving-jesus-above-all",
+    "title": "LOVING JESUS ABOVE ALL THINGS",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-loving-jesus-above-all/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-loving-jesus-above-all/card-01.png",
+        "title": "BLESSED IS HE WHO UNDERSTANDETH WHAT"
+      },
+      {
+        "src": "img/kempis-loving-jesus-above-all/card-02.png",
+        "title": "CLEAVE THOU TO JESUS IN LIFE"
+      },
+      {
+        "src": "img/kempis-loving-jesus-above-all/card-03.png",
+        "title": "WHAT CAN THE WORLD PROFIT THEE"
+      },
+      {
+        "src": "img/kempis-loving-jesus-above-all/card-04.png",
+        "title": "THOU CANST QUICKLY DRIVE AWAY JESUS"
+      },
+      {
+        "src": "img/kempis-loving-jesus-above-all/card-05.png",
+        "title": "NEVER DESIRE TO BE SPECIALLY PRAISED"
+      },
+      {
+        "src": "img/kempis-loving-jesus-above-all/card-06.png",
+        "title": "NOT CAST DOWN NOR DESPAIR"
+      }
+    ]
   }
 ];
