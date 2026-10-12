@@ -11784,5 +11784,345 @@ window.MANIFEST = [
         "title": "LABOR TO BE PERSONS RIGHTLY QUALIFIED"
       }
     ]
+  },
+  {
+    "slug": "bunyan-city-of-destruction",
+    "title": "THE CITY OF DESTRUCTION",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bunyan-city-of-destruction/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-city-of-destruction/card-01.png",
+        "title": "THE MAN WITH THE BOOK AND THE BURDEN"
+      },
+      {
+        "src": "img/bunyan-city-of-destruction/card-02.png",
+        "title": "A NIGHT OF SIGHS AND TEARS"
+      },
+      {
+        "src": "img/bunyan-city-of-destruction/card-03.png",
+        "title": "HIS HOUSEHOLD HARDENED AGAINST HIM"
+      },
+      {
+        "src": "img/bunyan-city-of-destruction/card-04.png",
+        "title": "HE COULD NOT TELL WHICH WAY TO GO"
+      },
+      {
+        "src": "img/bunyan-city-of-destruction/card-05.png",
+        "title": "AFRAID OF FALLING INTO TOPHET"
+      },
+      {
+        "src": "img/bunyan-city-of-destruction/card-06.png",
+        "title": "HE REFUSES TO GO BACK"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-slough-of-despond",
+    "title": "THE SLOUGH OF DESPOND",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/bunyan-slough-of-despond/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-slough-of-despond/card-01.png",
+        "title": "PLIABLE OFFENDED AT THE FIRST DIFFICULTY"
+      },
+      {
+        "src": "img/bunyan-slough-of-despond/card-02.png",
+        "title": "CHRISTIAN SINKS AND HELP COMES"
+      },
+      {
+        "src": "img/bunyan-slough-of-despond/card-03.png",
+        "title": "WHY IS THIS PLACE NOT MENDED"
+      },
+      {
+        "src": "img/bunyan-slough-of-despond/card-04.png",
+        "title": "THE SLOUGH THAT CANNOT BE MENDED"
+      },
+      {
+        "src": "img/bunyan-slough-of-despond/card-05.png",
+        "title": "PLIABLE MOCKED AT HOME"
+      },
+      {
+        "src": "img/bunyan-slough-of-despond/card-06.png",
+        "title": "TO THE GATE TO BE RID OF MY BURDEN"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-worldly-wiseman",
+    "title": "MR WORLDLY WISEMAN",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/bunyan-worldly-wiseman/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-worldly-wiseman/card-01.png",
+        "title": "GET RID OF THY BURDEN WITH ALL SPEED"
+      },
+      {
+        "src": "img/bunyan-worldly-wiseman/card-02.png",
+        "title": "MY BURDEN IS MORE TERRIBLE THAN ALL"
+      },
+      {
+        "src": "img/bunyan-worldly-wiseman/card-03.png",
+        "title": "THE HILL THAT HUNG OVER THE WAY"
+      },
+      {
+        "src": "img/bunyan-worldly-wiseman/card-04.png",
+        "title": "EVANGELIST WITH A SEVERE COUNTENANCE"
+      },
+      {
+        "src": "img/bunyan-worldly-wiseman/card-05.png",
+        "title": "LEGALITY IS A CHEAT"
+      },
+      {
+        "src": "img/bunyan-worldly-wiseman/card-06.png",
+        "title": "ASHAMED FOR HEARKENING TO HIS COUNSEL"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-wicket-gate",
+    "title": "THE WICKET GATE",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bunyan-wicket-gate/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-wicket-gate/card-01.png",
+        "title": "I COME FROM THE CITY OF DESTRUCTION"
+      },
+      {
+        "src": "img/bunyan-wicket-gate/card-02.png",
+        "title": "I PUT MY FINGERS IN MY EARS"
+      },
+      {
+        "src": "img/bunyan-wicket-gate/card-03.png",
+        "title": "PLIABLE DISCOURAGED AT THE SLOUGH"
+      },
+      {
+        "src": "img/bunyan-wicket-gate/card-04.png",
+        "title": "EVANGELIST MET ME AGAIN BY MERCY"
+      },
+      {
+        "src": "img/bunyan-wicket-gate/card-05.png",
+        "title": "THIS IS THE WAY THOU MUST GO"
+      },
+      {
+        "src": "img/bunyan-wicket-gate/card-06.png",
+        "title": "THE BURDEN NOT YET TAKEN OFF"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-house-of-interpreter",
+    "title": "THE HOUSE OF THE INTERPRETER",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/bunyan-house-of-interpreter/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-house-of-interpreter/card-01.png",
+        "title": "A TRAVELLER AT THE INTERPRETER'S DOOR"
+      },
+      {
+        "src": "img/bunyan-house-of-interpreter/card-02.png",
+        "title": "EYES LIFTED UP TO HEAVEN"
+      },
+      {
+        "src": "img/bunyan-house-of-interpreter/card-03.png",
+        "title": "PASSION AND PATIENCE"
+      },
+      {
+        "src": "img/bunyan-house-of-interpreter/card-04.png",
+        "title": "PASSION LAVISHED ALL AWAY"
+      },
+      {
+        "src": "img/bunyan-house-of-interpreter/card-05.png",
+        "title": "PATIENCE HAS THE BEST WISDOM"
+      },
+      {
+        "src": "img/bunyan-house-of-interpreter/card-06.png",
+        "title": "THE FIRE THAT BURNS HIGHER"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-interpreters-warnings",
+    "title": "THE INTERPRETER'S WARNINGS",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/bunyan-interpreters-warnings/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-interpreters-warnings/card-01.png",
+        "title": "THE STATELY PALACE AND THE MEN IN GOLD"
+      },
+      {
+        "src": "img/bunyan-interpreters-warnings/card-02.png",
+        "title": "THE MAN IN THE IRON CAGE"
+      },
+      {
+        "src": "img/bunyan-interpreters-warnings/card-03.png",
+        "title": "ONCE A FAIR AND FLOURISHING PROFESSOR"
+      },
+      {
+        "src": "img/bunyan-interpreters-warnings/card-04.png",
+        "title": "THE MAN WHO ROSE TREMBLING"
+      },
+      {
+        "src": "img/bunyan-interpreters-warnings/card-05.png",
+        "title": "I THOUGHT THE DAY OF JUDGEMENT WAS COME"
+      },
+      {
+        "src": "img/bunyan-interpreters-warnings/card-06.png",
+        "title": "AS A GOAD IN THY SIDES"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-the-cross",
+    "title": "THE CROSS",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bunyan-the-cross/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-the-cross/card-01.png",
+        "title": "THE BURDEN LOOSED AT THE CROSS"
+      },
+      {
+        "src": "img/bunyan-the-cross/card-02.png",
+        "title": "HE HATH GIVEN ME REST BY HIS SORROW"
+      },
+      {
+        "src": "img/bunyan-the-cross/card-03.png",
+        "title": "SIMPLE, SLOTH AND PRESUMPTION ASLEEP"
+      },
+      {
+        "src": "img/bunyan-the-cross/card-04.png",
+        "title": "THEY WOULD NOT BE HELPED"
+      },
+      {
+        "src": "img/bunyan-the-cross/card-05.png",
+        "title": "FORMALIST AND HYPOCRISY OVER THE WALL"
+      },
+      {
+        "src": "img/bunyan-the-cross/card-06.png",
+        "title": "THE SHORT CUT OVER THE WALL"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-hill-difficulty",
+    "title": "HILL DIFFICULTY",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/bunyan-hill-difficulty/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-hill-difficulty/card-01.png",
+        "title": "I WALK BY THE RULE OF MY MASTER"
+      },
+      {
+        "src": "img/bunyan-hill-difficulty/card-02.png",
+        "title": "TWO OTHER WAYS AT THE FOOT OF THE HILL"
+      },
+      {
+        "src": "img/bunyan-hill-difficulty/card-03.png",
+        "title": "WHITHER SHALL I FLY TO BE SAFE"
+      },
+      {
+        "src": "img/bunyan-hill-difficulty/card-04.png",
+        "title": "HOW MANY STEPS HAVE I TOOK IN VAIN"
+      },
+      {
+        "src": "img/bunyan-hill-difficulty/card-05.png",
+        "title": "THE BEASTS RANGE IN THE NIGHT"
+      },
+      {
+        "src": "img/bunyan-hill-difficulty/card-06.png",
+        "title": "THE LIONS DID HIM NO HARM"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-palace-beautiful",
+    "title": "PALACE BEAUTIFUL",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bunyan-palace-beautiful/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-palace-beautiful/card-01.png",
+        "title": "THE PORTER TELLS OF THE PILGRIM"
+      },
+      {
+        "src": "img/bunyan-palace-beautiful/card-02.png",
+        "title": "THREE THINGS THAT WILL STICK BY ME"
+      },
+      {
+        "src": "img/bunyan-palace-beautiful/card-03.png",
+        "title": "THERE I HOPE TO SEE HIM ALIVE"
+      },
+      {
+        "src": "img/bunyan-palace-beautiful/card-04.png",
+        "title": "A LOVER OF POOR PILGRIMS"
+      },
+      {
+        "src": "img/bunyan-palace-beautiful/card-05.png",
+        "title": "THE ARMOURY OF THE LORD"
+      },
+      {
+        "src": "img/bunyan-palace-beautiful/card-06.png",
+        "title": "DISCRETION ACCOMPANIES HIM DOWN"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-valley-of-humiliation",
+    "title": "THE VALLEY OF HUMILIATION",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bunyan-valley-of-humiliation/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-valley-of-humiliation/card-01.png",
+        "title": "BREAD, WINE AND RAISINS FOR THE WAY"
+      },
+      {
+        "src": "img/bunyan-valley-of-humiliation/card-02.png",
+        "title": "THOU ART ONE OF MY SUBJECTS"
+      },
+      {
+        "src": "img/bunyan-valley-of-humiliation/card-03.png",
+        "title": "THEY STAY FOR THEIR GLORY"
+      },
+      {
+        "src": "img/bunyan-valley-of-humiliation/card-04.png",
+        "title": "DARTS AS THICK AS HAIL"
+      },
+      {
+        "src": "img/bunyan-valley-of-humiliation/card-05.png",
+        "title": "HE SPAKE LIKE A DRAGON"
+      },
+      {
+        "src": "img/bunyan-valley-of-humiliation/card-06.png",
+        "title": "REFRESHED, WITH SWORD DRAWN"
+      }
+    ]
   }
 ];
