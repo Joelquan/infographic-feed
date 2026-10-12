@@ -247,7 +247,7 @@ window.MANIFEST = [
       },
       {
         "src": "img/marriage/card-04.png",
-        "title": "MUTUAL DUTIES"
+        "title": "MUTUAL RELATIONS"
       },
       {
         "src": "img/marriage/card-05.png",
@@ -471,6 +471,10 @@ window.MANIFEST = [
       },
       {
         "src": "img/holy-spirit/card-05.png",
+        "title": "OBEY"
+      },
+      {
+        "src": "img/holy-spirit/card-06.png",
         "title": "BELIEVE"
       }
     ]
