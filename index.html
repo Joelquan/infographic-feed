@@ -72,7 +72,6 @@
     animation: hintfade 2.6s ease-in-out infinite;
   }
   @keyframes hintfade { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
-  /* subject picker */
   #picker {
     position: absolute; inset: 0; z-index: 20; background: rgba(8,8,8,.97);
     display: none; flex-direction: column;
@@ -90,7 +89,6 @@
   .pcard .pspeaker { font-size: 12px; color: #a9a9a9; margin-top: 2px; }
   .pcard.all { display: flex; align-items: center; justify-content: center; min-height: 120px;
                font-size: 15px; font-weight: 700; color: #ffd479; }
-  /* toast */
   #toast {
     position: absolute; left: 50%; bottom: calc(70px + env(safe-area-inset-bottom)); transform: translateX(-50%) translateY(20px);
     background: rgba(255,255,255,.94); color: #111; font-size: 14px; font-weight: 600;
@@ -104,7 +102,7 @@
 <body>
 <div id="phone">
   <div id="feed"></div>
-  <div id="empty">No card sets found.<br>Run generate_manifest.py in the prototype folder.</div>
+  <div id="empty">No card sets found.</div>
 
   <div class="filter-chip" id="filterChip">
     <span id="filterName"></span><button id="clearFilter" aria-label="Show all subjects">X</button>
@@ -160,45 +158,63 @@
     return SETS.filter(function (s) { return s.slug === filter; });
   }
 
-  function shareSet(set) {
-    var text = set.title + (set.speaker ? " by " + set.speaker : "") + " from the Infographic Feed";
-    var url = location.href.split("#")[0];
-    var done = function (msg) { showToast(msg); };
-    if (navigator.share) {
-      navigator.share({ title: set.title, text: text, url: url }).then(function () {
-        done("Shared");
-      }).catch(function (err) {
-        if (err && err.name !== "AbortError") fallbackCopy(text + " " + url, done);
-      });
-    } else {
-      fallbackCopy(text + " " + url, done);
-    }
+  function screensFor(set) {
+    var out = [{ kind: "overview", src: set.overview, label: set.title + " overview" }];
+    (set.cards || []).forEach(function (c, i) {
+      out.push({ kind: "card", src: c.src, label: c.title || (set.title + " " + (i + 1)) });
+    });
+    return out;
   }
 
-  function fallbackCopy(str, done) {
-    function ok() { done("Link copied"); }
-    function fail() { done("Copy not available"); }
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(str).then(ok, fail);
-    } else {
-      var ta = document.createElement("textarea");
-      ta.value = str; ta.style.position = "fixed"; ta.style.opacity = "0";
-      document.body.appendChild(ta); ta.select();
-      try { document.execCommand("copy") ? ok() : fail(); } catch (e) { fail(); }
-      document.body.removeChild(ta);
+  function shareImage(src, label) {
+    var done = function (msg) { showToast(msg); };
+    function downloadFallback() {
+      var a = document.createElement("a");
+      a.href = src; a.download = safeName(label) + ".png";
+      document.body.appendChild(a); a.click();
+      setTimeout(function () { document.body.removeChild(a); }, 500);
+      done("Image saved");
     }
+    fetch(src).then(function (res) {
+      if (!res.ok) throw new Error("fetch failed");
+      return res.blob();
+    }).then(function (blob) {
+      var file = new File([blob], safeName(label) + ".png", { type: "image/png" });
+      if (navigator.canShare && navigator.canShare({ files: [file] })) {
+        return navigator.share({ files: [file], title: label }).then(function () {
+          done("Shared");
+        }).catch(function (err) {
+          if (!err || err.name !== "AbortError") downloadFallback();
+        });
+      }
+      downloadFallback();
+    }).catch(function () { downloadFallback(); });
+  }
+
+  function safeName(s) {
+    return String(s || "card").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "") || "card";
   }
 
   function renderFeed() {
     feed.innerHTML = "";
     var sets = activeSets();
-    if (!sets.length) {
+    var screens = [];
+    sets.forEach(function (set) {
+      screensFor(set).forEach(function (sc) { screens.push({ set: set, sc: sc }); });
+    });
+    if (!screens.length) {
       feed.style.display = "none"; empty.style.display = "flex";
-      empty.innerHTML = filter ? "No sets for this subject yet." : "No card sets found.<br>Run generate_manifest.py in the prototype folder.";
+      empty.textContent = filter ? "No cards for this subject yet." : "No card sets found.";
       return;
     }
     feed.style.display = ""; empty.style.display = "none";
-    sets.forEach(function (set, i) {
+    var posInSet = {};
+    screens.forEach(function (entry, i) {
+      var set = entry.set, sc = entry.sc;
+      var setScreens = screensFor(set);
+      posInSet[set.slug] = (posInSet[set.slug] || 0) + 1;
+      var pos = posInSet[set.slug];
+
       var screen = document.createElement("section");
       screen.className = "screen";
 
@@ -206,17 +222,17 @@
       bar.className = "topbar";
       bar.innerHTML =
         '<div class="meta"><div class="subject-tag">' + escapeHtml(set.title) + "</div>" +
-        '<div class="speaker">' + escapeHtml(set.speaker || "") + "</div></div>" +
+        '<div class="speaker">' + escapeHtml(set.credit || "") + "</div></div>" +
         '<div class="actions">' +
         '<button class="btn" data-act="subjects" aria-label="Subjects">' + iconGrid() + "</button>" +
-        '<button class="btn" data-act="share" aria-label="Share">' + iconShare() + "</button>" +
+        '<button class="btn" data-act="share" aria-label="Share this card">' + iconShare() + "</button>" +
         "</div>";
       screen.appendChild(bar);
 
       var art = document.createElement("div");
       art.className = "art";
       var img = document.createElement("img");
-      img.src = set.image; img.alt = set.title;
+      img.src = sc.src; img.alt = sc.label;
       img.loading = i < 2 ? "eager" : "lazy";
       img.onerror = function () { screen.style.display = "none"; };
       art.appendChild(img);
@@ -224,7 +240,7 @@
 
       var counter = document.createElement("div");
       counter.className = "counter";
-      counter.textContent = (i + 1) + " / " + sets.length;
+      counter.textContent = pos + " / " + setScreens.length;
       screen.appendChild(counter);
 
       if (i === 0 && !filter) {
@@ -239,7 +255,7 @@
         var b = ev.target.closest("button");
         if (!b) return;
         if (b.getAttribute("data-act") === "subjects") openPicker();
-        else shareSet(set);
+        else shareImage(sc.src, sc.label);
       });
 
       feed.appendChild(screen);
@@ -263,9 +279,9 @@
     SETS.forEach(function (set) {
       var card = document.createElement("button");
       card.className = "pcard";
-      card.innerHTML = '<img src="' + set.image + '" alt="" loading="lazy">' +
+      card.innerHTML = '<img src="' + set.overview + '" alt="" loading="lazy">' +
         '<div class="pinfo"><div class="ptitle">' + escapeHtml(set.title) + "</div>" +
-        '<div class="pspeaker">' + escapeHtml(set.speaker || "") + "</div></div>";
+        '<div class="pspeaker">' + escapeHtml(set.credit || "") + "</div></div>";
       card.addEventListener("click", function () { setFilter(set.slug); });
       pickerGrid.appendChild(card);
     });
