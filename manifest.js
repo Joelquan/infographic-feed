@@ -12124,5 +12124,345 @@ window.MANIFEST = [
         "title": "REFRESHED, WITH SWORD DRAWN"
       }
     ]
+  },
+  {
+    "slug": "bunyan-valley-of-the-shadow",
+    "title": "THE VALLEY OF THE SHADOW OF DEATH",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bunyan-valley-of-the-shadow/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-valley-of-the-shadow/card-01.png",
+        "title": "AS DARK AS PITCH"
+      },
+      {
+        "src": "img/bunyan-valley-of-the-shadow/card-02.png",
+        "title": "HE KNEW NOT WHERE TO SET HIS FOOT"
+      },
+      {
+        "src": "img/bunyan-valley-of-the-shadow/card-03.png",
+        "title": "DOLEFUL VOICES FOR SEVERAL MILES"
+      },
+      {
+        "src": "img/bunyan-valley-of-the-shadow/card-04.png",
+        "title": "I WILL WALK IN THE STRENGTH OF THE LORD"
+      },
+      {
+        "src": "img/bunyan-valley-of-the-shadow/card-05.png",
+        "title": "HE DID NOT KNOW HIS OWN VOICE"
+      },
+      {
+        "src": "img/bunyan-valley-of-the-shadow/card-06.png",
+        "title": "DELIVERED FROM THE DANGERS OF THE WAY"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-faithful",
+    "title": "FAITHFUL JOINS THE WAY",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/bunyan-faithful/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-faithful/card-01.png",
+        "title": "THE END OF OUR CITY WILL BE WITH FIRE"
+      },
+      {
+        "src": "img/bunyan-faithful/card-02.png",
+        "title": "THE WAGES OF ADAM THE FIRST"
+      },
+      {
+        "src": "img/bunyan-faithful/card-03.png",
+        "title": "MOSES STRUCK ME DOWN"
+      },
+      {
+        "src": "img/bunyan-faithful/card-04.png",
+        "title": "DISCONTENT WOULD PERSUADE ME BACK"
+      },
+      {
+        "src": "img/bunyan-faithful/card-05.png",
+        "title": "SHAME HELD ME TO IT"
+      },
+      {
+        "src": "img/bunyan-faithful/card-06.png",
+        "title": "DAY BROKE IN THE VALLEY"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-talkative",
+    "title": "TALKATIVE",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/bunyan-talkative/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-talkative/card-01.png",
+        "title": "TO TALK OF THINGS THAT ARE GOOD"
+      },
+      {
+        "src": "img/bunyan-talkative/card-02.png",
+        "title": "I WILL TALK OF ALL THINGS"
+      },
+      {
+        "src": "img/bunyan-talkative/card-03.png",
+        "title": "HE BRINGS UP HIS SONS IN HIS STEPS"
+      },
+      {
+        "src": "img/bunyan-talkative/card-04.png",
+        "title": "OUR TALK MUST BE ABOUT THE POWER"
+      },
+      {
+        "src": "img/bunyan-talkative/card-05.png",
+        "title": "SORROW AND SHAME FOR SIN"
+      },
+      {
+        "src": "img/bunyan-talkative/card-06.png",
+        "title": "YOUR WORDS AND HIS LUSTS COULD NOT AGREE"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-vanity-fair",
+    "title": "VANITY FAIR",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bunyan-vanity-fair/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-vanity-fair/card-01.png",
+        "title": "IT IS MY GOOD FRIEND EVANGELIST"
+      },
+      {
+        "src": "img/bunyan-vanity-fair/card-02.png",
+        "title": "A FAIR KEPT ALL THE YEAR LONG"
+      },
+      {
+        "src": "img/bunyan-vanity-fair/card-03.png",
+        "title": "SOME SAID THEY WERE FOOLS"
+      },
+      {
+        "src": "img/bunyan-vanity-fair/card-04.png",
+        "title": "THE JUDGE WAS LORD HATE-GOOD"
+      },
+      {
+        "src": "img/bunyan-vanity-fair/card-05.png",
+        "title": "BURNED TO ASHES AT THE STAKE"
+      },
+      {
+        "src": "img/bunyan-vanity-fair/card-06.png",
+        "title": "HOPEFUL JOINS CHRISTIAN"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-by-ends",
+    "title": "BY-ENDS AND THE PLAIN OF EASE",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/bunyan-by-ends/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-by-ends/card-01.png",
+        "title": "THIS IS BY-ENDS OF FAIR-SPEECH"
+      },
+      {
+        "src": "img/bunyan-by-ends/card-02.png",
+        "title": "AGAINST WIND AND TIDE"
+      },
+      {
+        "src": "img/bunyan-by-ends/card-03.png",
+        "title": "A STALKING-HORSE TO GET THE WORLD"
+      },
+      {
+        "src": "img/bunyan-by-ends/card-04.png",
+        "title": "DEMAS AT THE SILVER MINE"
+      },
+      {
+        "src": "img/bunyan-by-ends/card-05.png",
+        "title": "REMEMBER LOT'S WIFE"
+      },
+      {
+        "src": "img/bunyan-by-ends/card-06.png",
+        "title": "THE MEADOW BY THE RIVER"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-doubting-castle",
+    "title": "DOUBTING CASTLE",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bunyan-doubting-castle/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-doubting-castle/card-01.png",
+        "title": "DISCOURAGED BECAUSE OF THE WAY"
+      },
+      {
+        "src": "img/bunyan-doubting-castle/card-02.png",
+        "title": "CAUGHT ASLEEP IN THE GIANT'S GROUNDS"
+      },
+      {
+        "src": "img/bunyan-doubting-castle/card-03.png",
+        "title": "HE FELL INTO ONE OF HIS FITS"
+      },
+      {
+        "src": "img/bunyan-doubting-castle/card-04.png",
+        "title": "WHETHER TO TAKE THE GIANT'S COUNSEL"
+      },
+      {
+        "src": "img/bunyan-doubting-castle/card-05.png",
+        "title": "THE GIANT COULD NOT BRING THEM TO AN END"
+      },
+      {
+        "src": "img/bunyan-doubting-castle/card-06.png",
+        "title": "THE KEY CALLED PROMISE"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-delectable-mountains",
+    "title": "THE DELECTABLE MOUNTAINS",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/bunyan-delectable-mountains/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-delectable-mountains/card-01.png",
+        "title": "WHOSE DELECTABLE MOUNTAINS ARE THESE"
+      },
+      {
+        "src": "img/bunyan-delectable-mountains/card-02.png",
+        "title": "THE HILL CALLED ERROR"
+      },
+      {
+        "src": "img/bunyan-delectable-mountains/card-03.png",
+        "title": "THE DOOR IN THE SIDE OF THE HILL"
+      },
+      {
+        "src": "img/bunyan-delectable-mountains/card-04.png",
+        "title": "THEY LOOKED THROUGH THE GLASS TREMBLING"
+      },
+      {
+        "src": "img/bunyan-delectable-mountains/card-05.png",
+        "title": "FOLLOW THE RELIGION OF YOUR COUNTRY"
+      },
+      {
+        "src": "img/bunyan-delectable-mountains/card-06.png",
+        "title": "WANTON PROFESSOR AND DAMNABLE APOSTATE"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-enchanted-ground",
+    "title": "THE ENCHANTED GROUND",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/bunyan-enchanted-ground/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-enchanted-ground/card-01.png",
+        "title": "DEAD MAN'S LANE"
+      },
+      {
+        "src": "img/bunyan-enchanted-ground/card-02.png",
+        "title": "HIS JEWELS KEPT FOR THE GATE"
+      },
+      {
+        "src": "img/bunyan-enchanted-ground/card-03.png",
+        "title": "GREAT-GRACE THE KING'S CHAMPION"
+      },
+      {
+        "src": "img/bunyan-enchanted-ground/card-04.png",
+        "title": "WITNESS PETER, WHO WOULD SWAGGER"
+      },
+      {
+        "src": "img/bunyan-enchanted-ground/card-05.png",
+        "title": "THE SHINING ONE WITH THE WHIP"
+      },
+      {
+        "src": "img/bunyan-enchanted-ground/card-06.png",
+        "title": "TWO ARE BETTER THAN ONE"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-ignorance",
+    "title": "IGNORANCE",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bunyan-ignorance/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-ignorance/card-01.png",
+        "title": "RUN A GREAT WAY INTO GOD'S BOOK"
+      },
+      {
+        "src": "img/bunyan-ignorance/card-02.png",
+        "title": "LORD, TAKE THIS OPPORTUNITY"
+      },
+      {
+        "src": "img/bunyan-ignorance/card-03.png",
+        "title": "BELIEVING AND COMING WAS ALL ONE"
+      },
+      {
+        "src": "img/bunyan-ignorance/card-04.png",
+        "title": "IGNORANCE STATES HIS BELIEF"
+      },
+      {
+        "src": "img/bunyan-ignorance/card-05.png",
+        "title": "IGNORANCE IS THY NAME"
+      },
+      {
+        "src": "img/bunyan-ignorance/card-06.png",
+        "title": "THEY SEEK TO STIFLE CONVICTIONS"
+      }
+    ]
+  },
+  {
+    "slug": "bunyan-beulah-and-celestial-city",
+    "title": "BEULAH AND THE CELESTIAL CITY",
+    "credit": "John Bunyan",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bunyan-beulah-and-celestial-city/overview.png",
+    "cards": [
+      {
+        "src": "img/bunyan-beulah-and-celestial-city/card-01.png",
+        "title": "THE ORCHARDS AND GARDENS OF BEULAH"
+      },
+      {
+        "src": "img/bunyan-beulah-and-celestial-city/card-02.png",
+        "title": "THEY TALKED MORE IN THEIR SLEEP"
+      },
+      {
+        "src": "img/bunyan-beulah-and-celestial-city/card-03.png",
+        "title": "NO BRIDGE OVER THE RIVER"
+      },
+      {
+        "src": "img/bunyan-beulah-and-celestial-city/card-04.png",
+        "title": "HOPEFUL KEPT HIS HEAD ABOVE WATER"
+      },
+      {
+        "src": "img/bunyan-beulah-and-celestial-city/card-05.png",
+        "title": "YOU SHALL ENJOY YOUR FRIENDS AGAIN"
+      },
+      {
+        "src": "img/bunyan-beulah-and-celestial-city/card-06.png",
+        "title": "TRANSFIGURED AT THE GATE"
+      }
+    ]
   }
 ];
