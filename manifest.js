@@ -19872,5 +19872,141 @@ window.MANIFEST = [
         "title": "LIVING BY THE GRACE OF GOD"
       }
     ]
+  },
+  {
+    "slug": "ryle-practical-eternity",
+    "title": "ETERNITY",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/ryle-practical-eternity/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-practical-eternity/card-01.png",
+        "title": "THE CERTAINTY OF ETERNITY"
+      },
+      {
+        "src": "img/ryle-practical-eternity/card-02.png",
+        "title": "THAT GREAT UNSEEN STATE OF EXISTENCE"
+      },
+      {
+        "src": "img/ryle-practical-eternity/card-03.png",
+        "title": "I FEAR THE FALSE DOCTRINE OF"
+      },
+      {
+        "src": "img/ryle-practical-eternity/card-04.png",
+        "title": "SEARCH THE WRITINGS OF THE MOST"
+      },
+      {
+        "src": "img/ryle-practical-eternity/card-05.png",
+        "title": "NO SECOND PROBATION"
+      },
+      {
+        "src": "img/ryle-practical-eternity/card-06.png",
+        "title": "PREPARE FOR ETERNITY"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-parents-foundations",
+    "title": "TRAIN THEM IN THE WAY THEY SHOULD GO",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "parenting",
+    "overview": "img/ryle-parents-foundations/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-parents-foundations/card-01.png",
+        "title": "TRAIN THEM IN THE WAY THEY SHOULD GO"
+      },
+      {
+        "src": "img/ryle-parents-foundations/card-02.png",
+        "title": "THEY MUST BE WOOED WITH KINDNESS"
+      },
+      {
+        "src": "img/ryle-parents-foundations/card-03.png",
+        "title": "HE GIVES YOUR CHILDREN A MIND"
+      },
+      {
+        "src": "img/ryle-parents-foundations/card-04.png",
+        "title": "THE TIME IS SHORT THE FASHION"
+      },
+      {
+        "src": "img/ryle-parents-foundations/card-05.png",
+        "title": "PRAYER IS THE PECULIARITY OF ALL"
+      },
+      {
+        "src": "img/ryle-parents-foundations/card-06.png",
+        "title": "HE WILL OFTEN BE ABLE TO"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-parents-habits",
+    "title": "TRAIN THEM TO HABITS OF FAITH AND TRUTH",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "parenting",
+    "overview": "img/ryle-parents-habits/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-parents-habits/card-01.png",
+        "title": "TRAIN THEM TO HABITS OF DILIGENCE"
+      },
+      {
+        "src": "img/ryle-parents-habits/card-02.png",
+        "title": "UNBELIEF KEPT ISRAEL IN THE WILDERNESS"
+      },
+      {
+        "src": "img/ryle-parents-habits/card-03.png",
+        "title": "READER THIS HINT IS ONLY TOO"
+      },
+      {
+        "src": "img/ryle-parents-habits/card-04.png",
+        "title": "THE REDEEMED SAINTS IN GLORY WILL"
+      },
+      {
+        "src": "img/ryle-parents-habits/card-05.png",
+        "title": "NOTHING IS MORE UNPLEASANT THAN GIVING"
+      },
+      {
+        "src": "img/ryle-parents-habits/card-06.png",
+        "title": "READER IF THERE BE ANY POINT"
+      }
+    ]
+  },
+  {
+    "slug": "ryle-parents-remembrances",
+    "title": "TRAIN THEM REMEMBERING",
+    "credit": "J. C. Ryle",
+    "lane": "servants",
+    "topic": "family",
+    "overview": "img/ryle-parents-remembrances/overview.png",
+    "cards": [
+      {
+        "src": "img/ryle-parents-remembrances/card-01.png",
+        "title": "TRAIN THEM REMEMBERING CONTINUALLY HOW GOD"
+      },
+      {
+        "src": "img/ryle-parents-remembrances/card-02.png",
+        "title": "CHILDREN ARE VERY QUICK OBSERVERS VERY"
+      },
+      {
+        "src": "img/ryle-parents-remembrances/card-03.png",
+        "title": "THE POWER OF SIN IN CHILDREN"
+      },
+      {
+        "src": "img/ryle-parents-remembrances/card-04.png",
+        "title": "NEITHER IS ANYTHING TOO HARD FOR"
+      },
+      {
+        "src": "img/ryle-parents-remembrances/card-05.png",
+        "title": "CHILDREN HAVE EVER BEEN THE BOW"
+      },
+      {
+        "src": "img/ryle-parents-remembrances/card-06.png",
+        "title": "AS TO THE AGE WHEN THE"
+      }
+    ]
   }
 ];
