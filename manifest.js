@@ -12804,5 +12804,345 @@ window.MANIFEST = [
         "title": "NOT CAST DOWN NOR DESPAIR"
       }
     ]
+  },
+  {
+    "slug": "kempis-lack-of-all-comfort",
+    "title": "THE LACK OF ALL COMFORT",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-lack-of-all-comfort/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-lack-of-all-comfort/card-01.png",
+        "title": "NO HARD THING TO DESPISE HUMAN COMFORT"
+      },
+      {
+        "src": "img/kempis-lack-of-all-comfort/card-02.png",
+        "title": "MIGHTILY AND LONG MUST A MAN"
+      },
+      {
+        "src": "img/kempis-lack-of-all-comfort/card-03.png",
+        "title": "THOU HAST TURNED MY HEAVINESS INTO"
+      },
+      {
+        "src": "img/kempis-lack-of-all-comfort/card-04.png",
+        "title": "WHY SEEKEST THOU REST WHEN THOU"
+      },
+      {
+        "src": "img/kempis-lack-of-all-comfort/card-05.png",
+        "title": "WILLINGLY DO I ACCEPT THAT GRACE"
+      },
+      {
+        "src": "img/kempis-lack-of-all-comfort/card-06.png",
+        "title": "THANKFUL THOUGH HE GAVE STRIPES"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-royal-road-of-the-holy-cross",
+    "title": "THE ROYAL ROAD OF THE HOLY CROSS",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-royal-road-of-the-holy-cross/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-royal-road-of-the-holy-cross/card-01.png",
+        "title": "JESUS HATH MANY LOVERS OF HIS"
+      },
+      {
+        "src": "img/kempis-royal-road-of-the-holy-cross/card-02.png",
+        "title": "WHY FEAREST THOU THEN TO TAKE"
+      },
+      {
+        "src": "img/kempis-royal-road-of-the-holy-cross/card-03.png",
+        "title": "LEARN TO SUFFER WITHOUT CONSOLATION"
+      },
+      {
+        "src": "img/kempis-royal-road-of-the-holy-cross/card-04.png",
+        "title": "THE WHOLE LIFE OF CHRIST WAS"
+      },
+      {
+        "src": "img/kempis-royal-road-of-the-holy-cross/card-05.png",
+        "title": "SET THYSELF THEREFORE LIKE A GOOD"
+      },
+      {
+        "src": "img/kempis-royal-road-of-the-holy-cross/card-06.png",
+        "title": "NOTHING MORE ACCEPTABLE TO GOD NOTHING"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-inward-voice-of-christ",
+    "title": "THE INWARD VOICE OF CHRIST",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/kempis-inward-voice-of-christ/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-inward-voice-of-christ/card-01.png",
+        "title": "BLESSED ARE THE EARS WHICH RECEIVE"
+      },
+      {
+        "src": "img/kempis-inward-voice-of-christ/card-02.png",
+        "title": "THEY UTTER WORDS BUT GIVE NOT THE SPIRIT"
+      },
+      {
+        "src": "img/kempis-inward-voice-of-christ/card-03.png",
+        "title": "LET NOT MOSES SPEAK TO ME"
+      },
+      {
+        "src": "img/kempis-inward-voice-of-christ/card-04.png",
+        "title": "BUT O SHAME FOR AN UNCHANGEABLE"
+      },
+      {
+        "src": "img/kempis-inward-voice-of-christ/card-05.png",
+        "title": "WRITE MY WORDS IN THY HEART"
+      },
+      {
+        "src": "img/kempis-inward-voice-of-christ/card-06.png",
+        "title": "TURN NOT AWAY THY FACE"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-wonderful-power-of-divine-love",
+    "title": "THE WONDERFUL POWER OF DIVINE LOVE",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-wonderful-power-of-divine-love/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-wonderful-power-of-divine-love/card-01.png",
+        "title": "WALK BEFORE ME IN TRUTH"
+      },
+      {
+        "src": "img/kempis-wonderful-power-of-divine-love/card-02.png",
+        "title": "THERE ARE SOME WHO CARRY THEIR"
+      },
+      {
+        "src": "img/kempis-wonderful-power-of-divine-love/card-03.png",
+        "title": "LOVE IS WATCHFUL AND WHILST SLEEPING"
+      },
+      {
+        "src": "img/kempis-wonderful-power-of-divine-love/card-04.png",
+        "title": "THE PRUDENT LOVER CONSIDERETH THE LOVE"
+      },
+      {
+        "src": "img/kempis-wonderful-power-of-divine-love/card-05.png",
+        "title": "STRIVE THOU LIKE A GOOD SOLDIER"
+      },
+      {
+        "src": "img/kempis-wonderful-power-of-divine-love/card-06.png",
+        "title": "IT IS GOOD COUNSEL THAT WHEN"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-all-things-referred-to-god",
+    "title": "ALL THINGS REFERRED TO GOD",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-all-things-referred-to-god/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-all-things-referred-to-god/card-01.png",
+        "title": "IF I ABASE MYSELF AND BRING"
+      },
+      {
+        "src": "img/kempis-all-things-referred-to-god/card-02.png",
+        "title": "I MUST BE THY FINAL END"
+      },
+      {
+        "src": "img/kempis-all-things-referred-to-god/card-03.png",
+        "title": "THE TRUTH PUTS BOASTING TO FLIGHT"
+      },
+      {
+        "src": "img/kempis-all-things-referred-to-god/card-04.png",
+        "title": "NO GREAT THING TO SERVE THEE"
+      },
+      {
+        "src": "img/kempis-all-things-referred-to-god/card-05.png",
+        "title": "WHAT SHALL I RENDER UNTO THEE"
+      },
+      {
+        "src": "img/kempis-all-things-referred-to-god/card-06.png",
+        "title": "THE DELIGHTSOME SERVICE OF GOD"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-growth-of-patience",
+    "title": "THE INWARD GROWTH OF PATIENCE",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/kempis-growth-of-patience/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-growth-of-patience/card-01.png",
+        "title": "THY DESIRE IN SUBJECTION"
+      },
+      {
+        "src": "img/kempis-growth-of-patience/card-02.png",
+        "title": "STRIVE AGAINST THE SENSUAL APPETITE"
+      },
+      {
+        "src": "img/kempis-growth-of-patience/card-03.png",
+        "title": "BE IT SO GRANT THAT THEY"
+      },
+      {
+        "src": "img/kempis-growth-of-patience/card-04.png",
+        "title": "FOR IF THOU WILT TRULY FIND"
+      },
+      {
+        "src": "img/kempis-growth-of-patience/card-05.png",
+        "title": "LEARN THEREFORE QUICKLY TO SUBMIT THYSELF"
+      },
+      {
+        "src": "img/kempis-growth-of-patience/card-06.png",
+        "title": "BE ZEALOUS AGAINST THYSELF NOR SUFFER"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-true-solace-in-god-alone",
+    "title": "TRUE SOLACE IN GOD ALONE",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-true-solace-in-god-alone/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-true-solace-in-god-alone/card-01.png",
+        "title": "WHATSOEVER I AM ABLE TO DESIRE"
+      },
+      {
+        "src": "img/kempis-true-solace-in-god-alone/card-02.png",
+        "title": "I WILL WILLINGLY BEAR FOR THEE"
+      },
+      {
+        "src": "img/kempis-true-solace-in-god-alone/card-03.png",
+        "title": "MAKE POSSIBLE TO ME O LORD"
+      },
+      {
+        "src": "img/kempis-true-solace-in-god-alone/card-04.png",
+        "title": "HOW CAN THE LIFE OF MAN"
+      },
+      {
+        "src": "img/kempis-true-solace-in-god-alone/card-05.png",
+        "title": "NOW I OFTTIMES GROAN AND BEAR"
+      },
+      {
+        "src": "img/kempis-true-solace-in-god-alone/card-06.png",
+        "title": "WHAT HATH THY SERVANT TO SAY"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-four-things-that-bring-peace",
+    "title": "FOUR THINGS THAT BRING GREAT PEACE",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/kempis-four-things-that-bring-peace/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-four-things-that-bring-peace/card-01.png",
+        "title": "OPEN MY HEART IN THY LAW"
+      },
+      {
+        "src": "img/kempis-four-things-that-bring-peace/card-02.png",
+        "title": "ALL THINGS COME OF THEE THEREFORE"
+      },
+      {
+        "src": "img/kempis-four-things-that-bring-peace/card-03.png",
+        "title": "DO LORD AS THOU SAYEST"
+      },
+      {
+        "src": "img/kempis-four-things-that-bring-peace/card-04.png",
+        "title": "ALL THINGS COMMITTED TO ME"
+      },
+      {
+        "src": "img/kempis-four-things-that-bring-peace/card-05.png",
+        "title": "THE WORK OF A PERFECT MAN"
+      },
+      {
+        "src": "img/kempis-four-things-that-bring-peace/card-06.png",
+        "title": "TO CAST AWAY ALL THESE THINGS"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-self-denial",
+    "title": "SELF DENIAL",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/kempis-self-denial/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-self-denial/card-01.png",
+        "title": "MY SON THOU MUST GIVE ALL"
+      },
+      {
+        "src": "img/kempis-self-denial/card-02.png",
+        "title": "MY SON TAKE IT NOT SADLY"
+      },
+      {
+        "src": "img/kempis-self-denial/card-03.png",
+        "title": "NOW RECOVERING COURAGE AFTER THE TEMPEST"
+      },
+      {
+        "src": "img/kempis-self-denial/card-04.png",
+        "title": "IF I SHALL HAVE SENT UPON"
+      },
+      {
+        "src": "img/kempis-self-denial/card-05.png",
+        "title": "HE WHO ESTEEMETH ANYTHING GREAT SAVE"
+      },
+      {
+        "src": "img/kempis-self-denial/card-06.png",
+        "title": "RATHER OUGHTEST THOU TO BE PROVOKED"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-resignation-of-self",
+    "title": "PURE AND ENTIRE RESIGNATION OF SELF",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-resignation-of-self/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-resignation-of-self/card-01.png",
+        "title": "MY SON TRUST NOT THY FEELING"
+      },
+      {
+        "src": "img/kempis-resignation-of-self/card-02.png",
+        "title": "THOU MAKEST IT TO THINK RIGHTLY"
+      },
+      {
+        "src": "img/kempis-resignation-of-self/card-03.png",
+        "title": "WHEN SHALL THAT BLESSED TIME COME"
+      },
+      {
+        "src": "img/kempis-resignation-of-self/card-04.png",
+        "title": "THE LOVE OF GOD THOU MUST"
+      },
+      {
+        "src": "img/kempis-resignation-of-self/card-05.png",
+        "title": "ALWAYS EVERY HOUR IN THAT WHICH"
+      },
+      {
+        "src": "img/kempis-resignation-of-self/card-06.png",
+        "title": "THOU SHALT HAVE LIBERTY OF HEART"
+      }
+    ]
   }
 ];
