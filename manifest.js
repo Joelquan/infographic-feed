@@ -17492,5 +17492,345 @@ window.MANIFEST = [
         "title": "THEY HAVE BEEN TORTURED NOT ACCEPTING"
       }
     ]
+  },
+  {
+    "slug": "meyer-love-hatred-of-the-world",
+    "title": "THE HATRED OF THE WORLD",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-love-hatred-of-the-world/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-love-hatred-of-the-world/card-01.png",
+        "title": "THE HOLIER AND PURER A LIFE"
+      },
+      {
+        "src": "img/meyer-love-hatred-of-the-world/card-02.png",
+        "title": "IN DEALING WITH THESE IT IS"
+      },
+      {
+        "src": "img/meyer-love-hatred-of-the-world/card-03.png",
+        "title": "THINK IT NOT STRANGE CONCERNING THE"
+      },
+      {
+        "src": "img/meyer-love-hatred-of-the-world/card-04.png",
+        "title": "WE OFTEN DO NOT KNOW OUR"
+      },
+      {
+        "src": "img/meyer-love-hatred-of-the-world/card-05.png",
+        "title": "IT IS NOT DIFFICULT THEREFORE TO"
+      },
+      {
+        "src": "img/meyer-love-hatred-of-the-world/card-06.png",
+        "title": "CHRIST DOES NOT ASK THAT HIS"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-love-consecrated-to-consecrate",
+    "title": "CONSECRATED TO CONSECRATE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-love-consecrated-to-consecrate/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-love-consecrated-to-consecrate/card-01.png",
+        "title": "HE COULD NOT HIMSELF PERPETUATE HIS"
+      },
+      {
+        "src": "img/meyer-love-consecrated-to-consecrate/card-02.png",
+        "title": "WHAT IS THAT BOND OF UNION"
+      },
+      {
+        "src": "img/meyer-love-consecrated-to-consecrate/card-03.png",
+        "title": "THIS THEY WERE ABLE TO SUPPLY"
+      },
+      {
+        "src": "img/meyer-love-consecrated-to-consecrate/card-04.png",
+        "title": "IF IT MOVED HIM TO ENDURE"
+      },
+      {
+        "src": "img/meyer-love-consecrated-to-consecrate/card-05.png",
+        "title": "THERE HAD BEEN TIMES IN OUR"
+      },
+      {
+        "src": "img/meyer-love-consecrated-to-consecrate/card-06.png",
+        "title": "OUR LORD AT ONCE PENETRATED THE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-love-hall-of-annas",
+    "title": "THE HALL OF ANNAS",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-love-hall-of-annas/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-love-hall-of-annas/card-01.png",
+        "title": "OUR LORD'S REFERENCE TO THOSE WHO"
+      },
+      {
+        "src": "img/meyer-love-hall-of-annas/card-02.png",
+        "title": "ITS WARNING NOTES WERE JUST THEN"
+      },
+      {
+        "src": "img/meyer-love-hall-of-annas/card-03.png",
+        "title": "THE CHIEF PRIESTS AND ELDERS AND"
+      },
+      {
+        "src": "img/meyer-love-hall-of-annas/card-04.png",
+        "title": "AT THE PASSOVER SUPPER PROVIDED ON"
+      },
+      {
+        "src": "img/meyer-love-hall-of-annas/card-05.png",
+        "title": "A WILD AND HAGGARD MAN HE"
+      },
+      {
+        "src": "img/meyer-love-hall-of-annas/card-06.png",
+        "title": "HE SAW THEIR EAGERNESS TO WARD"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-love-trials-and-the-cross",
+    "title": "THE TRIALS AND THE CROSS",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-love-trials-and-the-cross/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-love-trials-and-the-cross/card-01.png",
+        "title": "THE ONLY CRIME ON WHICH THEY"
+      },
+      {
+        "src": "img/meyer-love-trials-and-the-cross/card-02.png",
+        "title": "IT WAS NOT EASY TO FIND"
+      },
+      {
+        "src": "img/meyer-love-trials-and-the-cross/card-03.png",
+        "title": "PILATE HAD WRITTEN A TITLE TO"
+      },
+      {
+        "src": "img/meyer-love-trials-and-the-cross/card-04.png",
+        "title": "SHE KNEW THAT SHE WOULD NOT"
+      },
+      {
+        "src": "img/meyer-love-trials-and-the-cross/card-05.png",
+        "title": "THEY WERE GREATLY STARTLED HOWEVER WHEN"
+      },
+      {
+        "src": "img/meyer-love-trials-and-the-cross/card-06.png",
+        "title": "I DO NOT SUPPOSE THAT THOMAS"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-love-lake-of-galilee",
+    "title": "THE LAKE OF GALILEE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-love-lake-of-galilee/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-love-lake-of-galilee/card-01.png",
+        "title": "WHEN THERE IS NO STAR ON"
+      },
+      {
+        "src": "img/meyer-love-lake-of-galilee/card-02.png",
+        "title": "INDEED AFTER THE MIRACLE WAS WROUGHT"
+      },
+      {
+        "src": "img/meyer-love-lake-of-galilee/card-03.png",
+        "title": "THAT MIRACULOUS CATCH OF FISH ON"
+      },
+      {
+        "src": "img/meyer-love-lake-of-galilee/card-04.png",
+        "title": "IT IS NOT EVERY ONE THAT"
+      },
+      {
+        "src": "img/meyer-love-lake-of-galilee/card-05.png",
+        "title": "WE ARE IGNORANT OF THE PLACE"
+      },
+      {
+        "src": "img/meyer-love-lake-of-galilee/card-06.png",
+        "title": "ONCE MORE AS WE LEARN BOTH"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-john-interest-of-his-biography",
+    "title": "THE INTEREST OF HIS BIOGRAPHY",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-john-interest-of-his-biography/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-john-interest-of-his-biography/card-01.png",
+        "title": "AS THE STAR LIGHT WHICH FAILS"
+      },
+      {
+        "src": "img/meyer-john-interest-of-his-biography/card-02.png",
+        "title": "LUKE SITTING AT HIS MANUSCRIPT NOW"
+      },
+      {
+        "src": "img/meyer-john-interest-of-his-biography/card-03.png",
+        "title": "HERE AND THERE ARE THE CRUMBLED"
+      },
+      {
+        "src": "img/meyer-john-interest-of-his-biography/card-04.png",
+        "title": "MONTH SUCCEEDED MONTH BUT ZACHARIAS NEITHER"
+      },
+      {
+        "src": "img/meyer-john-interest-of-his-biography/card-05.png",
+        "title": "DISCIPLES ARE NOT TO BE TAKEN"
+      },
+      {
+        "src": "img/meyer-john-interest-of-his-biography/card-06.png",
+        "title": "THE SCEPTRE HAD DEPARTED FROM JUDAH"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-john-prophet-of-the-highest",
+    "title": "THE PROPHET OF THE HIGHEST",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-john-prophet-of-the-highest/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-john-prophet-of-the-highest/card-01.png",
+        "title": "TIDINGS OF THE EVIL THAT WAS"
+      },
+      {
+        "src": "img/meyer-john-prophet-of-the-highest/card-02.png",
+        "title": "THIRTY YEARS HAD LEFT THEIR MARK"
+      },
+      {
+        "src": "img/meyer-john-prophet-of-the-highest/card-03.png",
+        "title": "WHERE THE KING IS ENTHRONED WITHIN"
+      },
+      {
+        "src": "img/meyer-john-prophet-of-the-highest/card-04.png",
+        "title": "THE IDEA WHICH LIES BENEATH THE"
+      },
+      {
+        "src": "img/meyer-john-prophet-of-the-highest/card-05.png",
+        "title": "BEGIN AT THE BEGINNING AND GO"
+      },
+      {
+        "src": "img/meyer-john-prophet-of-the-highest/card-06.png",
+        "title": "ON HIS EAR MUST HAVE STRUCK"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-john-he-must-increase",
+    "title": "HE MUST INCREASE, BUT I MUST DECREASE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-john-he-must-increase/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-john-he-must-increase/card-01.png",
+        "title": "TRADITION LOCATES THE SCENE OF JOHN'S"
+      },
+      {
+        "src": "img/meyer-john-he-must-increase/card-02.png",
+        "title": "THE ARROWY STREAM RUSHING DOWN FROM"
+      },
+      {
+        "src": "img/meyer-john-he-must-increase/card-03.png",
+        "title": "SUCH HUMILITY ALWAYS ACCOMPANIES A TRUE"
+      },
+      {
+        "src": "img/meyer-john-he-must-increase/card-04.png",
+        "title": "HE HAD BEEN PLUNGED INTO THE"
+      },
+      {
+        "src": "img/meyer-john-he-must-increase/card-05.png",
+        "title": "IT WAS NOT TO BE EXPECTED"
+      },
+      {
+        "src": "img/meyer-john-he-must-increase/card-06.png",
+        "title": "WE MIGHT WONDER HOW IT COULD"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-john-art-thou-he",
+    "title": "ART THOU HE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-john-art-thou-he/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-john-art-thou-he/card-01.png",
+        "title": "HE KNEW THAT THE LAND WAS"
+      },
+      {
+        "src": "img/meyer-john-art-thou-he/card-02.png",
+        "title": "IS THERE ANYTHING LIKE THAT IN"
+      },
+      {
+        "src": "img/meyer-john-art-thou-he/card-03.png",
+        "title": "THEY COULD NOT FORGET WHAT HE"
+      },
+      {
+        "src": "img/meyer-john-art-thou-he/card-04.png",
+        "title": "WE THINK FOR INSTANCE THAT IF"
+      },
+      {
+        "src": "img/meyer-john-art-thou-he/card-05.png",
+        "title": "THERE ARE TIMES WHEN WE ARE"
+      },
+      {
+        "src": "img/meyer-john-art-thou-he/card-06.png",
+        "title": "WHO FOR INSTANCE ON A GUSTY"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-john-burning-and-shining-light",
+    "title": "A BURNING AND SHINING LIGHT",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-john-burning-and-shining-light/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-john-burning-and-shining-light/card-01.png",
+        "title": "IN THIS HE RESEMBLES THE GOOD"
+      },
+      {
+        "src": "img/meyer-john-burning-and-shining-light/card-02.png",
+        "title": "THE TEMPTATION IS ALWAYS AROUND US"
+      },
+      {
+        "src": "img/meyer-john-burning-and-shining-light/card-03.png",
+        "title": "YES THERE IS MORE TO BE"
+      },
+      {
+        "src": "img/meyer-john-burning-and-shining-light/card-04.png",
+        "title": "THIS CONCEPTION CASTS A CONSIDERABLE LIGHT"
+      },
+      {
+        "src": "img/meyer-john-burning-and-shining-light/card-05.png",
+        "title": "THE MEN AND WOMEN WHO SHINE"
+      },
+      {
+        "src": "img/meyer-john-burning-and-shining-light/card-06.png",
+        "title": "IN THE FRONT OF THE CAVALCADE"
+      }
+    ]
   }
 ];
