@@ -2184,5 +2184,561 @@ window.MANIFEST = [
         "title": "FIRST STRIFE, THEN VICTORY"
       }
     ]
+  },
+  {
+    "slug": "allen-circumstances",
+    "title": "EFFECT OF THOUGHT ON CIRCUMSTANCES",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-circumstances/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-circumstances/card-01.png",
+        "title": "THE GARDEN OF THE MIND"
+      },
+      {
+        "src": "img/allen-circumstances/card-02.png",
+        "title": "MASTER-GARDENER OF HIS SOUL"
+      },
+      {
+        "src": "img/allen-circumstances/card-03.png",
+        "title": "EVERY MAN IS WHERE HE IS"
+      },
+      {
+        "src": "img/allen-circumstances/card-04.png",
+        "title": "CIRCUMSTANCE DOES NOT MAKE THE MAN"
+      },
+      {
+        "src": "img/allen-circumstances/card-05.png",
+        "title": "NOT WHAT THEY WANT, BUT WHAT THEY ARE"
+      },
+      {
+        "src": "img/allen-circumstances/card-06.png",
+        "title": "UNWILLING TO IMPROVE THEMSELVES"
+      },
+      {
+        "src": "img/allen-circumstances/card-07.png",
+        "title": "NOTHING FROM CORN BUT CORN"
+      }
+    ]
+  },
+  {
+    "slug": "allen-health-and-body",
+    "title": "EFFECT OF THOUGHT ON HEALTH AND THE BODY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-health-and-body/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-health-and-body/card-01.png",
+        "title": "THE BODY IS THE SERVANT OF THE MIND"
+      },
+      {
+        "src": "img/allen-health-and-body/card-02.png",
+        "title": "ROOTED IN THOUGHT"
+      },
+      {
+        "src": "img/allen-health-and-body/card-03.png",
+        "title": "STRONG, PURE, AND HAPPY THOUGHTS"
+      },
+      {
+        "src": "img/allen-health-and-body/card-04.png",
+        "title": "OUT OF A CLEAN HEART"
+      },
+      {
+        "src": "img/allen-health-and-body/card-05.png",
+        "title": "GUARD YOUR MIND"
+      },
+      {
+        "src": "img/allen-health-and-body/card-06.png",
+        "title": "NO PHYSICIAN LIKE CHEERFUL THOUGHT"
+      }
+    ]
+  },
+  {
+    "slug": "allen-thought-and-purpose",
+    "title": "THOUGHT AND PURPOSE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-thought-and-purpose/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-thought-and-purpose/card-01.png",
+        "title": "LINKED WITH PURPOSE"
+      },
+      {
+        "src": "img/allen-thought-and-purpose/card-02.png",
+        "title": "AN EASY PREY TO PETTY WORRIES"
+      },
+      {
+        "src": "img/allen-thought-and-purpose/card-03.png",
+        "title": "A LEGITIMATE PURPOSE IN HIS HEART"
+      },
+      {
+        "src": "img/allen-thought-and-purpose/card-04.png",
+        "title": "THE FAULTLESS PERFORMANCE OF THEIR DUTY"
+      },
+      {
+        "src": "img/allen-thought-and-purpose/card-05.png",
+        "title": "STRENGTH BY EFFORT AND PRACTICE"
+      },
+      {
+        "src": "img/allen-thought-and-purpose/card-06.png",
+        "title": "HE HAS CONQUERED FAILURE"
+      },
+      {
+        "src": "img/allen-thought-and-purpose/card-07.png",
+        "title": "THOUGHT ALLIED FEARLESSLY TO PURPOSE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-achievement-factor",
+    "title": "THE THOUGHT-FACTOR IN ACHIEVEMENT",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-achievement-factor/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-achievement-factor/card-01.png",
+        "title": "THE DIRECT RESULT OF HIS OWN THOUGHTS"
+      },
+      {
+        "src": "img/allen-achievement-factor/card-02.png",
+        "title": "NEITHER OPPRESSOR NOR OPPRESSED"
+      },
+      {
+        "src": "img/allen-achievement-factor/card-03.png",
+        "title": "BY LIFTING UP HIS THOUGHTS"
+      },
+      {
+        "src": "img/allen-achievement-factor/card-04.png",
+        "title": "NO ACHIEVEMENT WITHOUT SACRIFICE"
+      },
+      {
+        "src": "img/allen-achievement-factor/card-05.png",
+        "title": "THE UNIVERSE DOES NOT FAVOUR THE GREEDY"
+      },
+      {
+        "src": "img/allen-achievement-factor/card-06.png",
+        "title": "THE CROWN OF EFFORT"
+      },
+      {
+        "src": "img/allen-achievement-factor/card-07.png",
+        "title": "HE WHO WOULD ACHIEVE MUCH"
+      }
+    ]
+  },
+  {
+    "slug": "allen-visions-and-ideals",
+    "title": "VISIONS AND IDEALS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-visions-and-ideals/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-visions-and-ideals/card-01.png",
+        "title": "THE DREAMERS ARE THE SAVIOURS"
+      },
+      {
+        "src": "img/allen-visions-and-ideals/card-02.png",
+        "title": "HE WHO CHERISHES A BEAUTIFUL VISION"
+      },
+      {
+        "src": "img/allen-visions-and-ideals/card-03.png",
+        "title": "CHERISH YOUR VISIONS"
+      },
+      {
+        "src": "img/allen-visions-and-ideals/card-04.png",
+        "title": "DREAM LOFTY DREAMS"
+      },
+      {
+        "src": "img/allen-visions-and-ideals/card-05.png",
+        "title": "DREAMS ARE THE SEEDLINGS OF REALITIES"
+      },
+      {
+        "src": "img/allen-visions-and-ideals/card-06.png",
+        "title": "AS GREAT AS YOUR DOMINANT ASPIRATION"
+      },
+      {
+        "src": "img/allen-visions-and-ideals/card-07.png",
+        "title": "THE VISION THAT YOU GLORIFY"
+      }
+    ]
+  },
+  {
+    "slug": "allen-serenity",
+    "title": "SERENITY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-serenity/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-serenity/card-01.png",
+        "title": "CALMNESS OF MIND"
+      },
+      {
+        "src": "img/allen-serenity/card-02.png",
+        "title": "A MAN BECOMES CALM"
+      },
+      {
+        "src": "img/allen-serenity/card-03.png",
+        "title": "THE CALM MAN"
+      },
+      {
+        "src": "img/allen-serenity/card-04.png",
+        "title": "THE STRONG, CALM MAN"
+      },
+      {
+        "src": "img/allen-serenity/card-05.png",
+        "title": "SERENITY IS THE LAST LESSON OF CULTURE"
+      },
+      {
+        "src": "img/allen-serenity/card-06.png",
+        "title": "SELF-CONTROL IS STRENGTH"
+      }
+    ]
+  },
+  {
+    "slug": "allen-pillar-energy",
+    "title": "ENERGY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-pillar-energy/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-pillar-energy/card-01.png",
+        "title": "THE WORKING POWER IN ALL ACHIEVEMENT"
+      },
+      {
+        "src": "img/allen-pillar-energy/card-02.png",
+        "title": "A MORAL VIRTUE, NOT LAZINESS"
+      },
+      {
+        "src": "img/allen-pillar-energy/card-03.png",
+        "title": "CONTROLLED AND CONSERVED"
+      },
+      {
+        "src": "img/allen-pillar-energy/card-04.png",
+        "title": "CALMNESS IS THE GREATEST POWER"
+      },
+      {
+        "src": "img/allen-pillar-energy/card-05.png",
+        "title": "PROMPTITUDE"
+      },
+      {
+        "src": "img/allen-pillar-energy/card-06.png",
+        "title": "VIGILANCE IS THE GUARD"
+      },
+      {
+        "src": "img/allen-pillar-energy/card-07.png",
+        "title": "INDUSTRY BRINGS CHEERFULNESS AND PLENTY"
+      },
+      {
+        "src": "img/allen-pillar-energy/card-08.png",
+        "title": "EARNESTNESS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-pillar-economy",
+    "title": "ECONOMY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-pillar-economy/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-pillar-economy/card-01.png",
+        "title": "THE MIDDLE WAY"
+      },
+      {
+        "src": "img/allen-pillar-economy/card-02.png",
+        "title": "SPEND WISELY, SAVE CAREFULLY"
+      },
+      {
+        "src": "img/allen-pillar-economy/card-03.png",
+        "title": "TIME WASTED CAN NEVER BE RESTORED"
+      },
+      {
+        "src": "img/allen-pillar-economy/card-04.png",
+        "title": "THE MIND OF THE TRUE ECONOMIST"
+      },
+      {
+        "src": "img/allen-pillar-economy/card-05.png",
+        "title": "MODERATION"
+      },
+      {
+        "src": "img/allen-pillar-economy/card-06.png",
+        "title": "EFFICIENCY"
+      },
+      {
+        "src": "img/allen-pillar-economy/card-07.png",
+        "title": "RESOURCEFULNESS"
+      },
+      {
+        "src": "img/allen-pillar-economy/card-08.png",
+        "title": "ORIGINALITY"
+      }
+    ]
+  },
+  {
+    "slug": "allen-pillar-integrity",
+    "title": "INTEGRITY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-pillar-integrity/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-pillar-integrity/card-01.png",
+        "title": "NO CHEAP BARGAIN WITH PROSPERITY"
+      },
+      {
+        "src": "img/allen-pillar-integrity/card-02.png",
+        "title": "INTEGRITY MUST EMBRACE THE WHOLE MAN"
+      },
+      {
+        "src": "img/allen-pillar-integrity/card-03.png",
+        "title": "INTEGRITY IN DUTY"
+      },
+      {
+        "src": "img/allen-pillar-integrity/card-04.png",
+        "title": "THE BACKBONE OF HUMAN SOCIETY"
+      },
+      {
+        "src": "img/allen-pillar-integrity/card-05.png",
+        "title": "RECTITUDE LEADS STRAIGHT TO PROSPERITY"
+      },
+      {
+        "src": "img/allen-pillar-integrity/card-06.png",
+        "title": "HONESTY IS THE SUREST WAY TO SUCCESS"
+      },
+      {
+        "src": "img/allen-pillar-integrity/card-07.png",
+        "title": "FEARLESSNESS ACCOMPANIES HONESTY"
+      },
+      {
+        "src": "img/allen-pillar-integrity/card-08.png",
+        "title": "INVINCIBILITY"
+      }
+    ]
+  },
+  {
+    "slug": "allen-pillar-system",
+    "title": "SYSTEM",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-pillar-system/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-pillar-system/card-01.png",
+        "title": "ORDER MAKES CONFUSION IMPOSSIBLE"
+      },
+      {
+        "src": "img/allen-pillar-system/card-02.png",
+        "title": "EVERYTHING IN ITS PLACE"
+      },
+      {
+        "src": "img/allen-pillar-system/card-03.png",
+        "title": "SYSTEM SIMPLIFIES"
+      },
+      {
+        "src": "img/allen-pillar-system/card-04.png",
+        "title": "READINESS"
+      },
+      {
+        "src": "img/allen-pillar-system/card-05.png",
+        "title": "ACCURACY"
+      },
+      {
+        "src": "img/allen-pillar-system/card-06.png",
+        "title": "LIFE IS TOO SHORT FOR CONFUSION"
+      },
+      {
+        "src": "img/allen-pillar-system/card-07.png",
+        "title": "DO IT WITH ALL HIS MIGHT"
+      },
+      {
+        "src": "img/allen-pillar-system/card-08.png",
+        "title": "FIRST SYSTEMATIZE HIS MIND"
+      }
+    ]
+  },
+  {
+    "slug": "allen-pillar-sympathy",
+    "title": "SYMPATHY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-pillar-sympathy/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-pillar-sympathy/card-01.png",
+        "title": "A DEEP, SILENT TENDERNESS"
+      },
+      {
+        "src": "img/allen-pillar-sympathy/card-02.png",
+        "title": "SYMPATHY ARISES IN LOVE"
+      },
+      {
+        "src": "img/allen-pillar-sympathy/card-03.png",
+        "title": "SYMPATHY IN BUSINESS"
+      },
+      {
+        "src": "img/allen-pillar-sympathy/card-04.png",
+        "title": "THE SACRIFICE OF SELF"
+      },
+      {
+        "src": "img/allen-pillar-sympathy/card-05.png",
+        "title": "KINDNESS BEAUTIFIES"
+      },
+      {
+        "src": "img/allen-pillar-sympathy/card-06.png",
+        "title": "GIVING AND GETTING"
+      },
+      {
+        "src": "img/allen-pillar-sympathy/card-07.png",
+        "title": "GENTLENESS IS AKIN TO DIVINITY"
+      },
+      {
+        "src": "img/allen-pillar-sympathy/card-08.png",
+        "title": "PREJUDICE IS THE GREAT BARRIER"
+      }
+    ]
+  },
+  {
+    "slug": "allen-pillar-sincerity",
+    "title": "SINCERITY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-pillar-sincerity/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-pillar-sincerity/card-01.png",
+        "title": "HELD TOGETHER BY SINCERITY"
+      },
+      {
+        "src": "img/allen-pillar-sincerity/card-02.png",
+        "title": "THE ACTOR ON THE STAGE OF LIFE"
+      },
+      {
+        "src": "img/allen-pillar-sincerity/card-03.png",
+        "title": "RING TRUE"
+      },
+      {
+        "src": "img/allen-pillar-sincerity/card-04.png",
+        "title": "BE REAL"
+      },
+      {
+        "src": "img/allen-pillar-sincerity/card-05.png",
+        "title": "SIMPLICITY"
+      },
+      {
+        "src": "img/allen-pillar-sincerity/card-06.png",
+        "title": "ATTRACTIVENESS"
+      },
+      {
+        "src": "img/allen-pillar-sincerity/card-07.png",
+        "title": "PENETRATION"
+      },
+      {
+        "src": "img/allen-pillar-sincerity/card-08.png",
+        "title": "A POWER THAT IS PROSPERITY IN ITSELF"
+      }
+    ]
+  },
+  {
+    "slug": "allen-pillar-impartiality",
+    "title": "IMPARTIALITY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-pillar-impartiality/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-pillar-impartiality/card-01.png",
+        "title": "TO GET RID OF PREJUDICE"
+      },
+      {
+        "src": "img/allen-pillar-impartiality/card-02.png",
+        "title": "A BARRIER TO THE ATTAINMENT OF KNOWLEDGE"
+      },
+      {
+        "src": "img/allen-pillar-impartiality/card-03.png",
+        "title": "THE IMPARTIAL MAN"
+      },
+      {
+        "src": "img/allen-pillar-impartiality/card-04.png",
+        "title": "JUSTICE: THE RIGHT PAYS BEST"
+      },
+      {
+        "src": "img/allen-pillar-impartiality/card-05.png",
+        "title": "PATIENCE WINS"
+      },
+      {
+        "src": "img/allen-pillar-impartiality/card-06.png",
+        "title": "CALMNESS"
+      },
+      {
+        "src": "img/allen-pillar-impartiality/card-07.png",
+        "title": "WISDOM"
+      },
+      {
+        "src": "img/allen-pillar-impartiality/card-08.png",
+        "title": "THE TRUE THINKER"
+      }
+    ]
+  },
+  {
+    "slug": "allen-pillar-self-reliance",
+    "title": "SELF-RELIANCE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-pillar-self-reliance/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-pillar-self-reliance/card-01.png",
+        "title": "NOT SELF CONCEIT"
+      },
+      {
+        "src": "img/allen-pillar-self-reliance/card-02.png",
+        "title": "IN EVERY SPHERE OF LIFE"
+      },
+      {
+        "src": "img/allen-pillar-self-reliance/card-03.png",
+        "title": "SELF-TRUST IS THE ESSENCE OF HEROISM"
+      },
+      {
+        "src": "img/allen-pillar-self-reliance/card-04.png",
+        "title": "A MISTRUST OF HIMSELF"
+      },
+      {
+        "src": "img/allen-pillar-self-reliance/card-05.png",
+        "title": "DECISION MAKES A MAN STRONG"
+      },
+      {
+        "src": "img/allen-pillar-self-reliance/card-06.png",
+        "title": "STEADFASTNESS"
+      },
+      {
+        "src": "img/allen-pillar-self-reliance/card-07.png",
+        "title": "DIGNITY"
+      },
+      {
+        "src": "img/allen-pillar-self-reliance/card-08.png",
+        "title": "INDEPENDENCE COMES THROUGH LABOUR"
+      }
+    ]
   }
 ];
