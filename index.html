@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#111111">
+<title>Infographic Feed</title>
+<script src="manifest.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { height: 100%; background: #000; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #f2f2f2; display: flex; justify-content: center; align-items: stretch;
+    overscroll-behavior: none;
+  }
+  #phone {
+    position: relative; width: 100%; max-width: 480px; height: 100dvh;
+    background: #111; overflow: hidden;
+  }
+  @media (min-width: 520px) {
+    body { align-items: center; }
+    #phone { height: min(92dvh, 900px); border-radius: 28px; border: 1px solid #2a2a2a;
+             box-shadow: 0 30px 80px rgba(0,0,0,.6); }
+  }
+  #feed { height: 100%; overflow-y: auto; scroll-snap-type: y mandatory;
+          scrollbar-width: none; overscroll-behavior: contain; }
+  #feed::-webkit-scrollbar { display: none; }
+  .screen { height: 100%; scroll-snap-align: start; scroll-snap-stop: always;
+            position: relative; display: flex; flex-direction: column; background: #111; }
+  .topbar {
+    position: absolute; top: 0; left: 0; right: 0; z-index: 5;
+    display: flex; align-items: flex-start; justify-content: space-between;
+    padding: calc(10px + env(safe-area-inset-top)) 12px 26px;
+    background: linear-gradient(to bottom, rgba(0,0,0,.72), rgba(0,0,0,0));
+    pointer-events: none;
+  }
+  .topbar .meta { pointer-events: auto; min-width: 0; }
+  .subject-tag {
+    display: inline-block; font-size: 11px; letter-spacing: 2.5px; text-transform: uppercase;
+    color: #ffd479; font-weight: 700; margin-bottom: 4px;
+  }
+  .set-title { font-size: 21px; font-weight: 800; line-height: 1.15; }
+  .speaker { font-size: 13px; color: #bdbdbd; margin-top: 3px; }
+  .actions { display: flex; gap: 8px; pointer-events: auto; }
+  .btn {
+    width: 42px; height: 42px; border-radius: 50%; border: 1px solid rgba(255,255,255,.25);
+    background: rgba(20,20,20,.55); color: #fff; display: flex; align-items: center; justify-content: center;
+    cursor: pointer; backdrop-filter: blur(6px);
+  }
+  .btn:active { transform: scale(.93); }
+  .btn svg { width: 20px; height: 20px; }
+  .art { flex: 1; min-height: 0; display: flex; align-items: center; justify-content: center; padding: 84px 8px 52px; }
+  .art img { max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 6px; }
+  .counter {
+    position: absolute; right: 14px; bottom: calc(14px + env(safe-area-inset-bottom));
+    font-size: 12px; color: rgba(255,255,255,.65); background: rgba(0,0,0,.5);
+    padding: 5px 10px; border-radius: 20px; z-index: 5;
+  }
+  .filter-chip {
+    position: absolute; left: 14px; bottom: calc(14px + env(safe-area-inset-bottom)); z-index: 5;
+    display: none; align-items: center; gap: 8px; font-size: 12px; color: #fff;
+    background: rgba(0,0,0,.55); padding: 6px 8px 6px 12px; border-radius: 20px;
+    border: 1px solid rgba(255,255,255,.2);
+  }
+  .filter-chip.show { display: inline-flex; }
+  .filter-chip button { background: none; border: none; color: #ffd479; font-size: 14px; cursor: pointer; padding: 2px 6px; }
+  .swipe-hint {
+    position: absolute; left: 0; right: 0; bottom: calc(52px + env(safe-area-inset-bottom));
+    text-align: center; font-size: 13px; letter-spacing: 3px; text-transform: uppercase;
+    color: rgba(255,255,255,.75); z-index: 5; pointer-events: none;
+    animation: hintfade 2.6s ease-in-out infinite;
+  }
+  @keyframes hintfade { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+  /* subject picker */
+  #picker {
+    position: absolute; inset: 0; z-index: 20; background: rgba(8,8,8,.97);
+    display: none; flex-direction: column;
+    padding: calc(14px + env(safe-area-inset-top)) 14px calc(14px + env(safe-area-inset-bottom));
+  }
+  #picker.open { display: flex; }
+  .picker-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+  .picker-head h2 { font-size: 18px; font-weight: 800; }
+  .picker-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; overflow-y: auto; padding-bottom: 8px; }
+  .pcard { background: #1b1b1b; border: 1px solid #2c2c2c; border-radius: 14px; overflow: hidden; cursor: pointer; text-align: left; color: #fff; padding: 0; font: inherit; }
+  .pcard:active { transform: scale(.97); }
+  .pcard img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block; background: #222; }
+  .pcard .pinfo { padding: 10px 12px 12px; }
+  .pcard .ptitle { font-size: 14px; font-weight: 700; }
+  .pcard .pspeaker { font-size: 12px; color: #a9a9a9; margin-top: 2px; }
+  .pcard.all { display: flex; align-items: center; justify-content: center; min-height: 120px;
+               font-size: 15px; font-weight: 700; color: #ffd479; }
+  /* toast */
+  #toast {
+    position: absolute; left: 50%; bottom: calc(70px + env(safe-area-inset-bottom)); transform: translateX(-50%) translateY(20px);
+    background: rgba(255,255,255,.94); color: #111; font-size: 14px; font-weight: 600;
+    padding: 10px 18px; border-radius: 24px; opacity: 0; transition: all .25s ease; z-index: 30; pointer-events: none;
+    white-space: nowrap;
+  }
+  #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+  #empty { display: none; height: 100%; align-items: center; justify-content: center; text-align: center; padding: 40px; color: #999; font-size: 15px; line-height: 1.6; }
+</style>
+</head>
+<body>
+<div id="phone">
+  <div id="feed"></div>
+  <div id="empty">No card sets found.<br>Run generate_manifest.py in the prototype folder.</div>
+
+  <div class="filter-chip" id="filterChip">
+    <span id="filterName"></span><button id="clearFilter" aria-label="Show all subjects">X</button>
+  </div>
+
+  <div id="picker" role="dialog" aria-label="Choose a subject">
+    <div class="picker-head">
+      <h2>Subjects</h2>
+      <button class="btn" id="closePicker" aria-label="Close">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <div class="picker-grid" id="pickerGrid"></div>
+  </div>
+
+  <div id="toast"></div>
+</div>
+
+<script>
+(function () {
+  "use strict";
+  var feed = document.getElementById("feed");
+  var empty = document.getElementById("empty");
+  var picker = document.getElementById("picker");
+  var pickerGrid = document.getElementById("pickerGrid");
+  var toast = document.getElementById("toast");
+  var filterChip = document.getElementById("filterChip");
+  var filterName = document.getElementById("filterName");
+
+  var SETS = Array.isArray(window.MANIFEST) ? window.MANIFEST : [];
+  var filter = null;
+  var toastTimer = null;
+
+  function showToast(msg) {
+    toast.textContent = msg;
+    toast.classList.add("show");
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(function () { toast.classList.remove("show"); }, 2200);
+  }
+
+  function iconGrid() {
+    return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">' +
+      '<rect x="3.5" y="3.5" width="7" height="7" rx="1.5"/><rect x="13.5" y="3.5" width="7" height="7" rx="1.5"/>' +
+      '<rect x="3.5" y="13.5" width="7" height="7" rx="1.5"/><rect x="13.5" y="13.5" width="7" height="7" rx="1.5"/></svg>';
+  }
+  function iconShare() {
+    return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+      '<path d="M12 15V4"/><path d="M7 8l5-5 5 5"/><path d="M5 12v7a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 19 19v-7"/></svg>';
+  }
+
+  function activeSets() {
+    if (!filter) return SETS;
+    return SETS.filter(function (s) { return s.slug === filter; });
+  }
+
+  function shareSet(set) {
+    var text = set.title + (set.speaker ? " by " + set.speaker : "") + " from the Infographic Feed";
+    var url = location.href.split("#")[0];
+    var done = function (msg) { showToast(msg); };
+    if (navigator.share) {
+      navigator.share({ title: set.title, text: text, url: url }).then(function () {
+        done("Shared");
+      }).catch(function (err) {
+        if (err && err.name !== "AbortError") fallbackCopy(text + " " + url, done);
+      });
+    } else {
+      fallbackCopy(text + " " + url, done);
+    }
+  }
+
+  function fallbackCopy(str, done) {
+    function ok() { done("Link copied"); }
+    function fail() { done("Copy not available"); }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(str).then(ok, fail);
+    } else {
+      var ta = document.createElement("textarea");
+      ta.value = str; ta.style.position = "fixed"; ta.style.opacity = "0";
+      document.body.appendChild(ta); ta.select();
+      try { document.execCommand("copy") ? ok() : fail(); } catch (e) { fail(); }
+      document.body.removeChild(ta);
+    }
+  }
+
+  function renderFeed() {
+    feed.innerHTML = "";
+    var sets = activeSets();
+    if (!sets.length) {
+      feed.style.display = "none"; empty.style.display = "flex";
+      empty.innerHTML = filter ? "No sets for this subject yet." : "No card sets found.<br>Run generate_manifest.py in the prototype folder.";
+      return;
+    }
+    feed.style.display = ""; empty.style.display = "none";
+    sets.forEach(function (set, i) {
+      var screen = document.createElement("section");
+      screen.className = "screen";
+
+      var bar = document.createElement("div");
+      bar.className = "topbar";
+      bar.innerHTML =
+        '<div class="meta"><div class="subject-tag">' + escapeHtml(set.title) + "</div>" +
+        '<div class="speaker">' + escapeHtml(set.speaker || "") + "</div></div>" +
+        '<div class="actions">' +
+        '<button class="btn" data-act="subjects" aria-label="Subjects">' + iconGrid() + "</button>" +
+        '<button class="btn" data-act="share" aria-label="Share">' + iconShare() + "</button>" +
+        "</div>";
+      screen.appendChild(bar);
+
+      var art = document.createElement("div");
+      art.className = "art";
+      var img = document.createElement("img");
+      img.src = set.image; img.alt = set.title;
+      img.loading = i < 2 ? "eager" : "lazy";
+      img.onerror = function () { screen.style.display = "none"; };
+      art.appendChild(img);
+      screen.appendChild(art);
+
+      var counter = document.createElement("div");
+      counter.className = "counter";
+      counter.textContent = (i + 1) + " / " + sets.length;
+      screen.appendChild(counter);
+
+      if (i === 0 && !filter) {
+        var hint = document.createElement("div");
+        hint.className = "swipe-hint";
+        hint.textContent = "Swipe up";
+        screen.appendChild(hint);
+        setTimeout(function () { if (hint.parentNode) hint.parentNode.removeChild(hint); }, 6000);
+      }
+
+      bar.addEventListener("click", function (ev) {
+        var b = ev.target.closest("button");
+        if (!b) return;
+        if (b.getAttribute("data-act") === "subjects") openPicker();
+        else shareSet(set);
+      });
+
+      feed.appendChild(screen);
+    });
+    feed.scrollTop = 0;
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+
+  function renderPicker() {
+    pickerGrid.innerHTML = "";
+    var all = document.createElement("button");
+    all.className = "pcard all";
+    all.textContent = "All subjects";
+    all.addEventListener("click", function () { setFilter(null); });
+    pickerGrid.appendChild(all);
+    SETS.forEach(function (set) {
+      var card = document.createElement("button");
+      card.className = "pcard";
+      card.innerHTML = '<img src="' + set.image + '" alt="" loading="lazy">' +
+        '<div class="pinfo"><div class="ptitle">' + escapeHtml(set.title) + "</div>" +
+        '<div class="pspeaker">' + escapeHtml(set.speaker || "") + "</div></div>";
+      card.addEventListener("click", function () { setFilter(set.slug); });
+      pickerGrid.appendChild(card);
+    });
+  }
+
+  function setFilter(slug) {
+    filter = slug;
+    var set = SETS.find(function (s) { return s.slug === slug; });
+    if (set) { filterName.textContent = set.title; filterChip.classList.add("show"); }
+    else { filterChip.classList.remove("show"); }
+    closePicker();
+    renderFeed();
+  }
+
+  function openPicker() { renderPicker(); picker.classList.add("open"); }
+  function closePicker() { picker.classList.remove("open"); }
+
+  document.getElementById("closePicker").addEventListener("click", closePicker);
+  document.getElementById("clearFilter").addEventListener("click", function () { setFilter(null); });
+  picker.addEventListener("click", function (ev) { if (ev.target === picker) closePicker(); });
+
+  renderFeed();
+})();
+</script>
+</body>
+</html>
