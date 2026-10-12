@@ -3212,5 +3212,285 @@ window.MANIFEST = [
         "title": "THE BEAUTIFUL CITY OF PEACE"
       }
     ]
+  },
+  {
+    "slug": "allen-king-inner-world",
+    "title": "THE INNER WORLD OF THOUGHTS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-king-inner-world/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-king-inner-world/card-01.png",
+        "title": "MAKER OF HAPPINESS AND MISERY"
+      },
+      {
+        "src": "img/allen-king-inner-world/card-02.png",
+        "title": "ALTER THE ACTIVE THOUGHT"
+      },
+      {
+        "src": "img/allen-king-inner-world/card-03.png",
+        "title": "GREAT POWER IN SELF-CONQUEST"
+      },
+      {
+        "src": "img/allen-king-inner-world/card-04.png",
+        "title": "EXTEND THE CIRCLE OF THOUGHT"
+      },
+      {
+        "src": "img/allen-king-inner-world/card-05.png",
+        "title": "TINGED WITH THE COLOUR OF THOUGHTS"
+      },
+      {
+        "src": "img/allen-king-inner-world/card-06.png",
+        "title": "MIRRORS OF THEIR OWN SURFACE"
+      },
+      {
+        "src": "img/allen-king-inner-world/card-07.png",
+        "title": "AS LOW OR HIGH AS HIS THOUGHTS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-king-outer-world",
+    "title": "THE OUTER WORLD OF THINGS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-king-outer-world/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-king-outer-world/card-01.png",
+        "title": "THE INNER INFORMS THE OUTER"
+      },
+      {
+        "src": "img/allen-king-outer-world/card-02.png",
+        "title": "THINGS FOLLOW THOUGHTS"
+      },
+      {
+        "src": "img/allen-king-outer-world/card-03.png",
+        "title": "DESTINY IS RIPENED DEEDS"
+      },
+      {
+        "src": "img/allen-king-outer-world/card-04.png",
+        "title": "THE RIGHTEOUS MAN IS FREE"
+      },
+      {
+        "src": "img/allen-king-outer-world/card-05.png",
+        "title": "A SERVANT TO THE STRONG"
+      },
+      {
+        "src": "img/allen-king-outer-world/card-06.png",
+        "title": "WE FORGE OUR OWN CHAINS"
+      },
+      {
+        "src": "img/allen-king-outer-world/card-07.png",
+        "title": "FREE INDEED"
+      }
+    ]
+  },
+  {
+    "slug": "allen-king-habit-slavery",
+    "title": "HABIT: ITS SLAVERY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-king-habit-slavery/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-king-habit-slavery/card-01.png",
+        "title": "HE DISCOVERS, NOT MAKES, THEM"
+      },
+      {
+        "src": "img/allen-king-habit-slavery/card-02.png",
+        "title": "THE WHIPPED SLAVE OF HABIT"
+      },
+      {
+        "src": "img/allen-king-habit-slavery/card-03.png",
+        "title": "HABIT IS REPETITION"
+      },
+      {
+        "src": "img/allen-king-habit-slavery/card-04.png",
+        "title": "BECOME AUTOMATIC BY REPETITION"
+      },
+      {
+        "src": "img/allen-king-habit-slavery/card-05.png",
+        "title": "SUBJECT TO HIS OWN HABITS"
+      },
+      {
+        "src": "img/allen-king-habit-slavery/card-06.png",
+        "title": "THE BELIEF IN IMPOSSIBILITY"
+      }
+    ]
+  },
+  {
+    "slug": "allen-king-habit-freedom",
+    "title": "HABIT: ITS FREEDOM",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-king-habit-freedom/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-king-habit-freedom/card-01.png",
+        "title": "A BENEFICENT LAW"
+      },
+      {
+        "src": "img/allen-king-habit-freedom/card-02.png",
+        "title": "BREAK AWAY AND BECOME FREE"
+      },
+      {
+        "src": "img/allen-king-habit-freedom/card-03.png",
+        "title": "BREAK UP AND RE-FORM"
+      },
+      {
+        "src": "img/allen-king-habit-freedom/card-04.png",
+        "title": "MAN IS HIS OWN DELIVERER"
+      },
+      {
+        "src": "img/allen-king-habit-freedom/card-05.png",
+        "title": "PLANT THE POSITIVE I CAN"
+      },
+      {
+        "src": "img/allen-king-habit-freedom/card-06.png",
+        "title": "HABIT SETS US FREE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-king-bodily-conditions",
+    "title": "BODILY CONDITIONS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-king-bodily-conditions/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-king-bodily-conditions/card-01.png",
+        "title": "AN ETHICAL CAUSE IN THE MIND"
+      },
+      {
+        "src": "img/allen-king-bodily-conditions/card-02.png",
+        "title": "THE IMAGE OF THE MIND"
+      },
+      {
+        "src": "img/allen-king-bodily-conditions/card-03.png",
+        "title": "TIME FOR READJUSTMENT"
+      },
+      {
+        "src": "img/allen-king-bodily-conditions/card-04.png",
+        "title": "THE BEST ROUTE TO A SOUND BODY"
+      },
+      {
+        "src": "img/allen-king-bodily-conditions/card-05.png",
+        "title": "A SICKLY MIND"
+      },
+      {
+        "src": "img/allen-king-bodily-conditions/card-06.png",
+        "title": "DWELL ON HAPPINESS AND HEALTH"
+      },
+      {
+        "src": "img/allen-king-bodily-conditions/card-07.png",
+        "title": "RISE ABOVE THE BODY"
+      }
+    ]
+  },
+  {
+    "slug": "allen-king-poverty",
+    "title": "POVERTY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-king-poverty/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-king-poverty/card-01.png",
+        "title": "REMOVE SIN FROM POVERTY"
+      },
+      {
+        "src": "img/allen-king-poverty/card-02.png",
+        "title": "MORE OFTEN IN THE MIND"
+      },
+      {
+        "src": "img/allen-king-poverty/card-03.png",
+        "title": "A MENTAL CONDITION"
+      },
+      {
+        "src": "img/allen-king-poverty/card-04.png",
+        "title": "A SPUR TO TALENTS AND ENERGIES"
+      },
+      {
+        "src": "img/allen-king-poverty/card-05.png",
+        "title": "THE ROYAL ROAD"
+      },
+      {
+        "src": "img/allen-king-poverty/card-06.png",
+        "title": "THE HOUR OF OPPORTUNITY"
+      },
+      {
+        "src": "img/allen-king-poverty/card-07.png",
+        "title": "BACK TO THE HUMAN HEART"
+      }
+    ]
+  },
+  {
+    "slug": "allen-king-spiritual-dominion",
+    "title": "MAN'S SPIRITUAL DOMINION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-king-spiritual-dominion/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-king-spiritual-dominion/card-01.png",
+        "title": "THE KINGDOM OF HIS OWN MIND"
+      },
+      {
+        "src": "img/allen-king-spiritual-dominion/card-02.png",
+        "title": "THE SUPREME CONQUEST OF LIFE"
+      },
+      {
+        "src": "img/allen-king-spiritual-dominion/card-03.png",
+        "title": "NO MASTERY UNTIL SELF IS SUBDUED"
+      },
+      {
+        "src": "img/allen-king-spiritual-dominion/card-04.png",
+        "title": "LORD OVER HIMSELF"
+      },
+      {
+        "src": "img/allen-king-spiritual-dominion/card-05.png",
+        "title": "ASCENDING HIS SPIRITUAL THRONE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-king-conquest",
+    "title": "CONQUEST: NOT RESIGNATION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-king-conquest/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-king-conquest/card-01.png",
+        "title": "NOT RESIGNED TO EVIL"
+      },
+      {
+        "src": "img/allen-king-conquest/card-02.png",
+        "title": "FRAMED FOR FINAL VICTORY"
+      },
+      {
+        "src": "img/allen-king-conquest/card-03.png",
+        "title": "THE CONSCIOUS FORMATION OF CHARACTER"
+      },
+      {
+        "src": "img/allen-king-conquest/card-04.png",
+        "title": "THE DOCTRINE OF CONQUEST"
+      },
+      {
+        "src": "img/allen-king-conquest/card-05.png",
+        "title": "THE EVIL WITHIN"
+      }
+    ]
   }
 ];
