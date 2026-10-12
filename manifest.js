@@ -15418,5 +15418,345 @@ window.MANIFEST = [
         "title": "PRACTISE HIS PRESENCE FAITHFULLY"
       }
     ]
+  },
+  {
+    "slug": "bounds-gods-method",
+    "title": "MAN IS GOD'S METHOD",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-gods-method/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-gods-method/card-01.png",
+        "title": "WE ARE CONSTANTLY ON A STRETCH"
+      },
+      {
+        "src": "img/bounds-gods-method/card-02.png",
+        "title": "THE MESSENGER IS IF POSSIBLE MORE"
+      },
+      {
+        "src": "img/bounds-gods-method/card-03.png",
+        "title": "THE ENERGY OF SELF DENIAL MUST"
+      },
+      {
+        "src": "img/bounds-gods-method/card-04.png",
+        "title": "THE PULPIT OF THIS DAY"
+      },
+      {
+        "src": "img/bounds-gods-method/card-05.png",
+        "title": "THE ABILITY OF THE PREACHING"
+      },
+      {
+        "src": "img/bounds-gods-method/card-06.png",
+        "title": "SELF ESTEEM SELF ABILITY IN SOME"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-noblest-exercise",
+    "title": "PRAYER, THE NOBLEST EXERCISE",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-noblest-exercise/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-noblest-exercise/card-01.png",
+        "title": "IT IS THE CLEAN CLEAR CUT"
+      },
+      {
+        "src": "img/bounds-noblest-exercise/card-02.png",
+        "title": "HIS MINISTRY MAY DRAW PEOPLE"
+      },
+      {
+        "src": "img/bounds-noblest-exercise/card-03.png",
+        "title": "PRAYER TO GOD THE NOBLEST EXERCISE"
+      },
+      {
+        "src": "img/bounds-noblest-exercise/card-04.png",
+        "title": "EVEN SERMON MAKING INCESSANT AND TAXING"
+      },
+      {
+        "src": "img/bounds-noblest-exercise/card-05.png",
+        "title": "IT DOES NOT MEAN THE CLOSET"
+      },
+      {
+        "src": "img/bounds-noblest-exercise/card-06.png",
+        "title": "TALKING TO MEN FOR GOD"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-kindling-the-fire",
+    "title": "KINDLING THE FIRE",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-kindling-the-fire/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-kindling-the-fire/card-01.png",
+        "title": "AS THE ENGINE NEVER MOVES UNTIL"
+      },
+      {
+        "src": "img/bounds-kindling-the-fire/card-02.png",
+        "title": "THERE ARE PREACHERS INNUMERABLE WHO CAN"
+      },
+      {
+        "src": "img/bounds-kindling-the-fire/card-03.png",
+        "title": "THE LITTLE ESTIMATE WE PUT"
+      },
+      {
+        "src": "img/bounds-kindling-the-fire/card-04.png",
+        "title": "THE PREACHER THAT PRAYS INDEED PUTS"
+      },
+      {
+        "src": "img/bounds-kindling-the-fire/card-05.png",
+        "title": "THE SUPERFICIAL RESULTS OF MANY"
+      },
+      {
+        "src": "img/bounds-kindling-the-fire/card-06.png",
+        "title": "PRAYER WAS TO THEM WHAT"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-praying-men-examples",
+    "title": "EXAMPLES OF PRAYING MEN",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-praying-men-examples/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-praying-men-examples/card-01.png",
+        "title": "WHILE MANY PRIVATE PRAYERS"
+      },
+      {
+        "src": "img/bounds-praying-men-examples/card-02.png",
+        "title": "CHRIST WHO IN THIS AS WELL"
+      },
+      {
+        "src": "img/bounds-praying-men-examples/card-03.png",
+        "title": "OF HIM ONE WHO KNEW HIM"
+      },
+      {
+        "src": "img/bounds-praying-men-examples/card-04.png",
+        "title": "THE MARQUIS DERENTY TO WHOM CHRIST"
+      },
+      {
+        "src": "img/bounds-praying-men-examples/card-05.png",
+        "title": "JUDSON IMPRESSED AN EMPIRE FOR CHRIST"
+      },
+      {
+        "src": "img/bounds-praying-men-examples/card-06.png",
+        "title": "IT WAS A SAYING"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-early-on-their-knees",
+    "title": "EARLY ON THEIR KNEES",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-early-on-their-knees/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-early-on-their-knees/card-01.png",
+        "title": "THE MEN WHO HAVE DONE"
+      },
+      {
+        "src": "img/bounds-early-on-their-knees/card-02.png",
+        "title": "IT IS NOT SIMPLY THE GETTING"
+      },
+      {
+        "src": "img/bounds-early-on-their-knees/card-03.png",
+        "title": "NEVER WAS THERE GREATER NEED"
+      },
+      {
+        "src": "img/bounds-early-on-their-knees/card-04.png",
+        "title": "PRAYER IS THE CREATOR AS WELL"
+      },
+      {
+        "src": "img/bounds-early-on-their-knees/card-05.png",
+        "title": "DEVOTION TO GOD THERE"
+      },
+      {
+        "src": "img/bounds-early-on-their-knees/card-06.png",
+        "title": "IT WAS THE GOLDEN AGE"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-prayerful-preachers",
+    "title": "DEVOTED, PRAYERFUL PREACHERS",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/bounds-prayerful-preachers/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-prayerful-preachers/card-01.png",
+        "title": "GOD HAS NOW AND HAS HAD"
+      },
+      {
+        "src": "img/bounds-prayerful-preachers/card-02.png",
+        "title": "I HAD LITTLE LIFE AND POWER"
+      },
+      {
+        "src": "img/bounds-prayerful-preachers/card-03.png",
+        "title": "HOUR BY HOUR DAY AFTER DAY"
+      },
+      {
+        "src": "img/bounds-prayerful-preachers/card-04.png",
+        "title": "MEN OF BAD HEARTS MAY DO"
+      },
+      {
+        "src": "img/bounds-prayerful-preachers/card-05.png",
+        "title": "CAN AMBITION THAT LUSTS AFTER PRAISE"
+      },
+      {
+        "src": "img/bounds-prayerful-preachers/card-06.png",
+        "title": "WE DO SAY THAT HE WHO"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-surrendered-heart",
+    "title": "THE SURRENDERED HEART",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/bounds-surrendered-heart/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-surrendered-heart/card-01.png",
+        "title": "THERE IS NOTHING GREATER THAN LOVE"
+      },
+      {
+        "src": "img/bounds-surrendered-heart/card-02.png",
+        "title": "IT IS THE HEART WHICH SURRENDERS"
+      },
+      {
+        "src": "img/bounds-surrendered-heart/card-03.png",
+        "title": "WHEN SALARY PLAYS A GREAT PART"
+      },
+      {
+        "src": "img/bounds-surrendered-heart/card-04.png",
+        "title": "WHERE THE ONE IS DULY EXHIBITED"
+      },
+      {
+        "src": "img/bounds-surrendered-heart/card-05.png",
+        "title": "THE METHODIST PREACHERS HOWEVER I MAY"
+      },
+      {
+        "src": "img/bounds-surrendered-heart/card-06.png",
+        "title": "HE WHO PREACHES KNOWS ITS PRESENCE"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-divine-unction",
+    "title": "THE DIVINE UNCTION",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-divine-unction/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-divine-unction/card-01.png",
+        "title": "IT IS THIS UNCTION WHICH MAKES"
+      },
+      {
+        "src": "img/bounds-divine-unction/card-02.png",
+        "title": "IT IS SAID OF A RATHER"
+      },
+      {
+        "src": "img/bounds-divine-unction/card-03.png",
+        "title": "THIS DIVINE UNCTION IS THE ONE"
+      },
+      {
+        "src": "img/bounds-divine-unction/card-04.png",
+        "title": "IT IS THE PRESENCE"
+      },
+      {
+        "src": "img/bounds-divine-unction/card-05.png",
+        "title": "THE PRAYERS OF APOSTOLIC SAINTLY LEADERS"
+      },
+      {
+        "src": "img/bounds-divine-unction/card-06.png",
+        "title": "PRAYER WITHOUT CEASING IS THE TRUMPET"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-praying-for-the-preacher",
+    "title": "PRAYING FOR THE PREACHER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-praying-for-the-preacher/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-praying-for-the-preacher/card-01.png",
+        "title": "SOMEHOW THE PRACTICE OF PRAYING"
+      },
+      {
+        "src": "img/bounds-praying-for-the-preacher/card-02.png",
+        "title": "HE KNEW THAT IN THE SPIRITUAL"
+      },
+      {
+        "src": "img/bounds-praying-for-the-preacher/card-03.png",
+        "title": "IT IS TRUE THAT BIBLE PRAYERS"
+      },
+      {
+        "src": "img/bounds-praying-for-the-preacher/card-04.png",
+        "title": "TO PRAY IS THE GREATEST THING"
+      },
+      {
+        "src": "img/bounds-praying-for-the-preacher/card-05.png",
+        "title": "MORE PRAYING WILL NOT COME"
+      },
+      {
+        "src": "img/bounds-praying-for-the-preacher/card-06.png",
+        "title": "GOD WANTS ELECT MEN MEN OUT"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-more-praying-better-world",
+    "title": "THE MORE PRAYING, THE BETTER THE WORLD",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-more-praying-better-world/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-more-praying-better-world/card-01.png",
+        "title": "THE MORE PRAYING THERE"
+      },
+      {
+        "src": "img/bounds-more-praying-better-world/card-02.png",
+        "title": "IT IS TRUE THAT THE MIGHTIEST"
+      },
+      {
+        "src": "img/bounds-more-praying-better-world/card-03.png",
+        "title": "JONAH WAS IN DIRE CONDITION WHEN"
+      },
+      {
+        "src": "img/bounds-more-praying-better-world/card-04.png",
+        "title": "EVERYTHING THEN AS NOW WAS POSSIBLE"
+      },
+      {
+        "src": "img/bounds-more-praying-better-world/card-05.png",
+        "title": "HE PRAYED FERVENTLY THAT IT MIGHT"
+      },
+      {
+        "src": "img/bounds-more-praying-better-world/card-06.png",
+        "title": "MARTIN LUTHER WHEN ONCE ASKED WHAT"
+      }
+    ]
   }
 ];
