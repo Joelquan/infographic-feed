@@ -3744,5 +3744,341 @@ window.MANIFEST = [
         "title": "PERFECT PEACE"
       }
     ]
+  },
+  {
+    "slug": "allen-light-perfect-peace",
+    "title": "THE LIGHT THAT LEADS TO PERFECT PEACE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-light-perfect-peace/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-light-perfect-peace/card-01.png",
+        "title": "OUR LIFE IS WHAT WE MAKE IT"
+      },
+      {
+        "src": "img/allen-light-perfect-peace/card-02.png",
+        "title": "THE CAUSE LIES WITHIN"
+      },
+      {
+        "src": "img/allen-light-perfect-peace/card-03.png",
+        "title": "HE CAN MODIFY HIS CHARACTER"
+      },
+      {
+        "src": "img/allen-light-perfect-peace/card-04.png",
+        "title": "NO POWER CAN COMPEL A MAN"
+      },
+      {
+        "src": "img/allen-light-perfect-peace/card-05.png",
+        "title": "HE HIMSELF MUST CHOOSE THE GOOD"
+      },
+      {
+        "src": "img/allen-light-perfect-peace/card-06.png",
+        "title": "THE GATES OF HEAVEN ARE FOREVER OPEN"
+      },
+      {
+        "src": "img/allen-light-perfect-peace/card-07.png",
+        "title": "STEADFAST IN THE MIDST OF CHANGE"
+      },
+      {
+        "src": "img/allen-light-perfect-peace/card-08.png",
+        "title": "FOR THOSE WHO THIRST FOR IT"
+      }
+    ]
+  },
+  {
+    "slug": "allen-light-cause-and-effect",
+    "title": "LIGHT ON THE LAW OF CAUSE AND EFFECT IN HUMAN LIFE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-light-cause-and-effect/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-light-cause-and-effect/card-01.png",
+        "title": "ITS PRIMARY OFFICE IS TO PROTECT"
+      },
+      {
+        "src": "img/allen-light-cause-and-effect/card-02.png",
+        "title": "AN ETERNAL PROTECTION"
+      },
+      {
+        "src": "img/allen-light-cause-and-effect/card-03.png",
+        "title": "LAW CANNOT BE PARTIAL"
+      },
+      {
+        "src": "img/allen-light-cause-and-effect/card-04.png",
+        "title": "A METHOD OF JUSTICE AND KINDNESS"
+      },
+      {
+        "src": "img/allen-light-cause-and-effect/card-05.png",
+        "title": "THE LAW WHICH PRESERVES US"
+      },
+      {
+        "src": "img/allen-light-cause-and-effect/card-06.png",
+        "title": "WE LEARN BY SUFFERING"
+      },
+      {
+        "src": "img/allen-light-cause-and-effect/card-07.png",
+        "title": "WE CAN ALTER OURSELVES"
+      },
+      {
+        "src": "img/allen-light-cause-and-effect/card-08.png",
+        "title": "IT DESTROYS ALL EVIL, IT PRESERVES ALL GOOD"
+      }
+    ]
+  },
+  {
+    "slug": "allen-light-adherence-to-principle",
+    "title": "LIGHT ON ADHERENCE TO PRINCIPLE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-light-adherence-to-principle/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-light-adherence-to-principle/card-01.png",
+        "title": "THE MAN OF TRUTH"
+      },
+      {
+        "src": "img/allen-light-adherence-to-principle/card-02.png",
+        "title": "THE DESERTION OF PRINCIPLE"
+      },
+      {
+        "src": "img/allen-light-adherence-to-principle/card-03.png",
+        "title": "WE CAN AVOID WRONGDOING"
+      },
+      {
+        "src": "img/allen-light-adherence-to-principle/card-04.png",
+        "title": "NO CIRCUMSTANCE CAN MAKE A WRONG A RIGHT"
+      },
+      {
+        "src": "img/allen-light-adherence-to-principle/card-05.png",
+        "title": "STEADFAST AND CALM"
+      },
+      {
+        "src": "img/allen-light-adherence-to-principle/card-06.png",
+        "title": "IN THE HOUR OF DESERTION, HIS POWER WAS GONE"
+      },
+      {
+        "src": "img/allen-light-adherence-to-principle/card-07.png",
+        "title": "THE TESTING TIME"
+      },
+      {
+        "src": "img/allen-light-adherence-to-principle/card-08.png",
+        "title": "IF WE DESERT THE TRUE FOR THE PLEASANT"
+      }
+    ]
+  },
+  {
+    "slug": "allen-light-sacrifice-of-self",
+    "title": "LIGHT ON THE SACRIFICE OF THE SELF",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-light-sacrifice-of-self/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-light-sacrifice-of-self/card-01.png",
+        "title": "YIELDING UP SELF"
+      },
+      {
+        "src": "img/allen-light-sacrifice-of-self/card-02.png",
+        "title": "THE ANNIHILATION OF EVERY DARK DESIRE"
+      },
+      {
+        "src": "img/allen-light-sacrifice-of-self/card-03.png",
+        "title": "THE LUST FOR THINGS MUST BE SACRIFICED"
+      },
+      {
+        "src": "img/allen-light-sacrifice-of-self/card-04.png",
+        "title": "IT WILL AVAIL NOTHING"
+      },
+      {
+        "src": "img/allen-light-sacrifice-of-self/card-05.png",
+        "title": "UNTIL HE YIELDED UP THE DESIRES OF THE HEART"
+      },
+      {
+        "src": "img/allen-light-sacrifice-of-self/card-06.png",
+        "title": "SACRIFICE IS PAINFUL"
+      },
+      {
+        "src": "img/allen-light-sacrifice-of-self/card-07.png",
+        "title": "HATRED IS SELF"
+      },
+      {
+        "src": "img/allen-light-sacrifice-of-self/card-08.png",
+        "title": "SWALLOWED UP IN DIVINE LOVE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-light-management-of-mind",
+    "title": "LIGHT ON THE MANAGEMENT OF THE MIND",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-light-management-of-mind/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-light-management-of-mind/card-01.png",
+        "title": "THE GREAT DELUSION"
+      },
+      {
+        "src": "img/allen-light-management-of-mind/card-02.png",
+        "title": "HE BLAMES THOSE ABOUT HIM"
+      },
+      {
+        "src": "img/allen-light-management-of-mind/card-03.png",
+        "title": "HE ALONE IS RESPONSIBLE FOR THEM"
+      },
+      {
+        "src": "img/allen-light-management-of-mind/card-04.png",
+        "title": "ABSOLUTELY RESPONSIBLE FOR HIS EVERY ACTION"
+      },
+      {
+        "src": "img/allen-light-management-of-mind/card-05.png",
+        "title": "THE TEST AND MEASURE OF VIRTUE IS TRIAL"
+      },
+      {
+        "src": "img/allen-light-management-of-mind/card-06.png",
+        "title": "HINDERED ONLY BY HIMSELF"
+      },
+      {
+        "src": "img/allen-light-management-of-mind/card-07.png",
+        "title": "THE MOST VALUABLE AIDS"
+      },
+      {
+        "src": "img/allen-light-management-of-mind/card-08.png",
+        "title": "HE HIMSELF WAS REALLY THE PROVOKER"
+      }
+    ]
+  },
+  {
+    "slug": "allen-light-self-control",
+    "title": "LIGHT ON SELF-CONTROL: THE DOOR OF HEAVEN",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-light-self-control/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-light-self-control/card-01.png",
+        "title": "THE FOREMOST LESSON"
+      },
+      {
+        "src": "img/allen-light-self-control/card-02.png",
+        "title": "SALVATION IS A MEANINGLESS WORD"
+      },
+      {
+        "src": "img/allen-light-self-control/card-03.png",
+        "title": "THE DOOR OF HEAVEN"
+      },
+      {
+        "src": "img/allen-light-self-control/card-04.png",
+        "title": "IT HAS NO SUBSTITUTE"
+      },
+      {
+        "src": "img/allen-light-self-control/card-05.png",
+        "title": "THE WEAKEST MAN CAN BEGIN NOW"
+      },
+      {
+        "src": "img/allen-light-self-control/card-06.png",
+        "title": "STRIVING AGAINST THE DARKNESS WITHIN"
+      },
+      {
+        "src": "img/allen-light-self-control/card-07.png",
+        "title": "THE BEGINNING OF VIRTUE"
+      },
+      {
+        "src": "img/allen-light-self-control/card-08.png",
+        "title": "WHEN HE BEGINS TO CONTROL HIMSELF"
+      }
+    ]
+  },
+  {
+    "slug": "allen-light-lifes-sorrows",
+    "title": "LIGHT ON LIFE'S SORROWS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-light-lifes-sorrows/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-light-lifes-sorrows/card-01.png",
+        "title": "GREAT SORROW IN THE WORLD"
+      },
+      {
+        "src": "img/allen-light-lifes-sorrows/card-02.png",
+        "title": "VERY NEAR TO TRUTH"
+      },
+      {
+        "src": "img/allen-light-lifes-sorrows/card-03.png",
+        "title": "A TEACHER AND PURIFIER"
+      },
+      {
+        "src": "img/allen-light-lifes-sorrows/card-04.png",
+        "title": "ACCEPT THE DARKNESS AS YOUR OWN"
+      },
+      {
+        "src": "img/allen-light-lifes-sorrows/card-05.png",
+        "title": "THE HOUR OF YOUR GETHSEMANE"
+      },
+      {
+        "src": "img/allen-light-lifes-sorrows/card-06.png",
+        "title": "FAITH AND PATIENCE ONLY"
+      },
+      {
+        "src": "img/allen-light-lifes-sorrows/card-07.png",
+        "title": "HE WILL GRADUALLY RISE ABOVE SORROW"
+      },
+      {
+        "src": "img/allen-light-lifes-sorrows/card-08.png",
+        "title": "SORROW IS TRANSCENDED"
+      }
+    ]
+  },
+  {
+    "slug": "allen-light-truth-of-transitoriness",
+    "title": "LIGHT ON THE TRUTH OF TRANSITORINESS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-light-truth-of-transitoriness/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-light-truth-of-transitoriness/card-01.png",
+        "title": "ALL COMPOUNDED THINGS MUST PASS AWAY"
+      },
+      {
+        "src": "img/allen-light-truth-of-transitoriness/card-02.png",
+        "title": "NOTHING ENDURES, NOTHING CAN BE RETAINED"
+      },
+      {
+        "src": "img/allen-light-truth-of-transitoriness/card-03.png",
+        "title": "CEASE TO DELUDE HIMSELF"
+      },
+      {
+        "src": "img/allen-light-truth-of-transitoriness/card-04.png",
+        "title": "ONE OF THE GREAT STEPS IN WISDOM"
+      },
+      {
+        "src": "img/allen-light-truth-of-transitoriness/card-05.png",
+        "title": "ANGUISH IS RIFE"
+      },
+      {
+        "src": "img/allen-light-truth-of-transitoriness/card-06.png",
+        "title": "MEASURED BY THE STRENGTH OF HIS CLINGING"
+      },
+      {
+        "src": "img/allen-light-truth-of-transitoriness/card-07.png",
+        "title": "THE ROOT OF SORROW"
+      },
+      {
+        "src": "img/allen-light-truth-of-transitoriness/card-08.png",
+        "title": "SORROW IS ENDED FOR HIM"
+      }
+    ]
   }
 ];
