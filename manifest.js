@@ -9274,5 +9274,1057 @@ window.MANIFEST = [
         "title": "THE FOUNTAIN ALWAYS FULL"
       }
     ]
+  },
+  {
+    "slug": "allen-daily-dwell-in-love",
+    "title": "DWELL IN LOVE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-daily-dwell-in-love/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-daily-dwell-in-love/card-01.png",
+        "title": "DWELL IN LOVE TOWARDS ALL"
+      },
+      {
+        "src": "img/allen-daily-dwell-in-love/card-02.png",
+        "title": "JOY FILLS THE SELF-EMPTIED HEART"
+      },
+      {
+        "src": "img/allen-daily-dwell-in-love/card-03.png",
+        "title": "NO ROOM FOR HATRED"
+      },
+      {
+        "src": "img/allen-daily-dwell-in-love/card-04.png",
+        "title": "CEASE TO WHINE AND REVILE"
+      },
+      {
+        "src": "img/allen-daily-dwell-in-love/card-05.png",
+        "title": "THE CHOOSER OF THY THOUGHTS"
+      },
+      {
+        "src": "img/allen-daily-dwell-in-love/card-06.png",
+        "title": "CALMNESS AND PATIENCE BY HABIT"
+      },
+      {
+        "src": "img/allen-daily-dwell-in-love/card-07.png",
+        "title": "MADE OR UNMADE BY HIMSELF"
+      },
+      {
+        "src": "img/allen-daily-dwell-in-love/card-08.png",
+        "title": "EVERY SOUL ATTRACTS ITS OWN"
+      }
+    ]
+  },
+  {
+    "slug": "allen-daily-kingdom-within",
+    "title": "THE KINGDOM WITHIN",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-daily-kingdom-within/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-daily-kingdom-within/card-01.png",
+        "title": "LOVE, ROOT OF ALL PEACE"
+      },
+      {
+        "src": "img/allen-daily-kingdom-within/card-02.png",
+        "title": "A PEACEFUL ACTIVITY"
+      },
+      {
+        "src": "img/allen-daily-kingdom-within/card-03.png",
+        "title": "A GOSPEL OF LIVING AND DOING"
+      },
+      {
+        "src": "img/allen-daily-kingdom-within/card-04.png",
+        "title": "POWER THEY DO NOT POSSESS"
+      },
+      {
+        "src": "img/allen-daily-kingdom-within/card-05.png",
+        "title": "THAT HAPPY WORLD NOW"
+      },
+      {
+        "src": "img/allen-daily-kingdom-within/card-06.png",
+        "title": "HEAVEN AND HELL ARE INWARD STATES"
+      },
+      {
+        "src": "img/allen-daily-kingdom-within/card-07.png",
+        "title": "SYMPATHY CAN NEVER BE WASTE"
+      },
+      {
+        "src": "img/allen-daily-kingdom-within/card-08.png",
+        "title": "HE CARRIES HIS POSSESSIONS WITH HIM"
+      }
+    ]
+  },
+  {
+    "slug": "allen-daily-perfect-blessedness",
+    "title": "PERFECT BLESSEDNESS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-daily-perfect-blessedness/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-daily-perfect-blessedness/card-01.png",
+        "title": "DO RIGHT AND TRUST THE LAW"
+      },
+      {
+        "src": "img/allen-daily-perfect-blessedness/card-02.png",
+        "title": "LOSE YOURSELF IN THE WELFARE OF OTHERS"
+      },
+      {
+        "src": "img/allen-daily-perfect-blessedness/card-03.png",
+        "title": "THE FARMER TRUSTS AND WAITS"
+      },
+      {
+        "src": "img/allen-daily-perfect-blessedness/card-04.png",
+        "title": "HE ONLY FINDS PEACE WHO CONQUERS HIMSELF"
+      },
+      {
+        "src": "img/allen-daily-perfect-blessedness/card-05.png",
+        "title": "SYMPATHY GIVEN IS BLESSEDNESS RECEIVED"
+      },
+      {
+        "src": "img/allen-daily-perfect-blessedness/card-06.png",
+        "title": "THE PERFECTION OF LIFE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-daily-right-beginnings",
+    "title": "RIGHT BEGINNINGS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-daily-right-beginnings/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-daily-right-beginnings/card-01.png",
+        "title": "EVERY DAY A NEW LIFE"
+      },
+      {
+        "src": "img/allen-daily-right-beginnings/card-02.png",
+        "title": "NO ACHIEVEMENT WITHOUT SACRIFICE"
+      },
+      {
+        "src": "img/allen-daily-right-beginnings/card-03.png",
+        "title": "RIGHT ACTS FOLLOW RIGHT THOUGHTS"
+      },
+      {
+        "src": "img/allen-daily-right-beginnings/card-04.png",
+        "title": "CALMNESS, A JEWEL OF WISDOM"
+      },
+      {
+        "src": "img/allen-daily-right-beginnings/card-05.png",
+        "title": "FAITH AND THE LIVING OF FAITH"
+      },
+      {
+        "src": "img/allen-daily-right-beginnings/card-06.png",
+        "title": "FROM VICTORY TO VICTORY"
+      },
+      {
+        "src": "img/allen-daily-right-beginnings/card-07.png",
+        "title": "THE FIVE STEPS IN VIRTUOUS SPEECH"
+      },
+      {
+        "src": "img/allen-daily-right-beginnings/card-08.png",
+        "title": "CLOTHED WITH HUMILITY"
+      }
+    ]
+  },
+  {
+    "slug": "allen-daily-self-conquest",
+    "title": "SELF-CONQUEST",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-daily-self-conquest/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-daily-self-conquest/card-01.png",
+        "title": "CONQUERED SELF, CONQUERED UNIVERSE"
+      },
+      {
+        "src": "img/allen-daily-self-conquest/card-02.png",
+        "title": "FAITH IN THE SUPREMACY OF GOOD"
+      },
+      {
+        "src": "img/allen-daily-self-conquest/card-03.png",
+        "title": "FOCUS YOUR THOUGHT-FORCES"
+      },
+      {
+        "src": "img/allen-daily-self-conquest/card-04.png",
+        "title": "YOU MAY BE NOW"
+      },
+      {
+        "src": "img/allen-daily-self-conquest/card-05.png",
+        "title": "PERFECT THYSELF IN LOVE"
+      },
+      {
+        "src": "img/allen-daily-self-conquest/card-06.png",
+        "title": "THE GREAT LAW NEVER CHEATS"
+      },
+      {
+        "src": "img/allen-daily-self-conquest/card-07.png",
+        "title": "EVERY MAN REAPS HIS OWN"
+      },
+      {
+        "src": "img/allen-daily-self-conquest/card-08.png",
+        "title": "CREATOR OF YOUR OWN SHADOWS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-daily-silence-and-meditation",
+    "title": "SILENCE AND MEDITATION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-daily-silence-and-meditation/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-daily-silence-and-meditation/card-01.png",
+        "title": "CURB THE TONGUE, POSSESS THE MIND"
+      },
+      {
+        "src": "img/allen-daily-silence-and-meditation/card-02.png",
+        "title": "DESIRE AND ASPIRATION"
+      },
+      {
+        "src": "img/allen-daily-silence-and-meditation/card-03.png",
+        "title": "DISCOVERED BEFORE IT CAN BE REMOVED"
+      },
+      {
+        "src": "img/allen-daily-silence-and-meditation/card-04.png",
+        "title": "EXERCISE THE SPIRIT OF PEACE"
+      },
+      {
+        "src": "img/allen-daily-silence-and-meditation/card-05.png",
+        "title": "NOT ACQUAINTED WITH PEACE"
+      },
+      {
+        "src": "img/allen-daily-silence-and-meditation/card-06.png",
+        "title": "THE ESSENCE AND SOUL OF PRAYER"
+      },
+      {
+        "src": "img/allen-daily-silence-and-meditation/card-07.png",
+        "title": "CONCENTRATE YOUR WHOLE MIND"
+      },
+      {
+        "src": "img/allen-daily-silence-and-meditation/card-08.png",
+        "title": "TRAIN YOUR MIND, HEART AND TONGUE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-daily-suffering-and-law",
+    "title": "SUFFERING AND LAW",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-daily-suffering-and-law/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-daily-suffering-and-law/card-01.png",
+        "title": "SORROW IS FLEETING, JOY ABIDES"
+      },
+      {
+        "src": "img/allen-daily-suffering-and-law/card-02.png",
+        "title": "TRIBULATION FINISHES ITS WORK"
+      },
+      {
+        "src": "img/allen-daily-suffering-and-law/card-03.png",
+        "title": "HAPPY IN THE MEASURE HE CONTROLS HIMSELF"
+      },
+      {
+        "src": "img/allen-daily-suffering-and-law/card-04.png",
+        "title": "LAW, NOT CONFUSION"
+      },
+      {
+        "src": "img/allen-daily-suffering-and-law/card-05.png",
+        "title": "IF MEN ONLY UNDERSTOOD"
+      },
+      {
+        "src": "img/allen-daily-suffering-and-law/card-06.png",
+        "title": "APART FROM DOING, THEY DO NOT EXIST"
+      },
+      {
+        "src": "img/allen-daily-suffering-and-law/card-07.png",
+        "title": "LIFE PROCEEDS FROM THE MIND"
+      },
+      {
+        "src": "img/allen-daily-suffering-and-law/card-08.png",
+        "title": "THE WEAK MAN AND THE STRONG MAN"
+      }
+    ]
+  },
+  {
+    "slug": "allen-daily-visions-and-dreams",
+    "title": "VISIONS AND DREAMS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-daily-visions-and-dreams/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-daily-visions-and-dreams/card-01.png",
+        "title": "EVER-BROADENING LOVE"
+      },
+      {
+        "src": "img/allen-daily-visions-and-dreams/card-02.png",
+        "title": "MIND, THE ARBITER OF LIFE"
+      },
+      {
+        "src": "img/allen-daily-visions-and-dreams/card-03.png",
+        "title": "CHERISH YOUR VISIONS"
+      },
+      {
+        "src": "img/allen-daily-visions-and-dreams/card-04.png",
+        "title": "YOUR VISION IS THE PROMISE"
+      },
+      {
+        "src": "img/allen-daily-visions-and-dreams/card-05.png",
+        "title": "DOUBT AND FEAR CONQUERED"
+      },
+      {
+        "src": "img/allen-daily-visions-and-dreams/card-06.png",
+        "title": "A KING, NOT A SLAVE"
+      },
+      {
+        "src": "img/allen-daily-visions-and-dreams/card-07.png",
+        "title": "ONLY BY CONQUERING HIMSELF"
+      },
+      {
+        "src": "img/allen-daily-visions-and-dreams/card-08.png",
+        "title": "THE TRUE SILENCE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-01",
+    "title": "OVERCOMING ONE'S SELF",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-01/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-01/card-01.png",
+        "title": "PUT HIMSELF RIGHT"
+      },
+      {
+        "src": "img/allen-meditations-01/card-02.png",
+        "title": "FIRST THINGS FIRST"
+      },
+      {
+        "src": "img/allen-meditations-01/card-03.png",
+        "title": "ASPIRATION RISES"
+      },
+      {
+        "src": "img/allen-meditations-01/card-04.png",
+        "title": "THE SOLE AND NEEDFUL TASK"
+      },
+      {
+        "src": "img/allen-meditations-01/card-05.png",
+        "title": "THE MEANING OF TEMPTATION"
+      },
+      {
+        "src": "img/allen-meditations-01/card-06.png",
+        "title": "EVERY DAY IS A NEW BIRTH"
+      },
+      {
+        "src": "img/allen-meditations-01/card-07.png",
+        "title": "CUSTODIAN OF YOUR DEEDS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-02",
+    "title": "EVIL IS NOT PERMANENT",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-02/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-02/card-01.png",
+        "title": "A WIDER COMPASSION"
+      },
+      {
+        "src": "img/allen-meditations-02/card-02.png",
+        "title": "GLADNESS DISPLACES SORROW"
+      },
+      {
+        "src": "img/allen-meditations-02/card-03.png",
+        "title": "WHEN IMPATIENCE IS PUT AWAY"
+      },
+      {
+        "src": "img/allen-meditations-02/card-04.png",
+        "title": "NO CAUSE FOR DESPAIR"
+      },
+      {
+        "src": "img/allen-meditations-02/card-05.png",
+        "title": "TRANSMUTE ALL EVIL INTO GOOD"
+      },
+      {
+        "src": "img/allen-meditations-02/card-06.png",
+        "title": "A PASSING PHASE"
+      },
+      {
+        "src": "img/allen-meditations-02/card-07.png",
+        "title": "WHAT YOU ARE, SO IS YOUR WORLD"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-03",
+    "title": "THE SECRET OF POWER",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-03/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-03/card-01.png",
+        "title": "CONCENTRATION OF THOUGHT"
+      },
+      {
+        "src": "img/allen-meditations-03/card-02.png",
+        "title": "THE MAN OF POWER"
+      },
+      {
+        "src": "img/allen-meditations-03/card-03.png",
+        "title": "SEEKING THE TRUTH"
+      },
+      {
+        "src": "img/allen-meditations-03/card-04.png",
+        "title": "HE NEGLECTS NOTHING"
+      },
+      {
+        "src": "img/allen-meditations-03/card-05.png",
+        "title": "THE MEASURE OF HIS MANHOOD"
+      },
+      {
+        "src": "img/allen-meditations-03/card-06.png",
+        "title": "HIS STRENGTH IS TRIED"
+      },
+      {
+        "src": "img/allen-meditations-03/card-07.png",
+        "title": "STEADY UPON A PRINCIPLE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-04",
+    "title": "AS THE HEART, SO IS THE LIFE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-04/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-04/card-01.png",
+        "title": "MEDITATE UPON DIVINE LOVE"
+      },
+      {
+        "src": "img/allen-meditations-04/card-02.png",
+        "title": "LEARN TO STAND ALONE"
+      },
+      {
+        "src": "img/allen-meditations-04/card-03.png",
+        "title": "THOUGHTS BLOSSOM INTO DEEDS"
+      },
+      {
+        "src": "img/allen-meditations-04/card-04.png",
+        "title": "KNOWLEDGE BY REPETITION"
+      },
+      {
+        "src": "img/allen-meditations-04/card-05.png",
+        "title": "FREE-WILL AND FATE"
+      },
+      {
+        "src": "img/allen-meditations-04/card-06.png",
+        "title": "ON THE WINGS OF ASPIRATION"
+      },
+      {
+        "src": "img/allen-meditations-04/card-07.png",
+        "title": "THE COUNTRY OF SACRIFICE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-05",
+    "title": "PURIFICATION OF THE HEART",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-05/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-05/card-01.png",
+        "title": "MAN IS A THOUGHT-BEING"
+      },
+      {
+        "src": "img/allen-meditations-05/card-02.png",
+        "title": "HIS OWN SAVIOUR"
+      },
+      {
+        "src": "img/allen-meditations-05/card-03.png",
+        "title": "HE WHO GOVERNS HIS TONGUE"
+      },
+      {
+        "src": "img/allen-meditations-05/card-04.png",
+        "title": "AN ABIDING PEACE"
+      },
+      {
+        "src": "img/allen-meditations-05/card-05.png",
+        "title": "HIS CALMNESS WILL NOT BE BROKEN"
+      },
+      {
+        "src": "img/allen-meditations-05/card-06.png",
+        "title": "FEARLESS AND UNASHAMED"
+      },
+      {
+        "src": "img/allen-meditations-05/card-07.png",
+        "title": "BY RESULTS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-06",
+    "title": "THE TRANSCENDENT LIFE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-06/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-06/card-01.png",
+        "title": "HIS OWN COMPELLER"
+      },
+      {
+        "src": "img/allen-meditations-06/card-02.png",
+        "title": "MIND, THOUGHT, AND LIFE"
+      },
+      {
+        "src": "img/allen-meditations-06/card-03.png",
+        "title": "NO ESCAPE FROM EFFECTS"
+      },
+      {
+        "src": "img/allen-meditations-06/card-04.png",
+        "title": "RULED BY PRINCIPLES"
+      },
+      {
+        "src": "img/allen-meditations-06/card-05.png",
+        "title": "WARFARE AGAINST EVILS WITHIN"
+      },
+      {
+        "src": "img/allen-meditations-06/card-06.png",
+        "title": "YIELD UP SELF"
+      },
+      {
+        "src": "img/allen-meditations-06/card-07.png",
+        "title": "CENTRED IN THE SUPREME LOVE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-07",
+    "title": "THE CONQUEST OF THYSELF",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-07/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-07/card-01.png",
+        "title": "TO SIN IS TO DREAM"
+      },
+      {
+        "src": "img/allen-meditations-07/card-02.png",
+        "title": "WHEN THY HEART IS PURE"
+      },
+      {
+        "src": "img/allen-meditations-07/card-03.png",
+        "title": "WASH THOU THY HEART"
+      },
+      {
+        "src": "img/allen-meditations-07/card-04.png",
+        "title": "THE GLAD WAY OF TRUTH"
+      },
+      {
+        "src": "img/allen-meditations-07/card-05.png",
+        "title": "EVERY SOUL HUNGERS"
+      },
+      {
+        "src": "img/allen-meditations-07/card-06.png",
+        "title": "FOUND THROUGH DUTY"
+      },
+      {
+        "src": "img/allen-meditations-07/card-07.png",
+        "title": "HE LIVES FOR OTHERS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-08",
+    "title": "THE KINGDOM OF LOVE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-08/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-08/card-01.png",
+        "title": "CHRIST IS LOVE"
+      },
+      {
+        "src": "img/allen-meditations-08/card-02.png",
+        "title": "CEASE TO CONDEMN"
+      },
+      {
+        "src": "img/allen-meditations-08/card-03.png",
+        "title": "A MATTER OF INDIVIDUAL CONDUCT"
+      },
+      {
+        "src": "img/allen-meditations-08/card-04.png",
+        "title": "IMPERISHABLE PRINCIPLES"
+      },
+      {
+        "src": "img/allen-meditations-08/card-05.png",
+        "title": "A NEW CREATURE"
+      },
+      {
+        "src": "img/allen-meditations-08/card-06.png",
+        "title": "FREE FROM ANGER AND GRIEF"
+      },
+      {
+        "src": "img/allen-meditations-08/card-07.png",
+        "title": "DO AND WORK NOW"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-09",
+    "title": "THE PRACTICE OF TRUTH",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-09/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-09/card-01.png",
+        "title": "TRUTH ONLY BY PRACTICE"
+      },
+      {
+        "src": "img/allen-meditations-09/card-02.png",
+        "title": "BLAMELESS CONDUCT"
+      },
+      {
+        "src": "img/allen-meditations-09/card-03.png",
+        "title": "UNCONQUERABLE INTEGRITY"
+      },
+      {
+        "src": "img/allen-meditations-09/card-04.png",
+        "title": "KINDNESS AND COMPASSION"
+      },
+      {
+        "src": "img/allen-meditations-09/card-05.png",
+        "title": "UNDERSTAND YOUR OWN NATURE"
+      },
+      {
+        "src": "img/allen-meditations-09/card-06.png",
+        "title": "STRENGTH IS WITHIN"
+      },
+      {
+        "src": "img/allen-meditations-09/card-07.png",
+        "title": "INTO NEW CHANNELS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-10",
+    "title": "THE ETERNAL LAW",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-10/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-10/card-01.png",
+        "title": "INSEPARABLE FROM THE INFINITE"
+      },
+      {
+        "src": "img/allen-meditations-10/card-02.png",
+        "title": "THE SURRENDER OF SELF"
+      },
+      {
+        "src": "img/allen-meditations-10/card-03.png",
+        "title": "TRUE SERVICE"
+      },
+      {
+        "src": "img/allen-meditations-10/card-04.png",
+        "title": "DEPTHS THE STORM CANNOT REACH"
+      },
+      {
+        "src": "img/allen-meditations-10/card-05.png",
+        "title": "VIRTUE KNOWN BY DOING"
+      },
+      {
+        "src": "img/allen-meditations-10/card-06.png",
+        "title": "OVERCOMING INDOLENCE"
+      },
+      {
+        "src": "img/allen-meditations-10/card-07.png",
+        "title": "EXCHANGE HURRY FOR CALMNESS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-11",
+    "title": "FREED FROM SELF",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-11/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-11/card-01.png",
+        "title": "THE MIGHT OF MEEKNESS"
+      },
+      {
+        "src": "img/allen-meditations-11/card-02.png",
+        "title": "THE RIGHTEOUS MAN IS INVINCIBLE"
+      },
+      {
+        "src": "img/allen-meditations-11/card-03.png",
+        "title": "PERFECT LOVE CASTETH OUT FEAR"
+      },
+      {
+        "src": "img/allen-meditations-11/card-04.png",
+        "title": "TO CONQUER ONESELF IS FREEDOM"
+      },
+      {
+        "src": "img/allen-meditations-11/card-05.png",
+        "title": "FREEDOM IS TO THE FREE"
+      },
+      {
+        "src": "img/allen-meditations-11/card-06.png",
+        "title": "CALMNESS IS THE GREATEST POWER"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-12",
+    "title": "STERLING INTEGRITY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-12/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-12/card-01.png",
+        "title": "NO CHEAP BARGAIN WITH PROSPERITY"
+      },
+      {
+        "src": "img/allen-meditations-12/card-02.png",
+        "title": "INTEGRITY EMBRACES THE WHOLE MAN"
+      },
+      {
+        "src": "img/allen-meditations-12/card-03.png",
+        "title": "HONESTY IS THE SUREST WAY"
+      },
+      {
+        "src": "img/allen-meditations-12/card-04.png",
+        "title": "SYMPATHY ARISES IN LOVE"
+      },
+      {
+        "src": "img/allen-meditations-12/card-05.png",
+        "title": "BEWARE OF GREED AND ENVY"
+      },
+      {
+        "src": "img/allen-meditations-12/card-06.png",
+        "title": "UNBROKEN GENTLENESS, HIGHEST WISDOM"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-13",
+    "title": "THE PATH OF MEDITATION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-13/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-13/card-01.png",
+        "title": "TRUTH IS NOT PROVED BY WORDS"
+      },
+      {
+        "src": "img/allen-meditations-13/card-02.png",
+        "title": "CONSCIOUS HARMONY WITH THE LAW"
+      },
+      {
+        "src": "img/allen-meditations-13/card-03.png",
+        "title": "THE WAY OF SELF-SACRIFICE"
+      },
+      {
+        "src": "img/allen-meditations-13/card-04.png",
+        "title": "AN ATMOSPHERE OF SWEETNESS AND POWER"
+      },
+      {
+        "src": "img/allen-meditations-13/card-05.png",
+        "title": "KEEP THE MORNING SACRED"
+      },
+      {
+        "src": "img/allen-meditations-13/card-06.png",
+        "title": "THE END OF MEDITATION"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-14",
+    "title": "THE CAUSE IS WITHIN",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-14/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-14/card-01.png",
+        "title": "KNOWLEDGE LEADS TO STRENGTH"
+      },
+      {
+        "src": "img/allen-meditations-14/card-02.png",
+        "title": "THE ASPECT YOUR THOUGHTS CLOTHE IT"
+      },
+      {
+        "src": "img/allen-meditations-14/card-03.png",
+        "title": "PERFECT JUSTICE UPHOLDS THE UNIVERSE"
+      },
+      {
+        "src": "img/allen-meditations-14/card-04.png",
+        "title": "LIFE IS A SUM IN ARITHMETIC"
+      },
+      {
+        "src": "img/allen-meditations-14/card-05.png",
+        "title": "THE TRAINING OF THE WILL"
+      },
+      {
+        "src": "img/allen-meditations-14/card-06.png",
+        "title": "HE FORFEITS THE RIGHT TO RULE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-15",
+    "title": "THE OVERCOMING OF SELF",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-15/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-15/card-01.png",
+        "title": "TRANSFORM YOURSELF"
+      },
+      {
+        "src": "img/allen-meditations-15/card-02.png",
+        "title": "WEEDING OUT THE SOUL"
+      },
+      {
+        "src": "img/allen-meditations-15/card-03.png",
+        "title": "ALL TEMPTATION COMES FROM WITHIN"
+      },
+      {
+        "src": "img/allen-meditations-15/card-04.png",
+        "title": "GOODNESS DESTROYS TEMPTATION"
+      },
+      {
+        "src": "img/allen-meditations-15/card-05.png",
+        "title": "INNOCENCE IS A SUFFICIENT ANSWER"
+      },
+      {
+        "src": "img/allen-meditations-15/card-06.png",
+        "title": "BELIEF DETERMINES THE LIFE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-16",
+    "title": "EVERY MAN IS A MIND-BUILDER",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-16/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-16/card-01.png",
+        "title": "GUARD WELL YOUR THOUGHTS"
+      },
+      {
+        "src": "img/allen-meditations-16/card-02.png",
+        "title": "YOUR DOMINANT MENTAL ATTITUDE"
+      },
+      {
+        "src": "img/allen-meditations-16/card-03.png",
+        "title": "DURABLE BRICKS OF THOUGHT"
+      },
+      {
+        "src": "img/allen-meditations-16/card-04.png",
+        "title": "FOUR PRINCIPLES OF A LIFE"
+      },
+      {
+        "src": "img/allen-meditations-16/card-05.png",
+        "title": "ASPIRATION UNITED TO CONCENTRATION"
+      },
+      {
+        "src": "img/allen-meditations-16/card-06.png",
+        "title": "THOUGHTS TEND TO REPEAT THEMSELVES"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-17",
+    "title": "THE MIGHT OF MEEKNESS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-17/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-17/card-01.png",
+        "title": "FALL BACK UPON THE TRUTH WITHIN"
+      },
+      {
+        "src": "img/allen-meditations-17/card-02.png",
+        "title": "ALL POWER IS NOW"
+      },
+      {
+        "src": "img/allen-meditations-17/card-03.png",
+        "title": "PURE NOW, NOT TOMORROW"
+      },
+      {
+        "src": "img/allen-meditations-17/card-04.png",
+        "title": "THE MOUNTAIN AND THE MEEK MAN"
+      },
+      {
+        "src": "img/allen-meditations-17/card-05.png",
+        "title": "THE MEEK MAN SHINES IN DARKNESS"
+      },
+      {
+        "src": "img/allen-meditations-17/card-06.png",
+        "title": "HE CONQUERS BY RESISTING NONE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-18",
+    "title": "THE POWER OF PURPOSE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-18/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-18/card-01.png",
+        "title": "PURPOSE GOES WITH INTELLIGENCE"
+      },
+      {
+        "src": "img/allen-meditations-18/card-02.png",
+        "title": "THE MAN OF FIXED PURPOSE"
+      },
+      {
+        "src": "img/allen-meditations-18/card-03.png",
+        "title": "THE SHIRKER IS THE MOST MISERABLE"
+      },
+      {
+        "src": "img/allen-meditations-18/card-04.png",
+        "title": "THE PRICE OF LIFE IS EFFORT"
+      },
+      {
+        "src": "img/allen-meditations-18/card-05.png",
+        "title": "SOW ONLY THE SEEDS OF TRUTH"
+      },
+      {
+        "src": "img/allen-meditations-18/card-06.png",
+        "title": "A MAN BEGINS TO LIVE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-19",
+    "title": "THE THREE STAGES",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-19/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-19/card-01.png",
+        "title": "HE CONTROLS HIS PASSIONS"
+      },
+      {
+        "src": "img/allen-meditations-19/card-02.png",
+        "title": "BORN OF SELF-PURIFICATION"
+      },
+      {
+        "src": "img/allen-meditations-19/card-03.png",
+        "title": "TRUE RESOLUTION"
+      },
+      {
+        "src": "img/allen-meditations-19/card-04.png",
+        "title": "CONTENT WITH THREE THINGS"
+      },
+      {
+        "src": "img/allen-meditations-19/card-05.png",
+        "title": "BROTHERHOOD IS A PRACTICE"
+      },
+      {
+        "src": "img/allen-meditations-19/card-06.png",
+        "title": "TRUTH BY PRACTICE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-meditations-20",
+    "title": "NOTHING CAN TRANSCEND RIGHT",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-meditations-20/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-meditations-20/card-01.png",
+        "title": "THE ANCIENT WAY"
+      },
+      {
+        "src": "img/allen-meditations-20/card-02.png",
+        "title": "NEITHER FAVOUR NOR CHANCE"
+      },
+      {
+        "src": "img/allen-meditations-20/card-03.png",
+        "title": "RIGHT THOUGHTS, RIGHT ACTIONS"
+      },
+      {
+        "src": "img/allen-meditations-20/card-04.png",
+        "title": "LET THE YEAR PASS AWAY"
+      },
+      {
+        "src": "img/allen-meditations-20/card-05.png",
+        "title": "MEET DIFFICULTIES BRAVELY"
+      },
+      {
+        "src": "img/allen-meditations-20/card-06.png",
+        "title": "HATRED IS SMALL, LOVE IS GREAT"
+      },
+      {
+        "src": "img/allen-meditations-20/card-07.png",
+        "title": "THE FULLNESS OF PEACE"
+      }
+    ]
   }
 ];
