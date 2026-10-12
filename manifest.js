@@ -15146,5 +15146,277 @@ window.MANIFEST = [
         "title": "ALWAYS JOY, ALWAYS TRANQUILLITY"
       }
     ]
+  },
+  {
+    "slug": "smith-growth-and-service",
+    "title": "GROWTH AND SERVICE",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/smith-growth-and-service/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-growth-and-service/card-01.png",
+        "title": "IS THIS THE END?"
+      },
+      {
+        "src": "img/smith-growth-and-service/card-02.png",
+        "title": "GROWING PUT INTO THE LORD'S HANDS"
+      },
+      {
+        "src": "img/smith-growth-and-service/card-03.png",
+        "title": "SELF HAS BECOME NOTHING"
+      },
+      {
+        "src": "img/smith-growth-and-service/card-04.png",
+        "title": "THE SAME SACRIFICE, CALLED A CROSS"
+      },
+      {
+        "src": "img/smith-growth-and-service/card-05.png",
+        "title": "HE LEADS US STEP BY STEP"
+      },
+      {
+        "src": "img/smith-growth-and-service/card-06.png",
+        "title": "ONE SUCH WOULD CHASE A THOUSAND"
+      }
+    ]
+  },
+  {
+    "slug": "smith-difficulties-concerning-guidance",
+    "title": "DIFFICULTIES CONCERNING GUIDANCE",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/smith-difficulties-concerning-guidance/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-difficulties-concerning-guidance/card-01.png",
+        "title": "A VESSEL UNTO HIS HONOR"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-guidance/card-02.png",
+        "title": "PROVED BY LOVE AND PATIENCE"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-guidance/card-03.png",
+        "title": "WHERE HE HAS ALREADY GIVEN DIRECTIONS"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-guidance/card-04.png",
+        "title": "HE SPEAKS THROUGH OUR OWN FACULTIES"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-guidance/card-05.png",
+        "title": "HE WORKS IN US TO WILL"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-guidance/card-06.png",
+        "title": "PERFECT CONFIDENCE THAT HE SPEAKS"
+      }
+    ]
+  },
+  {
+    "slug": "smith-temptation-and-failures",
+    "title": "TEMPTATION AND FAILURES",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/smith-temptation-and-failures/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-temptation-and-failures/card-01.png",
+        "title": "DELIVERANCE IS NOT FROM BEING TEMPTED"
+      },
+      {
+        "src": "img/smith-temptation-and-failures/card-02.png",
+        "title": "SIN COMES BY JOINING IN"
+      },
+      {
+        "src": "img/smith-temptation-and-failures/card-03.png",
+        "title": "THE BUTTERFLY AND ITS COCOON"
+      },
+      {
+        "src": "img/smith-temptation-and-failures/card-04.png",
+        "title": "FORGIVEN AS SOON AS WE ASK"
+      },
+      {
+        "src": "img/smith-temptation-and-failures/card-05.png",
+        "title": "THE CAUSES OF FAILURE"
+      },
+      {
+        "src": "img/smith-temptation-and-failures/card-06.png",
+        "title": "NEVER FORGET, HOWEVER OFTEN WE FAIL"
+      }
+    ]
+  },
+  {
+    "slug": "smith-doubts",
+    "title": "DOUBTS",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/smith-doubts/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-doubts/card-01.png",
+        "title": "SLAVES TO THE HABIT OF DOUBTING"
+      },
+      {
+        "src": "img/smith-doubts/card-02.png",
+        "title": "ONE VIGOROUS PROTEST"
+      },
+      {
+        "src": "img/smith-doubts/card-03.png",
+        "title": "TRY GIVING IT UP"
+      },
+      {
+        "src": "img/smith-doubts/card-04.png",
+        "title": "HAND YOUR DOUBTING OVER TO HIM"
+      },
+      {
+        "src": "img/smith-doubts/card-05.png",
+        "title": "LIKE THE FLESH POTS OF EGYPT"
+      },
+      {
+        "src": "img/smith-doubts/card-06.png",
+        "title": "PUT YOUR WILL ON THE LORD'S SIDE"
+      }
+    ]
+  },
+  {
+    "slug": "smith-practical-results",
+    "title": "PRACTICAL RESULTS AND THE JOY OF OBEDIENCE",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/smith-practical-results/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-practical-results/card-01.png",
+        "title": "RESULTS OUGHT TO BE VERY MARKED"
+      },
+      {
+        "src": "img/smith-practical-results/card-02.png",
+        "title": "AFFECTIONS SET ON HEAVENLY THINGS"
+      },
+      {
+        "src": "img/smith-practical-results/card-03.png",
+        "title": "AFTER THREE SHORT MONTHS"
+      },
+      {
+        "src": "img/smith-practical-results/card-04.png",
+        "title": "OTHER SOULS IN A WIDER PATH"
+      },
+      {
+        "src": "img/smith-practical-results/card-05.png",
+        "title": "SPRING OUT TO MEET HIS WILL"
+      },
+      {
+        "src": "img/smith-practical-results/card-06.png",
+        "title": "DO NOT STINT YOUR OBEDIENCE"
+      }
+    ]
+  },
+  {
+    "slug": "smith-oneness-with-christ",
+    "title": "ONENESS WITH CHRIST",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/smith-oneness-with-christ/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-oneness-with-christ/card-01.png",
+        "title": "THAT THEY ALL MAY BE ONE"
+      },
+      {
+        "src": "img/smith-oneness-with-christ/card-02.png",
+        "title": "NOT EVERY ONE THAT SAITH LORD, LORD"
+      },
+      {
+        "src": "img/smith-oneness-with-christ/card-03.png",
+        "title": "EXPERIENCE AT THE EXPENSE OF THE WALK"
+      },
+      {
+        "src": "img/smith-oneness-with-christ/card-04.png",
+        "title": "RECKON THYSELF DEAD"
+      },
+      {
+        "src": "img/smith-oneness-with-christ/card-05.png",
+        "title": "HIGH PLACES BUILT ON UTTER LOSS"
+      },
+      {
+        "src": "img/smith-oneness-with-christ/card-06.png",
+        "title": "THROUGH DEATH TO THE HEIGHTS"
+      }
+    ]
+  },
+  {
+    "slug": "smith-kings-and-chariots",
+    "title": "KINGS AND THE CHARIOTS OF GOD",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/smith-kings-and-chariots/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-kings-and-chariots/card-01.png",
+        "title": "THE DIVINE LIFE IN THE SOUL"
+      },
+      {
+        "src": "img/smith-kings-and-chariots/card-02.png",
+        "title": "THE TACTICS OF HIS KINGDOM"
+      },
+      {
+        "src": "img/smith-kings-and-chariots/card-03.png",
+        "title": "MAKE EACH EVENT A CHARIOT"
+      },
+      {
+        "src": "img/smith-kings-and-chariots/card-04.png",
+        "title": "NOT SAYING, BUT DOING"
+      },
+      {
+        "src": "img/smith-kings-and-chariots/card-05.png",
+        "title": "CHARIOTS OF SALVATION"
+      },
+      {
+        "src": "img/smith-kings-and-chariots/card-06.png",
+        "title": "YOUR CROSS INMATE, YOUR CHARIOT"
+      }
+    ]
+  },
+  {
+    "slug": "smith-without-me-god-with-us",
+    "title": "WITHOUT ME, AND GOD WITH US",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/smith-without-me-god-with-us/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-without-me-god-with-us/card-01.png",
+        "title": "THE ABSENCE OF THE SPIRIT'S POWER"
+      },
+      {
+        "src": "img/smith-without-me-god-with-us/card-02.png",
+        "title": "HE GRIEVES WHEN WE REFUSE"
+      },
+      {
+        "src": "img/smith-without-me-god-with-us/card-03.png",
+        "title": "I WILL BE WITH THEE"
+      },
+      {
+        "src": "img/smith-without-me-god-with-us/card-04.png",
+        "title": "SEARCHED AND KNOWN BY GOD"
+      },
+      {
+        "src": "img/smith-without-me-god-with-us/card-05.png",
+        "title": "GOD MADE YOUR MAKE UP"
+      },
+      {
+        "src": "img/smith-without-me-god-with-us/card-06.png",
+        "title": "PRACTISE HIS PRESENCE FAITHFULLY"
+      }
+    ]
   }
 ];
