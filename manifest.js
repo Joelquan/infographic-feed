@@ -18512,5 +18512,345 @@ window.MANIFEST = [
         "title": "HOW MUCH WE MISS THE NOMAD"
       }
     ]
+  },
+  {
+    "slug": "meyer-joshua-06",
+    "title": "LIFE IN THE LAND",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-joshua-06/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joshua-06/card-01.png",
+        "title": "THE OLD VETERAN HAD DESERVED WELL"
+      },
+      {
+        "src": "img/meyer-joshua-06/card-02.png",
+        "title": "IT IS EQUALLY CLEAR THAT CANAAN"
+      },
+      {
+        "src": "img/meyer-joshua-06/card-03.png",
+        "title": "THE SWORD IS LAID ASIDE FOR"
+      },
+      {
+        "src": "img/meyer-joshua-06/card-04.png",
+        "title": "IT IS BY LOVE ALONE THAT"
+      },
+      {
+        "src": "img/meyer-joshua-06/card-05.png",
+        "title": "PERHAPS HE FELT THE UNREALITY OF"
+      },
+      {
+        "src": "img/meyer-joshua-06/card-06.png",
+        "title": "HIS VERY PRESENCE AMONG THE PEOPLE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-peter-early-days",
+    "title": "EARLY DAYS IN THE MASTER'S COLLEGE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-peter-early-days/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-peter-early-days/card-01.png",
+        "title": "PETER'S HEART HAD OPENED"
+      },
+      {
+        "src": "img/meyer-peter-early-days/card-02.png",
+        "title": "THIS FIRST JOURNEY IN SUCH COMPANY"
+      },
+      {
+        "src": "img/meyer-peter-early-days/card-03.png",
+        "title": "HE AND THE REST HAD KNOWN"
+      },
+      {
+        "src": "img/meyer-peter-early-days/card-04.png",
+        "title": "IT IS NEEDED TO TOUCH THE"
+      },
+      {
+        "src": "img/meyer-peter-early-days/card-05.png",
+        "title": "AT THE MOMENT HOWEVER THEY WERE"
+      },
+      {
+        "src": "img/meyer-peter-early-days/card-06.png",
+        "title": "IMMORALITY AND THE LAXITY OF THE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-peter-primer-lessons",
+    "title": "PRIMER LESSONS",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-peter-primer-lessons/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-peter-primer-lessons/card-01.png",
+        "title": "TO WHOM SHALL WE GO WHEN"
+      },
+      {
+        "src": "img/meyer-peter-primer-lessons/card-02.png",
+        "title": "THE SECRET OF THE CHURCH'S PREVALENCE"
+      },
+      {
+        "src": "img/meyer-peter-primer-lessons/card-03.png",
+        "title": "AT FIRST THE HOLY BEINGS CELEBRATED"
+      },
+      {
+        "src": "img/meyer-peter-primer-lessons/card-04.png",
+        "title": "HE KNOWS THAT FOR HIS SAKE"
+      },
+      {
+        "src": "img/meyer-peter-primer-lessons/card-05.png",
+        "title": "MAY WE NOT IMAGINE PETER HURRYING"
+      },
+      {
+        "src": "img/meyer-peter-primer-lessons/card-06.png",
+        "title": "TO ARREST FURTHER DISCUSSION THE LORD"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-peter-keys-and-holy-mount",
+    "title": "THE KEYS AND THE HOLY MOUNT",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-peter-keys-and-holy-mount/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-peter-keys-and-holy-mount/card-01.png",
+        "title": "THERE WAS THEREFORE A DOUBLE SIGNIFICANCE"
+      },
+      {
+        "src": "img/meyer-peter-keys-and-holy-mount/card-02.png",
+        "title": "AS THE GARDENER BEDS OUT THE"
+      },
+      {
+        "src": "img/meyer-peter-keys-and-holy-mount/card-03.png",
+        "title": "HE THEREFORE INTERPOSED TO QUELL THE"
+      },
+      {
+        "src": "img/meyer-peter-keys-and-holy-mount/card-04.png",
+        "title": "DID HE NOT START UP WHEN"
+      },
+      {
+        "src": "img/meyer-peter-keys-and-holy-mount/card-05.png",
+        "title": "CLEARLY THE MASTER HAD NO DOUBT"
+      },
+      {
+        "src": "img/meyer-peter-keys-and-holy-mount/card-06.png",
+        "title": "THERE WAS NO NEED FOR HIM"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-peter-renewed-commission",
+    "title": "THE RENEWED COMMISSION",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-peter-renewed-commission/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-peter-renewed-commission/card-01.png",
+        "title": "WE HAVE ALREADY NOTICED THIS IN"
+      },
+      {
+        "src": "img/meyer-peter-renewed-commission/card-02.png",
+        "title": "HERE THE DEPRESSION OF PROLONGED ILL"
+      },
+      {
+        "src": "img/meyer-peter-renewed-commission/card-03.png",
+        "title": "PETER WAS STILL ADDRESSING THE HUSHED"
+      },
+      {
+        "src": "img/meyer-peter-renewed-commission/card-04.png",
+        "title": "THE TESTIMONY OF JESUS IS THE"
+      },
+      {
+        "src": "img/meyer-peter-renewed-commission/card-05.png",
+        "title": "WHEN WE MEET WITH THE CHURCH"
+      },
+      {
+        "src": "img/meyer-peter-renewed-commission/card-06.png",
+        "title": "IT IS REMARKABLE THAT THEY WERE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-peter-door-of-faith",
+    "title": "THE DOOR OF FAITH UNTO THE GENTILES",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-peter-door-of-faith/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-peter-door-of-faith/card-01.png",
+        "title": "THE NOTE OF A TRUMPET CALL"
+      },
+      {
+        "src": "img/meyer-peter-door-of-faith/card-02.png",
+        "title": "EACH OF US HAS VISIONS CLEARER"
+      },
+      {
+        "src": "img/meyer-peter-door-of-faith/card-03.png",
+        "title": "PETER MUST HAVE BEEN SORELY TROUBLED"
+      },
+      {
+        "src": "img/meyer-peter-door-of-faith/card-04.png",
+        "title": "NATURALLY ENOUGH HE AROSE HARDLY AWARE"
+      },
+      {
+        "src": "img/meyer-peter-door-of-faith/card-05.png",
+        "title": "THESE BABYLONIAN JEWS WERE EXTREMELY LOYAL"
+      },
+      {
+        "src": "img/meyer-peter-door-of-faith/card-06.png",
+        "title": "THEY HAD BEEN CALLED TO GLORY"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-elijah-01",
+    "title": "THE SOURCE OF ELIJAH'S STRENGTH",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-elijah-01/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-elijah-01/card-01.png",
+        "title": "AS HE GREW IN YEARS HE"
+      },
+      {
+        "src": "img/meyer-elijah-01/card-02.png",
+        "title": "NOT ONE OF US THEREFORE CAN"
+      },
+      {
+        "src": "img/meyer-elijah-01/card-03.png",
+        "title": "THERE COMES A COMMAND CLEAR AND"
+      },
+      {
+        "src": "img/meyer-elijah-01/card-04.png",
+        "title": "IT TOOK APPARENTLY THREE YEARS AND"
+      },
+      {
+        "src": "img/meyer-elijah-01/card-05.png",
+        "title": "THIS OUGHT NOT SO TO BE"
+      },
+      {
+        "src": "img/meyer-elijah-01/card-06.png",
+        "title": "SOME MEMORIES ARE LIKE WELL CLASSIFIED"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-elijah-02",
+    "title": "THE PROPHET AND THE KING",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-elijah-02/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-elijah-02/card-01.png",
+        "title": "IT IS REMARKABLE HOW DIFFERENT IS"
+      },
+      {
+        "src": "img/meyer-elijah-02/card-02.png",
+        "title": "THE POOR MAN MUST OFTEN HAVE"
+      },
+      {
+        "src": "img/meyer-elijah-02/card-03.png",
+        "title": "WELL WOULD IT BE IF EACH"
+      },
+      {
+        "src": "img/meyer-elijah-02/card-04.png",
+        "title": "EVERY ISRAELITE COULD RECALL MANY AN"
+      },
+      {
+        "src": "img/meyer-elijah-02/card-05.png",
+        "title": "WHEN ELIJAH WAS SUMMONED FROM ZAREPHATH"
+      },
+      {
+        "src": "img/meyer-elijah-02/card-06.png",
+        "title": "TO JEZEBEL THE CRISIS WAS ONE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-elijah-03",
+    "title": "THE CONTEST AND THE FLIGHT",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-elijah-03/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-elijah-03/card-01.png",
+        "title": "SHE DID NOT DARE TO KILL"
+      },
+      {
+        "src": "img/meyer-elijah-03/card-02.png",
+        "title": "ELIJAH WIST NOT WHAT HE SAID"
+      },
+      {
+        "src": "img/meyer-elijah-03/card-03.png",
+        "title": "LET US PAUSE HERE FOR A"
+      },
+      {
+        "src": "img/meyer-elijah-03/card-04.png",
+        "title": "ALL THOSE WHO HOLD PROMINENT POSITIONS"
+      },
+      {
+        "src": "img/meyer-elijah-03/card-05.png",
+        "title": "NABOTH'S REFUSAL MADE AHAB LEAP"
+      },
+      {
+        "src": "img/meyer-elijah-03/card-06.png",
+        "title": "CRITICS WHO INSENSIBLY HAVE CAUGHT THEIR"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-elijah-04",
+    "title": "THE STILL SMALL VOICE AND THE CHARIOT",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-elijah-04/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-elijah-04/card-01.png",
+        "title": "HE SHRANK IN COWARDLY FEAR FROM"
+      },
+      {
+        "src": "img/meyer-elijah-04/card-02.png",
+        "title": "HIS EYE WAS NOT DIM NOR"
+      },
+      {
+        "src": "img/meyer-elijah-04/card-03.png",
+        "title": "HE HAD HIMSELF BEEN AS THE"
+      },
+      {
+        "src": "img/meyer-elijah-04/card-04.png",
+        "title": "SOMETIMES THERE HAS BEEN MORE OF"
+      },
+      {
+        "src": "img/meyer-elijah-04/card-05.png",
+        "title": "ELIJAH MIGHT DWELL ON THE GLORY"
+      },
+      {
+        "src": "img/meyer-elijah-04/card-06.png",
+        "title": "WE DO NOT SEEK THE SOUND"
+      }
+    ]
   }
 ];
