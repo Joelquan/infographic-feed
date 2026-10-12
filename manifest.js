@@ -7858,5 +7858,409 @@ window.MANIFEST = [
         "title": "PARTAKER OF HIS GLORIFIED LIFE"
       }
     ]
+  },
+  {
+    "slug": "spurgeon-grace-free-gift",
+    "title": "FREE, GRATIS, FOR NOTHING",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-grace-free-gift/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-grace-free-gift/card-01.png",
+        "title": "PLAIN LANGUAGE FOR EVERY READER"
+      },
+      {
+        "src": "img/spurgeon-grace-free-gift/card-02.png",
+        "title": "THE FOUNTAIN AND THE CUP"
+      },
+      {
+        "src": "img/spurgeon-grace-free-gift/card-03.png",
+        "title": "NOT CALLING FOR THE RENT"
+      },
+      {
+        "src": "img/spurgeon-grace-free-gift/card-04.png",
+        "title": "NOT A DEMAND BUT A GIFT"
+      },
+      {
+        "src": "img/spurgeon-grace-free-gift/card-05.png",
+        "title": "A FREE GIFT TO RECEIVE"
+      },
+      {
+        "src": "img/spurgeon-grace-free-gift/card-06.png",
+        "title": "THE LORD KNOCKS AT YOUR DOOR"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-grace-god-justifieth-the-ungodly",
+    "title": "GOD JUSTIFIETH THE UNGODLY",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-grace-god-justifieth-the-ungodly/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-grace-god-justifieth-the-ungodly/card-01.png",
+        "title": "VERY WONDERFUL WORDS"
+      },
+      {
+        "src": "img/spurgeon-grace-god-justifieth-the-ungodly/card-02.png",
+        "title": "NOT FOR THE GOOD"
+      },
+      {
+        "src": "img/spurgeon-grace-god-justifieth-the-ungodly/card-03.png",
+        "title": "HE COMES TO MAKE US JUST"
+      },
+      {
+        "src": "img/spurgeon-grace-god-justifieth-the-ungodly/card-04.png",
+        "title": "A MIRACLE RESERVED FOR GOD"
+      },
+      {
+        "src": "img/spurgeon-grace-god-justifieth-the-ungodly/card-05.png",
+        "title": "IT JUST SUITS YOU"
+      },
+      {
+        "src": "img/spurgeon-grace-god-justifieth-the-ungodly/card-06.png",
+        "title": "NO OTHERS NEED JUSTIFYING"
+      },
+      {
+        "src": "img/spurgeon-grace-god-justifieth-the-ungodly/card-07.png",
+        "title": "THE PHYSICIAN FOR THE SICK"
+      },
+      {
+        "src": "img/spurgeon-grace-god-justifieth-the-ungodly/card-08.png",
+        "title": "COME AS YOU ARE"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-grace-just-and-the-justifier",
+    "title": "JUST AND THE JUSTIFIER",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-grace-just-and-the-justifier/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-grace-just-and-the-justifier/card-01.png",
+        "title": "NONE BUT GOD WOULD"
+      },
+      {
+        "src": "img/spurgeon-grace-just-and-the-justifier/card-02.png",
+        "title": "NONE BUT GOD COULD"
+      },
+      {
+        "src": "img/spurgeon-grace-just-and-the-justifier/card-03.png",
+        "title": "JUSTIFIED TO PERFECTION"
+      },
+      {
+        "src": "img/spurgeon-grace-just-and-the-justifier/card-04.png",
+        "title": "IF GOD HAS JUSTIFIED"
+      },
+      {
+        "src": "img/spurgeon-grace-just-and-the-justifier/card-05.png",
+        "title": "THE JUST FOR THE UNJUST"
+      },
+      {
+        "src": "img/spurgeon-grace-just-and-the-justifier/card-06.png",
+        "title": "HE BORE MY SIN"
+      },
+      {
+        "src": "img/spurgeon-grace-just-and-the-justifier/card-07.png",
+        "title": "MORE IN THE ATONEMENT"
+      },
+      {
+        "src": "img/spurgeon-grace-just-and-the-justifier/card-08.png",
+        "title": "MY SOLE HOPE FOR HEAVEN"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-grace-deliverance-from-sinning",
+    "title": "DELIVERANCE FROM SINNING",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-grace-deliverance-from-sinning/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-grace-deliverance-from-sinning/card-01.png",
+        "title": "PURIFIED AS WELL AS PARDONED"
+      },
+      {
+        "src": "img/spurgeon-grace-deliverance-from-sinning/card-02.png",
+        "title": "PENALTY, POWER, AND PRESENCE"
+      },
+      {
+        "src": "img/spurgeon-grace-deliverance-from-sinning/card-03.png",
+        "title": "IT IS ALL I WILL"
+      },
+      {
+        "src": "img/spurgeon-grace-deliverance-from-sinning/card-04.png",
+        "title": "HE KNOWS YOU CANNOT CHANGE"
+      },
+      {
+        "src": "img/spurgeon-grace-deliverance-from-sinning/card-05.png",
+        "title": "THE NEW HEART IS KEPT"
+      },
+      {
+        "src": "img/spurgeon-grace-deliverance-from-sinning/card-06.png",
+        "title": "HE WILL ALTER YOUR NATURE"
+      },
+      {
+        "src": "img/spurgeon-grace-deliverance-from-sinning/card-07.png",
+        "title": "IT IS GOD'S PROMISE"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-grace-by-grace-through-faith",
+    "title": "BY GRACE THROUGH FAITH",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-grace-by-grace-through-faith/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-grace-by-grace-through-faith/card-01.png",
+        "title": "THE FOUNTAIN HEAD OF SALVATION"
+      },
+      {
+        "src": "img/spurgeon-grace-by-grace-through-faith/card-02.png",
+        "title": "NOT BECAUSE OF ANYTHING IN THEM"
+      },
+      {
+        "src": "img/spurgeon-grace-by-grace-through-faith/card-03.png",
+        "title": "FAITH IS THE CHANNEL"
+      },
+      {
+        "src": "img/spurgeon-grace-by-grace-through-faith/card-04.png",
+        "title": "THE AQUEDUCT, NOT THE FOUNTAIN"
+      },
+      {
+        "src": "img/spurgeon-grace-by-grace-through-faith/card-05.png",
+        "title": "A TREMBLING HAND"
+      },
+      {
+        "src": "img/spurgeon-grace-by-grace-through-faith/card-06.png",
+        "title": "LOOK TO HIM, NOT THE LOOK"
+      },
+      {
+        "src": "img/spurgeon-grace-by-grace-through-faith/card-07.png",
+        "title": "THE POWER IS NOT IN THE FAITH"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-grace-faith-what-is-it",
+    "title": "FAITH, WHAT IS IT?",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-grace-faith-what-is-it/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-grace-faith-what-is-it/card-01.png",
+        "title": "KNOWLEDGE COMES FIRST"
+      },
+      {
+        "src": "img/spurgeon-grace-faith-what-is-it/card-02.png",
+        "title": "TRUST IS THE LIFEBLOOD"
+      },
+      {
+        "src": "img/spurgeon-grace-faith-what-is-it/card-03.png",
+        "title": "LEAN ON THE ROCK OF AGES"
+      },
+      {
+        "src": "img/spurgeon-grace-faith-what-is-it/card-04.png",
+        "title": "BELIEVING HE WILL DO AS PROMISED"
+      },
+      {
+        "src": "img/spurgeon-grace-faith-what-is-it/card-05.png",
+        "title": "THE EYE WHICH LOOKS"
+      },
+      {
+        "src": "img/spurgeon-grace-faith-what-is-it/card-06.png",
+        "title": "THE HAND WHICH GRASPS"
+      },
+      {
+        "src": "img/spurgeon-grace-faith-what-is-it/card-07.png",
+        "title": "THE MOUTH WHICH FEEDS"
+      },
+      {
+        "src": "img/spurgeon-grace-faith-what-is-it/card-08.png",
+        "title": "CLING LIKE THE LIMPET"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-grace-why-saved-by-faith",
+    "title": "WHY ARE WE SAVED BY FAITH?",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-grace-why-saved-by-faith/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-grace-why-saved-by-faith/card-01.png",
+        "title": "THE HAND MADE TO RECEIVE"
+      },
+      {
+        "src": "img/spurgeon-grace-why-saved-by-faith/card-02.png",
+        "title": "NOT THE PRICE WHICH BUYS IT"
+      },
+      {
+        "src": "img/spurgeon-grace-why-saved-by-faith/card-03.png",
+        "title": "IT GIVES ALL GLORY TO GOD"
+      },
+      {
+        "src": "img/spurgeon-grace-why-saved-by-faith/card-04.png",
+        "title": "THE ROPE AND THE LOG"
+      },
+      {
+        "src": "img/spurgeon-grace-why-saved-by-faith/card-05.png",
+        "title": "IT BEGINS WHERE WE ARE"
+      },
+      {
+        "src": "img/spurgeon-grace-why-saved-by-faith/card-06.png",
+        "title": "WHEN WE WERE WITHOUT STRENGTH"
+      },
+      {
+        "src": "img/spurgeon-grace-why-saved-by-faith/card-07.png",
+        "title": "FIX YOUR MIND ON THAT"
+      },
+      {
+        "src": "img/spurgeon-grace-why-saved-by-faith/card-08.png",
+        "title": "LIKE A SWEET MORSEL"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-grace-increase-of-faith",
+    "title": "THE INCREASE OF FAITH",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-grace-increase-of-faith/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-grace-increase-of-faith/card-01.png",
+        "title": "THE SHORTEST WAY TO BELIEVE"
+      },
+      {
+        "src": "img/spurgeon-grace-increase-of-faith/card-02.png",
+        "title": "FAITH COMETH BY HEARING"
+      },
+      {
+        "src": "img/spurgeon-grace-increase-of-faith/card-03.png",
+        "title": "THE TESTIMONY OF OTHERS"
+      },
+      {
+        "src": "img/spurgeon-grace-increase-of-faith/card-04.png",
+        "title": "GOOD AUTHORITY FOR COMING"
+      },
+      {
+        "src": "img/spurgeon-grace-increase-of-faith/card-05.png",
+        "title": "THINK OF WHO HE IS"
+      },
+      {
+        "src": "img/spurgeon-grace-increase-of-faith/card-06.png",
+        "title": "SURRENDER TO YOUR KING"
+      },
+      {
+        "src": "img/spurgeon-grace-increase-of-faith/card-07.png",
+        "title": "YE MUST BE BORN AGAIN"
+      },
+      {
+        "src": "img/spurgeon-grace-increase-of-faith/card-08.png",
+        "title": "OURS TO BELIEVE, HIS TO CREATE"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-grace-my-redeemer-liveth",
+    "title": "MY REDEEMER LIVETH",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-grace-my-redeemer-liveth/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-grace-my-redeemer-liveth/card-01.png",
+        "title": "NOT A DEAD JESUS"
+      },
+      {
+        "src": "img/spurgeon-grace-my-redeemer-liveth/card-02.png",
+        "title": "A PRINCE AND A SAVIOUR"
+      },
+      {
+        "src": "img/spurgeon-grace-my-redeemer-liveth/card-03.png",
+        "title": "JESUS LIVES"
+      },
+      {
+        "src": "img/spurgeon-grace-my-redeemer-liveth/card-04.png",
+        "title": "A FRIEND ON THE THRONE"
+      },
+      {
+        "src": "img/spurgeon-grace-my-redeemer-liveth/card-05.png",
+        "title": "RIVETED TOGETHER BY GOD"
+      },
+      {
+        "src": "img/spurgeon-grace-my-redeemer-liveth/card-06.png",
+        "title": "NEVER DIVIDED IN EXPERIENCE"
+      },
+      {
+        "src": "img/spurgeon-grace-my-redeemer-liveth/card-07.png",
+        "title": "FORGIVENESS LEADS TO REPENTANCE"
+      },
+      {
+        "src": "img/spurgeon-grace-my-redeemer-liveth/card-08.png",
+        "title": "EXALTED TO GIVE REPENTANCE"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-grace-saints-persevere",
+    "title": "WHY SAINTS PERSEVERE",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-grace-saints-persevere/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-grace-saints-persevere/card-01.png",
+        "title": "AFRAID OF OUR OWN FICKLENESS"
+      },
+      {
+        "src": "img/spurgeon-grace-saints-persevere/card-02.png",
+        "title": "WHERE THE STRENGTH MUST COME FROM"
+      },
+      {
+        "src": "img/spurgeon-grace-saints-persevere/card-03.png",
+        "title": "CONFIRMED AND ROOTED"
+      },
+      {
+        "src": "img/spurgeon-grace-saints-persevere/card-04.png",
+        "title": "PRESERVED IN CHRIST JESUS"
+      },
+      {
+        "src": "img/spurgeon-grace-saints-persevere/card-05.png",
+        "title": "GOD IS FAITHFUL"
+      },
+      {
+        "src": "img/spurgeon-grace-saints-persevere/card-06.png",
+        "title": "THE FOUNDATION OF OUR HOPE"
+      },
+      {
+        "src": "img/spurgeon-grace-saints-persevere/card-07.png",
+        "title": "MEET ME IN HEAVEN"
+      },
+      {
+        "src": "img/spurgeon-grace-saints-persevere/card-08.png",
+        "title": "NOW OR NEVER"
+      }
+    ]
   }
 ];
