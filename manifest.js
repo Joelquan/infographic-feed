@@ -6540,5 +6540,373 @@ window.MANIFEST = [
         "title": "THE JOY OF VICTORY"
       }
     ]
+  },
+  {
+    "slug": "murray-prayer-abide-in-me",
+    "title": "IF YE ABIDE IN ME",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-abide-in-me/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-abide-in-me/card-01.png",
+        "title": "IN HIM IS THE WAY"
+      },
+      {
+        "src": "img/murray-prayer-abide-in-me/card-02.png",
+        "title": "ABIDING IS EVER GROWING"
+      },
+      {
+        "src": "img/murray-prayer-abide-in-me/card-03.png",
+        "title": "MY WORDS ABIDE IN YOU"
+      },
+      {
+        "src": "img/murray-prayer-abide-in-me/card-04.png",
+        "title": "HEARING GOD'S VOICE"
+      },
+      {
+        "src": "img/murray-prayer-abide-in-me/card-05.png",
+        "title": "THE WORDS ABIDING IN US"
+      },
+      {
+        "src": "img/murray-prayer-abide-in-me/card-06.png",
+        "title": "ENTIRE SURRENDER"
+      },
+      {
+        "src": "img/murray-prayer-abide-in-me/card-07.png",
+        "title": "THE PATH OF FRUIT-BEARING"
+      },
+      {
+        "src": "img/murray-prayer-abide-in-me/card-08.png",
+        "title": "FRIENDS WHO BEAR FRUIT"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-in-my-name",
+    "title": "IN MY NAME",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-in-my-name/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-in-my-name/card-01.png",
+        "title": "HIS NAME OUR ALL-SUFFICIENT PLEA"
+      },
+      {
+        "src": "img/murray-prayer-in-my-name/card-02.png",
+        "title": "TO THE EXTENT THEY YIELD THEMSELVES"
+      },
+      {
+        "src": "img/murray-prayer-in-my-name/card-03.png",
+        "title": "THE NAME AND THE SPIRIT ARE ONE"
+      },
+      {
+        "src": "img/murray-prayer-in-my-name/card-04.png",
+        "title": "THE NAME REPRESENTS THE PERSON"
+      },
+      {
+        "src": "img/murray-prayer-in-my-name/card-05.png",
+        "title": "THE NAME AND THE POWER OF ASKING"
+      },
+      {
+        "src": "img/murray-prayer-in-my-name/card-06.png",
+        "title": "A POWER IN PRAYER HITHERTO UNKNOWN"
+      },
+      {
+        "src": "img/murray-prayer-in-my-name/card-07.png",
+        "title": "THE SPIRIT TAKES US UP"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-christ-intercessor",
+    "title": "CHRIST THE INTERCESSOR",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-christ-intercessor/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-christ-intercessor/card-01.png",
+        "title": "THE SIGHT OF JESUS INTERCEDING"
+      },
+      {
+        "src": "img/murray-prayer-christ-intercessor/card-02.png",
+        "title": "HE EVER LIVETH TO MAKE INTERCESSION"
+      },
+      {
+        "src": "img/murray-prayer-christ-intercessor/card-03.png",
+        "title": "WE SHARE IN HIS INTERCESSION"
+      },
+      {
+        "src": "img/murray-prayer-christ-intercessor/card-04.png",
+        "title": "HE MAINTAINS HIS PRAYER-LIFE IN THEM"
+      },
+      {
+        "src": "img/murray-prayer-christ-intercessor/card-05.png",
+        "title": "CLEAR WITH GOD, POWER TO INTERCEDE"
+      },
+      {
+        "src": "img/murray-prayer-christ-intercessor/card-06.png",
+        "title": "HIS PRIESTLY HEART ENLARGES"
+      },
+      {
+        "src": "img/murray-prayer-christ-intercessor/card-07.png",
+        "title": "THE PRAYER OF SUBMISSION WAS HEARD"
+      },
+      {
+        "src": "img/murray-prayer-christ-intercessor/card-08.png",
+        "title": "THE SECRET OF POWER IN PRAYER"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-life-of-prayer",
+    "title": "A LIFE OF PRAYER",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-life-of-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-life-of-prayer/card-01.png",
+        "title": "BOLDNESS, IF ACCORDING TO HIS WILL"
+      },
+      {
+        "src": "img/murray-prayer-life-of-prayer/card-02.png",
+        "title": "THE TWO MUST BE UNITED"
+      },
+      {
+        "src": "img/murray-prayer-life-of-prayer/card-03.png",
+        "title": "LIVING IN THE WILL OF GOD"
+      },
+      {
+        "src": "img/murray-prayer-life-of-prayer/card-04.png",
+        "title": "REDEEMED TO BE PRIESTS"
+      },
+      {
+        "src": "img/murray-prayer-life-of-prayer/card-05.png",
+        "title": "UNDER THE BLOOD AND THE SPIRIT"
+      },
+      {
+        "src": "img/murray-prayer-life-of-prayer/card-06.png",
+        "title": "YOUR SPECIAL WORK IN PRAYER"
+      },
+      {
+        "src": "img/murray-prayer-life-of-prayer/card-07.png",
+        "title": "OUR LIFE BECOMES PRAYER"
+      },
+      {
+        "src": "img/murray-prayer-life-of-prayer/card-08.png",
+        "title": "PRAY MUCH, THEN WORK"
+      }
+    ]
+  },
+  {
+    "slug": "murray-obedience-place-in-scripture",
+    "title": "OBEDIENCE IN HOLY SCRIPTURE",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-obedience-place-in-scripture/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-obedience-place-in-scripture/card-01.png",
+        "title": "THE ONE VIRTUE OF PARADISE"
+      },
+      {
+        "src": "img/murray-obedience-place-in-scripture/card-02.png",
+        "title": "FROM PARADISE LOST TO PARADISE REGAINED"
+      },
+      {
+        "src": "img/murray-obedience-place-in-scripture/card-03.png",
+        "title": "A BLESSING IF YE OBEY"
+      },
+      {
+        "src": "img/murray-obedience-place-in-scripture/card-04.png",
+        "title": "EXACT AND ENTIRE OBEDIENCE"
+      },
+      {
+        "src": "img/murray-obedience-place-in-scripture/card-05.png",
+        "title": "OBEY MY VOICE"
+      },
+      {
+        "src": "img/murray-obedience-place-in-scripture/card-06.png",
+        "title": "THE STARTING POINT AND THE GOAL"
+      }
+    ]
+  },
+  {
+    "slug": "murray-obedience-obedience-of-christ",
+    "title": "THE OBEDIENCE OF CHRIST",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-obedience-obedience-of-christ/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-obedience-obedience-of-christ/card-01.png",
+        "title": "MADE RIGHTEOUS THROUGH OBEDIENCE"
+      },
+      {
+        "src": "img/murray-obedience-obedience-of-christ/card-02.png",
+        "title": "THE ROOT OF OUR REDEMPTION"
+      },
+      {
+        "src": "img/murray-obedience-obedience-of-christ/card-03.png",
+        "title": "TO UNDO WHAT ADAM DID"
+      },
+      {
+        "src": "img/murray-obedience-obedience-of-christ/card-04.png",
+        "title": "OBEDIENCE IS SALVATION"
+      },
+      {
+        "src": "img/murray-obedience-obedience-of-christ/card-05.png",
+        "title": "THE SPIRIT OF HIS WHOLE LIFE"
+      },
+      {
+        "src": "img/murray-obedience-obedience-of-christ/card-06.png",
+        "title": "SURRENDER AND THE FATHER'S POWER"
+      }
+    ]
+  },
+  {
+    "slug": "murray-obedience-secret-of-true-obedience",
+    "title": "THE SECRET OF TRUE OBEDIENCE",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-obedience-secret-of-true-obedience/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-obedience-secret-of-true-obedience/card-01.png",
+        "title": "THE SECRET OF TRUE OBEDIENCE"
+      },
+      {
+        "src": "img/murray-obedience-secret-of-true-obedience/card-02.png",
+        "title": "CHRIST LEARNED OBEDIENCE"
+      },
+      {
+        "src": "img/murray-obedience-secret-of-true-obedience/card-03.png",
+        "title": "HEARING THE FATHER'S VOICE"
+      },
+      {
+        "src": "img/murray-obedience-secret-of-true-obedience/card-04.png",
+        "title": "ONE TEXT-BOOK"
+      },
+      {
+        "src": "img/murray-obedience-secret-of-true-obedience/card-05.png",
+        "title": "THE WORK OF THE HOLY SPIRIT"
+      },
+      {
+        "src": "img/murray-obedience-secret-of-true-obedience/card-06.png",
+        "title": "LEARNING BY DOING"
+      }
+    ]
+  },
+  {
+    "slug": "murray-obedience-morning-watch",
+    "title": "THE MORNING WATCH",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-obedience-morning-watch/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-obedience-morning-watch/card-01.png",
+        "title": "THE DESIRE FOR FELLOWSHIP WITH GOD"
+      },
+      {
+        "src": "img/murray-obedience-morning-watch/card-02.png",
+        "title": "TESTED AND STRENGTHENED IN THE CLOSET"
+      },
+      {
+        "src": "img/murray-obedience-morning-watch/card-03.png",
+        "title": "STUDY IN THE SPIRIT OF SURRENDER"
+      },
+      {
+        "src": "img/murray-obedience-morning-watch/card-04.png",
+        "title": "THE PRESENCE OF GOD THE CHIEF THING"
+      },
+      {
+        "src": "img/murray-obedience-morning-watch/card-05.png",
+        "title": "THE MORNING SACRIFICE"
+      },
+      {
+        "src": "img/murray-obedience-morning-watch/card-06.png",
+        "title": "INTERCESSION"
+      }
+    ]
+  },
+  {
+    "slug": "murray-obedience-entrance-to-full-obedience",
+    "title": "THE ENTRANCE TO FULL OBEDIENCE",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-obedience-entrance-to-full-obedience/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-obedience-entrance-to-full-obedience/card-01.png",
+        "title": "OBEDIENT UNTO DEATH FROM THE OUTSET"
+      },
+      {
+        "src": "img/murray-obedience-entrance-to-full-obedience/card-02.png",
+        "title": "CONFESSION THE FIRST STEP"
+      },
+      {
+        "src": "img/murray-obedience-entrance-to-full-obedience/card-03.png",
+        "title": "A CRISIS IS NEEDED"
+      },
+      {
+        "src": "img/murray-obedience-entrance-to-full-obedience/card-04.png",
+        "title": "THE OBEDIENCE OF EACH DAY"
+      },
+      {
+        "src": "img/murray-obedience-entrance-to-full-obedience/card-05.png",
+        "title": "THE LAW WRITTEN IN THE HEART"
+      },
+      {
+        "src": "img/murray-obedience-entrance-to-full-obedience/card-06.png",
+        "title": "SURRENDER TO CHRIST"
+      }
+    ]
+  },
+  {
+    "slug": "murray-obedience-obedience-of-faith",
+    "title": "THE OBEDIENCE OF FAITH",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-obedience-obedience-of-faith/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-obedience-obedience-of-faith/card-01.png",
+        "title": "THE LAND OF PROMISE"
+      },
+      {
+        "src": "img/murray-obedience-obedience-of-faith/card-02.png",
+        "title": "I SEE IT"
+      },
+      {
+        "src": "img/murray-obedience-obedience-of-faith/card-03.png",
+        "title": "I DESIRE IT"
+      },
+      {
+        "src": "img/murray-obedience-obedience-of-faith/card-04.png",
+        "title": "I EXPECT IT"
+      },
+      {
+        "src": "img/murray-obedience-obedience-of-faith/card-05.png",
+        "title": "I ACCEPT IT"
+      },
+      {
+        "src": "img/murray-obedience-obedience-of-faith/card-06.png",
+        "title": "I TRUST CHRIST FOR IT"
+      }
+    ]
   }
 ];
