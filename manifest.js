@@ -13858,5 +13858,345 @@ window.MANIFEST = [
         "title": "BEGIN TO BE DEVOTED TO HIM"
       }
     ]
+  },
+  {
+    "slug": "paxson-three-planes",
+    "title": "HUMAN LIFE ON THREE PLANES",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/paxson-three-planes/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-three-planes/card-01.png",
+        "title": "THE HOLY SPIRIT THROUGH THE APOSTLE"
+      },
+      {
+        "src": "img/paxson-three-planes/card-02.png",
+        "title": "THE NATURAL MAN IS DEAD TO"
+      },
+      {
+        "src": "img/paxson-three-planes/card-03.png",
+        "title": "THE CARNAL MAN IS A CHRISTIAN"
+      },
+      {
+        "src": "img/paxson-three-planes/card-04.png",
+        "title": "THE CARNAL MAN HAS BEEN RENEWED"
+      },
+      {
+        "src": "img/paxson-three-planes/card-05.png",
+        "title": "TWO NATURES ARE SIDE BY SIDE"
+      },
+      {
+        "src": "img/paxson-three-planes/card-06.png",
+        "title": "IT IS TO BEG THE QUESTION"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-entrance-of-sin",
+    "title": "THE ENTRANCE OF SIN INTO MAN",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/paxson-entrance-of-sin/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-entrance-of-sin/card-01.png",
+        "title": "IN GOD S FIRST MAN THE"
+      },
+      {
+        "src": "img/paxson-entrance-of-sin/card-02.png",
+        "title": "SIN AND DEATH, SALVATION AND LIFE"
+      },
+      {
+        "src": "img/paxson-entrance-of-sin/card-03.png",
+        "title": "HIS METHOD HAS NOT CHANGED FROM"
+      },
+      {
+        "src": "img/paxson-entrance-of-sin/card-04.png",
+        "title": "EARS COMPLETELY DEAFENED"
+      },
+      {
+        "src": "img/paxson-entrance-of-sin/card-05.png",
+        "title": "EVE HAD TEMPTED ADAM BUT ADAM"
+      },
+      {
+        "src": "img/paxson-entrance-of-sin/card-06.png",
+        "title": "HAVING DEALT WITH THE SINNER IN"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-rule-of-sin",
+    "title": "THE RULE OF SIN OVER MAN",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/paxson-rule-of-sin/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-rule-of-sin/card-01.png",
+        "title": "NOT ONLY WERE ALL MEN DRAWN"
+      },
+      {
+        "src": "img/paxson-rule-of-sin/card-02.png",
+        "title": "SEPARATED FROM GOD MAN S MIND"
+      },
+      {
+        "src": "img/paxson-rule-of-sin/card-03.png",
+        "title": "WHEN DID MAN FALL INTO SUCH"
+      },
+      {
+        "src": "img/paxson-rule-of-sin/card-04.png",
+        "title": "PAUL'S EXHORTATION"
+      },
+      {
+        "src": "img/paxson-rule-of-sin/card-05.png",
+        "title": "IF GOD CANNOT DWELL WITH SIN"
+      },
+      {
+        "src": "img/paxson-rule-of-sin/card-06.png",
+        "title": "THIS VIEW OF THE ORIGIN AND"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-futile-attempts",
+    "title": "FALSE AND FUTILE ATTEMPTS FOR SALVATION",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/paxson-futile-attempts/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-futile-attempts/card-01.png",
+        "title": "MAN MAY IGNORE OR CONDONE SIN"
+      },
+      {
+        "src": "img/paxson-futile-attempts/card-02.png",
+        "title": "SALVATION THROUGH CHARACTER"
+      },
+      {
+        "src": "img/paxson-futile-attempts/card-03.png",
+        "title": "PLEASE NOTE GOD DOES NOT SAY"
+      },
+      {
+        "src": "img/paxson-futile-attempts/card-04.png",
+        "title": "THERE IS A SYSTEM OF RELIGION"
+      },
+      {
+        "src": "img/paxson-futile-attempts/card-05.png",
+        "title": "NOT ONLY IS SIN IN THE"
+      },
+      {
+        "src": "img/paxson-futile-attempts/card-06.png",
+        "title": "WILL YOU GO THE WAY OF"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-second-man",
+    "title": "GOD'S SECOND MAN, THE LAST ADAM",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/paxson-second-man/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-second-man/card-01.png",
+        "title": "WHAT METHOD WOULD GOD USE IN"
+      },
+      {
+        "src": "img/paxson-second-man/card-02.png",
+        "title": "HE IS NOT A MAN WHO"
+      },
+      {
+        "src": "img/paxson-second-man/card-03.png",
+        "title": "THE GRACE OF GOD FASHIONED THE PLAN"
+      },
+      {
+        "src": "img/paxson-second-man/card-04.png",
+        "title": "FROM THE BEGINNING TO THE END"
+      },
+      {
+        "src": "img/paxson-second-man/card-05.png",
+        "title": "NOTHING THAT BELONGED TO DEITY OR"
+      },
+      {
+        "src": "img/paxson-second-man/card-06.png",
+        "title": "HE HUMBLED HIMSELF"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-crucifixion",
+    "title": "THE BRIDGE OF SALVATION: CRUCIFIXION",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/paxson-crucifixion/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-crucifixion/card-01.png",
+        "title": "IN THE INCARNATION GOD HAD NOT"
+      },
+      {
+        "src": "img/paxson-crucifixion/card-02.png",
+        "title": "THE INEVITABLE HOUR"
+      },
+      {
+        "src": "img/paxson-crucifixion/card-03.png",
+        "title": "THERE EVIDENTLY WAS NO OTHER WAY"
+      },
+      {
+        "src": "img/paxson-crucifixion/card-04.png",
+        "title": "GOD HAS BUT ONE PROBLEM: SIN"
+      },
+      {
+        "src": "img/paxson-crucifixion/card-05.png",
+        "title": "A MEETING PLACE BETWEEN A RIGHTEOUS"
+      },
+      {
+        "src": "img/paxson-crucifixion/card-06.png",
+        "title": "AS SIN THROUGH ADAM HAD BEEN"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-crowning-work",
+    "title": "THE CROWNING WORK OF CHRIST IN SALVATION",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/paxson-crowning-work/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-crowning-work/card-01.png",
+        "title": "GOD SENT FORTH HIS SON THAT"
+      },
+      {
+        "src": "img/paxson-crowning-work/card-02.png",
+        "title": "WHAT A STRANGE THING TO SAY"
+      },
+      {
+        "src": "img/paxson-crowning-work/card-03.png",
+        "title": "THE HOLY SPIRIT, THE MIDDLEMAN"
+      },
+      {
+        "src": "img/paxson-crowning-work/card-04.png",
+        "title": "CHRIST HAD PROMISED THAT IF HE"
+      },
+      {
+        "src": "img/paxson-crowning-work/card-05.png",
+        "title": "WITNESS THE FAILURE DEFEAT AND SIN"
+      },
+      {
+        "src": "img/paxson-crowning-work/card-06.png",
+        "title": "THE REPEATED IMPRESSION MADE UPON THE"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-saviour-bridge-crossed",
+    "title": "CHRIST OUR SAVIOUR",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/paxson-saviour-bridge-crossed/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-saviour-bridge-crossed/card-01.png",
+        "title": "WE HAVE SEEN WHAT GOD MEANT"
+      },
+      {
+        "src": "img/paxson-saviour-bridge-crossed/card-02.png",
+        "title": "BUT GOD LEAVES IT TO THE"
+      },
+      {
+        "src": "img/paxson-saviour-bridge-crossed/card-03.png",
+        "title": "SUCH A FAITH HAS ITS BIRTH"
+      },
+      {
+        "src": "img/paxson-saviour-bridge-crossed/card-04.png",
+        "title": "SINCE GOD S DEAR SON LAID"
+      },
+      {
+        "src": "img/paxson-saviour-bridge-crossed/card-05.png",
+        "title": "NO ATTEMPT HAS EVER BEEN MADE"
+      },
+      {
+        "src": "img/paxson-saviour-bridge-crossed/card-06.png",
+        "title": "THERE ARE COUNTLESS SINS OF WHICH"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-head-new-creation",
+    "title": "CHRIST OUR HEAD, A NEW CREATION",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/paxson-head-new-creation/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-head-new-creation/card-01.png",
+        "title": "IT GIVES US A NEW STANDING"
+      },
+      {
+        "src": "img/paxson-head-new-creation/card-02.png",
+        "title": "WHAT COULD NICODEMUS HAVE THOUGHT"
+      },
+      {
+        "src": "img/paxson-head-new-creation/card-03.png",
+        "title": "HE WAS NO DOUBT LIVING UP"
+      },
+      {
+        "src": "img/paxson-head-new-creation/card-04.png",
+        "title": "REFORMATION MAY MAKE A MAN SOMEWHAT"
+      },
+      {
+        "src": "img/paxson-head-new-creation/card-05.png",
+        "title": "IN THIS NEW CREATION THERE IS"
+      },
+      {
+        "src": "img/paxson-head-new-creation/card-06.png",
+        "title": "NEW PATCHES ON AN OLD GARMENT"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-lord-new-sphere",
+    "title": "CHRIST OUR LORD, A NEW SOVEREIGN",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/paxson-lord-new-sphere/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-lord-new-sphere/card-01.png",
+        "title": "WHEN THE RISEN CHRIST ASCENDED TO"
+      },
+      {
+        "src": "img/paxson-lord-new-sphere/card-02.png",
+        "title": "THIS IS THE PASSAGE OF THE"
+      },
+      {
+        "src": "img/paxson-lord-new-sphere/card-03.png",
+        "title": "THE OLD MAN NEVER FORGETS HIMSELF"
+      },
+      {
+        "src": "img/paxson-lord-new-sphere/card-04.png",
+        "title": "ONE MESSAGE ON THIS THEME"
+      },
+      {
+        "src": "img/paxson-lord-new-sphere/card-05.png",
+        "title": "SUCH REPETITION AND VARIETY MUST HAVE"
+      },
+      {
+        "src": "img/paxson-lord-new-sphere/card-06.png",
+        "title": "BY VIRTUE OF ENTERING INTO THAT"
+      }
+    ]
   }
 ];
