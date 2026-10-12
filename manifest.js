@@ -3,6 +3,7 @@ window.MANIFEST = [
     "slug": "love",
     "title": "Love",
     "credit": "Dr. Myles Munroe",
+    "lane": "servants",
     "overview": "img/love/overview.png",
     "cards": [
       {
@@ -59,6 +60,7 @@ window.MANIFEST = [
     "slug": "wealth",
     "title": "Wealth",
     "credit": "Andrew Murray",
+    "lane": "servants",
     "overview": "img/wealth/overview.png",
     "cards": [
       {
@@ -99,6 +101,7 @@ window.MANIFEST = [
     "slug": "faith",
     "title": "Faith",
     "credit": "Charles Spurgeon",
+    "lane": "servants",
     "overview": "img/faith/overview.png",
     "cards": [
       {
@@ -131,6 +134,7 @@ window.MANIFEST = [
     "slug": "prayer",
     "title": "Prayer",
     "credit": "Andrew Murray",
+    "lane": "servants",
     "overview": "img/prayer/overview.png",
     "cards": [
       {
@@ -187,6 +191,7 @@ window.MANIFEST = [
     "slug": "wisdom",
     "title": "Wisdom",
     "credit": "Thomas Watson",
+    "lane": "servants",
     "overview": "img/wisdom/overview.png",
     "cards": [
       {
@@ -219,6 +224,7 @@ window.MANIFEST = [
     "slug": "marriage",
     "title": "Marriage",
     "credit": "Charles Spurgeon",
+    "lane": "servants",
     "overview": "img/marriage/overview.png",
     "cards": [
       {
@@ -255,6 +261,7 @@ window.MANIFEST = [
     "slug": "purpose",
     "title": "Purpose",
     "credit": "Myles Munroe",
+    "lane": "servants",
     "overview": "img/purpose/overview.png",
     "cards": [
       {
@@ -291,6 +298,7 @@ window.MANIFEST = [
     "slug": "friendship",
     "title": "Friendship",
     "credit": "Charles Spurgeon",
+    "lane": "servants",
     "overview": "img/friendship/overview.png",
     "cards": [
       {
@@ -323,6 +331,7 @@ window.MANIFEST = [
     "slug": "kingdom",
     "title": "Kingdom",
     "credit": "Dr. Myles Munroe",
+    "lane": "servants",
     "overview": "img/kingdom/overview.png",
     "cards": [
       {
@@ -359,6 +368,7 @@ window.MANIFEST = [
     "slug": "righteousness",
     "title": "Righteousness",
     "credit": "Watchman Nee",
+    "lane": "servants",
     "overview": "img/righteousness/overview.png",
     "cards": [
       {
@@ -399,6 +409,7 @@ window.MANIFEST = [
     "slug": "children",
     "title": "Children",
     "credit": "Charles Spurgeon",
+    "lane": "servants",
     "overview": "img/children/overview.png",
     "cards": [
       {
@@ -427,6 +438,7 @@ window.MANIFEST = [
     "slug": "holy-spirit",
     "title": "Holy Spirit",
     "credit": "A.W. Tozer",
+    "lane": "servants",
     "overview": "img/holy-spirit/overview.png",
     "cards": [
       {
@@ -455,6 +467,7 @@ window.MANIFEST = [
     "slug": "seven-mountains",
     "title": "Seven Mountains",
     "credit": "Lance Wallnau",
+    "lane": "servants",
     "overview": "img/seven-mountains/overview.png",
     "cards": [
       {
@@ -491,6 +504,7 @@ window.MANIFEST = [
     "slug": "bible-plagues",
     "title": "THE 10 PLAGUES OF EGYPT",
     "credit": "Exodus 7-12",
+    "lane": "bible",
     "overview": "img/bible-plagues/overview.png",
     "cards": [
       {
@@ -539,6 +553,7 @@ window.MANIFEST = [
     "slug": "bible-tribes",
     "title": "THE 12 TRIBES OF ISRAEL",
     "credit": "Genesis 35:22-26",
+    "lane": "bible",
     "overview": "img/bible-tribes/overview.png",
     "cards": [
       {
@@ -595,6 +610,7 @@ window.MANIFEST = [
     "slug": "bible-churches",
     "title": "THE 7 CHURCHES OF REVELATION",
     "credit": "Revelation 2-3",
+    "lane": "bible",
     "overview": "img/bible-churches/overview.png",
     "cards": [
       {
@@ -631,6 +647,7 @@ window.MANIFEST = [
     "slug": "bible-commandments",
     "title": "THE 10 COMMANDMENTS",
     "credit": "Exodus 20",
+    "lane": "bible",
     "overview": "img/bible-commandments/overview.png",
     "cards": [
       {
@@ -679,6 +696,7 @@ window.MANIFEST = [
     "slug": "bible-apostles",
     "title": "THE 12 APOSTLES",
     "credit": "Matthew 10:2-4",
+    "lane": "bible",
     "overview": "img/bible-apostles/overview.png",
     "cards": [
       {
@@ -735,6 +753,7 @@ window.MANIFEST = [
     "slug": "bible-creation",
     "title": "THE 7 DAYS OF CREATION",
     "credit": "Genesis 1-2",
+    "lane": "bible",
     "overview": "img/bible-creation/overview.png",
     "cards": [
       {
@@ -771,6 +790,7 @@ window.MANIFEST = [
     "slug": "bible-fruit",
     "title": "THE 9 FRUITS OF THE SPIRIT",
     "credit": "Galatians 5:22-23",
+    "lane": "bible",
     "overview": "img/bible-fruit/overview.png",
     "cards": [
       {
@@ -815,6 +835,7 @@ window.MANIFEST = [
     "slug": "bible-iam",
     "title": "THE 7 I AM STATEMENTS",
     "credit": "The Gospel of John",
+    "lane": "bible",
     "overview": "img/bible-iam/overview.png",
     "cards": [
       {
@@ -851,6 +872,7 @@ window.MANIFEST = [
     "slug": "bible-armor",
     "title": "The 6 Pieces Of The Armor Of God",
     "credit": "",
+    "lane": "bible",
     "overview": "img/bible-armor/overview.png",
     "cards": [
       {
@@ -883,6 +905,7 @@ window.MANIFEST = [
     "slug": "bible-beatitudes",
     "title": "The 8 Beatitudes",
     "credit": "",
+    "lane": "bible",
     "overview": "img/bible-beatitudes/overview.png",
     "cards": [
       {
@@ -923,6 +946,7 @@ window.MANIFEST = [
     "slug": "bible-jerusalem",
     "title": "The 12 Gates And 12 Foundations",
     "credit": "",
+    "lane": "bible",
     "overview": "img/bible-jerusalem/overview.png",
     "cards": [
       {
@@ -1027,6 +1051,7 @@ window.MANIFEST = [
     "slug": "bible-seals",
     "title": "The 7 Seals",
     "credit": "",
+    "lane": "bible",
     "overview": "img/bible-seals/overview.png",
     "cards": [
       {
@@ -1063,6 +1088,7 @@ window.MANIFEST = [
     "slug": "bible-trumpets",
     "title": "The 7 Trumpets",
     "credit": "Revelation 8-11 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-trumpets/overview.png",
     "cards": [
       {
@@ -1099,6 +1125,7 @@ window.MANIFEST = [
     "slug": "bible-bowls",
     "title": "The 7 Bowls of Wrath",
     "credit": "Revelation 16 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-bowls/overview.png",
     "cards": [
       {
@@ -1135,6 +1162,7 @@ window.MANIFEST = [
     "slug": "bible-cross-sayings",
     "title": "The 7 Sayings from the Cross",
     "credit": "The Gospels (KJV)",
+    "lane": "bible",
     "overview": "img/bible-cross-sayings/overview.png",
     "cards": [
       {
@@ -1171,6 +1199,7 @@ window.MANIFEST = [
     "slug": "bible-parables",
     "title": "The 7 Parables of the Kingdom",
     "credit": "Matthew 13 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-parables/overview.png",
     "cards": [
       {
@@ -1207,6 +1236,7 @@ window.MANIFEST = [
     "slug": "bible-signs",
     "title": "The 7 Signs in John",
     "credit": "Gospel of John (KJV)",
+    "lane": "bible",
     "overview": "img/bible-signs/overview.png",
     "cards": [
       {
@@ -1243,6 +1273,7 @@ window.MANIFEST = [
     "slug": "bible-gifts",
     "title": "The Gifts of the Spirit",
     "credit": "1 Corinthians 12 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-gifts/overview.png",
     "cards": [
       {
@@ -1287,6 +1318,7 @@ window.MANIFEST = [
     "slug": "bible-crowns",
     "title": "The 5 Crowns",
     "credit": "The Epistles (KJV)",
+    "lane": "bible",
     "overview": "img/bible-crowns/overview.png",
     "cards": [
       {
@@ -1315,6 +1347,7 @@ window.MANIFEST = [
     "slug": "bible-names",
     "title": "The Names of God",
     "credit": "KJV",
+    "lane": "bible",
     "overview": "img/bible-names/overview.png",
     "cards": [
       {
@@ -1363,6 +1396,7 @@ window.MANIFEST = [
     "slug": "bible-lev-offerings",
     "title": "The 5 Offerings",
     "credit": "Leviticus 1-7 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-lev-offerings/overview.png",
     "cards": [
       {
@@ -1391,6 +1425,7 @@ window.MANIFEST = [
     "slug": "bible-lev-feasts",
     "title": "The 7 Feasts of Israel",
     "credit": "Leviticus 23 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-lev-feasts/overview.png",
     "cards": [
       {
@@ -1427,6 +1462,7 @@ window.MANIFEST = [
     "slug": "bible-lev-atonement",
     "title": "The Day of Atonement",
     "credit": "Leviticus 16 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-lev-atonement/overview.png",
     "cards": [
       {
@@ -1467,6 +1503,7 @@ window.MANIFEST = [
     "slug": "bible-lev-clean",
     "title": "Clean and Unclean",
     "credit": "Leviticus 11 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-lev-clean/overview.png",
     "cards": [
       {
@@ -1495,6 +1532,7 @@ window.MANIFEST = [
     "slug": "bible-lev-priests",
     "title": "The Priests Consecrated",
     "credit": "Leviticus 8 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-lev-priests/overview.png",
     "cards": [
       {
@@ -1535,6 +1573,7 @@ window.MANIFEST = [
     "slug": "bible-lev-holiness",
     "title": "Laws of Holiness",
     "credit": "Leviticus 19 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-lev-holiness/overview.png",
     "cards": [
       {
@@ -1575,6 +1614,7 @@ window.MANIFEST = [
     "slug": "bible-lev-jubilee",
     "title": "Sabbath and Jubilee",
     "credit": "Leviticus 25 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-lev-jubilee/overview.png",
     "cards": [
       {
@@ -1611,6 +1651,7 @@ window.MANIFEST = [
     "slug": "bible-lev-vows",
     "title": "Vows and Dedications",
     "credit": "Leviticus 27 (KJV)",
+    "lane": "bible",
     "overview": "img/bible-lev-vows/overview.png",
     "cards": [
       {
