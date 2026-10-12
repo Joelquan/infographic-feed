@@ -2740,5 +2740,245 @@ window.MANIFEST = [
         "title": "INDEPENDENCE COMES THROUGH LABOUR"
       }
     ]
+  },
+  {
+    "slug": "allen-prosperity-lesson-of-evil",
+    "title": "THE LESSON OF EVIL",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "money",
+    "overview": "img/allen-prosperity-lesson-of-evil/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-prosperity-lesson-of-evil/card-01.png",
+        "title": "THE SHADOWS OF LIFE"
+      },
+      {
+        "src": "img/allen-prosperity-lesson-of-evil/card-02.png",
+        "title": "THE SWORD OF PAIN"
+      },
+      {
+        "src": "img/allen-prosperity-lesson-of-evil/card-03.png",
+        "title": "FIND OUT WHY IT IS THERE"
+      },
+      {
+        "src": "img/allen-prosperity-lesson-of-evil/card-04.png",
+        "title": "EVIL BECOMES A TEACHER"
+      },
+      {
+        "src": "img/allen-prosperity-lesson-of-evil/card-05.png",
+        "title": "ABLAZE WITH LIVING LIGHT"
+      },
+      {
+        "src": "img/allen-prosperity-lesson-of-evil/card-06.png",
+        "title": "WISDOM TAKES ITS PLACE"
+      },
+      {
+        "src": "img/allen-prosperity-lesson-of-evil/card-07.png",
+        "title": "LET IN THE GLORIOUS LIGHT"
+      }
+    ]
+  },
+  {
+    "slug": "allen-prosperity-way-out-of-undesirable-conditions",
+    "title": "THE WAY OUT OF UNDESIRABLE CONDITIONS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "money",
+    "overview": "img/allen-prosperity-way-out-of-undesirable-conditions/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-prosperity-way-out-of-undesirable-conditions/card-01.png",
+        "title": "NONE CAN ESCAPE IT"
+      },
+      {
+        "src": "img/allen-prosperity-way-out-of-undesirable-conditions/card-02.png",
+        "title": "ENDURING SUCCESS AND HAPPINESS"
+      },
+      {
+        "src": "img/allen-prosperity-way-out-of-undesirable-conditions/card-03.png",
+        "title": "IMPROVE YOUR INNER LIFE"
+      },
+      {
+        "src": "img/allen-prosperity-way-out-of-undesirable-conditions/card-04.png",
+        "title": "THE CAUSE IS WITHIN YOURSELF"
+      },
+      {
+        "src": "img/allen-prosperity-way-out-of-undesirable-conditions/card-05.png",
+        "title": "MASTER ONE STANDARD"
+      },
+      {
+        "src": "img/allen-prosperity-way-out-of-undesirable-conditions/card-06.png",
+        "title": "YOU WILL RISE ABOVE THEM"
+      },
+      {
+        "src": "img/allen-prosperity-way-out-of-undesirable-conditions/card-07.png",
+        "title": "THE MAKER OF YOUR DESTINY"
+      }
+    ]
+  },
+  {
+    "slug": "allen-prosperity-silent-power",
+    "title": "THE SILENT POWER OF THOUGHT",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "money",
+    "overview": "img/allen-prosperity-silent-power/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-prosperity-silent-power/card-01.png",
+        "title": "THE SILENT FORCES"
+      },
+      {
+        "src": "img/allen-prosperity-silent-power/card-02.png",
+        "title": "THE SUPREMACY OF GOOD"
+      },
+      {
+        "src": "img/allen-prosperity-silent-power/card-03.png",
+        "title": "MASTER OF AFFAIRS"
+      },
+      {
+        "src": "img/allen-prosperity-silent-power/card-04.png",
+        "title": "RAYS OF THE SEARCH-LIGHT"
+      },
+      {
+        "src": "img/allen-prosperity-silent-power/card-05.png",
+        "title": "EVERY THOUGHT A FORCE"
+      },
+      {
+        "src": "img/allen-prosperity-silent-power/card-06.png",
+        "title": "GOLDEN THREADS OF HAPPINESS"
+      },
+      {
+        "src": "img/allen-prosperity-silent-power/card-07.png",
+        "title": "ONE WELL-CUT CHANNEL"
+      }
+    ]
+  },
+  {
+    "slug": "allen-prosperity-secret-of-health-success-and-power",
+    "title": "THE SECRET OF HEALTH, SUCCESS AND POWER",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "money",
+    "overview": "img/allen-prosperity-secret-of-health-success-and-power/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-prosperity-secret-of-health-success-and-power/card-01.png",
+        "title": "PUT TO FLIGHT BY POSITIVE THOUGHT"
+      },
+      {
+        "src": "img/allen-prosperity-secret-of-health-success-and-power/card-02.png",
+        "title": "HEALING AND LIFE-GIVING CURRENTS"
+      },
+      {
+        "src": "img/allen-prosperity-secret-of-health-success-and-power/card-03.png",
+        "title": "THINK JOYFUL THOUGHTS"
+      },
+      {
+        "src": "img/allen-prosperity-secret-of-health-success-and-power/card-04.png",
+        "title": "THE ROCK UPON WHICH YOU MUST BUILD"
+      },
+      {
+        "src": "img/allen-prosperity-secret-of-health-success-and-power/card-05.png",
+        "title": "THE TALISMAN OF POWER"
+      },
+      {
+        "src": "img/allen-prosperity-secret-of-health-success-and-power/card-06.png",
+        "title": "YOUR DOMINANT TRENDS OF THOUGHT"
+      },
+      {
+        "src": "img/allen-prosperity-secret-of-health-success-and-power/card-07.png",
+        "title": "ALL SPEAK TO US OF POWER"
+      },
+      {
+        "src": "img/allen-prosperity-secret-of-health-success-and-power/card-08.png",
+        "title": "A PURE HEART, A WELL-ORDERED MIND"
+      }
+    ]
+  },
+  {
+    "slug": "allen-prosperity-abounding-happiness",
+    "title": "THE SECRET OF ABOUNDING HAPPINESS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "money",
+    "overview": "img/allen-prosperity-abounding-happiness/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-prosperity-abounding-happiness/card-01.png",
+        "title": "NOT FROM MERE OUTWARD POSSESSIONS"
+      },
+      {
+        "src": "img/allen-prosperity-abounding-happiness/card-02.png",
+        "title": "THE CAUSE OF ALL THE MISERY"
+      },
+      {
+        "src": "img/allen-prosperity-abounding-happiness/card-03.png",
+        "title": "PERFECT SATISFACTION"
+      },
+      {
+        "src": "img/allen-prosperity-abounding-happiness/card-04.png",
+        "title": "RISE ABOVE SELF"
+      },
+      {
+        "src": "img/allen-prosperity-abounding-happiness/card-05.png",
+        "title": "IN THE SERVICE OF OTHERS"
+      },
+      {
+        "src": "img/allen-prosperity-abounding-happiness/card-06.png",
+        "title": "THE UNIVERSAL SONG"
+      },
+      {
+        "src": "img/allen-prosperity-abounding-happiness/card-07.png",
+        "title": "THE NARROW CRAMPED SELF"
+      },
+      {
+        "src": "img/allen-prosperity-abounding-happiness/card-08.png",
+        "title": "PROMPTED BY VANITY, NOT BY LOVE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-prosperity-meditation",
+    "title": "THE POWER OF MEDITATION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "money",
+    "overview": "img/allen-prosperity-meditation/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-prosperity-meditation/card-01.png",
+        "title": "THE PATHWAY TO DIVINITY"
+      },
+      {
+        "src": "img/allen-prosperity-meditation/card-02.png",
+        "title": "IN YOUR SILENT HOURS"
+      },
+      {
+        "src": "img/allen-prosperity-meditation/card-03.png",
+        "title": "A BODY WITHOUT A SOUL"
+      },
+      {
+        "src": "img/allen-prosperity-meditation/card-04.png",
+        "title": "PRAYING FOR ONE THING"
+      },
+      {
+        "src": "img/allen-prosperity-meditation/card-05.png",
+        "title": "ONE BY ONE, THE ERRORS"
+      },
+      {
+        "src": "img/allen-prosperity-meditation/card-06.png",
+        "title": "THE DIVINE LAW OF LOVE"
+      },
+      {
+        "src": "img/allen-prosperity-meditation/card-07.png",
+        "title": "ONE WITH THE ETERNAL"
+      },
+      {
+        "src": "img/allen-prosperity-meditation/card-08.png",
+        "title": "ACTUALIZED BY PRACTICE"
+      }
+    ]
   }
 ];
