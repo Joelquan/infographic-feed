@@ -17832,5 +17832,345 @@ window.MANIFEST = [
         "title": "IN THE FRONT OF THE CAVALCADE"
       }
     ]
+  },
+  {
+    "slug": "meyer-john-set-at-liberty",
+    "title": "SET AT LIBERTY",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-john-set-at-liberty/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-john-set-at-liberty/card-01.png",
+        "title": "THE DAYS THAT PRECEDED THE CELEBRATION"
+      },
+      {
+        "src": "img/meyer-john-set-at-liberty/card-02.png",
+        "title": "HERE WAS THE CAUSE OF HIS"
+      },
+      {
+        "src": "img/meyer-john-set-at-liberty/card-03.png",
+        "title": "IS NOT THIS WHAT THE APOSTLE"
+      },
+      {
+        "src": "img/meyer-john-set-at-liberty/card-04.png",
+        "title": "THESE TWO RIVERS SPRANG FROM THE"
+      },
+      {
+        "src": "img/meyer-john-set-at-liberty/card-05.png",
+        "title": "NEITHER OF THESE ALTERNATIVES WILL BEAR"
+      },
+      {
+        "src": "img/meyer-john-set-at-liberty/card-06.png",
+        "title": "BEYOND JORDAN TO THE JEWS THAT"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-john-yet-speaking",
+    "title": "YET SPEAKING",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-john-yet-speaking/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-john-yet-speaking/card-01.png",
+        "title": "SURELY THE HOME AT BETHANY WOULD"
+      },
+      {
+        "src": "img/meyer-john-yet-speaking/card-02.png",
+        "title": "EXPLAIN THEN WHY IT IS THAT"
+      },
+      {
+        "src": "img/meyer-john-yet-speaking/card-03.png",
+        "title": "WE MUST CLOSE OUR SENSES TO"
+      },
+      {
+        "src": "img/meyer-john-yet-speaking/card-04.png",
+        "title": "ELIJAH WAS ABLE TO LIVE ON"
+      },
+      {
+        "src": "img/meyer-john-yet-speaking/card-05.png",
+        "title": "PERHAPS SOME YOUNG LIFE MAY BE"
+      },
+      {
+        "src": "img/meyer-john-yet-speaking/card-06.png",
+        "title": "THE HOLY SPIRIT IS PREPARED NOT"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joseph-early-days-and-the-pit",
+    "title": "EARLY DAYS AND THE PIT",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-joseph-early-days-and-the-pit/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joseph-early-days-and-the-pit/card-01.png",
+        "title": "THE CASE WAS AGGRAVATED BY HIS"
+      },
+      {
+        "src": "img/meyer-joseph-early-days-and-the-pit/card-02.png",
+        "title": "AT THE SAME TIME THERE MAY"
+      },
+      {
+        "src": "img/meyer-joseph-early-days-and-the-pit/card-03.png",
+        "title": "ON JOSEPH'S PART THERE WAS NOT"
+      },
+      {
+        "src": "img/meyer-joseph-early-days-and-the-pit/card-04.png",
+        "title": "YEAR PASSED AFTER YEAR BUT THE"
+      },
+      {
+        "src": "img/meyer-joseph-early-days-and-the-pit/card-05.png",
+        "title": "IN SOME GREAT SLAVE MARKET HE"
+      },
+      {
+        "src": "img/meyer-joseph-early-days-and-the-pit/card-06.png",
+        "title": "IF YOU WISH TO POSSESS SUCH"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joseph-secret-of-purity",
+    "title": "IN THE HOUSE OF POTIPHAR",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-joseph-secret-of-purity/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joseph-secret-of-purity/card-01.png",
+        "title": "THESE WORDS MAY BE READ BY"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-purity/card-02.png",
+        "title": "TEMPTATION IS HARDEST TO RESIST WHEN"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-purity/card-03.png",
+        "title": "IT IS SAID THAT THE TEMPTATIONS"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-purity/card-04.png",
+        "title": "LIKE MOSES THE GREAT LAWGIVER ON"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-purity/card-05.png",
+        "title": "THE OLD NATURE WHICH WAS ONCE"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-purity/card-06.png",
+        "title": "HE HAD THOUGHT SO YES AND"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joseph-steps-of-the-throne",
+    "title": "THE STEPS OF THE THRONE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-joseph-steps-of-the-throne/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joseph-steps-of-the-throne/card-01.png",
+        "title": "AT LAST EXHAUSTED AND HELPLESS THE"
+      },
+      {
+        "src": "img/meyer-joseph-steps-of-the-throne/card-02.png",
+        "title": "IT MUST HAVE BEEN A WELCOME"
+      },
+      {
+        "src": "img/meyer-joseph-steps-of-the-throne/card-03.png",
+        "title": "THEY HAVE SAID THAT HE HAD"
+      },
+      {
+        "src": "img/meyer-joseph-steps-of-the-throne/card-04.png",
+        "title": "WHEN THE HEART IS FULL OF"
+      },
+      {
+        "src": "img/meyer-joseph-steps-of-the-throne/card-05.png",
+        "title": "JOSEPH THOUGH A JEW BY BIRTH"
+      },
+      {
+        "src": "img/meyer-joseph-steps-of-the-throne/card-06.png",
+        "title": "IS THERE NOT A TRUTH IN"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joseph-interviews-with-his-brethren",
+    "title": "INTERVIEWS WITH HIS BRETHREN",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-joseph-interviews-with-his-brethren/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joseph-interviews-with-his-brethren/card-01.png",
+        "title": "LONG AS THE HILLS WERE GREEN"
+      },
+      {
+        "src": "img/meyer-joseph-interviews-with-his-brethren/card-02.png",
+        "title": "THE FAILURE TO FIND A LETTER"
+      },
+      {
+        "src": "img/meyer-joseph-interviews-with-his-brethren/card-03.png",
+        "title": "HE MAY HAVE EVEN CHERISHED AND"
+      },
+      {
+        "src": "img/meyer-joseph-interviews-with-his-brethren/card-04.png",
+        "title": "WHEN THE MIGHTY FAMINE CAME THE"
+      },
+      {
+        "src": "img/meyer-joseph-interviews-with-his-brethren/card-05.png",
+        "title": "THESE MUST BE TAUGHT THEIR UTTER"
+      },
+      {
+        "src": "img/meyer-joseph-interviews-with-his-brethren/card-06.png",
+        "title": "DOES YOUR HEART FAIL YOU AS"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joseph-making-himself-known",
+    "title": "JOSEPH MAKING HIMSELF KNOWN",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-joseph-making-himself-known/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joseph-making-himself-known/card-01.png",
+        "title": "THE WOMAN TURNED AT ONCE DEADLY"
+      },
+      {
+        "src": "img/meyer-joseph-making-himself-known/card-02.png",
+        "title": "BESIDES HE WANTED TO SEE IF"
+      },
+      {
+        "src": "img/meyer-joseph-making-himself-known/card-03.png",
+        "title": "SOME MEN ARE ALWAYS OUT OF"
+      },
+      {
+        "src": "img/meyer-joseph-making-himself-known/card-04.png",
+        "title": "LIVINGSTONE AND STANLEY HAVE HAD IT"
+      },
+      {
+        "src": "img/meyer-joseph-making-himself-known/card-05.png",
+        "title": "SOME LIVE FOR MANY YEARS AND"
+      },
+      {
+        "src": "img/meyer-joseph-making-himself-known/card-06.png",
+        "title": "ON THE MOORLAND STREWN WITH BOULDERS"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joseph-secret-of-fruitfulness",
+    "title": "THE SECRET OF FRUITFULNESS",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-joseph-secret-of-fruitfulness/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joseph-secret-of-fruitfulness/card-01.png",
+        "title": "YIELD TO HIM LEST HE BE"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-fruitfulness/card-02.png",
+        "title": "IT WAS NOT SIMPLY TO EXPRESS"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-fruitfulness/card-03.png",
+        "title": "SO THEY WERE BROUGHT NEAR AND"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-fruitfulness/card-04.png",
+        "title": "AS THE OLD MAN BECAME MORE"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-fruitfulness/card-05.png",
+        "title": "IT IS A RECOGNIZED RULE THAT"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-fruitfulness/card-06.png",
+        "title": "THIS IS THE TRUE CURE FOR"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joseph-secret-of-strength",
+    "title": "THE SECRET OF STRENGTH",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-joseph-secret-of-strength/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joseph-secret-of-strength/card-01.png",
+        "title": "HERE ARE SOME OF THEM THE"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-strength/card-02.png",
+        "title": "IN THE ACT OF GETTING UP"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-strength/card-03.png",
+        "title": "IT IS THE WORK OF THE"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-strength/card-04.png",
+        "title": "OLD WAS HE THAT HE SAW"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-strength/card-05.png",
+        "title": "WAS IT WITH THE LOVE OF"
+      },
+      {
+        "src": "img/meyer-joseph-secret-of-strength/card-06.png",
+        "title": "ON THE OTHER HAND IT IS"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-david-01",
+    "title": "TAKEN FROM THE SHEEP-COTES",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-david-01/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-david-01/card-01.png",
+        "title": "THE FAMILY DWELT ON THE ANCESTRAL"
+      },
+      {
+        "src": "img/meyer-david-01/card-02.png",
+        "title": "TO THINK THIS WOULD INDICATE COMPLETE"
+      },
+      {
+        "src": "img/meyer-david-01/card-03.png",
+        "title": "SURELY IT WOULD HAVE BEEN SUFFICIENT"
+      },
+      {
+        "src": "img/meyer-david-01/card-04.png",
+        "title": "BEWARE LEST YOU FRET AGAINST THE"
+      },
+      {
+        "src": "img/meyer-david-01/card-05.png",
+        "title": "IN EARLIER DAYS WHEN HE HAD"
+      },
+      {
+        "src": "img/meyer-david-01/card-06.png",
+        "title": "THE NAMES WHICH ADAM GAVE THE"
+      }
+    ]
   }
 ];
