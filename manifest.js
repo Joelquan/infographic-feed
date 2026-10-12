@@ -7276,5 +7276,389 @@ window.MANIFEST = [
         "title": "FILLED WITH HIS PRESENCE"
       }
     ]
+  },
+  {
+    "slug": "murray-humility-and-faith",
+    "title": "AND FAITH",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-humility-and-faith/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-humility-and-faith/card-01.png",
+        "title": "THE PROMISES MADE TO FAITH"
+      },
+      {
+        "src": "img/murray-humility-and-faith/card-02.png",
+        "title": "NOTHING BUT WHAT GRACE BESTOWS"
+      },
+      {
+        "src": "img/murray-humility-and-faith/card-03.png",
+        "title": "THE GLORY FROM GOD ALONE"
+      },
+      {
+        "src": "img/murray-humility-and-faith/card-04.png",
+        "title": "NOTHING BEFORE GOD"
+      },
+      {
+        "src": "img/murray-humility-and-faith/card-05.png",
+        "title": "UNIVERSAL HUMILITY THE ROOT DISPOSITION"
+      },
+      {
+        "src": "img/murray-humility-and-faith/card-06.png",
+        "title": "THE PATH TO THE GLORY OF GOD"
+      },
+      {
+        "src": "img/murray-humility-and-faith/card-07.png",
+        "title": "DEEPER IN HUMILITY NEARER IN FAITH"
+      }
+    ]
+  },
+  {
+    "slug": "murray-humility-death-happiness-exaltation",
+    "title": "DEATH HAPPINESS AND EXALTATION",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-humility-death-happiness-exaltation/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-humility-death-happiness-exaltation/card-01.png",
+        "title": "THE PATH TO DEATH"
+      },
+      {
+        "src": "img/murray-humility-death-happiness-exaltation/card-02.png",
+        "title": "DIE TO SELF"
+      },
+      {
+        "src": "img/murray-humility-death-happiness-exaltation/card-03.png",
+        "title": "SINK INTO YOUR NOTHINGNESS"
+      },
+      {
+        "src": "img/murray-humility-death-happiness-exaltation/card-04.png",
+        "title": "MOST GLADLY GLORIED IN WEAKNESS"
+      },
+      {
+        "src": "img/murray-humility-death-happiness-exaltation/card-05.png",
+        "title": "THE DEEP HAPPINESS OF HEAVEN"
+      },
+      {
+        "src": "img/murray-humility-death-happiness-exaltation/card-06.png",
+        "title": "THE SECRET OF TRUEST HAPPINESS"
+      },
+      {
+        "src": "img/murray-humility-death-happiness-exaltation/card-07.png",
+        "title": "ONLY A VESSEL FOR HIS GLORY"
+      },
+      {
+        "src": "img/murray-humility-death-happiness-exaltation/card-08.png",
+        "title": "MORE OF HIMSELF"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-come-and-rest",
+    "title": "COME TO HIM AND FIND REST",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-come-and-rest/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-come-and-rest/card-01.png",
+        "title": "YOU DID WELL TO COME"
+      },
+      {
+        "src": "img/murray-abide-come-and-rest/card-02.png",
+        "title": "AN ABIDING DWELLING WITH HIMSELF"
+      },
+      {
+        "src": "img/murray-abide-come-and-rest/card-03.png",
+        "title": "WHOLLY ONE WITH HIMSELF"
+      },
+      {
+        "src": "img/murray-abide-come-and-rest/card-04.png",
+        "title": "THE BLESSINGS BECOME FAINT"
+      },
+      {
+        "src": "img/murray-abide-come-and-rest/card-05.png",
+        "title": "ENTIRE SURRENDER IS THE SECRET"
+      },
+      {
+        "src": "img/murray-abide-come-and-rest/card-06.png",
+        "title": "RESTING IN EVERLASTING LOVE"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-branch-in-the-vine",
+    "title": "AS THE BRANCH IN THE VINE",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-branch-in-the-vine/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-branch-in-the-vine/card-01.png",
+        "title": "MEANT FOR THE WEAK"
+      },
+      {
+        "src": "img/murray-abide-branch-in-the-vine/card-02.png",
+        "title": "SIMPLY TO YIELD AND TRUST"
+      },
+      {
+        "src": "img/murray-abide-branch-in-the-vine/card-03.png",
+        "title": "UNDER GRACE, NOT UNDER LAW"
+      },
+      {
+        "src": "img/murray-abide-branch-in-the-vine/card-04.png",
+        "title": "APPREHENDED OF CHRIST"
+      },
+      {
+        "src": "img/murray-abide-branch-in-the-vine/card-05.png",
+        "title": "THE PARABLE OF THE VINE"
+      },
+      {
+        "src": "img/murray-abide-branch-in-the-vine/card-06.png",
+        "title": "WHOLLY AND ONLY FOR EACH OTHER"
+      },
+      {
+        "src": "img/murray-abide-branch-in-the-vine/card-07.png",
+        "title": "ABIDING IS ACCEPTANCE"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-by-faith-and-of-god",
+    "title": "BY FAITH AND OF GOD",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-by-faith-and-of-god/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-by-faith-and-of-god/card-01.png",
+        "title": "ROOTED BY FAITH"
+      },
+      {
+        "src": "img/murray-abide-by-faith-and-of-god/card-02.png",
+        "title": "ALWAYS A LIFE OF FAITH"
+      },
+      {
+        "src": "img/murray-abide-by-faith-and-of-god/card-03.png",
+        "title": "ALL EMPTY AND HELPLESS"
+      },
+      {
+        "src": "img/murray-abide-by-faith-and-of-god/card-04.png",
+        "title": "THE VINE BEARS THE BRANCH"
+      },
+      {
+        "src": "img/murray-abide-by-faith-and-of-god/card-05.png",
+        "title": "OF GOD I AM IN CHRIST"
+      },
+      {
+        "src": "img/murray-abide-by-faith-and-of-god/card-06.png",
+        "title": "THE FATHER OWES OUR SECURITY"
+      },
+      {
+        "src": "img/murray-abide-by-faith-and-of-god/card-07.png",
+        "title": "GOD BE EVERYTHING"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-wisdom-and-righteousness",
+    "title": "AS YOUR WISDOM AND RIGHTEOUSNESS",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-wisdom-and-righteousness/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-wisdom-and-righteousness/card-01.png",
+        "title": "WISDOM FIRST, THE TREASURY"
+      },
+      {
+        "src": "img/murray-abide-wisdom-and-righteousness/card-02.png",
+        "title": "ROOTED IN CHRIST, KNOWLEDGE COMES"
+      },
+      {
+        "src": "img/murray-abide-wisdom-and-righteousness/card-03.png",
+        "title": "HE ALONE CAN GUIDE YOU"
+      },
+      {
+        "src": "img/murray-abide-wisdom-and-righteousness/card-04.png",
+        "title": "THE MIND CALMED IN HIM"
+      },
+      {
+        "src": "img/murray-abide-wisdom-and-righteousness/card-05.png",
+        "title": "PEACE BY RESTORING RIGHTEOUSNESS"
+      },
+      {
+        "src": "img/murray-abide-wisdom-and-righteousness/card-06.png",
+        "title": "THE PERSON MORE PRECIOUS"
+      },
+      {
+        "src": "img/murray-abide-wisdom-and-righteousness/card-07.png",
+        "title": "THE KING'S OWN ROBE"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-sanctification-and-redemption",
+    "title": "SANCTIFICATION AND REDEMPTION",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-sanctification-and-redemption/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-sanctification-and-redemption/card-01.png",
+        "title": "NOT OUR WORK BUT GOD'S"
+      },
+      {
+        "src": "img/murray-abide-sanctification-and-redemption/card-02.png",
+        "title": "APPROPRIATED BY FAITH ALONE"
+      },
+      {
+        "src": "img/murray-abide-sanctification-and-redemption/card-03.png",
+        "title": "PARTAKERS OF HIS HOLINESS"
+      },
+      {
+        "src": "img/murray-abide-sanctification-and-redemption/card-04.png",
+        "title": "THE NATURAL OUTGROWTH OF HIS LIFE"
+      },
+      {
+        "src": "img/murray-abide-sanctification-and-redemption/card-05.png",
+        "title": "REDEMPTION EMBODIED IN HIM"
+      },
+      {
+        "src": "img/murray-abide-sanctification-and-redemption/card-06.png",
+        "title": "HEIR OF THE FUTURE GLORY"
+      },
+      {
+        "src": "img/murray-abide-sanctification-and-redemption/card-07.png",
+        "title": "THE POWERS OF THE COMING WORLD"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-crucified-and-established",
+    "title": "CRUCIFIED AND ESTABLISHED",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-crucified-and-established/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-crucified-and-established/card-01.png",
+        "title": "PLANTED INTO HIS DEATH"
+      },
+      {
+        "src": "img/murray-abide-crucified-and-established/card-02.png",
+        "title": "THROUGH DEATH TO RESURRECTION"
+      },
+      {
+        "src": "img/murray-abide-crucified-and-established/card-03.png",
+        "title": "IN DEATH HE CONQUERS DEATH"
+      },
+      {
+        "src": "img/murray-abide-crucified-and-established/card-04.png",
+        "title": "TAKE HIS CROSS AS YOUR OWN"
+      },
+      {
+        "src": "img/murray-abide-crucified-and-established/card-05.png",
+        "title": "FAITH CASTS ITSELF ON GOD"
+      },
+      {
+        "src": "img/murray-abide-crucified-and-established/card-06.png",
+        "title": "GOD HAS UNDERTAKEN TO STABLISH ME"
+      },
+      {
+        "src": "img/murray-abide-crucified-and-established/card-07.png",
+        "title": "THE FATHER IS THE HUSBANDMAN"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-every-moment",
+    "title": "EVERY MOMENT AND DAY BY DAY",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-every-moment/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-every-moment/card-01.png",
+        "title": "HE WILL WATER IT EVERY MOMENT"
+      },
+      {
+        "src": "img/murray-abide-every-moment/card-02.png",
+        "title": "ENTRUSTING ONESELF TO HIS KEEPING"
+      },
+      {
+        "src": "img/murray-abide-every-moment/card-03.png",
+        "title": "KEPT WHEN IT CANNOT KEEP ITSELF"
+      },
+      {
+        "src": "img/murray-abide-every-moment/card-04.png",
+        "title": "ONLY A DAY AT A TIME"
+      },
+      {
+        "src": "img/murray-abide-every-moment/card-05.png",
+        "title": "THE MORNING MANNA"
+      },
+      {
+        "src": "img/murray-abide-every-moment/card-06.png",
+        "title": "EACH DAY, ALL THE DAY"
+      },
+      {
+        "src": "img/murray-abide-every-moment/card-07.png",
+        "title": "ABIDE AT THIS PRESENT MOMENT"
+      },
+      {
+        "src": "img/murray-abide-every-moment/card-08.png",
+        "title": "THE BLESSING PASSED TO THE NEXT"
+      }
+    ]
+  },
+  {
+    "slug": "murray-abide-forsaking-all-for-him",
+    "title": "FORSAKING ALL, THROUGH THE SPIRIT",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-abide-forsaking-all-for-him/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-abide-forsaking-all-for-him/card-01.png",
+        "title": "LAY THEM AT CHRIST'S FEET"
+      },
+      {
+        "src": "img/murray-abide-forsaking-all-for-him/card-02.png",
+        "title": "INTO THE THIRST OF AN EMPTY SOUL"
+      },
+      {
+        "src": "img/murray-abide-forsaking-all-for-him/card-03.png",
+        "title": "GRACE WILL ACCOMPLISH IT"
+      },
+      {
+        "src": "img/murray-abide-forsaking-all-for-him/card-04.png",
+        "title": "THE SPIRIT TEACHES US TO ABIDE"
+      },
+      {
+        "src": "img/murray-abide-forsaking-all-for-him/card-05.png",
+        "title": "THE BOND OF FELLOWSHIP"
+      },
+      {
+        "src": "img/murray-abide-forsaking-all-for-him/card-06.png",
+        "title": "IF WE DO BUT BELIEVE"
+      },
+      {
+        "src": "img/murray-abide-forsaking-all-for-him/card-07.png",
+        "title": "NEVER MOURN AN ABSENT CHRIST"
+      }
+    ]
   }
 ];
