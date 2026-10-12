@@ -17152,5 +17152,345 @@ window.MANIFEST = [
         "title": "HOW SHALL THEY DIE WHO HAVE"
       }
     ]
+  },
+  {
+    "slug": "meyer-holiest-02",
+    "title": "THE BETTER HOPE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-holiest-02/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-holiest-02/card-01.png",
+        "title": "HAD HE CHOSEN TO LAY HOLD"
+      },
+      {
+        "src": "img/meyer-holiest-02/card-02.png",
+        "title": "THE LATTER IS LIKE A STILL"
+      },
+      {
+        "src": "img/meyer-holiest-02/card-03.png",
+        "title": "YOU WERE HAPPY IN YOUR CHILDHOOD"
+      },
+      {
+        "src": "img/meyer-holiest-02/card-04.png",
+        "title": "HE EVER LIVETH TO MAKE INTERCESSION"
+      },
+      {
+        "src": "img/meyer-holiest-02/card-05.png",
+        "title": "THERE ARE SOME PEOPLE WHOSE FACES"
+      },
+      {
+        "src": "img/meyer-holiest-02/card-06.png",
+        "title": "THEY TOO MUST HAVE A PRIEST"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-holiest-03",
+    "title": "THE REST OF GOD",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-holiest-03/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-holiest-03/card-01.png",
+        "title": "THIS CRAVING WAS MOST CAREFULLY MET"
+      },
+      {
+        "src": "img/meyer-holiest-03/card-02.png",
+        "title": "HE KNEW AS WE SHALL NEVER"
+      },
+      {
+        "src": "img/meyer-holiest-03/card-03.png",
+        "title": "IF WE FAIL TO USE FOR"
+      },
+      {
+        "src": "img/meyer-holiest-03/card-04.png",
+        "title": "PERHAPS THE REITERATION OF THE WORD"
+      },
+      {
+        "src": "img/meyer-holiest-03/card-05.png",
+        "title": "HE IS HIGHLY EXALTED DEMANDING HOMAGE"
+      },
+      {
+        "src": "img/meyer-holiest-03/card-06.png",
+        "title": "SURELY THEN THIS HOLY MAN WAS"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-holiest-04",
+    "title": "THE GREAT HIGH PRIEST",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-holiest-04/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-holiest-04/card-01.png",
+        "title": "IT SEEMS A LIGHT THING TO"
+      },
+      {
+        "src": "img/meyer-holiest-04/card-02.png",
+        "title": "SOMETIMES IN A SHADOW WE MAY"
+      },
+      {
+        "src": "img/meyer-holiest-04/card-03.png",
+        "title": "WE MAKE A PROFOUND MISTAKE IN"
+      },
+      {
+        "src": "img/meyer-holiest-04/card-04.png",
+        "title": "NONE COULD ENTER THE HOLY PLACE"
+      },
+      {
+        "src": "img/meyer-holiest-04/card-05.png",
+        "title": "JESUS ENTERED ONCE INTO THE HOLY"
+      },
+      {
+        "src": "img/meyer-holiest-04/card-06.png",
+        "title": "HAD IT BEEN WATER ONLY WE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-holiest-05",
+    "title": "THE NEW COVENANT",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-holiest-05/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-holiest-05/card-01.png",
+        "title": "IT IS THE DRINK OF ALL"
+      },
+      {
+        "src": "img/meyer-holiest-05/card-02.png",
+        "title": "THE INHERITED TENDENCIES TO EVIL REMAIN"
+      },
+      {
+        "src": "img/meyer-holiest-05/card-03.png",
+        "title": "HIS WILL WENT FAR BEYOND THEM"
+      },
+      {
+        "src": "img/meyer-holiest-05/card-04.png",
+        "title": "CHRISTIAN HOPE IS INFINITELY BETTER AND"
+      },
+      {
+        "src": "img/meyer-holiest-05/card-05.png",
+        "title": "THE TYRANT ANXIOUS TO SAVE SOME"
+      },
+      {
+        "src": "img/meyer-holiest-05/card-06.png",
+        "title": "WE SO OFTEN ALLOW IN OURSELVES"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-holiest-06",
+    "title": "THE WAY INTO THE HOLIEST",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-holiest-06/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-holiest-06/card-01.png",
+        "title": "BUT YOU ASK IS IT NOT"
+      },
+      {
+        "src": "img/meyer-holiest-06/card-02.png",
+        "title": "DOES THE SPIRIT WITNESS WITH YOUR"
+      },
+      {
+        "src": "img/meyer-holiest-06/card-03.png",
+        "title": "IT IS LIGHT ONLY SO LONG"
+      },
+      {
+        "src": "img/meyer-holiest-06/card-04.png",
+        "title": "YE ARE COME HE REFUSES TO"
+      },
+      {
+        "src": "img/meyer-holiest-06/card-05.png",
+        "title": "THE CLIMAX OF ALL CAME IN"
+      },
+      {
+        "src": "img/meyer-holiest-06/card-06.png",
+        "title": "FIRE IS INDEED A WORD SIGNIFICANT"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-holiest-07",
+    "title": "THE CITY THAT HATH FOUNDATIONS",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-holiest-07/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-holiest-07/card-01.png",
+        "title": "BESIDES WHAT SHOULD WE DO WITHOUT"
+      },
+      {
+        "src": "img/meyer-holiest-07/card-02.png",
+        "title": "WE SHALL NEVER IN THIS LIFE"
+      },
+      {
+        "src": "img/meyer-holiest-07/card-03.png",
+        "title": "HIS EYE HAS FOLLOWED YOU IN"
+      },
+      {
+        "src": "img/meyer-holiest-07/card-04.png",
+        "title": "WE NEED NOT BE ALWAYS READING"
+      },
+      {
+        "src": "img/meyer-holiest-07/card-05.png",
+        "title": "WHY WILL YOU NOT MY READERS"
+      },
+      {
+        "src": "img/meyer-holiest-07/card-06.png",
+        "title": "IF YOUR LIFE IS NOT BRINGING"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-love-laver-and-mansions",
+    "title": "THE LAVER AND THE MANY MANSIONS",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-love-laver-and-mansions/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-love-laver-and-mansions/card-01.png",
+        "title": "HE LOOKED FORWARD AND WAS HARDLY"
+      },
+      {
+        "src": "img/meyer-love-laver-and-mansions/card-02.png",
+        "title": "SINCE ALL THESE WORDS FAIL WE"
+      },
+      {
+        "src": "img/meyer-love-laver-and-mansions/card-03.png",
+        "title": "THE WORDS STAGGERED PETER HE COULD"
+      },
+      {
+        "src": "img/meyer-love-laver-and-mansions/card-04.png",
+        "title": "WE TOO MUST SEEK OUR SHARE"
+      },
+      {
+        "src": "img/meyer-love-laver-and-mansions/card-05.png",
+        "title": "IF WE ONLY COULD BELIEVE THIS"
+      },
+      {
+        "src": "img/meyer-love-laver-and-mansions/card-06.png",
+        "title": "HOW DIFFERENT THIS TO ANOTHER EXPERIENCE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-love-jacobs-dream",
+    "title": "THE REALITY OF JACOB'S DREAM",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-love-jacobs-dream/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-love-jacobs-dream/card-01.png",
+        "title": "THIS IS THE GROUND BASIS OF"
+      },
+      {
+        "src": "img/meyer-love-jacobs-dream/card-02.png",
+        "title": "GOD HAD BEEN MANIFESTING HIS TENDEREST"
+      },
+      {
+        "src": "img/meyer-love-jacobs-dream/card-03.png",
+        "title": "IT WAS INTO A WORLD OF"
+      },
+      {
+        "src": "img/meyer-love-jacobs-dream/card-04.png",
+        "title": "THE MAIN REASON IS YET TO"
+      },
+      {
+        "src": "img/meyer-love-jacobs-dream/card-05.png",
+        "title": "THIS THEN IS THE PROBLEM THAT"
+      },
+      {
+        "src": "img/meyer-love-jacobs-dream/card-06.png",
+        "title": "HIS INFLUENCE WAS RATHER EXTERNAL THAN"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-love-other-paraclete",
+    "title": "THE OTHER PARACLETE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-love-other-paraclete/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-love-other-paraclete/card-01.png",
+        "title": "THE LAST DISCOURSES OF JESUS ARE"
+      },
+      {
+        "src": "img/meyer-love-other-paraclete/card-02.png",
+        "title": "WHEN THE WORLD HEARS TALK OF"
+      },
+      {
+        "src": "img/meyer-love-other-paraclete/card-03.png",
+        "title": "IT IS AS THOUGH THE HOLY"
+      },
+      {
+        "src": "img/meyer-love-other-paraclete/card-04.png",
+        "title": "IT IS A MOST SALUTARY HABIT"
+      },
+      {
+        "src": "img/meyer-love-other-paraclete/card-05.png",
+        "title": "WHAT I OFFER TO YOU IS"
+      },
+      {
+        "src": "img/meyer-love-other-paraclete/card-06.png",
+        "title": "OH THAT YOU MAY NOW RECEIVE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-love-legacy-of-peace",
+    "title": "CHRIST'S LEGACY AND GIFT OF PEACE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-love-legacy-of-peace/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-love-legacy-of-peace/card-01.png",
+        "title": "HE GIVES US TO UNDERSTAND HOW"
+      },
+      {
+        "src": "img/meyer-love-legacy-of-peace/card-02.png",
+        "title": "YONDER BRANCH WAVING ITS FRONDS HIGH"
+      },
+      {
+        "src": "img/meyer-love-legacy-of-peace/card-03.png",
+        "title": "EMPLOYING THE SAME WORD THE MASTER"
+      },
+      {
+        "src": "img/meyer-love-legacy-of-peace/card-04.png",
+        "title": "THIS IS CONFESSEDLY AN INADEQUATE FIGURE"
+      },
+      {
+        "src": "img/meyer-love-legacy-of-peace/card-05.png",
+        "title": "IT IS THE THOUGHT OF THE"
+      },
+      {
+        "src": "img/meyer-love-legacy-of-peace/card-06.png",
+        "title": "THEY HAVE BEEN TORTURED NOT ACCEPTING"
+      }
+    ]
   }
 ];
