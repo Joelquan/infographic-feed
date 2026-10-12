@@ -3492,5 +3492,257 @@ window.MANIFEST = [
         "title": "THE EVIL WITHIN"
       }
     ]
+  },
+  {
+    "slug": "allen-added-souls-great-need",
+    "title": "THE SOUL'S GREAT NEED",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "work",
+    "overview": "img/allen-added-souls-great-need/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-added-souls-great-need/card-01.png",
+        "title": "EVERY SOUL IS IN NEED"
+      },
+      {
+        "src": "img/allen-added-souls-great-need/card-02.png",
+        "title": "IT HUNGERS FOR RIGHTEOUSNESS"
+      },
+      {
+        "src": "img/allen-added-souls-great-need/card-03.png",
+        "title": "THEY WHO SEEK CONSCIOUSLY"
+      },
+      {
+        "src": "img/allen-added-souls-great-need/card-04.png",
+        "title": "PATHWAYS OF SUFFERING"
+      },
+      {
+        "src": "img/allen-added-souls-great-need/card-05.png",
+        "title": "ITS ONLY REFUGE"
+      },
+      {
+        "src": "img/allen-added-souls-great-need/card-06.png",
+        "title": "THE NEED OF RIGHTEOUSNESS"
+      },
+      {
+        "src": "img/allen-added-souls-great-need/card-07.png",
+        "title": "FINDING IT, ALL IS FOUND"
+      },
+      {
+        "src": "img/allen-added-souls-great-need/card-08.png",
+        "title": "AT REST IN THE MIDST OF PLENTY"
+      }
+    ]
+  },
+  {
+    "slug": "allen-added-finding-a-principle",
+    "title": "THE FINDING OF A PRINCIPLE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "work",
+    "overview": "img/allen-added-finding-a-principle/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-added-finding-a-principle/card-01.png",
+        "title": "BY PURIFYING HIMSELF"
+      },
+      {
+        "src": "img/allen-added-finding-a-principle/card-02.png",
+        "title": "SELFISHNESS YIELDS TO LOVE"
+      },
+      {
+        "src": "img/allen-added-finding-a-principle/card-03.png",
+        "title": "THE LAMP OF FAITH"
+      },
+      {
+        "src": "img/allen-added-finding-a-principle/card-04.png",
+        "title": "THE THREE GATEWAYS OF SURRENDER"
+      },
+      {
+        "src": "img/allen-added-finding-a-principle/card-05.png",
+        "title": "RETAINED BY DAILY MEDITATION"
+      },
+      {
+        "src": "img/allen-added-finding-a-principle/card-06.png",
+        "title": "DESIRES MUST BE IGNORED"
+      },
+      {
+        "src": "img/allen-added-finding-a-principle/card-07.png",
+        "title": "THE DESERT OF DOUBT"
+      },
+      {
+        "src": "img/allen-added-finding-a-principle/card-08.png",
+        "title": "THE KINGDOM OF GOD FOUND"
+      }
+    ]
+  },
+  {
+    "slug": "allen-added-rest-in-kingdom",
+    "title": "AT REST IN THE KINGDOM AND ALL THINGS ADDED",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "work",
+    "overview": "img/allen-added-rest-in-kingdom/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-added-rest-in-kingdom/card-01.png",
+        "title": "PURIFICATION OF CONDUCT"
+      },
+      {
+        "src": "img/allen-added-rest-in-kingdom/card-02.png",
+        "title": "SIMPLIFICATION OF THE MIND"
+      },
+      {
+        "src": "img/allen-added-rest-in-kingdom/card-03.png",
+        "title": "HE LIVES FOR OTHERS"
+      },
+      {
+        "src": "img/allen-added-rest-in-kingdom/card-04.png",
+        "title": "SELF-SEEKING OPPOSES THE LAW"
+      },
+      {
+        "src": "img/allen-added-rest-in-kingdom/card-05.png",
+        "title": "ALL THEIR NEEDS SUPPLIED"
+      },
+      {
+        "src": "img/allen-added-rest-in-kingdom/card-06.png",
+        "title": "KNOWN BY THEIR LIFE"
+      },
+      {
+        "src": "img/allen-added-rest-in-kingdom/card-07.png",
+        "title": "THE PRICE OF THE KINGDOM"
+      },
+      {
+        "src": "img/allen-added-rest-in-kingdom/card-08.png",
+        "title": "THE TEMPLE OF RIGHTEOUSNESS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-added-divine-centre",
+    "title": "THE DIVINE CENTRE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "work",
+    "overview": "img/allen-added-divine-centre/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-added-divine-centre/card-01.png",
+        "title": "FIND THE DIVINE CENTRE"
+      },
+      {
+        "src": "img/allen-added-divine-centre/card-02.png",
+        "title": "THE CHANGELESS WITHIN YOU"
+      },
+      {
+        "src": "img/allen-added-divine-centre/card-03.png",
+        "title": "FREE IN THE DIVINE REFUGE"
+      },
+      {
+        "src": "img/allen-added-divine-centre/card-04.png",
+        "title": "EVERY TRIAL A REPLICA"
+      },
+      {
+        "src": "img/allen-added-divine-centre/card-05.png",
+        "title": "THE DEATH OF SELF"
+      },
+      {
+        "src": "img/allen-added-divine-centre/card-06.png",
+        "title": "LIFE IS MORE THAN MOTION"
+      },
+      {
+        "src": "img/allen-added-divine-centre/card-07.png",
+        "title": "BRICK BY BRICK"
+      },
+      {
+        "src": "img/allen-added-divine-centre/card-08.png",
+        "title": "THE HEART OF THE UNIVERSE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-added-might-of-meekness",
+    "title": "THE MIGHT OF MEEKNESS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "work",
+    "overview": "img/allen-added-might-of-meekness/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-added-might-of-meekness/card-01.png",
+        "title": "THE MEEK MAN SHIELDS ALL"
+      },
+      {
+        "src": "img/allen-added-might-of-meekness/card-02.png",
+        "title": "MEEKNESS IS ALL-POWERFUL"
+      },
+      {
+        "src": "img/allen-added-might-of-meekness/card-03.png",
+        "title": "HE THAT CONQUERS HIMSELF"
+      },
+      {
+        "src": "img/allen-added-might-of-meekness/card-04.png",
+        "title": "FOUND IN THE TIME OF TRIAL"
+      },
+      {
+        "src": "img/allen-added-might-of-meekness/card-05.png",
+        "title": "HE GIVES GOOD FOR EVIL"
+      },
+      {
+        "src": "img/allen-added-might-of-meekness/card-06.png",
+        "title": "CLAIMING NO RIGHTS"
+      },
+      {
+        "src": "img/allen-added-might-of-meekness/card-07.png",
+        "title": "MEEKNESS CAN NEVER FAIL"
+      },
+      {
+        "src": "img/allen-added-might-of-meekness/card-08.png",
+        "title": "THE DEEPER SECRETS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-added-perfect-love",
+    "title": "PERFECT LOVE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "work",
+    "overview": "img/allen-added-perfect-love/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-added-perfect-love/card-01.png",
+        "title": "THE LAW OF LIFE"
+      },
+      {
+        "src": "img/allen-added-perfect-love/card-02.png",
+        "title": "LOVE DOES NOT PUNISH"
+      },
+      {
+        "src": "img/allen-added-perfect-love/card-03.png",
+        "title": "HE MUST BECOME LOVE"
+      },
+      {
+        "src": "img/allen-added-perfect-love/card-04.png",
+        "title": "CASTETH OUT FEAR"
+      },
+      {
+        "src": "img/allen-added-perfect-love/card-05.png",
+        "title": "PERFECT PATIENCE"
+      },
+      {
+        "src": "img/allen-added-perfect-love/card-06.png",
+        "title": "PERFECT TRUST"
+      },
+      {
+        "src": "img/allen-added-perfect-love/card-07.png",
+        "title": "PERFECT POWER"
+      },
+      {
+        "src": "img/allen-added-perfect-love/card-08.png",
+        "title": "PERFECT PEACE"
+      }
+    ]
   }
 ];
