@@ -16812,5 +16812,345 @@ window.MANIFEST = [
         "title": "SO TODAY THERE IS GREAT NEED"
       }
     ]
+  },
+  {
+    "slug": "meyer-guidance-secret-of-guidance",
+    "title": "THE SECRET OF GUIDANCE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/meyer-guidance-secret-of-guidance/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-guidance-secret-of-guidance/card-01.png",
+        "title": "WE KNOW HOW ABRAHAM LEFT KINDRED"
+      },
+      {
+        "src": "img/meyer-guidance-secret-of-guidance/card-02.png",
+        "title": "WE MUST BE VERY CAREFUL IN"
+      },
+      {
+        "src": "img/meyer-guidance-secret-of-guidance/card-03.png",
+        "title": "WE HAVE NO NEED OR RIGHT"
+      },
+      {
+        "src": "img/meyer-guidance-secret-of-guidance/card-04.png",
+        "title": "SOMETIMES IT LOOKS AS IF WE"
+      },
+      {
+        "src": "img/meyer-guidance-secret-of-guidance/card-05.png",
+        "title": "THE CIRCUMSTANCES OF OUR DAILY LIFE"
+      },
+      {
+        "src": "img/meyer-guidance-secret-of-guidance/card-06.png",
+        "title": "IT IS WELL WHEN WE ARE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-guidance-where-am-i-wrong",
+    "title": "WHERE AM I WRONG",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-guidance-where-am-i-wrong/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-guidance-where-am-i-wrong/card-01.png",
+        "title": "THIS IS THE BURDEN WHICH THY"
+      },
+      {
+        "src": "img/meyer-guidance-where-am-i-wrong/card-02.png",
+        "title": "IT IS NOT MAINTAINED BY US"
+      },
+      {
+        "src": "img/meyer-guidance-where-am-i-wrong/card-03.png",
+        "title": "AH SOUL THAT IS WHERE THOU"
+      },
+      {
+        "src": "img/meyer-guidance-where-am-i-wrong/card-04.png",
+        "title": "THERE ARE CERTAINLY TIMES IN OUR"
+      },
+      {
+        "src": "img/meyer-guidance-where-am-i-wrong/card-05.png",
+        "title": "MORE CHRISTIANS THAN WE CAN COUNT"
+      },
+      {
+        "src": "img/meyer-guidance-where-am-i-wrong/card-06.png",
+        "title": "THIS MYSTERY IS THAT THE LORD"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-guidance-christs-indwelling",
+    "title": "THE SECRET OF CHRIST'S INDWELLING",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-guidance-christs-indwelling/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-guidance-christs-indwelling/card-01.png",
+        "title": "IF WE ADDRESS THE SAME QUESTION"
+      },
+      {
+        "src": "img/meyer-guidance-christs-indwelling/card-02.png",
+        "title": "YES THE HEAVENS EVEN THE HEAVENS"
+      },
+      {
+        "src": "img/meyer-guidance-christs-indwelling/card-03.png",
+        "title": "IT IS COMPARATIVELY SELDOM THAT WE"
+      },
+      {
+        "src": "img/meyer-guidance-christs-indwelling/card-04.png",
+        "title": "THE SWARMING INFINITESIMAL LIFE OF SOUTHERN"
+      },
+      {
+        "src": "img/meyer-guidance-christs-indwelling/card-05.png",
+        "title": "WHEN THIS MYSTERY OR SECRET OF"
+      },
+      {
+        "src": "img/meyer-guidance-christs-indwelling/card-06.png",
+        "title": "YOU MUST COME DOWN TO THEM"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-guidance-fact-faith-feeling",
+    "title": "FACT, FAITH, FEELING",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-guidance-fact-faith-feeling/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-guidance-fact-faith-feeling/card-01.png",
+        "title": "IT IS A FACT THAT IN"
+      },
+      {
+        "src": "img/meyer-guidance-fact-faith-feeling/card-02.png",
+        "title": "IT IS A FACT THAT THERE"
+      },
+      {
+        "src": "img/meyer-guidance-fact-faith-feeling/card-03.png",
+        "title": "IN EARLIER LIFE I USED TO"
+      },
+      {
+        "src": "img/meyer-guidance-fact-faith-feeling/card-04.png",
+        "title": "TREAT ALL SUGGESTIONS OF DOUBT AS"
+      },
+      {
+        "src": "img/meyer-guidance-fact-faith-feeling/card-05.png",
+        "title": "ONE DAY HE BEGINS TO QUESTION"
+      },
+      {
+        "src": "img/meyer-guidance-fact-faith-feeling/card-06.png",
+        "title": "THE SECRET OF HAVING IS GIVING"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-guidance-why-sign-the-pledge",
+    "title": "WHY SIGN THE PLEDGE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-guidance-why-sign-the-pledge/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-guidance-why-sign-the-pledge/card-01.png",
+        "title": "ONE IMPORTANT MEANS BY WHICH SO"
+      },
+      {
+        "src": "img/meyer-guidance-why-sign-the-pledge/card-02.png",
+        "title": "IT WOULD BE A PERFECT REVELATION"
+      },
+      {
+        "src": "img/meyer-guidance-why-sign-the-pledge/card-03.png",
+        "title": "WITH OTHERS IT IS A BIRTHDAY"
+      },
+      {
+        "src": "img/meyer-guidance-why-sign-the-pledge/card-04.png",
+        "title": "IF THE PLEDGE WERE ONLY SIGNED"
+      },
+      {
+        "src": "img/meyer-guidance-why-sign-the-pledge/card-05.png",
+        "title": "THEN IF YOU ARE UNMARRIED YOU"
+      },
+      {
+        "src": "img/meyer-guidance-why-sign-the-pledge/card-06.png",
+        "title": "THE PAUSE IN THE OUTWARD BUSINESS"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-guidance-burdens",
+    "title": "BURDENS, AND WHAT TO DO WITH THEM",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-guidance-burdens/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-guidance-burdens/card-01.png",
+        "title": "AS MEN OF THE WORLD LOOK"
+      },
+      {
+        "src": "img/meyer-guidance-burdens/card-02.png",
+        "title": "TOO OFTEN WE HAVE YIELDED TO"
+      },
+      {
+        "src": "img/meyer-guidance-burdens/card-03.png",
+        "title": "THOMAS WAS ONE OF THE DULL"
+      },
+      {
+        "src": "img/meyer-guidance-burdens/card-04.png",
+        "title": "YET THE RESPONSIBILITY OF THE WORK"
+      },
+      {
+        "src": "img/meyer-guidance-burdens/card-05.png",
+        "title": "IT IS A GOOD WAY IN"
+      },
+      {
+        "src": "img/meyer-guidance-burdens/card-06.png",
+        "title": "PERHAPS THE SAVINGS OF YOUR LIFE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-guidance-how-to-bear-sorrow",
+    "title": "HOW TO BEAR SORROW",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-guidance-how-to-bear-sorrow/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-guidance-how-to-bear-sorrow/card-01.png",
+        "title": "YOU MAY TALK OF CHASTISEMENT OR"
+      },
+      {
+        "src": "img/meyer-guidance-how-to-bear-sorrow/card-02.png",
+        "title": "HE HOLDS THE WINDS IN HIS"
+      },
+      {
+        "src": "img/meyer-guidance-how-to-bear-sorrow/card-03.png",
+        "title": "SELFISHNESS OF EVERY KIND IN ITS"
+      },
+      {
+        "src": "img/meyer-guidance-how-to-bear-sorrow/card-04.png",
+        "title": "SAY IT REPEATEDLY WHENEVER THE SURGE"
+      },
+      {
+        "src": "img/meyer-guidance-how-to-bear-sorrow/card-05.png",
+        "title": "YOU WILL BECOME POSSESSED OF A"
+      },
+      {
+        "src": "img/meyer-guidance-how-to-bear-sorrow/card-06.png",
+        "title": "HE IS NOT AN ABSENTEE NEEDING"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-guidance-secret-of-his-presence",
+    "title": "IN THE SECRET OF HIS PRESENCE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/meyer-guidance-secret-of-his-presence/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-guidance-secret-of-his-presence/card-01.png",
+        "title": "ARE NOT THESE EXPERIENCES SO BLESSED"
+      },
+      {
+        "src": "img/meyer-guidance-secret-of-his-presence/card-02.png",
+        "title": "LET ME DWELL IN UNBROKEN CONTACT"
+      },
+      {
+        "src": "img/meyer-guidance-secret-of-his-presence/card-03.png",
+        "title": "REMEMBER THEN AT THE OUTSET THAT"
+      },
+      {
+        "src": "img/meyer-guidance-secret-of-his-presence/card-04.png",
+        "title": "IT IS BECAUSE THY LIFE IS"
+      },
+      {
+        "src": "img/meyer-guidance-secret-of-his-presence/card-05.png",
+        "title": "LET THERE BE NOT ONE JOT"
+      },
+      {
+        "src": "img/meyer-guidance-secret-of-his-presence/card-06.png",
+        "title": "TO HAVE HIM AS FRIEND AND"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-guidance-fulness-of-the-spirit",
+    "title": "THE FULNESS OF THE SPIRIT",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-guidance-fulness-of-the-spirit/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-guidance-fulness-of-the-spirit/card-01.png",
+        "title": "AMONGST THE READERS OF THESE LINES"
+      },
+      {
+        "src": "img/meyer-guidance-fulness-of-the-spirit/card-02.png",
+        "title": "YOU CANNOT EXPECT IT TO BE"
+      },
+      {
+        "src": "img/meyer-guidance-fulness-of-the-spirit/card-03.png",
+        "title": "IT WAS THE HOLY SPIRIT OF"
+      },
+      {
+        "src": "img/meyer-guidance-fulness-of-the-spirit/card-04.png",
+        "title": "WE MAY STILL FURTHER SECURE THE"
+      },
+      {
+        "src": "img/meyer-guidance-fulness-of-the-spirit/card-05.png",
+        "title": "WE MUST NOT BE CONTENT WITH"
+      },
+      {
+        "src": "img/meyer-guidance-fulness-of-the-spirit/card-06.png",
+        "title": "A LOOK A WORD A REFUSAL"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-holiest-01",
+    "title": "GOD HAS SPOKEN",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-holiest-01/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-holiest-01/card-01.png",
+        "title": "AS EACH MORNING BROKE THE BELIEVER"
+      },
+      {
+        "src": "img/meyer-holiest-01/card-02.png",
+        "title": "SOMETIMES SALVATION FROM ALL PHYSICAL AND"
+      },
+      {
+        "src": "img/meyer-holiest-01/card-03.png",
+        "title": "IN THE FIRST GREAT DIVISION OF"
+      },
+      {
+        "src": "img/meyer-holiest-01/card-04.png",
+        "title": "DISEASE AND DEATH AND DEVILS OWNED"
+      },
+      {
+        "src": "img/meyer-holiest-01/card-05.png",
+        "title": "SUFFERING IS ROUGH AND HARD TO"
+      },
+      {
+        "src": "img/meyer-holiest-01/card-06.png",
+        "title": "HOW SHALL THEY DIE WHO HAVE"
+      }
+    ]
   }
 ];
