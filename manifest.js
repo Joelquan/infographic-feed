@@ -14874,5 +14874,277 @@ window.MANIFEST = [
         "title": "THE RIGHT TO THE TREE OF LIFE"
       }
     ]
+  },
+  {
+    "slug": "smith-gods-side-and-mans-side",
+    "title": "GOD'S SIDE AND MAN'S SIDE",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/smith-gods-side-and-mans-side/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-gods-side-and-mans-side/card-01.png",
+        "title": "TWO SIDES OF ONE SUBJECT"
+      },
+      {
+        "src": "img/smith-gods-side-and-mans-side/card-02.png",
+        "title": "THE BELIEVER TRUSTS, THE LORD WORKS"
+      },
+      {
+        "src": "img/smith-gods-side-and-mans-side/card-03.png",
+        "title": "HE TRAINS THE SOUL HE SAVES"
+      },
+      {
+        "src": "img/smith-gods-side-and-mans-side/card-04.png",
+        "title": "THE CLAY'S PART AND THE POTTER'S"
+      },
+      {
+        "src": "img/smith-gods-side-and-mans-side/card-05.png",
+        "title": "SHE WOULD NOT ACCEPT THE TRAINING"
+      },
+      {
+        "src": "img/smith-gods-side-and-mans-side/card-06.png",
+        "title": "THE SAW AND THE CARPENTER"
+      }
+    ]
+  },
+  {
+    "slug": "smith-scripturalness-of-this-life",
+    "title": "THE SCRIPTURALNESS OF THIS LIFE",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/smith-scripturalness-of-this-life/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-scripturalness-of-this-life/card-01.png",
+        "title": "THE SECRET MUST BE TOLD"
+      },
+      {
+        "src": "img/smith-scripturalness-of-this-life/card-02.png",
+        "title": "SOULS SECRETLY STARVING"
+      },
+      {
+        "src": "img/smith-scripturalness-of-this-life/card-03.png",
+        "title": "HE SHALL SAVE HIS PEOPLE FROM THEIR SINS"
+      },
+      {
+        "src": "img/smith-scripturalness-of-this-life/card-04.png",
+        "title": "WILL GOD TOLERATE SIN IN THE CHRISTIAN?"
+      },
+      {
+        "src": "img/smith-scripturalness-of-this-life/card-05.png",
+        "title": "CHRIST MY REDEMPTION FROM CAPTIVITY"
+      },
+      {
+        "src": "img/smith-scripturalness-of-this-life/card-06.png",
+        "title": "THE ONLY THING THAT CAN HINDER"
+      }
+    ]
+  },
+  {
+    "slug": "smith-the-life-defined",
+    "title": "THE LIFE DEFINED",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/smith-the-life-defined/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-the-life-defined/card-01.png",
+        "title": "THE MAN WHO KEPT HIS BURDEN"
+      },
+      {
+        "src": "img/smith-the-life-defined/card-02.png",
+        "title": "CARRYING THIS LIFE ON OUR OWN SHOULDERS"
+      },
+      {
+        "src": "img/smith-the-life-defined/card-03.png",
+        "title": "SHE ABANDONED HER WHOLE SELF"
+      },
+      {
+        "src": "img/smith-the-life-defined/card-04.png",
+        "title": "RESTING AS ON A BED"
+      },
+      {
+        "src": "img/smith-the-life-defined/card-05.png",
+        "title": "HE PROVIDES NOTHING, YET ALL IS PROVIDED"
+      },
+      {
+        "src": "img/smith-the-life-defined/card-06.png",
+        "title": "LIE DOWN UPON HIS SWEET WILL"
+      }
+    ]
+  },
+  {
+    "slug": "smith-how-to-enter-in",
+    "title": "HOW TO ENTER IN",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/smith-how-to-enter-in/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-how-to-enter-in/card-01.png",
+        "title": "HOW THIS LIFE IS TO BE REACHED"
+      },
+      {
+        "src": "img/smith-how-to-enter-in/card-02.png",
+        "title": "THE HAPPIEST AND MOST RESTFUL OF LIVES"
+      },
+      {
+        "src": "img/smith-how-to-enter-in/card-03.png",
+        "title": "SWEETER THAN HEALTH OR FAME"
+      },
+      {
+        "src": "img/smith-how-to-enter-in/card-04.png",
+        "title": "TRUST HIM FOR SANCTIFICATION ALSO"
+      },
+      {
+        "src": "img/smith-how-to-enter-in/card-05.png",
+        "title": "COMMIT YOUR CASE TO HIM"
+      },
+      {
+        "src": "img/smith-how-to-enter-in/card-06.png",
+        "title": "THE KEEP OF THE CASTLE"
+      }
+    ]
+  },
+  {
+    "slug": "smith-difficulties-concerning-consecration",
+    "title": "DIFFICULTIES CONCERNING CONSECRATION",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/smith-difficulties-concerning-consecration/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-difficulties-concerning-consecration/card-01.png",
+        "title": "NOT IGNORANT OF HIS DEVICES"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-consecration/card-02.png",
+        "title": "WOULD YOUR FRIEND NOT DOUBT?"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-consecration/card-03.png",
+        "title": "A TRANSACTION WITH AN UNSEEN GOD"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-consecration/card-04.png",
+        "title": "HE HAS COMMANDED IT"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-consecration/card-05.png",
+        "title": "ASK HIM TO REVEAL HIDDEN REBELLION"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-consecration/card-06.png",
+        "title": "PAY NO ATTENTION TO YOUR FEELINGS"
+      }
+    ]
+  },
+  {
+    "slug": "smith-difficulties-concerning-faith",
+    "title": "DIFFICULTIES CONCERNING FAITH",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/smith-difficulties-concerning-faith/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-difficulties-concerning-faith/card-01.png",
+        "title": "OUT OF THE WILDERNESS, INTO THE LAND"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-faith/card-02.png",
+        "title": "WE TRUST OTHERS EVERY DAY"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-faith/card-03.png",
+        "title": "THE WITNESS OF MEN, THE WITNESS OF GOD"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-faith/card-04.png",
+        "title": "WORRY IS PROOF WE DO NOT TRUST"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-faith/card-05.png",
+        "title": "FAITH AS A GRAIN OF MUSTARD SEED"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-faith/card-06.png",
+        "title": "REFUSE THE OLD MASTER'S LIES"
+      }
+    ]
+  },
+  {
+    "slug": "smith-difficulties-concerning-the-will",
+    "title": "DIFFICULTIES CONCERNING THE WILL",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/smith-difficulties-concerning-the-will/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-difficulties-concerning-the-will/card-01.png",
+        "title": "STEPPED OUT OF HIMSELF INTO CHRIST"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-the-will/card-02.png",
+        "title": "THE WILL BEHIND THE EMOTIONS"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-the-will/card-03.png",
+        "title": "SHE LOVED IT IN EMOTION, HATED IT IN WILL"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-the-will/card-04.png",
+        "title": "WHAT YOUR WILL DECIDES IS THE REAL THING"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-the-will/card-05.png",
+        "title": "MY HEART WAS FULL OF EVIL"
+      },
+      {
+        "src": "img/smith-difficulties-concerning-the-will/card-06.png",
+        "title": "ALL USELESS WITHOUT THE SPIRIT"
+      }
+    ]
+  },
+  {
+    "slug": "smith-is-god-in-everything",
+    "title": "IS GOD IN EVERYTHING?",
+    "credit": "Hannah Whitall Smith",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/smith-is-god-in-everything/overview.png",
+    "cards": [
+      {
+        "src": "img/smith-is-god-in-everything/card-01.png",
+        "title": "NO IMAGINARY TROUBLE"
+      },
+      {
+        "src": "img/smith-is-god-in-everything/card-02.png",
+        "title": "SEE GOD IN EVERYTHING"
+      },
+      {
+        "src": "img/smith-is-god-in-everything/card-03.png",
+        "title": "HIS CARE IS INFINITELY SUPERIOR"
+      },
+      {
+        "src": "img/smith-is-god-in-everything/card-04.png",
+        "title": "ELISHA AND THE KING OF SYRIA"
+      },
+      {
+        "src": "img/smith-is-god-in-everything/card-05.png",
+        "title": "THE WHOLE BIBLE ASSERTS IT"
+      },
+      {
+        "src": "img/smith-is-god-in-everything/card-06.png",
+        "title": "ALWAYS JOY, ALWAYS TRANQUILLITY"
+      }
+    ]
   }
 ];
