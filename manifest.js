@@ -13688,5 +13688,175 @@ window.MANIFEST = [
         "title": "NOT DELUSION"
       }
     ]
+  },
+  {
+    "slug": "lawrence-trust-in-god",
+    "title": "TRUST IN GOD",
+    "credit": "Brother Lawrence",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/lawrence-trust-in-god/overview.png",
+    "cards": [
+      {
+        "src": "img/lawrence-trust-in-god/card-01.png",
+        "title": "HE WILL COME IN HIS OWN TIME"
+      },
+      {
+        "src": "img/lawrence-trust-in-god/card-02.png",
+        "title": "MOST NECESSARY FOR A SOLDIER"
+      },
+      {
+        "src": "img/lawrence-trust-in-god/card-03.png",
+        "title": "GOD IN THE DEPTH OF HIS SOUL"
+      },
+      {
+        "src": "img/lawrence-trust-in-god/card-04.png",
+        "title": "INFINITE TREASURE TO BESTOW"
+      },
+      {
+        "src": "img/lawrence-trust-in-god/card-05.png",
+        "title": "NOT TO ADVANCE IS TO GO BACK"
+      },
+      {
+        "src": "img/lawrence-trust-in-god/card-06.png",
+        "title": "RECALL OUR FIRST FERVOURS"
+      }
+    ]
+  },
+  {
+    "slug": "lawrence-heart-empty-of-all-else",
+    "title": "THE HEART EMPTY OF ALL ELSE",
+    "credit": "Brother Lawrence",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/lawrence-heart-empty-of-all-else/overview.png",
+    "cards": [
+      {
+        "src": "img/lawrence-heart-empty-of-all-else/card-01.png",
+        "title": "THE HEART EMPTY OF ALL OTHER THINGS"
+      },
+      {
+        "src": "img/lawrence-heart-empty-of-all-else/card-02.png",
+        "title": "A CONTINUAL CONVERSATION WITH GOD"
+      },
+      {
+        "src": "img/lawrence-heart-empty-of-all-else/card-03.png",
+        "title": "NEVER LOSE SIGHT OF HIM"
+      },
+      {
+        "src": "img/lawrence-heart-empty-of-all-else/card-04.png",
+        "title": "RETIRED WITH HIM IN MY SOUL"
+      },
+      {
+        "src": "img/lawrence-heart-empty-of-all-else/card-05.png",
+        "title": "DEPRIVE IT OF LITTLE PLEASURES"
+      },
+      {
+        "src": "img/lawrence-heart-empty-of-all-else/card-06.png",
+        "title": "PERSEVERE IN IT TO DEATH"
+      }
+    ]
+  },
+  {
+    "slug": "lawrence-wandering-thoughts",
+    "title": "WANDERING THOUGHTS IN PRAYER",
+    "credit": "Brother Lawrence",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/lawrence-wandering-thoughts/overview.png",
+    "cards": [
+      {
+        "src": "img/lawrence-wandering-thoughts/card-01.png",
+        "title": "HE REQUIRES NO GREAT MATTERS OF US"
+      },
+      {
+        "src": "img/lawrence-wandering-thoughts/card-02.png",
+        "title": "AN ORATORY OF OUR HEART"
+      },
+      {
+        "src": "img/lawrence-wandering-thoughts/card-03.png",
+        "title": "WORSHIP HIM IN THE MIDST OF BUSINESS"
+      },
+      {
+        "src": "img/lawrence-wandering-thoughts/card-04.png",
+        "title": "TROUBLED WITH WANDERING THOUGHTS"
+      },
+      {
+        "src": "img/lawrence-wandering-thoughts/card-05.png",
+        "title": "LIKE A DUMB BEGGAR AT A RICH MAN'S GATE"
+      },
+      {
+        "src": "img/lawrence-wandering-thoughts/card-06.png",
+        "title": "KEEP IT STRICTLY IN HIS PRESENCE"
+      }
+    ]
+  },
+  {
+    "slug": "lawrence-suffering-with-god",
+    "title": "SUFFERING WITH GOD",
+    "credit": "Brother Lawrence",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/lawrence-suffering-with-god/overview.png",
+    "cards": [
+      {
+        "src": "img/lawrence-suffering-with-god/card-01.png",
+        "title": "RENOUNCE GENEROUSLY"
+      },
+      {
+        "src": "img/lawrence-suffering-with-god/card-02.png",
+        "title": "THE CONTINUAL HELP OF GOD"
+      },
+      {
+        "src": "img/lawrence-suffering-with-god/card-03.png",
+        "title": "THINK OFTEN ON GOD"
+      },
+      {
+        "src": "img/lawrence-suffering-with-god/card-04.png",
+        "title": "STRENGTH AND PATIENCE TO BEAR THEM"
+      },
+      {
+        "src": "img/lawrence-suffering-with-god/card-05.png",
+        "title": "THE SOVEREIGN PHYSICIAN"
+      },
+      {
+        "src": "img/lawrence-suffering-with-god/card-06.png",
+        "title": "I BELIEVE NO MORE BUT I SEE"
+      }
+    ]
+  },
+  {
+    "slug": "lawrence-entire-confidence",
+    "title": "ENTIRE CONFIDENCE IN GOD",
+    "credit": "Brother Lawrence",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/lawrence-entire-confidence/overview.png",
+    "cards": [
+      {
+        "src": "img/lawrence-entire-confidence/card-01.png",
+        "title": "OFFER HIM YOUR PAINS INCESSANTLY"
+      },
+      {
+        "src": "img/lawrence-entire-confidence/card-02.png",
+        "title": "PROOFS OF GOD'S LOVE TOWARDS YOU"
+      },
+      {
+        "src": "img/lawrence-entire-confidence/card-03.png",
+        "title": "LOVE SWEETENS PAINS"
+      },
+      {
+        "src": "img/lawrence-entire-confidence/card-04.png",
+        "title": "WE CAN DO ALL THINGS WITH HIS GRACE"
+      },
+      {
+        "src": "img/lawrence-entire-confidence/card-05.png",
+        "title": "LET ALL OUR EMPLOYMENT BE TO KNOW GOD"
+      },
+      {
+        "src": "img/lawrence-entire-confidence/card-06.png",
+        "title": "BEGIN TO BE DEVOTED TO HIM"
+      }
+    ]
   }
 ];
