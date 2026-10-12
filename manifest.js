@@ -14538,5 +14538,341 @@ window.MANIFEST = [
         "title": "THE VERB CREATE"
       }
     ]
+  },
+  {
+    "slug": "mcdonough-tripartite-being",
+    "title": "MAN'S TRIPARTITE BEING",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/mcdonough-tripartite-being/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-tripartite-being/card-01.png",
+        "title": "THE TERMS INNER MAN AND OUTER"
+      },
+      {
+        "src": "img/mcdonough-tripartite-being/card-02.png",
+        "title": "TO SEE WHAT HE WOULD CALL THEM"
+      },
+      {
+        "src": "img/mcdonough-tripartite-being/card-03.png",
+        "title": "WE PLAINLY SEE THAT AS YET"
+      },
+      {
+        "src": "img/mcdonough-tripartite-being/card-04.png",
+        "title": "IS THERE ANY OTHER PLANE OF"
+      },
+      {
+        "src": "img/mcdonough-tripartite-being/card-05.png",
+        "title": "EVIDENTLY THE ATTENTION OF EVE IS"
+      },
+      {
+        "src": "img/mcdonough-tripartite-being/card-06.png",
+        "title": "SATAN'S OBJECT IS GAINED"
+      }
+    ]
+  },
+  {
+    "slug": "mcdonough-death-and-heredity",
+    "title": "WHAT GOD MEANS BY DEATH",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/mcdonough-death-and-heredity/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-death-and-heredity/card-01.png",
+        "title": "THE SCIENTIFIC DEFINITION OF DEATH HELPS"
+      },
+      {
+        "src": "img/mcdonough-death-and-heredity/card-02.png",
+        "title": "THE SCIENTIFIC MAN CANNOT TELL US"
+      },
+      {
+        "src": "img/mcdonough-death-and-heredity/card-03.png",
+        "title": "WE WILL NOW APPLY THIS LAW"
+      },
+      {
+        "src": "img/mcdonough-death-and-heredity/card-04.png",
+        "title": "MAN CANNOT ATTAIN TO THE LIFE"
+      },
+      {
+        "src": "img/mcdonough-death-and-heredity/card-05.png",
+        "title": "WHAT THIS CHANGE WOULD INVOLVE"
+      },
+      {
+        "src": "img/mcdonough-death-and-heredity/card-06.png",
+        "title": "NOT ALL OF GOD COULD BE COVERED"
+      }
+    ]
+  },
+  {
+    "slug": "mcdonough-the-god-man",
+    "title": "A UNIQUE PERSONALITY, THE GOD-MAN",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/mcdonough-the-god-man/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-the-god-man/card-01.png",
+        "title": "A UNIQUE, STRONG PERSONALITY"
+      },
+      {
+        "src": "img/mcdonough-the-god-man/card-02.png",
+        "title": "WE SEE ALSO THAT THE CRUSHING"
+      },
+      {
+        "src": "img/mcdonough-the-god-man/card-03.png",
+        "title": "UNTO US A CHILD IS BORN"
+      },
+      {
+        "src": "img/mcdonough-the-god-man/card-04.png",
+        "title": "THE SAME MASTERFUL MIND"
+      },
+      {
+        "src": "img/mcdonough-the-god-man/card-05.png",
+        "title": "GOD CREATED MAN TO RULE"
+      },
+      {
+        "src": "img/mcdonough-the-god-man/card-06.png",
+        "title": "HE DISCHARGED THAT RESPONSIBILITY BY PROVIDING"
+      }
+    ]
+  },
+  {
+    "slug": "mcdonough-lamb-foreshadowed",
+    "title": "THE LAMB OF GOD FORESHADOWED",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/mcdonough-lamb-foreshadowed/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-lamb-foreshadowed/card-01.png",
+        "title": "A CROSS IN HEAVEN"
+      },
+      {
+        "src": "img/mcdonough-lamb-foreshadowed/card-02.png",
+        "title": "IS IT NOT ALTOGETHER PROBABLE THAT"
+      },
+      {
+        "src": "img/mcdonough-lamb-foreshadowed/card-03.png",
+        "title": "THE WAY KEPT OPEN"
+      },
+      {
+        "src": "img/mcdonough-lamb-foreshadowed/card-04.png",
+        "title": "THE MAJOR PORTION OF THE OLD"
+      },
+      {
+        "src": "img/mcdonough-lamb-foreshadowed/card-05.png",
+        "title": "THE MODE OF THIS JUDGMENT DEATH"
+      },
+      {
+        "src": "img/mcdonough-lamb-foreshadowed/card-06.png",
+        "title": "INTIMATIONS OF THE CROSS"
+      }
+    ]
+  },
+  {
+    "slug": "mcdonough-crucifixion-and-burial",
+    "title": "THE CRUCIFIXION AND THE BURIAL",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/mcdonough-crucifixion-and-burial/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-crucifixion-and-burial/card-01.png",
+        "title": "CAN WE UNDERSTAND THIS SUFFERING"
+      },
+      {
+        "src": "img/mcdonough-crucifixion-and-burial/card-02.png",
+        "title": "HE WHOSE CONSTANT EXPRESSION OF LOVE"
+      },
+      {
+        "src": "img/mcdonough-crucifixion-and-burial/card-03.png",
+        "title": "RUPTURE OF THE HEART"
+      },
+      {
+        "src": "img/mcdonough-crucifixion-and-burial/card-04.png",
+        "title": "HE CALMLY MET THE MOB THAT"
+      },
+      {
+        "src": "img/mcdonough-crucifixion-and-burial/card-05.png",
+        "title": "THE FACE OF THE WRONGDOER WORE"
+      },
+      {
+        "src": "img/mcdonough-crucifixion-and-burial/card-06.png",
+        "title": "WE ARE NOW ABLE TO PERCEIVE"
+      }
+    ]
+  },
+  {
+    "slug": "mcdonough-resurrection-and-ascension",
+    "title": "CHRIST'S RESURRECTION AND ASCENSION",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/mcdonough-resurrection-and-ascension/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-resurrection-and-ascension/card-01.png",
+        "title": "IN THE RESURRECTED CHRIST WE BEHOLD"
+      },
+      {
+        "src": "img/mcdonough-resurrection-and-ascension/card-02.png",
+        "title": "THE DISCIPLES GAZE UPON THEIR GLORIFIED"
+      },
+      {
+        "src": "img/mcdonough-resurrection-and-ascension/card-03.png",
+        "title": "IT BELONGS TO GOD"
+      },
+      {
+        "src": "img/mcdonough-resurrection-and-ascension/card-04.png",
+        "title": "CALL ATTENTION TO THE FACT THAT"
+      },
+      {
+        "src": "img/mcdonough-resurrection-and-ascension/card-05.png",
+        "title": "GOD HAS CORROBORATED THE STATEMENT OF"
+      }
+    ]
+  },
+  {
+    "slug": "mcdonough-appropriation",
+    "title": "REDEMPTION APPROPRIATED",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/mcdonough-appropriation/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-appropriation/card-01.png",
+        "title": "THE OUTSTRETCHED HAND"
+      },
+      {
+        "src": "img/mcdonough-appropriation/card-02.png",
+        "title": "POSITIONALLY EVERY REDEEMED HUMAN BEING AROSE"
+      },
+      {
+        "src": "img/mcdonough-appropriation/card-03.png",
+        "title": "WE ARE NOW ABLE TO PERCEIVE"
+      },
+      {
+        "src": "img/mcdonough-appropriation/card-04.png",
+        "title": "THE ACTIVITIES OF THE HOLY SPIRIT"
+      },
+      {
+        "src": "img/mcdonough-appropriation/card-05.png",
+        "title": "FAITH IS SO QUICKENED THAT THE"
+      },
+      {
+        "src": "img/mcdonough-appropriation/card-06.png",
+        "title": "GOD RECKONS ON THE LIFE WITHIN"
+      }
+    ]
+  },
+  {
+    "slug": "mcdonough-regeneration-and-justification",
+    "title": "REGENERATION AND JUSTIFICATION",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/mcdonough-regeneration-and-justification/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-regeneration-and-justification/card-01.png",
+        "title": "REGENERATION IS A BIRTH RELATIONSHIP WITH"
+      },
+      {
+        "src": "img/mcdonough-regeneration-and-justification/card-02.png",
+        "title": "IT IS THE RESULT OF OUR"
+      },
+      {
+        "src": "img/mcdonough-regeneration-and-justification/card-03.png",
+        "title": "CHRIST IS THERE PRESENTED THROUGHOUT AS"
+      },
+      {
+        "src": "img/mcdonough-regeneration-and-justification/card-04.png",
+        "title": "THE ORIGINAL GERM OF THE OAK"
+      },
+      {
+        "src": "img/mcdonough-regeneration-and-justification/card-05.png",
+        "title": "IN CONSIDERING THE CONDITIONS FOR GROWTH"
+      },
+      {
+        "src": "img/mcdonough-regeneration-and-justification/card-06.png",
+        "title": "COMPLETE DEDICATION"
+      }
+    ]
+  },
+  {
+    "slug": "mcdonough-sanctification-and-transformation",
+    "title": "SANCTIFICATION AND TRANSFORMATION",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/mcdonough-sanctification-and-transformation/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-sanctification-and-transformation/card-01.png",
+        "title": "THIS DEDICATION MARKS A SECOND DEFINITE"
+      },
+      {
+        "src": "img/mcdonough-sanctification-and-transformation/card-02.png",
+        "title": "WHEN WE DEFINITELY YIELD TO THE"
+      },
+      {
+        "src": "img/mcdonough-sanctification-and-transformation/card-03.png",
+        "title": "BEARING THIS IN MIND WE SHOULD"
+      },
+      {
+        "src": "img/mcdonough-sanctification-and-transformation/card-04.png",
+        "title": "A MOMENT BY MOMENT FAITH"
+      },
+      {
+        "src": "img/mcdonough-sanctification-and-transformation/card-05.png",
+        "title": "THE FACT THAT EVIL SPIRITS OR"
+      },
+      {
+        "src": "img/mcdonough-sanctification-and-transformation/card-06.png",
+        "title": "SURELY GREAT DELIVERANCE WOULD BE REALIZED"
+      }
+    ]
+  },
+  {
+    "slug": "mcdonough-bride-and-consummation",
+    "title": "THE BRIDE AND THE CONSUMMATION",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/mcdonough-bride-and-consummation/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-bride-and-consummation/card-01.png",
+        "title": "SEVEN DISPENSATIONS"
+      },
+      {
+        "src": "img/mcdonough-bride-and-consummation/card-02.png",
+        "title": "IT WILL TAKE ALL THE SAINTS"
+      },
+      {
+        "src": "img/mcdonough-bride-and-consummation/card-03.png",
+        "title": "THE ORGANIC UNITY OF BELIEVERS"
+      },
+      {
+        "src": "img/mcdonough-bride-and-consummation/card-04.png",
+        "title": "THE STUDENT SHOULD NOT THINK OF"
+      },
+      {
+        "src": "img/mcdonough-bride-and-consummation/card-05.png",
+        "title": "HERE IS A CITY OF GOD"
+      },
+      {
+        "src": "img/mcdonough-bride-and-consummation/card-06.png",
+        "title": "THE RIGHT TO THE TREE OF LIFE"
+      }
+    ]
   }
 ];
