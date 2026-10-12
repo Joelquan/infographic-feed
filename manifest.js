@@ -4420,5 +4420,337 @@ window.MANIFEST = [
         "title": "ONLY UPON GOD"
       }
     ]
+  },
+  {
+    "slug": "allen-destiny-cause-effect-conduct",
+    "title": "CAUSE AND EFFECT IN HUMAN CONDUCT",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-destiny-cause-effect-conduct/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-destiny-cause-effect-conduct/card-01.png",
+        "title": "THE PRINCIPLE OF JUSTICE"
+      },
+      {
+        "src": "img/allen-destiny-cause-effect-conduct/card-02.png",
+        "title": "THE LAW OF CAUSATION"
+      },
+      {
+        "src": "img/allen-destiny-cause-effect-conduct/card-03.png",
+        "title": "HE CHOOSES THE CAUSES"
+      },
+      {
+        "src": "img/allen-destiny-cause-effect-conduct/card-04.png",
+        "title": "HIS POWER ENDS WITH THE ACT"
+      },
+      {
+        "src": "img/allen-destiny-cause-effect-conduct/card-05.png",
+        "title": "ONLY ONE WAY DONE RIGHT"
+      },
+      {
+        "src": "img/allen-destiny-cause-effect-conduct/card-06.png",
+        "title": "NO FALSIFYING OF RESULTS"
+      },
+      {
+        "src": "img/allen-destiny-cause-effect-conduct/card-07.png",
+        "title": "EACH FOLLOWS ITS OWN COURSE"
+      },
+      {
+        "src": "img/allen-destiny-cause-effect-conduct/card-08.png",
+        "title": "WHAT HE DOES, THAT HE IS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-destiny-cultivation-concentration",
+    "title": "CULTIVATION OF CONCENTRATION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-destiny-cultivation-concentration/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-destiny-cultivation-concentration/card-01.png",
+        "title": "FATHER OF THOROUGHNESS"
+      },
+      {
+        "src": "img/allen-destiny-cultivation-concentration/card-02.png",
+        "title": "A DYNAMIC FORCE"
+      },
+      {
+        "src": "img/allen-destiny-cultivation-concentration/card-03.png",
+        "title": "AN AID TO THE DOING"
+      },
+      {
+        "src": "img/allen-destiny-cultivation-concentration/card-04.png",
+        "title": "NOT APART FROM DUTY"
+      },
+      {
+        "src": "img/allen-destiny-cultivation-concentration/card-05.png",
+        "title": "MARSHALLED AND DIRECTED"
+      },
+      {
+        "src": "img/allen-destiny-cultivation-concentration/card-06.png",
+        "title": "GOVERNED BY PRACTICE"
+      },
+      {
+        "src": "img/allen-destiny-cultivation-concentration/card-07.png",
+        "title": "GO TO YOUR DAILY TASK"
+      },
+      {
+        "src": "img/allen-destiny-cultivation-concentration/card-08.png",
+        "title": "EACH STAGE HAS ITS POWER"
+      }
+    ]
+  },
+  {
+    "slug": "allen-destiny-deeds-character-destiny",
+    "title": "DEEDS, CHARACTER, AND DESTINY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-destiny-deeds-character-destiny/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-destiny-deeds-character-destiny/card-01.png",
+        "title": "TRUTH IS THE RECONCILER"
+      },
+      {
+        "src": "img/allen-destiny-deeds-character-destiny/card-02.png",
+        "title": "HE CHOOSES THE CAUSE"
+      },
+      {
+        "src": "img/allen-destiny-deeds-character-destiny/card-03.png",
+        "title": "MOULDER AND SHAPER OF HIS DESTINY"
+      },
+      {
+        "src": "img/allen-destiny-deeds-character-destiny/card-04.png",
+        "title": "ONLY HIS OWN CAN COME TO HIM"
+      },
+      {
+        "src": "img/allen-destiny-deeds-character-destiny/card-05.png",
+        "title": "HE MAKES HIS DEEDS FAULTLESS"
+      },
+      {
+        "src": "img/allen-destiny-deeds-character-destiny/card-06.png",
+        "title": "FIXED HABITS OF MIND"
+      },
+      {
+        "src": "img/allen-destiny-deeds-character-destiny/card-07.png",
+        "title": "LIFE IS A GREAT SCHOOL"
+      }
+    ]
+  },
+  {
+    "slug": "allen-destiny-mind-building-life",
+    "title": "MIND-BUILDING AND LIFE-BUILDING",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-destiny-mind-building-life/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-destiny-mind-building-life/card-01.png",
+        "title": "A MIND BUILT OF THOUGHTS"
+      },
+      {
+        "src": "img/allen-destiny-mind-building-life/card-02.png",
+        "title": "MILLIONS OF THOUGHTS"
+      },
+      {
+        "src": "img/allen-destiny-mind-building-life/card-03.png",
+        "title": "EVERY MAN IS A MIND-BUILDER"
+      },
+      {
+        "src": "img/allen-destiny-mind-building-life/card-04.png",
+        "title": "DURABLE BRICKS"
+      },
+      {
+        "src": "img/allen-destiny-mind-building-life/card-05.png",
+        "title": "THE FOUR LINES OF A SQUARE"
+      },
+      {
+        "src": "img/allen-destiny-mind-building-life/card-06.png",
+        "title": "IN HARMONY WITH THE LAWS"
+      },
+      {
+        "src": "img/allen-destiny-mind-building-life/card-07.png",
+        "title": "INTO EVERY DETAIL OF HIS LIFE"
+      },
+      {
+        "src": "img/allen-destiny-mind-building-life/card-08.png",
+        "title": "A SNOWFLAKE IS AS PERFECT AS A STAR"
+      }
+    ]
+  },
+  {
+    "slug": "allen-destiny-power-purpose",
+    "title": "THE POWER OF PURPOSE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-destiny-power-purpose/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-destiny-power-purpose/card-01.png",
+        "title": "DISPERSION IS WEAKNESS"
+      },
+      {
+        "src": "img/allen-destiny-power-purpose/card-02.png",
+        "title": "KEY-STONE IN THE TEMPLE"
+      },
+      {
+        "src": "img/allen-destiny-power-purpose/card-03.png",
+        "title": "THEY HOLD FAST"
+      },
+      {
+        "src": "img/allen-destiny-power-purpose/card-04.png",
+        "title": "MENTAL ROAD-MAKERS"
+      },
+      {
+        "src": "img/allen-destiny-power-purpose/card-05.png",
+        "title": "CIRCUMSTANCE SUCCUMBS"
+      },
+      {
+        "src": "img/allen-destiny-power-purpose/card-06.png",
+        "title": "DOES NOT YIELD A FRACTION"
+      },
+      {
+        "src": "img/allen-destiny-power-purpose/card-07.png",
+        "title": "FAILURES ARE STEPS"
+      },
+      {
+        "src": "img/allen-destiny-power-purpose/card-08.png",
+        "title": "PURPOSE GOES WITH INTELLIGENCE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-destiny-practice-meditation",
+    "title": "PRACTICE OF MEDITATION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-destiny-practice-meditation/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-destiny-practice-meditation/card-01.png",
+        "title": "ASPIRATION AND CONCENTRATION"
+      },
+      {
+        "src": "img/allen-destiny-practice-meditation/card-02.png",
+        "title": "WITHOUT ASPIRATION, NO MEDITATION"
+      },
+      {
+        "src": "img/allen-destiny-practice-meditation/card-03.png",
+        "title": "POWER AND WISDOM"
+      },
+      {
+        "src": "img/allen-destiny-practice-meditation/card-04.png",
+        "title": "THE HEAVENLY HEIGHTS OF TRUTH"
+      },
+      {
+        "src": "img/allen-destiny-practice-meditation/card-05.png",
+        "title": "SPIRITUAL CONCENTRATION"
+      },
+      {
+        "src": "img/allen-destiny-practice-meditation/card-06.png",
+        "title": "PURIFICATION IS INSEPARABLE"
+      },
+      {
+        "src": "img/allen-destiny-practice-meditation/card-07.png",
+        "title": "REVERIE AND MEDITATION"
+      },
+      {
+        "src": "img/allen-destiny-practice-meditation/card-08.png",
+        "title": "THE SWEET FRUITS OF HOLY MEDITATION"
+      }
+    ]
+  },
+  {
+    "slug": "allen-destiny-science-self-control",
+    "title": "THE SCIENCE OF SELF-CONTROL",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-destiny-science-self-control/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-destiny-science-self-control/card-01.png",
+        "title": "GREATER THAN ALL SCIENCES"
+      },
+      {
+        "src": "img/allen-destiny-science-self-control/card-02.png",
+        "title": "THE DIVINE SCIENTIST"
+      },
+      {
+        "src": "img/allen-destiny-science-self-control/card-03.png",
+        "title": "INTROSPECTION"
+      },
+      {
+        "src": "img/allen-destiny-science-self-control/card-04.png",
+        "title": "SELF-ANALYSIS"
+      },
+      {
+        "src": "img/allen-destiny-science-self-control/card-05.png",
+        "title": "HE SEES HIMSELF AS HE IS"
+      },
+      {
+        "src": "img/allen-destiny-science-self-control/card-06.png",
+        "title": "ADJUSTMENT"
+      },
+      {
+        "src": "img/allen-destiny-science-self-control/card-07.png",
+        "title": "RIGHTEOUSNESS"
+      },
+      {
+        "src": "img/allen-destiny-science-self-control/card-08.png",
+        "title": "PURE KNOWLEDGE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-destiny-training-will",
+    "title": "TRAINING OF THE WILL",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-destiny-training-will/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-destiny-training-will/card-01.png",
+        "title": "STRENGTH OF MIND"
+      },
+      {
+        "src": "img/allen-destiny-training-will/card-02.png",
+        "title": "FIXEDNESS OF PURPOSE"
+      },
+      {
+        "src": "img/allen-destiny-training-will/card-03.png",
+        "title": "CONQUER HIS WEAKNESSES"
+      },
+      {
+        "src": "img/allen-destiny-training-will/card-04.png",
+        "title": "BREAK OFF BAD HABITS"
+      },
+      {
+        "src": "img/allen-destiny-training-will/card-05.png",
+        "title": "THE WHOLE ATTENTION"
+      },
+      {
+        "src": "img/allen-destiny-training-will/card-06.png",
+        "title": "DO VIGOROUSLY, AND AT ONCE"
+      },
+      {
+        "src": "img/allen-destiny-training-will/card-07.png",
+        "title": "LIVE ACCORDING TO PRINCIPLE"
+      },
+      {
+        "src": "img/allen-destiny-training-will/card-08.png",
+        "title": "THE SUPREME CROWN OF MANHOOD"
+      }
+    ]
   }
 ];
