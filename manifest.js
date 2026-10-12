@@ -4752,5 +4752,1793 @@ window.MANIFEST = [
         "title": "THE SUPREME CROWN OF MANHOOD"
       }
     ]
+  },
+  {
+    "slug": "murray-prayer-only-teacher",
+    "title": "THE ONLY TEACHER",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-only-teacher/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-only-teacher/card-01.png",
+        "title": "ENROL IN HIS SCHOOL"
+      },
+      {
+        "src": "img/murray-prayer-only-teacher/card-02.png",
+        "title": "NONE CAN TEACH LIKE HIM"
+      },
+      {
+        "src": "img/murray-prayer-only-teacher/card-03.png",
+        "title": "WE KNOW NOT HOW TO PRAY"
+      },
+      {
+        "src": "img/murray-prayer-only-teacher/card-04.png",
+        "title": "WHAT PRAYER MUST BE"
+      },
+      {
+        "src": "img/murray-prayer-only-teacher/card-05.png",
+        "title": "THE UNDERTONE OF TEACHABLENESS"
+      },
+      {
+        "src": "img/murray-prayer-only-teacher/card-06.png",
+        "title": "NOTHING DELIGHTS HIM MORE"
+      },
+      {
+        "src": "img/murray-prayer-only-teacher/card-07.png",
+        "title": "HE TEACHES BY HIS SPIRIT"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-true-worshippers",
+    "title": "TRUE WORSHIPPERS, ALONE WITH GOD",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-true-worshippers/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-true-worshippers/card-01.png",
+        "title": "SUCH AS GOD IS, MUST HIS WORSHIP BE"
+      },
+      {
+        "src": "img/murray-prayer-true-worshippers/card-02.png",
+        "title": "WORSHIP NOT BOUND BY PLACE"
+      },
+      {
+        "src": "img/murray-prayer-true-worshippers/card-03.png",
+        "title": "WORSHIP IN SPIRIT IS WORSHIP IN TRUTH"
+      },
+      {
+        "src": "img/murray-prayer-true-worshippers/card-04.png",
+        "title": "CONFESSION AND TEACHABLENESS"
+      },
+      {
+        "src": "img/murray-prayer-true-worshippers/card-05.png",
+        "title": "A SECRET PLACE FOR PRAYER"
+      },
+      {
+        "src": "img/murray-prayer-true-worshippers/card-06.png",
+        "title": "THE INNER CHAMBER"
+      },
+      {
+        "src": "img/murray-prayer-true-worshippers/card-07.png",
+        "title": "SECRET PRAYER CANNOT BE FRUITLESS"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-lords-prayer",
+    "title": "THE MODEL PRAYER",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-lords-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-lords-prayer/card-01.png",
+        "title": "THE MODEL FOR ALL PRAYER"
+      },
+      {
+        "src": "img/murray-prayer-lords-prayer/card-02.png",
+        "title": "OUR FATHER WHICH ART IN HEAVEN"
+      },
+      {
+        "src": "img/murray-prayer-lords-prayer/card-03.png",
+        "title": "THY NAME, THY KINGDOM, THY WILL"
+      },
+      {
+        "src": "img/murray-prayer-lords-prayer/card-04.png",
+        "title": "THY KINGDOM COME"
+      },
+      {
+        "src": "img/murray-prayer-lords-prayer/card-05.png",
+        "title": "FULL LIBERTY FOR DAILY BREAD"
+      },
+      {
+        "src": "img/murray-prayer-lords-prayer/card-06.png",
+        "title": "FORGIVENESS, A SPIRITUAL REALITY"
+      },
+      {
+        "src": "img/murray-prayer-lords-prayer/card-07.png",
+        "title": "THE THINE AND THE OUR ARE ONE"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-certainty-of-answer",
+    "title": "EVERY ONE THAT ASKETH RECEIVETH",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-certainty-of-answer/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-certainty-of-answer/card-01.png",
+        "title": "ASKING CANNOT BE IN VAIN"
+      },
+      {
+        "src": "img/murray-prayer-certainty-of-answer/card-02.png",
+        "title": "PRAYER DOES AVAIL MUCH"
+      },
+      {
+        "src": "img/murray-prayer-certainty-of-answer/card-03.png",
+        "title": "SEEK TO PRAY ARIGHT"
+      },
+      {
+        "src": "img/murray-prayer-certainty-of-answer/card-04.png",
+        "title": "DAILY INTERCOURSE WITH HIS CHILDREN"
+      },
+      {
+        "src": "img/murray-prayer-certainty-of-answer/card-05.png",
+        "title": "HOW MUCH MORE"
+      },
+      {
+        "src": "img/murray-prayer-certainty-of-answer/card-06.png",
+        "title": "LIVE AS A CHILD, PRAY AS A CHILD"
+      },
+      {
+        "src": "img/murray-prayer-certainty-of-answer/card-07.png",
+        "title": "THE DIVINE ARITHMETIC"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-holy-spirit-gift",
+    "title": "HOW MUCH MORE THE HOLY SPIRIT",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-holy-spirit-gift/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-holy-spirit-gift/card-01.png",
+        "title": "THE CHIEF AND BEST GIFT"
+      },
+      {
+        "src": "img/murray-prayer-holy-spirit-gift/card-02.png",
+        "title": "EDUCATED FOR THE HEAVENLY LIFE"
+      },
+      {
+        "src": "img/murray-prayer-holy-spirit-gift/card-03.png",
+        "title": "THE SPIRIT OF THE FATHER AND THE SON"
+      },
+      {
+        "src": "img/murray-prayer-holy-spirit-gift/card-04.png",
+        "title": "STREAM INTO US AND OUT FROM US"
+      },
+      {
+        "src": "img/murray-prayer-holy-spirit-gift/card-05.png",
+        "title": "THE FATHER DELIGHTS TO GIVE"
+      },
+      {
+        "src": "img/murray-prayer-holy-spirit-gift/card-06.png",
+        "title": "THE FRIEND AT MIDNIGHT"
+      },
+      {
+        "src": "img/murray-prayer-holy-spirit-gift/card-07.png",
+        "title": "INTERCESSION, THE TRUE GLORY OF PRAYER"
+      },
+      {
+        "src": "img/murray-prayer-holy-spirit-gift/card-08.png",
+        "title": "IMPORTUNITY AVAILS"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-definite-prayer",
+    "title": "PRAYER MUST BE DEFINITE",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-definite-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-definite-prayer/card-01.png",
+        "title": "CRY FOR LABOURERS"
+      },
+      {
+        "src": "img/murray-prayer-definite-prayer/card-02.png",
+        "title": "THE SUPPLY DEPENDS ON PRAYER"
+      },
+      {
+        "src": "img/murray-prayer-definite-prayer/card-03.png",
+        "title": "THE HARVEST DEPENDS ON THEIR PRAYER"
+      },
+      {
+        "src": "img/murray-prayer-definite-prayer/card-04.png",
+        "title": "WHAT WILT THOU?"
+      },
+      {
+        "src": "img/murray-prayer-definite-prayer/card-05.png",
+        "title": "TAKE AIM WITH EVERY PETITION"
+      },
+      {
+        "src": "img/murray-prayer-definite-prayer/card-06.png",
+        "title": "THE POINTED STATEMENT"
+      },
+      {
+        "src": "img/murray-prayer-definite-prayer/card-07.png",
+        "title": "FAITH SAYS, I MUST HAVE IT"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-faith-that-takes",
+    "title": "THE FAITH THAT TAKES",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-faith-that-takes/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-faith-that-takes/card-01.png",
+        "title": "FIRST KNOW HIS WILL"
+      },
+      {
+        "src": "img/murray-prayer-faith-that-takes/card-02.png",
+        "title": "RECEIVING IS AN ACT OF FAITH"
+      },
+      {
+        "src": "img/murray-prayer-faith-that-takes/card-03.png",
+        "title": "I BELIEVE THAT I HAVE IT"
+      },
+      {
+        "src": "img/murray-prayer-faith-that-takes/card-04.png",
+        "title": "HAVE FAITH IN GOD"
+      },
+      {
+        "src": "img/murray-prayer-faith-that-takes/card-05.png",
+        "title": "FAITH IS SIMPLY SURRENDER"
+      },
+      {
+        "src": "img/murray-prayer-faith-that-takes/card-06.png",
+        "title": "LOOK TO GOD MORE THAN THE PROMISE"
+      },
+      {
+        "src": "img/murray-prayer-faith-that-takes/card-07.png",
+        "title": "FAITH DEPENDS ON THE SPIRITUAL LIFE"
+      },
+      {
+        "src": "img/murray-prayer-faith-that-takes/card-08.png",
+        "title": "FASTING DEEPENS THE RESOLUTION"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-forgive-and-agree",
+    "title": "PRAYER AND LOVE, UNITED PRAYER",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-forgive-and-agree/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-forgive-and-agree/card-01.png",
+        "title": "LOVE TO GOD AND NEIGHBOUR INSEPARABLE"
+      },
+      {
+        "src": "img/murray-prayer-forgive-and-agree/card-02.png",
+        "title": "GOD'S FORGIVENESS THE RULE OF OURS"
+      },
+      {
+        "src": "img/murray-prayer-forgive-and-agree/card-03.png",
+        "title": "HAVE FAITH IN GOD, HAVE LOVE TO MEN"
+      },
+      {
+        "src": "img/murray-prayer-forgive-and-agree/card-04.png",
+        "title": "THE POWER TO BELIEVE"
+      },
+      {
+        "src": "img/murray-prayer-forgive-and-agree/card-05.png",
+        "title": "HIDDEN ROOT, PUBLIC STEM"
+      },
+      {
+        "src": "img/murray-prayer-forgive-and-agree/card-06.png",
+        "title": "AGREEMENT ON SOME SPECIAL THING"
+      },
+      {
+        "src": "img/murray-prayer-forgive-and-agree/card-07.png",
+        "title": "HIS PRESENCE GIVES THE POWER"
+      },
+      {
+        "src": "img/murray-prayer-forgive-and-agree/card-08.png",
+        "title": "GOD RULES BY THE PRAYERS OF HIS SAINTS"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-persevering-prayer",
+    "title": "PERSEVERING PRAYER",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-persevering-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-persevering-prayer/card-01.png",
+        "title": "NOT DISCOURAGED BY DELAY"
+      },
+      {
+        "src": "img/murray-prayer-persevering-prayer/card-02.png",
+        "title": "A HEAPING UP OF PRAYER"
+      },
+      {
+        "src": "img/murray-prayer-persevering-prayer/card-03.png",
+        "title": "NOT ONE BELIEVING PRAYER CAN FAIL"
+      },
+      {
+        "src": "img/murray-prayer-persevering-prayer/card-04.png",
+        "title": "HE IS ANXIOUS TO GIVE"
+      },
+      {
+        "src": "img/murray-prayer-persevering-prayer/card-05.png",
+        "title": "RIPENED TO TAKE THE BLESSING"
+      },
+      {
+        "src": "img/murray-prayer-persevering-prayer/card-06.png",
+        "title": "FAITH WITH PATIENCE"
+      },
+      {
+        "src": "img/murray-prayer-persevering-prayer/card-07.png",
+        "title": "EACH PRAYER HASTENS THE END"
+      }
+    ]
+  },
+  {
+    "slug": "murray-prayer-harmony-with-god",
+    "title": "PRAYER IN HARMONY WITH GOD AND MAN",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-prayer-harmony-with-god/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-prayer-harmony-with-god/card-01.png",
+        "title": "ASK OF ME, AND I WILL GIVE THEE"
+      },
+      {
+        "src": "img/murray-prayer-harmony-with-god/card-02.png",
+        "title": "IN THE FELLOWSHIP OF FATHER AND SON"
+      },
+      {
+        "src": "img/murray-prayer-harmony-with-god/card-03.png",
+        "title": "THE PROOF OF MAN'S GODLIKENESS"
+      },
+      {
+        "src": "img/murray-prayer-harmony-with-god/card-04.png",
+        "title": "NOT MERELY THE CRY FOR MERCY"
+      },
+      {
+        "src": "img/murray-prayer-harmony-with-god/card-05.png",
+        "title": "TWO THINGS WERE NEEDED"
+      },
+      {
+        "src": "img/murray-prayer-harmony-with-god/card-06.png",
+        "title": "THE WAY TO SHARE IN HIS POWER"
+      },
+      {
+        "src": "img/murray-prayer-harmony-with-god/card-07.png",
+        "title": "THE SOUL AND LIFE OF OUR PRAYER"
+      },
+      {
+        "src": "img/murray-prayer-harmony-with-god/card-08.png",
+        "title": "ENTER INTO SYMPATHY WITH JESUS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-turmoil-man-of-integrity",
+    "title": "THE MAN OF INTEGRITY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-turmoil-man-of-integrity/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-turmoil-man-of-integrity/card-01.png",
+        "title": "TESTED TO THE UTTERMOST"
+      },
+      {
+        "src": "img/allen-turmoil-man-of-integrity/card-02.png",
+        "title": "THE FORM OF THE TRIAL"
+      },
+      {
+        "src": "img/allen-turmoil-man-of-integrity/card-03.png",
+        "title": "A HIGHER REALM OF LIFE"
+      },
+      {
+        "src": "img/allen-turmoil-man-of-integrity/card-04.png",
+        "title": "CANNOT ULTIMATELY FAIL"
+      },
+      {
+        "src": "img/allen-turmoil-man-of-integrity/card-05.png",
+        "title": "TAKEN REFUGE IN TRUTH"
+      },
+      {
+        "src": "img/allen-turmoil-man-of-integrity/card-06.png",
+        "title": "A SUFFICIENT ANSWER"
+      },
+      {
+        "src": "img/allen-turmoil-man-of-integrity/card-07.png",
+        "title": "REJOICE WHEN SEVERELY TRIED"
+      },
+      {
+        "src": "img/allen-turmoil-man-of-integrity/card-08.png",
+        "title": "HE IS INVINCIBLE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-turmoil-overcoming-self",
+    "title": "THE OVERCOMING OF SELF",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-turmoil-overcoming-self/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-turmoil-overcoming-self/card-01.png",
+        "title": "SIMPLICITY ITSELF"
+      },
+      {
+        "src": "img/allen-turmoil-overcoming-self/card-02.png",
+        "title": "WEEDING OUT AND DESTROYING"
+      },
+      {
+        "src": "img/allen-turmoil-overcoming-self/card-03.png",
+        "title": "THE MOMENT OF SELF-CONQUEST"
+      },
+      {
+        "src": "img/allen-turmoil-overcoming-self/card-04.png",
+        "title": "TEN WORTHLESS ELEMENTS"
+      },
+      {
+        "src": "img/allen-turmoil-overcoming-self/card-05.png",
+        "title": "TEN DIVINE QUALITIES"
+      },
+      {
+        "src": "img/allen-turmoil-overcoming-self/card-06.png",
+        "title": "NOT ANY NOBLE QUALITY"
+      },
+      {
+        "src": "img/allen-turmoil-overcoming-self/card-07.png",
+        "title": "THE FOUNDATION OF LIFE ETERNAL"
+      }
+    ]
+  },
+  {
+    "slug": "allen-turmoil-pleasant-pastures",
+    "title": "PLEASANT PASTURES OF PEACE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-turmoil-pleasant-pastures/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-turmoil-pleasant-pastures/card-01.png",
+        "title": "IN THE PLACE OF OTHERS"
+      },
+      {
+        "src": "img/allen-turmoil-pleasant-pastures/card-02.png",
+        "title": "PREJUDICE AND CRUELTY ARE INSEPARABLE"
+      },
+      {
+        "src": "img/allen-turmoil-pleasant-pastures/card-03.png",
+        "title": "PUT AWAY ALL PREJUDICE"
+      },
+      {
+        "src": "img/allen-turmoil-pleasant-pastures/card-04.png",
+        "title": "HOW FAR HE FALLS SHORT HIMSELF"
+      },
+      {
+        "src": "img/allen-turmoil-pleasant-pastures/card-05.png",
+        "title": "EVIL IS ONLY OVERCOME BY GOOD"
+      },
+      {
+        "src": "img/allen-turmoil-pleasant-pastures/card-06.png",
+        "title": "NONE TO REMEMBER"
+      },
+      {
+        "src": "img/allen-turmoil-pleasant-pastures/card-07.png",
+        "title": "A PURIFIED HEART"
+      },
+      {
+        "src": "img/allen-turmoil-pleasant-pastures/card-08.png",
+        "title": "HE WHO UNDERSTANDS DOES NOT SIN"
+      }
+    ]
+  },
+  {
+    "slug": "allen-turmoil-self-discipline",
+    "title": "SELF-DISCIPLINE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-turmoil-self-discipline/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-turmoil-self-discipline/card-01.png",
+        "title": "HE MERELY EXISTS"
+      },
+      {
+        "src": "img/allen-turmoil-self-discipline/card-02.png",
+        "title": "GOVERN THE FORCES WITHIN"
+      },
+      {
+        "src": "img/allen-turmoil-self-discipline/card-03.png",
+        "title": "HE BEGINS TO LIVE"
+      },
+      {
+        "src": "img/allen-turmoil-self-discipline/card-04.png",
+        "title": "THE THREE STAGES"
+      },
+      {
+        "src": "img/allen-turmoil-self-discipline/card-05.png",
+        "title": "HE MUST PURIFY THOSE PASSIONS"
+      },
+      {
+        "src": "img/allen-turmoil-self-discipline/card-06.png",
+        "title": "BORN OF SELF-PURIFICATION"
+      },
+      {
+        "src": "img/allen-turmoil-self-discipline/card-07.png",
+        "title": "HE WILL LIVE, HE WILL PERISH"
+      }
+    ]
+  },
+  {
+    "slug": "allen-turmoil-sowing-reaping",
+    "title": "SOWING AND REAPING",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-turmoil-sowing-reaping/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-turmoil-sowing-reaping/card-01.png",
+        "title": "A MORAL LESSON FOR THE WISE"
+      },
+      {
+        "src": "img/allen-turmoil-sowing-reaping/card-02.png",
+        "title": "SEEDS SOWN"
+      },
+      {
+        "src": "img/allen-turmoil-sowing-reaping/card-03.png",
+        "title": "A HARVEST OF WHEAT"
+      },
+      {
+        "src": "img/allen-turmoil-sowing-reaping/card-04.png",
+        "title": "WE GET BY GIVING"
+      },
+      {
+        "src": "img/allen-turmoil-sowing-reaping/card-05.png",
+        "title": "TO HOARD IS TO LOSE"
+      },
+      {
+        "src": "img/allen-turmoil-sowing-reaping/card-06.png",
+        "title": "NOT SOWING THEM"
+      },
+      {
+        "src": "img/allen-turmoil-sowing-reaping/card-07.png",
+        "title": "MEN REAP THAT WHICH THEY SOW"
+      }
+    ]
+  },
+  {
+    "slug": "allen-turmoil-thought-and-action",
+    "title": "THOUGHT AND ACTION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-turmoil-thought-and-action/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-turmoil-thought-and-action/card-01.png",
+        "title": "AS IS ACTION TO THOUGHT"
+      },
+      {
+        "src": "img/allen-turmoil-thought-and-action/card-02.png",
+        "title": "THE RIPENED EFFECTS"
+      },
+      {
+        "src": "img/allen-turmoil-thought-and-action/card-03.png",
+        "title": "IT GREW IN THE HEART"
+      },
+      {
+        "src": "img/allen-turmoil-thought-and-action/card-04.png",
+        "title": "THE NATURAL OUTCOME"
+      },
+      {
+        "src": "img/allen-turmoil-thought-and-action/card-05.png",
+        "title": "NOTHING HIDDEN"
+      },
+      {
+        "src": "img/allen-turmoil-thought-and-action/card-06.png",
+        "title": "BY PURIFYING HIS THOUGHTS"
+      },
+      {
+        "src": "img/allen-turmoil-thought-and-action/card-07.png",
+        "title": "GUARD WELL YOUR THOUGHTS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-turmoil-true-happiness",
+    "title": "TRUE HAPPINESS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-turmoil-true-happiness/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-turmoil-true-happiness/card-01.png",
+        "title": "THE AIM OF ALL"
+      },
+      {
+        "src": "img/allen-turmoil-true-happiness/card-02.png",
+        "title": "ADDING TO THE SUM"
+      },
+      {
+        "src": "img/allen-turmoil-true-happiness/card-03.png",
+        "title": "THE SELF-CONQUERED SOUL"
+      },
+      {
+        "src": "img/allen-turmoil-true-happiness/card-04.png",
+        "title": "UNBROKEN SWEETNESS"
+      },
+      {
+        "src": "img/allen-turmoil-true-happiness/card-05.png",
+        "title": "NEVER AGAINST HIM"
+      },
+      {
+        "src": "img/allen-turmoil-true-happiness/card-06.png",
+        "title": "THE RIGHTFUL CONDITION OF THE SOUL"
+      },
+      {
+        "src": "img/allen-turmoil-true-happiness/card-07.png",
+        "title": "THOUGHT-CANKERS, MIND-DISEASES"
+      },
+      {
+        "src": "img/allen-turmoil-true-happiness/card-08.png",
+        "title": "TRANSFORM YOURSELF"
+      }
+    ]
+  },
+  {
+    "slug": "allen-turmoil-uses-temptation",
+    "title": "THE USES OF TEMPTATION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-turmoil-uses-temptation/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-turmoil-uses-temptation/card-01.png",
+        "title": "THE DUAL STAGE"
+      },
+      {
+        "src": "img/allen-turmoil-uses-temptation/card-02.png",
+        "title": "A PASSING PHASE"
+      },
+      {
+        "src": "img/allen-turmoil-uses-temptation/card-03.png",
+        "title": "OVERCOME BY KNOWLEDGE"
+      },
+      {
+        "src": "img/allen-turmoil-uses-temptation/card-04.png",
+        "title": "THE HOLY WARFARE OF THE SAINTS"
+      },
+      {
+        "src": "img/allen-turmoil-uses-temptation/card-05.png",
+        "title": "TWO DELUSIONS"
+      },
+      {
+        "src": "img/allen-turmoil-uses-temptation/card-06.png",
+        "title": "THE INWARD DESIRE"
+      },
+      {
+        "src": "img/allen-turmoil-uses-temptation/card-07.png",
+        "title": "GOODNESS DESTROYS TEMPTATION"
+      },
+      {
+        "src": "img/allen-turmoil-uses-temptation/card-08.png",
+        "title": "JUST WHERE HE IS SINFUL"
+      }
+    ]
+  },
+  {
+    "slug": "allen-byways-abiding-joy",
+    "title": "ABIDING JOY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-byways-abiding-joy/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-byways-abiding-joy/card-01.png",
+        "title": "SORROW IS FLEETING, JOY ABIDES"
+      },
+      {
+        "src": "img/allen-byways-abiding-joy/card-02.png",
+        "title": "NOT THE IMPOTENT SLAVE OF SORROW"
+      },
+      {
+        "src": "img/allen-byways-abiding-joy/card-03.png",
+        "title": "JOY COMES AND FILLS THE HEART"
+      },
+      {
+        "src": "img/allen-byways-abiding-joy/card-04.png",
+        "title": "HAPPY AS HE IS UNSELFISH"
+      },
+      {
+        "src": "img/allen-byways-abiding-joy/card-05.png",
+        "title": "THE PERFECT FLOWER OF A PURE LIFE"
+      },
+      {
+        "src": "img/allen-byways-abiding-joy/card-06.png",
+        "title": "THEN ABIDING JOY IS REALISED"
+      },
+      {
+        "src": "img/allen-byways-abiding-joy/card-07.png",
+        "title": "FORGETTING YOUR OWN SELFISH DESIRES"
+      },
+      {
+        "src": "img/allen-byways-abiding-joy/card-08.png",
+        "title": "INSIDE THE GATEWAY OF UNSELFISHNESS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-byways-burden-dropping",
+    "title": "BURDEN-DROPPING",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-byways-burden-dropping/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-byways-burden-dropping/card-01.png",
+        "title": "THE BETTER WAY OF BURDEN-DROPPING"
+      },
+      {
+        "src": "img/allen-byways-burden-dropping/card-02.png",
+        "title": "DO IT CHEERFULLY"
+      },
+      {
+        "src": "img/allen-byways-burden-dropping/card-03.png",
+        "title": "ALL THINGS ARE MIRRORS"
+      },
+      {
+        "src": "img/allen-byways-burden-dropping/card-04.png",
+        "title": "THE SELFISH WISH MAKES IT EVIL"
+      },
+      {
+        "src": "img/allen-byways-burden-dropping/card-05.png",
+        "title": "PUTTING PURE LOVE IN ITS PLACE"
+      },
+      {
+        "src": "img/allen-byways-burden-dropping/card-06.png",
+        "title": "WHERE YOU HAVE BOUND YOU CAN UNBIND"
+      },
+      {
+        "src": "img/allen-byways-burden-dropping/card-07.png",
+        "title": "NOTHING CAN WEARY LOVE"
+      },
+      {
+        "src": "img/allen-byways-burden-dropping/card-08.png",
+        "title": "LOOK TO HIMSELF"
+      }
+    ]
+  },
+  {
+    "slug": "allen-byways-forgiveness",
+    "title": "FORGIVENESS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-byways-forgiveness/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-byways-forgiveness/card-01.png",
+        "title": "REMEMBERING INJURIES IS DARKNESS"
+      },
+      {
+        "src": "img/allen-byways-forgiveness/card-02.png",
+        "title": "THE SWEETNESS OF FORGIVENESS"
+      },
+      {
+        "src": "img/allen-byways-forgiveness/card-03.png",
+        "title": "TO BE HARD-HEARTED IS TO SUFFER"
+      },
+      {
+        "src": "img/allen-byways-forgiveness/card-04.png",
+        "title": "A CRUEL AND EXACTING TASKMASTER"
+      },
+      {
+        "src": "img/allen-byways-forgiveness/card-05.png",
+        "title": "BLINDED AND DELUDED BY VANITY"
+      },
+      {
+        "src": "img/allen-byways-forgiveness/card-06.png",
+        "title": "THE BEGINNING OF LOVE"
+      },
+      {
+        "src": "img/allen-byways-forgiveness/card-07.png",
+        "title": "ONE OF THE DOORWAYS OF LOVE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-byways-hidden-sacrifices",
+    "title": "HIDDEN SACRIFICES",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-byways-hidden-sacrifices/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-byways-hidden-sacrifices/card-01.png",
+        "title": "WE GAIN BY GIVING UP"
+      },
+      {
+        "src": "img/allen-byways-hidden-sacrifices/card-02.png",
+        "title": "REACHED ONLY THROUGH SACRIFICE"
+      },
+      {
+        "src": "img/allen-byways-hidden-sacrifices/card-03.png",
+        "title": "ALL TRUE SACRIFICE IS WITHIN"
+      },
+      {
+        "src": "img/allen-byways-hidden-sacrifices/card-04.png",
+        "title": "OVERCOMING DAILY SELFISHNESS"
+      },
+      {
+        "src": "img/allen-byways-hidden-sacrifices/card-05.png",
+        "title": "A CALL FOR GREAT KINDNESS"
+      },
+      {
+        "src": "img/allen-byways-hidden-sacrifices/card-06.png",
+        "title": "UNTIL IMPATIENCE IS SACRIFICED"
+      },
+      {
+        "src": "img/allen-byways-hidden-sacrifices/card-07.png",
+        "title": "SACRIFICE YOUR CHERISHED INDULGENCE"
+      },
+      {
+        "src": "img/allen-byways-hidden-sacrifices/card-08.png",
+        "title": "UNSELFISHNESS IS A SPIRITUAL POSSESSION"
+      }
+    ]
+  },
+  {
+    "slug": "allen-byways-right-beginnings",
+    "title": "RIGHT BEGINNINGS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-byways-right-beginnings/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-byways-right-beginnings/card-01.png",
+        "title": "LIFE IS FULL OF BEGINNINGS"
+      },
+      {
+        "src": "img/allen-byways-right-beginnings/card-02.png",
+        "title": "EVERYTHING PROCEEDS FROM SMALL BEGINNINGS"
+      },
+      {
+        "src": "img/allen-byways-right-beginnings/card-03.png",
+        "title": "A BEGINNING IS A CAUSE"
+      },
+      {
+        "src": "img/allen-byways-right-beginnings/card-04.png",
+        "title": "BEGIN THE DAY BY RISING EARLY"
+      },
+      {
+        "src": "img/allen-byways-right-beginnings/card-05.png",
+        "title": "BEGIN TODAY ARIGHT"
+      },
+      {
+        "src": "img/allen-byways-right-beginnings/card-06.png",
+        "title": "A DEFINITE MENTAL PLAN"
+      },
+      {
+        "src": "img/allen-byways-right-beginnings/card-07.png",
+        "title": "A THOUGHT PUT INTO THE MIND"
+      },
+      {
+        "src": "img/allen-byways-right-beginnings/card-08.png",
+        "title": "WRONG THOUGHTS AND RIGHT THOUGHTS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-byways-seeing-no-evil",
+    "title": "SEEING NO EVIL",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-byways-seeing-no-evil/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-byways-seeing-no-evil/card-01.png",
+        "title": "A NEW VISION OPENS"
+      },
+      {
+        "src": "img/allen-byways-seeing-no-evil/card-02.png",
+        "title": "DWELL IN UNIVERSAL GOOD-WILL"
+      },
+      {
+        "src": "img/allen-byways-seeing-no-evil/card-03.png",
+        "title": "EVIL IS THE NEGATION OF GOOD"
+      },
+      {
+        "src": "img/allen-byways-seeing-no-evil/card-04.png",
+        "title": "A DEADLY STING LURKS THERE"
+      },
+      {
+        "src": "img/allen-byways-seeing-no-evil/card-05.png",
+        "title": "TENDER COMPASSION FOR THE WRONG-DOER"
+      },
+      {
+        "src": "img/allen-byways-seeing-no-evil/card-06.png",
+        "title": "SEES GOOD IN ALL, EVIL IN NONE"
+      },
+      {
+        "src": "img/allen-byways-seeing-no-evil/card-07.png",
+        "title": "HE CEASES FROM ALL BITTERNESS"
+      },
+      {
+        "src": "img/allen-byways-seeing-no-evil/card-08.png",
+        "title": "CEASE TO SEE MEN AS EVIL"
+      }
+    ]
+  },
+  {
+    "slug": "allen-byways-simple-laws-life",
+    "title": "UNDERSTANDING THE SIMPLE LAWS OF LIFE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-byways-simple-laws-life/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-byways-simple-laws-life/card-01.png",
+        "title": "REST IN PERPETUAL PEACE"
+      },
+      {
+        "src": "img/allen-byways-simple-laws-life/card-02.png",
+        "title": "DOUBT ENDS WHERE REALITY BEGINS"
+      },
+      {
+        "src": "img/allen-byways-simple-laws-life/card-03.png",
+        "title": "DESIRE AND ASPIRATION"
+      },
+      {
+        "src": "img/allen-byways-simple-laws-life/card-04.png",
+        "title": "THE HUNGER FOR PEACE"
+      },
+      {
+        "src": "img/allen-byways-simple-laws-life/card-05.png",
+        "title": "THE SAME LAW THROUGHOUT"
+      },
+      {
+        "src": "img/allen-byways-simple-laws-life/card-06.png",
+        "title": "WISE IN SPIRITUAL THINGS"
+      },
+      {
+        "src": "img/allen-byways-simple-laws-life/card-07.png",
+        "title": "RICH IN SPIRITUAL THINGS"
+      },
+      {
+        "src": "img/allen-byways-simple-laws-life/card-08.png",
+        "title": "THE HEART OF LAW IS LOVE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-byways-small-tasks-duties",
+    "title": "SMALL TASKS AND DUTIES",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-byways-small-tasks-duties/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-byways-small-tasks-duties/card-01.png",
+        "title": "DOING LITTLE THINGS PERFECTLY"
+      },
+      {
+        "src": "img/allen-byways-small-tasks-duties/card-02.png",
+        "title": "NEGLECT OF THE SMALL"
+      },
+      {
+        "src": "img/allen-byways-small-tasks-duties/card-03.png",
+        "title": "ATTENTION TO SMALL DUTIES"
+      },
+      {
+        "src": "img/allen-byways-small-tasks-duties/card-04.png",
+        "title": "ENTIRE ATTENTION TO EVERY DUTY"
+      },
+      {
+        "src": "img/allen-byways-small-tasks-duties/card-05.png",
+        "title": "GROW LITTLE BY LITTLE"
+      },
+      {
+        "src": "img/allen-byways-small-tasks-duties/card-06.png",
+        "title": "HE WHO MASTERS THE SMALL"
+      },
+      {
+        "src": "img/allen-byways-small-tasks-duties/card-07.png",
+        "title": "LITTLE RENUNCIATIONS MAKE CHARACTER"
+      },
+      {
+        "src": "img/allen-byways-small-tasks-duties/card-08.png",
+        "title": "THE VALUE OF THE SMALL THINGS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-byways-standing-alone",
+    "title": "STANDING ALONE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-byways-standing-alone/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-byways-standing-alone/card-01.png",
+        "title": "SELF-RELIANCE IN BLESSEDNESS"
+      },
+      {
+        "src": "img/allen-byways-standing-alone/card-02.png",
+        "title": "AN IMMOVABLE CENTER WITHIN"
+      },
+      {
+        "src": "img/allen-byways-standing-alone/card-03.png",
+        "title": "LEARN TO STAND ALONE"
+      },
+      {
+        "src": "img/allen-byways-standing-alone/card-04.png",
+        "title": "AN INEXHAUSTIBLE SOURCE WITHIN"
+      },
+      {
+        "src": "img/allen-byways-standing-alone/card-05.png",
+        "title": "YOUR DWELLING-PLACE IS WITHIN"
+      },
+      {
+        "src": "img/allen-byways-standing-alone/card-06.png",
+        "title": "A LIGHT WITHIN YOUR SOUL"
+      },
+      {
+        "src": "img/allen-byways-standing-alone/card-07.png",
+        "title": "DO NOT MISTAKE PRIDE"
+      },
+      {
+        "src": "img/allen-byways-standing-alone/card-08.png",
+        "title": "HE STANDS ON AN ABIDING LAW"
+      }
+    ]
+  },
+  {
+    "slug": "allen-byways-sympathy",
+    "title": "SYMPATHY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/allen-byways-sympathy/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-byways-sympathy/card-01.png",
+        "title": "THOUGHTFULNESS FOR OTHERS"
+      },
+      {
+        "src": "img/allen-byways-sympathy/card-02.png",
+        "title": "BARRIERS TO SYMPATHY"
+      },
+      {
+        "src": "img/allen-byways-sympathy/card-03.png",
+        "title": "LEAVE YOURSELF ENTIRELY OUT"
+      },
+      {
+        "src": "img/allen-byways-sympathy/card-04.png",
+        "title": "THE SAINT NEVER CONDEMNS"
+      },
+      {
+        "src": "img/allen-byways-sympathy/card-05.png",
+        "title": "AS FAR AS HIS WISDOM REACHES"
+      },
+      {
+        "src": "img/allen-byways-sympathy/card-06.png",
+        "title": "SYMPATHY IS BLISS"
+      },
+      {
+        "src": "img/allen-byways-sympathy/card-07.png",
+        "title": "TO LOVE THEM WHO DO NOT LOVE US"
+      },
+      {
+        "src": "img/allen-byways-sympathy/card-08.png",
+        "title": "SYMPATHY GIVEN CAN NEVER BE WASTED"
+      }
+    ]
+  },
+  {
+    "slug": "allen-foundation-disciplined-living",
+    "title": "DISCIPLINE AND METHOD",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-foundation-disciplined-living/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-foundation-disciplined-living/card-01.png",
+        "title": "METHOD ENTERS THE MIND"
+      },
+      {
+        "src": "img/allen-foundation-disciplined-living/card-02.png",
+        "title": "LITTLE EVERY-DAY THINGS"
+      },
+      {
+        "src": "img/allen-foundation-disciplined-living/card-03.png",
+        "title": "THE REGULARITY OF MEALS"
+      },
+      {
+        "src": "img/allen-foundation-disciplined-living/card-04.png",
+        "title": "THEIR LAWFUL PLACE"
+      },
+      {
+        "src": "img/allen-foundation-disciplined-living/card-05.png",
+        "title": "THAT COMPREHENSIVE METHOD"
+      },
+      {
+        "src": "img/allen-foundation-disciplined-living/card-06.png",
+        "title": "METHOD APPLIED TO THE MIND"
+      }
+    ]
+  },
+  {
+    "slug": "allen-foundation-duty-and-honesty",
+    "title": "DUTY AND HONESTY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-foundation-duty-and-honesty/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-foundation-duty-and-honesty/card-01.png",
+        "title": "WHAT COMES FIRST"
+      },
+      {
+        "src": "img/allen-foundation-duty-and-honesty/card-02.png",
+        "title": "FEW AND SIMPLE FUNDAMENTALS"
+      },
+      {
+        "src": "img/allen-foundation-duty-and-honesty/card-03.png",
+        "title": "FIRST THINGS IN A SOUND LIFE"
+      },
+      {
+        "src": "img/allen-foundation-duty-and-honesty/card-04.png",
+        "title": "DUTY MEANS ADHERENCE"
+      },
+      {
+        "src": "img/allen-foundation-duty-and-honesty/card-05.png",
+        "title": "THOROUGHNESS, EXACTNESS, EFFICIENCY"
+      },
+      {
+        "src": "img/allen-foundation-duty-and-honesty/card-06.png",
+        "title": "NOT CHEATING OR OVERCHARGING"
+      }
+    ]
+  },
+  {
+    "slug": "allen-foundation-economy-and-liberality",
+    "title": "ECONOMY AND SELF-CONTROL",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-foundation-economy-and-liberality/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-foundation-economy-and-liberality/card-01.png",
+        "title": "TRUE ECONOMY"
+      },
+      {
+        "src": "img/allen-foundation-economy-and-liberality/card-02.png",
+        "title": "LIBERALITY FOLLOWS ECONOMY"
+      },
+      {
+        "src": "img/allen-foundation-economy-and-liberality/card-03.png",
+        "title": "MORE THAN GIVING MONEY"
+      },
+      {
+        "src": "img/allen-foundation-economy-and-liberality/card-04.png",
+        "title": "THE MOST IMPORTANT PRINCIPLE"
+      },
+      {
+        "src": "img/allen-foundation-economy-and-liberality/card-05.png",
+        "title": "PATIENCE, PURITY, GENTLENESS"
+      },
+      {
+        "src": "img/allen-foundation-economy-and-liberality/card-06.png",
+        "title": "NOT MERELY ON HIS LIPS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-foundation-equal-minded-man",
+    "title": "EQUAL-MINDEDNESS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-foundation-equal-minded-man/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-foundation-equal-minded-man/card-01.png",
+        "title": "PEACEFULLY MINDED"
+      },
+      {
+        "src": "img/allen-foundation-equal-minded-man/card-02.png",
+        "title": "NOT A PARTISAN"
+      },
+      {
+        "src": "img/allen-foundation-equal-minded-man/card-03.png",
+        "title": "THE FOLLY OF CONDEMNING"
+      },
+      {
+        "src": "img/allen-foundation-equal-minded-man/card-04.png",
+        "title": "A DIVINE CHARITY"
+      },
+      {
+        "src": "img/allen-foundation-equal-minded-man/card-05.png",
+        "title": "SPIRITUALLY BLIND"
+      },
+      {
+        "src": "img/allen-foundation-equal-minded-man/card-06.png",
+        "title": "NEITHER ELATED NOR CAST DOWN"
+      },
+      {
+        "src": "img/allen-foundation-equal-minded-man/card-07.png",
+        "title": "ONLY BY PURIFYING THE HEART"
+      }
+    ]
+  },
+  {
+    "slug": "allen-foundation-method-and-order",
+    "title": "METHOD AND ORDER",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-foundation-method-and-order/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-foundation-method-and-order/card-01.png",
+        "title": "METHOD IS TO LIFE"
+      },
+      {
+        "src": "img/allen-foundation-method-and-order/card-02.png",
+        "title": "A COSMOS, NOT CHAOS"
+      },
+      {
+        "src": "img/allen-foundation-method-and-order/card-03.png",
+        "title": "AN ORDERLY ADJUSTMENT"
+      },
+      {
+        "src": "img/allen-foundation-method-and-order/card-04.png",
+        "title": "WASTED ENERGY"
+      },
+      {
+        "src": "img/allen-foundation-method-and-order/card-05.png",
+        "title": "ATTENTION TO THE SMALLEST THINGS"
+      },
+      {
+        "src": "img/allen-foundation-method-and-order/card-06.png",
+        "title": "SYSTEM IS THREE PARTS OF SUCCESS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-foundation-sincerity-and-truth",
+    "title": "TRUE SPEECH AND SINCERITY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-foundation-sincerity-and-truth/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-foundation-sincerity-and-truth/card-01.png",
+        "title": "TRUTH IS KNOWN BY PRACTICE"
+      },
+      {
+        "src": "img/allen-foundation-sincerity-and-truth/card-02.png",
+        "title": "TOTALLY ABANDONED AND ABOLISHED"
+      },
+      {
+        "src": "img/allen-foundation-sincerity-and-truth/card-03.png",
+        "title": "BEWARE OF SELF-DELUSION"
+      },
+      {
+        "src": "img/allen-foundation-sincerity-and-truth/card-04.png",
+        "title": "THE HIGHER THINGS ARE THESE"
+      },
+      {
+        "src": "img/allen-foundation-sincerity-and-truth/card-05.png",
+        "title": "SELFISHNESS AND HATRED"
+      }
+    ]
+  },
+  {
+    "slug": "allen-foundation-slander-and-listening",
+    "title": "THE EVIL LISTENER",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-foundation-slander-and-listening/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-foundation-slander-and-listening/card-01.png",
+        "title": "SLANDER IS MORE SUBTLE"
+      },
+      {
+        "src": "img/allen-foundation-slander-and-listening/card-02.png",
+        "title": "POWERLESS WITHOUT A LISTENER"
+      },
+      {
+        "src": "img/allen-foundation-slander-and-listening/card-03.png",
+        "title": "HOW AN EVIL REPORT SPREADS"
+      },
+      {
+        "src": "img/allen-foundation-slander-and-listening/card-04.png",
+        "title": "AFLAME WITH RESENTMENT"
+      },
+      {
+        "src": "img/allen-foundation-slander-and-listening/card-05.png",
+        "title": "THE ROOT OF HIS SUFFERING"
+      },
+      {
+        "src": "img/allen-foundation-slander-and-listening/card-06.png",
+        "title": "HIS INTEGRITY REMAINS UNTOUCHED"
+      },
+      {
+        "src": "img/allen-foundation-slander-and-listening/card-07.png",
+        "title": "THE BEGINNING OF A PURE LIFE"
+      }
+    ]
+  },
+  {
+    "slug": "allen-foundation-sowing-and-reaping",
+    "title": "GOOD RESULTS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-foundation-sowing-and-reaping/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-foundation-sowing-and-reaping/card-01.png",
+        "title": "LUCKY AND UNLUCKY"
+      },
+      {
+        "src": "img/allen-foundation-sowing-and-reaping/card-02.png",
+        "title": "RESULTS OF OUR OWN THOUGHTS"
+      },
+      {
+        "src": "img/allen-foundation-sowing-and-reaping/card-03.png",
+        "title": "ALTER THE INNER WORLD"
+      },
+      {
+        "src": "img/allen-foundation-sowing-and-reaping/card-04.png",
+        "title": "CANNOT SEIZE GOOD RESULTS"
+      },
+      {
+        "src": "img/allen-foundation-sowing-and-reaping/card-05.png",
+        "title": "GOOD EFFORTS, GOOD CAUSES"
+      },
+      {
+        "src": "img/allen-foundation-sowing-and-reaping/card-06.png",
+        "title": "THE GARDENER OBEYS THE LAW"
+      },
+      {
+        "src": "img/allen-foundation-sowing-and-reaping/card-07.png",
+        "title": "NETTLES FROM A SOWING OF CORN"
+      },
+      {
+        "src": "img/allen-foundation-sowing-and-reaping/card-08.png",
+        "title": "PERMANENTLY HAPPY"
+      }
+    ]
+  },
+  {
+    "slug": "allen-foundation-thoughtful-right-doer",
+    "title": "THE THOUGHTFUL RIGHT-DOER",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-foundation-thoughtful-right-doer/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-foundation-thoughtful-right-doer/card-01.png",
+        "title": "PUTTING AWAY THE SELFISH"
+      },
+      {
+        "src": "img/allen-foundation-thoughtful-right-doer/card-02.png",
+        "title": "RESTORE IT TO CALMNESS"
+      },
+      {
+        "src": "img/allen-foundation-thoughtful-right-doer/card-03.png",
+        "title": "THE CONCEALMENT TEST"
+      },
+      {
+        "src": "img/allen-foundation-thoughtful-right-doer/card-04.png",
+        "title": "THOUGHTLESSNESS IS A CRIME"
+      },
+      {
+        "src": "img/allen-foundation-thoughtful-right-doer/card-05.png",
+        "title": "NOT A GOOD IMPULSE ONLY"
+      },
+      {
+        "src": "img/allen-foundation-thoughtful-right-doer/card-06.png",
+        "title": "FROM A TRUE MIND"
+      }
+    ]
+  },
+  {
+    "slug": "allen-foundation-true-false-actions",
+    "title": "TRUE AND FALSE ACTIONS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-foundation-true-false-actions/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-foundation-true-false-actions/card-01.png",
+        "title": "THE TRUE AND DIRECT WAY"
+      },
+      {
+        "src": "img/allen-foundation-true-false-actions/card-02.png",
+        "title": "ACTING RIGHTLY TOWARD OTHERS"
+      },
+      {
+        "src": "img/allen-foundation-true-false-actions/card-03.png",
+        "title": "AVOID FALSE ACTION, ADOPT TRUE"
+      },
+      {
+        "src": "img/allen-foundation-true-false-actions/card-04.png",
+        "title": "BY NATURE, AIM, AND EFFECT"
+      },
+      {
+        "src": "img/allen-foundation-true-false-actions/card-05.png",
+        "title": "BAD, OR UNTRUE, ACTIONS"
+      },
+      {
+        "src": "img/allen-foundation-true-false-actions/card-06.png",
+        "title": "GOOD, OR TRUE, ACTIONS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-triumphant-calmness-resource",
+    "title": "CALMNESS AND RESOURCE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-triumphant-calmness-resource/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-triumphant-calmness-resource/card-01.png",
+        "title": "PERPETUAL CALM"
+      },
+      {
+        "src": "img/allen-triumphant-calmness-resource/card-02.png",
+        "title": "SET A WATCH UPON THE PASSIONS"
+      },
+      {
+        "src": "img/allen-triumphant-calmness-resource/card-03.png",
+        "title": "ONE UNBROKEN BLISS"
+      },
+      {
+        "src": "img/allen-triumphant-calmness-resource/card-04.png",
+        "title": "CONQUER BY DAILY EFFORT"
+      },
+      {
+        "src": "img/allen-triumphant-calmness-resource/card-05.png",
+        "title": "THE FLOWER OF SELF-CONTROL"
+      },
+      {
+        "src": "img/allen-triumphant-calmness-resource/card-06.png",
+        "title": "THE SURFACE OF A STILL LAKE"
+      },
+      {
+        "src": "img/allen-triumphant-calmness-resource/card-07.png",
+        "title": "WHERE THE CALM MIND IS"
+      }
+    ]
+  },
+  {
+    "slug": "allen-triumphant-energy-power",
+    "title": "ENERGY AND POWER",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-triumphant-energy-power/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-triumphant-energy-power/card-01.png",
+        "title": "THE UNIVERSAL ENERGY"
+      },
+      {
+        "src": "img/allen-triumphant-energy-power/card-02.png",
+        "title": "A KING, NOT A SLAVE"
+      },
+      {
+        "src": "img/allen-triumphant-energy-power/card-03.png",
+        "title": "MISDIRECTED ENERGY, MISAPPLIED POWER"
+      },
+      {
+        "src": "img/allen-triumphant-energy-power/card-04.png",
+        "title": "POWER IS CONCENTRATED ENERGY"
+      },
+      {
+        "src": "img/allen-triumphant-energy-power/card-05.png",
+        "title": "THE LAW OF SACRIFICE"
+      },
+      {
+        "src": "img/allen-triumphant-energy-power/card-06.png",
+        "title": "FIRST, THEN, BE STRONG"
+      },
+      {
+        "src": "img/allen-triumphant-energy-power/card-07.png",
+        "title": "YOUR STRENGTH IS WITH YOU"
+      }
+    ]
+  },
+  {
+    "slug": "allen-triumphant-faith-courage",
+    "title": "FAITH AND COURAGE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-triumphant-faith-courage/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-triumphant-faith-courage/card-01.png",
+        "title": "CALM STRENGTH AND VICTORY"
+      },
+      {
+        "src": "img/allen-triumphant-faith-courage/card-02.png",
+        "title": "THE PRELUDE TO THE LIFE TRIUMPHANT"
+      },
+      {
+        "src": "img/allen-triumphant-faith-courage/card-03.png",
+        "title": "THE GREY DAWN OF KNOWLEDGE"
+      },
+      {
+        "src": "img/allen-triumphant-faith-courage/card-04.png",
+        "title": "EYES FOR EVIL ONLY"
+      },
+      {
+        "src": "img/allen-triumphant-faith-courage/card-05.png",
+        "title": "A SUBLIME COURAGE"
+      },
+      {
+        "src": "img/allen-triumphant-faith-courage/card-06.png",
+        "title": "THE DIVINER COURAGE"
+      },
+      {
+        "src": "img/allen-triumphant-faith-courage/card-07.png",
+        "title": "STRONG TO ENDURE, PATIENT TO WAIT"
+      }
+    ]
+  },
+  {
+    "slug": "allen-triumphant-knowledge-victory",
+    "title": "KNOWLEDGE AND VICTORY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-triumphant-knowledge-victory/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-triumphant-knowledge-victory/card-01.png",
+        "title": "FAITH IS THE BEGINNING"
+      },
+      {
+        "src": "img/allen-triumphant-knowledge-victory/card-02.png",
+        "title": "NOT BOOK-LEARNING, BUT LIFE-KNOWING"
+      },
+      {
+        "src": "img/allen-triumphant-knowledge-victory/card-03.png",
+        "title": "EXCEPT BY BECOMING WISE"
+      },
+      {
+        "src": "img/allen-triumphant-knowledge-victory/card-04.png",
+        "title": "VICTORIOUS OVER HIMSELF"
+      },
+      {
+        "src": "img/allen-triumphant-knowledge-victory/card-05.png",
+        "title": "THE GLORY OF DIVINE KNOWLEDGE"
+      },
+      {
+        "src": "img/allen-triumphant-knowledge-victory/card-06.png",
+        "title": "THE TRUE SEER"
+      },
+      {
+        "src": "img/allen-triumphant-knowledge-victory/card-07.png",
+        "title": "THE SCEPTRE OF VICTORY AWAITS YOU"
+      }
+    ]
+  },
+  {
+    "slug": "allen-triumphant-man-master",
+    "title": "MAN THE MASTER",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-triumphant-man-master/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-triumphant-man-master/card-01.png",
+        "title": "MASTER OF DESIRE"
+      },
+      {
+        "src": "img/allen-triumphant-man-master/card-02.png",
+        "title": "MASTER OF HIMSELF"
+      },
+      {
+        "src": "img/allen-triumphant-man-master/card-03.png",
+        "title": "MAN THE SLAVE"
+      },
+      {
+        "src": "img/allen-triumphant-man-master/card-04.png",
+        "title": "HE OBEYS TRUTH, AND NOT SELF"
+      },
+      {
+        "src": "img/allen-triumphant-man-master/card-05.png",
+        "title": "NO ENEMY BUT SELF"
+      },
+      {
+        "src": "img/allen-triumphant-man-master/card-06.png",
+        "title": "THE CONQUEST OF SELF"
+      },
+      {
+        "src": "img/allen-triumphant-man-master/card-07.png",
+        "title": "CROWNED WITH DIVINE WISDOM"
+      }
+    ]
+  },
+  {
+    "slug": "allen-triumphant-manliness-sincerity",
+    "title": "MANLINESS AND SINCERITY",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-triumphant-manliness-sincerity/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-triumphant-manliness-sincerity/card-01.png",
+        "title": "NO GOODNESS APART FROM STRENGTH"
+      },
+      {
+        "src": "img/allen-triumphant-manliness-sincerity/card-02.png",
+        "title": "MASTER OF YOUR HEART"
+      },
+      {
+        "src": "img/allen-triumphant-manliness-sincerity/card-03.png",
+        "title": "COMMAND HIMSELF ALWAYS"
+      },
+      {
+        "src": "img/allen-triumphant-manliness-sincerity/card-04.png",
+        "title": "YIELDING KINDNESS, UNBENDING STRENGTH"
+      },
+      {
+        "src": "img/allen-triumphant-manliness-sincerity/card-05.png",
+        "title": "MASTERS OF OUR OWN WILLS"
+      },
+      {
+        "src": "img/allen-triumphant-manliness-sincerity/card-06.png",
+        "title": "LOOK EVERYBODY IN THE FACE"
+      },
+      {
+        "src": "img/allen-triumphant-manliness-sincerity/card-07.png",
+        "title": "THE SINCERE MAN"
+      }
+    ]
+  },
+  {
+    "slug": "allen-triumphant-right-thinking-repose",
+    "title": "RIGHT-THINKING AND REPOSE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-triumphant-right-thinking-repose/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-triumphant-right-thinking-repose/card-01.png",
+        "title": "THE THOUGHT MAKES THE MAN"
+      },
+      {
+        "src": "img/allen-triumphant-right-thinking-repose/card-02.png",
+        "title": "VIRTUE HIS ABIDING HABITATION"
+      },
+      {
+        "src": "img/allen-triumphant-right-thinking-repose/card-03.png",
+        "title": "THE SPIRITUAL MINER"
+      },
+      {
+        "src": "img/allen-triumphant-right-thinking-repose/card-04.png",
+        "title": "WHAT A MAN PRACTISES, THAT HE KNOWS"
+      },
+      {
+        "src": "img/allen-triumphant-right-thinking-repose/card-05.png",
+        "title": "HE HOLDS HIMSELF IN PEACE"
+      },
+      {
+        "src": "img/allen-triumphant-right-thinking-repose/card-06.png",
+        "title": "THE TRUE THINKER"
+      },
+      {
+        "src": "img/allen-triumphant-right-thinking-repose/card-07.png",
+        "title": "VIRTUE MUST TRIUMPH"
+      }
+    ]
+  },
+  {
+    "slug": "allen-triumphant-self-control-happiness",
+    "title": "SELF-CONTROL AND HAPPINESS",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/allen-triumphant-self-control-happiness/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-triumphant-self-control-happiness/card-01.png",
+        "title": "WHEN IT BECOMES POWER"
+      },
+      {
+        "src": "img/allen-triumphant-self-control-happiness/card-02.png",
+        "title": "A MASTERLY TRANSMUTATION"
+      },
+      {
+        "src": "img/allen-triumphant-self-control-happiness/card-03.png",
+        "title": "HE CARRIES HIS HAPPINESS WITH HIM"
+      },
+      {
+        "src": "img/allen-triumphant-self-control-happiness/card-04.png",
+        "title": "RENUNCIATION PRECEDES REGENERATION"
+      },
+      {
+        "src": "img/allen-triumphant-self-control-happiness/card-05.png",
+        "title": "HE CAN COMMAND HIMSELF"
+      },
+      {
+        "src": "img/allen-triumphant-self-control-happiness/card-06.png",
+        "title": "THE TEMPLE OF JOY"
+      },
+      {
+        "src": "img/allen-triumphant-self-control-happiness/card-07.png",
+        "title": "THE JOY OF VICTORY"
+      }
+    ]
   }
 ];
