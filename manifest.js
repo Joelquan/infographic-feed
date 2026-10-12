@@ -1868,5 +1868,43 @@ window.MANIFEST = [
         "title": "ESTABLISH OUR WORK"
       }
     ]
+  },
+  {
+    "slug": "allen-thought-and-character",
+    "title": "AS A MAN THINKETH",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-thought-and-character/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-thought-and-character/card-01.png",
+        "title": "MADE OR UNMADE BY HIMSELF"
+      },
+      {
+        "src": "img/allen-thought-and-character/card-02.png",
+        "title": "THE ARMORY OF THOUGHT"
+      },
+      {
+        "src": "img/allen-thought-and-character/card-03.png",
+        "title": "CHARACTER IS THE SUM OF THOUGHTS"
+      },
+      {
+        "src": "img/allen-thought-and-character/card-04.png",
+        "title": "EVERY ACT SPRINGS FROM THOUGHT"
+      },
+      {
+        "src": "img/allen-thought-and-character/card-05.png",
+        "title": "LORD OF HIS OWN THOUGHTS"
+      },
+      {
+        "src": "img/allen-thought-and-character/card-06.png",
+        "title": "NOT A THING OF CHANCE"
+      },
+      {
+        "src": "img/allen-thought-and-character/card-07.png",
+        "title": "MOULDER AND SHAPER"
+      }
+    ]
   }
 ];
