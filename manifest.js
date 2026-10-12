@@ -4080,5 +4080,345 @@ window.MANIFEST = [
         "title": "SORROW IS ENDED FOR HIM"
       }
     ]
+  },
+  {
+    "slug": "murray-waiting-god-of-our-salvation",
+    "title": "THE GOD OF OUR SALVATION",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-waiting-god-of-our-salvation/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-waiting-god-of-our-salvation/card-01.png",
+        "title": "SALVATION COMES FROM GOD"
+      },
+      {
+        "src": "img/murray-waiting-god-of-our-salvation/card-02.png",
+        "title": "A VESSEL FOR HIS POWER"
+      },
+      {
+        "src": "img/murray-waiting-god-of-our-salvation/card-03.png",
+        "title": "GOD GIVING, MAN RECEIVING"
+      },
+      {
+        "src": "img/murray-waiting-god-of-our-salvation/card-04.png",
+        "title": "WAITING FOR HIS SALVATION"
+      },
+      {
+        "src": "img/murray-waiting-god-of-our-salvation/card-05.png",
+        "title": "GOD ALONE WILL DO IT"
+      },
+      {
+        "src": "img/murray-waiting-god-of-our-salvation/card-06.png",
+        "title": "OUR TRUE PLACE AND GLORY"
+      }
+    ]
+  },
+  {
+    "slug": "murray-waiting-for-supplies-and-instruction",
+    "title": "FOR SUPPLIES AND INSTRUCTION",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-waiting-for-supplies-and-instruction/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-waiting-for-supplies-and-instruction/card-01.png",
+        "title": "WAITING FOR SUPPLIES"
+      },
+      {
+        "src": "img/murray-waiting-for-supplies-and-instruction/card-02.png",
+        "title": "THE FIRST THOUGHT IS OF GOD"
+      },
+      {
+        "src": "img/murray-waiting-for-supplies-and-instruction/card-03.png",
+        "title": "BE STILL BEFORE HIM"
+      },
+      {
+        "src": "img/murray-waiting-for-supplies-and-instruction/card-04.png",
+        "title": "WAITING FOR INSTRUCTION"
+      },
+      {
+        "src": "img/murray-waiting-for-supplies-and-instruction/card-05.png",
+        "title": "GUIDANCE ALL THE DAY"
+      },
+      {
+        "src": "img/murray-waiting-for-supplies-and-instruction/card-06.png",
+        "title": "FOR ALL SAINTS"
+      }
+    ]
+  },
+  {
+    "slug": "murray-waiting-plea-in-prayer",
+    "title": "A PLEA IN PRAYER",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-waiting-plea-in-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-waiting-plea-in-prayer/card-01.png",
+        "title": "WAITING FOR GOD IN PRAYER"
+      },
+      {
+        "src": "img/murray-waiting-plea-in-prayer/card-02.png",
+        "title": "ON WHOM WE WAIT"
+      },
+      {
+        "src": "img/murray-waiting-plea-in-prayer/card-03.png",
+        "title": "CONFIDENT EXPECTATION"
+      },
+      {
+        "src": "img/murray-waiting-plea-in-prayer/card-04.png",
+        "title": "WAIT ON GOD, NOT ON YOURSELF"
+      },
+      {
+        "src": "img/murray-waiting-plea-in-prayer/card-05.png",
+        "title": "WITH THE HEART"
+      },
+      {
+        "src": "img/murray-waiting-plea-in-prayer/card-06.png",
+        "title": "THE BLESSEDNESS OF WAITING"
+      }
+    ]
+  },
+  {
+    "slug": "murray-waiting-patiently",
+    "title": "WAITING PATIENTLY",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-waiting-patiently/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-waiting-patiently/card-01.png",
+        "title": "EYE MEETS EYE"
+      },
+      {
+        "src": "img/murray-waiting-patiently/card-02.png",
+        "title": "THE LOWER WE BOW"
+      },
+      {
+        "src": "img/murray-waiting-patiently/card-03.png",
+        "title": "YIELD TO HIS WILL"
+      },
+      {
+        "src": "img/murray-waiting-patiently/card-04.png",
+        "title": "REST IN THE LORD"
+      },
+      {
+        "src": "img/murray-waiting-patiently/card-05.png",
+        "title": "KEEP HIS WAYS"
+      },
+      {
+        "src": "img/murray-waiting-patiently/card-06.png",
+        "title": "SURRENDER TO KEEP HIS WAYS"
+      }
+    ]
+  },
+  {
+    "slug": "murray-waiting-for-his-counsel",
+    "title": "FOR HIS COUNSEL",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-waiting-for-his-counsel/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-waiting-for-his-counsel/card-01.png",
+        "title": "MORE THAN WE KNOW"
+      },
+      {
+        "src": "img/murray-waiting-for-his-counsel/card-02.png",
+        "title": "TWO HEARTS IN PRAYER"
+      },
+      {
+        "src": "img/murray-waiting-for-his-counsel/card-03.png",
+        "title": "THE GOD WHO DOES WONDERS"
+      },
+      {
+        "src": "img/murray-waiting-for-his-counsel/card-04.png",
+        "title": "PATIENCE CONSENTS"
+      },
+      {
+        "src": "img/murray-waiting-for-his-counsel/card-05.png",
+        "title": "PATIENT WAITING BRINGS REWARD"
+      },
+      {
+        "src": "img/murray-waiting-for-his-counsel/card-06.png",
+        "title": "WAITING FOR HIS COUNSEL"
+      }
+    ]
+  },
+  {
+    "slug": "murray-waiting-light-in-darkness",
+    "title": "LIGHT IN THE HEART",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-waiting-light-in-darkness/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-waiting-light-in-darkness/card-01.png",
+        "title": "HIS LIGHT ALL THE DAY"
+      },
+      {
+        "src": "img/murray-waiting-light-in-darkness/card-02.png",
+        "title": "COUNT UPON THE LIGHT"
+      },
+      {
+        "src": "img/murray-waiting-light-in-darkness/card-03.png",
+        "title": "WAIT FOR THE LIGHT"
+      },
+      {
+        "src": "img/murray-waiting-light-in-darkness/card-04.png",
+        "title": "PRIVILEGE BRINGS RESPONSIBILITY"
+      },
+      {
+        "src": "img/murray-waiting-light-in-darkness/card-05.png",
+        "title": "WAIT IN INTERCESSION"
+      },
+      {
+        "src": "img/murray-waiting-light-in-darkness/card-06.png",
+        "title": "UNITED WAITING"
+      }
+    ]
+  },
+  {
+    "slug": "murray-waiting-almighty-one",
+    "title": "THE ALMIGHTY ONE",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-waiting-almighty-one/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-waiting-almighty-one/card-01.png",
+        "title": "MERCY AND JUDGMENT"
+      },
+      {
+        "src": "img/murray-waiting-almighty-one/card-02.png",
+        "title": "BOW UNDER JUDGMENT"
+      },
+      {
+        "src": "img/murray-waiting-almighty-one/card-03.png",
+        "title": "GOD WAITS ON US"
+      },
+      {
+        "src": "img/murray-waiting-almighty-one/card-04.png",
+        "title": "A WISE HUSBANDMAN"
+      },
+      {
+        "src": "img/murray-waiting-almighty-one/card-05.png",
+        "title": "THE GIVER MORE THAN THE GIFT"
+      },
+      {
+        "src": "img/murray-waiting-almighty-one/card-06.png",
+        "title": "THE ALMIGHTY ONE"
+      }
+    ]
+  },
+  {
+    "slug": "murray-waiting-certainty-of-blessing",
+    "title": "CERTAINTY OF BLESSING",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-waiting-certainty-of-blessing/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-waiting-certainty-of-blessing/card-01.png",
+        "title": "THEY SHALL NOT BE ASHAMED"
+      },
+      {
+        "src": "img/murray-waiting-certainty-of-blessing/card-02.png",
+        "title": "WAITING IS ITSELF BLESSEDNESS"
+      },
+      {
+        "src": "img/murray-waiting-certainty-of-blessing/card-03.png",
+        "title": "AS YOU WAIT, GOD DRAWS NEAR"
+      },
+      {
+        "src": "img/murray-waiting-certainty-of-blessing/card-04.png",
+        "title": "UNLOOKED FOR THINGS"
+      },
+      {
+        "src": "img/murray-waiting-certainty-of-blessing/card-05.png",
+        "title": "ENLARGE YOUR HEARTS"
+      },
+      {
+        "src": "img/murray-waiting-certainty-of-blessing/card-06.png",
+        "title": "SEEKING THE GIVER"
+      }
+    ]
+  },
+  {
+    "slug": "murray-waiting-quietly",
+    "title": "WAITING QUIETLY",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/murray-waiting-quietly/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-waiting-quietly/card-01.png",
+        "title": "TURNED TOWARDS GOD"
+      },
+      {
+        "src": "img/murray-waiting-quietly/card-02.png",
+        "title": "QUIETNESS CONFESSES"
+      },
+      {
+        "src": "img/murray-waiting-quietly/card-03.png",
+        "title": "HOLY EXPECTANCY"
+      },
+      {
+        "src": "img/murray-waiting-quietly/card-04.png",
+        "title": "LOOK TO THE LORD"
+      },
+      {
+        "src": "img/murray-waiting-quietly/card-05.png",
+        "title": "MARK OF A WAITING BELIEVER"
+      },
+      {
+        "src": "img/murray-waiting-quietly/card-06.png",
+        "title": "CHRIST REVEALED IN US"
+      }
+    ]
+  },
+  {
+    "slug": "murray-waiting-only-upon-god",
+    "title": "ONLY UPON GOD",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/murray-waiting-only-upon-god/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-waiting-only-upon-god/card-01.png",
+        "title": "WAITING FOR HIS SON"
+      },
+      {
+        "src": "img/murray-waiting-only-upon-god/card-02.png",
+        "title": "WAIT ON GOD NOW"
+      },
+      {
+        "src": "img/murray-waiting-only-upon-god/card-03.png",
+        "title": "THE PROMISE OF THE FATHER"
+      },
+      {
+        "src": "img/murray-waiting-only-upon-god/card-04.png",
+        "title": "GOD PRESENT AND WORKING"
+      },
+      {
+        "src": "img/murray-waiting-only-upon-god/card-05.png",
+        "title": "WAIT CONTINUALLY"
+      },
+      {
+        "src": "img/murray-waiting-only-upon-god/card-06.png",
+        "title": "ONLY UPON GOD"
+      }
+    ]
   }
 ];
