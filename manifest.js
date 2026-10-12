@@ -6908,5 +6908,373 @@ window.MANIFEST = [
         "title": "I TRUST CHRIST FOR IT"
       }
     ]
+  },
+  {
+    "slug": "murray-obedience-learning-obedience",
+    "title": "LEARNING OBEDIENCE",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-obedience-learning-obedience/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-obedience-learning-obedience/card-01.png",
+        "title": "THE VOW OF ENTIRE OBEDIENCE"
+      },
+      {
+        "src": "img/murray-obedience-learning-obedience/card-02.png",
+        "title": "DOING THE ONE CONDITION OF KNOWING"
+      },
+      {
+        "src": "img/murray-obedience-learning-obedience/card-03.png",
+        "title": "OBEDIENCE UNTO DEATH"
+      },
+      {
+        "src": "img/murray-obedience-learning-obedience/card-04.png",
+        "title": "A GOOD CONSCIENCE"
+      },
+      {
+        "src": "img/murray-obedience-learning-obedience/card-05.png",
+        "title": "UNDER GRACE NOT UNDER LAW"
+      },
+      {
+        "src": "img/murray-obedience-learning-obedience/card-06.png",
+        "title": "DAILY OBEDIENCE IS POSSIBLE"
+      }
+    ]
+  },
+  {
+    "slug": "murray-obedience-last-command",
+    "title": "OBEDIENCE TO THE LAST COMMAND",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-obedience-last-command/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-obedience-last-command/card-01.png",
+        "title": "THE SPIRIT OF WORLD CONQUEST"
+      },
+      {
+        "src": "img/murray-obedience-last-command/card-02.png",
+        "title": "HE SIMPLY COMMANDS"
+      },
+      {
+        "src": "img/murray-obedience-last-command/card-03.png",
+        "title": "NO PRIVILEGED CLAN"
+      },
+      {
+        "src": "img/murray-obedience-last-command/card-04.png",
+        "title": "ACCEPT HIS COMMAND"
+      },
+      {
+        "src": "img/murray-obedience-last-command/card-05.png",
+        "title": "AT CHRIST'S DISPOSAL"
+      },
+      {
+        "src": "img/murray-obedience-last-command/card-06.png",
+        "title": "CHRIST'S POWER AND CHRIST'S PRESENCE"
+      }
+    ]
+  },
+  {
+    "slug": "murray-humility-glory-of-the-creature",
+    "title": "THE GLORY OF THE CREATURE",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-humility-glory-of-the-creature/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-humility-glory-of-the-creature/card-01.png",
+        "title": "PARTAKER OF HIS PERFECTION"
+      },
+      {
+        "src": "img/murray-humility-glory-of-the-creature/card-02.png",
+        "title": "UNCEASING ABSOLUTE DEPENDENCE"
+      },
+      {
+        "src": "img/murray-humility-glory-of-the-creature/card-03.png",
+        "title": "AN EMPTY VESSEL"
+      },
+      {
+        "src": "img/murray-humility-glory-of-the-creature/card-04.png",
+        "title": "THE ROOT OF EVERY VIRTUE"
+      },
+      {
+        "src": "img/murray-humility-glory-of-the-creature/card-05.png",
+        "title": "HIS HUMILITY OUR REDEMPTION"
+      },
+      {
+        "src": "img/murray-humility-glory-of-the-creature/card-06.png",
+        "title": "THE ONLY SOIL OF THE GRACES"
+      },
+      {
+        "src": "img/murray-humility-glory-of-the-creature/card-07.png",
+        "title": "ENTIRE NOTHINGNESS"
+      }
+    ]
+  },
+  {
+    "slug": "murray-humility-secret-of-redemption",
+    "title": "THE SECRET OF REDEMPTION",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-humility-secret-of-redemption/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-humility-secret-of-redemption/card-01.png",
+        "title": "ALL FROM THIS CURSED PRIDE"
+      },
+      {
+        "src": "img/murray-humility-secret-of-redemption/card-02.png",
+        "title": "PRIDE MADE REDEMPTION NEEDFUL"
+      },
+      {
+        "src": "img/murray-humility-secret-of-redemption/card-03.png",
+        "title": "ROOT AND STRENGTH OF PRIDE"
+      },
+      {
+        "src": "img/murray-humility-secret-of-redemption/card-04.png",
+        "title": "A LIFE OF HUMILITY AS REAL"
+      },
+      {
+        "src": "img/murray-humility-secret-of-redemption/card-05.png",
+        "title": "THE INCARNATE HUMILITY"
+      },
+      {
+        "src": "img/murray-humility-secret-of-redemption/card-06.png",
+        "title": "PUT THIS GRACE FIRST"
+      }
+    ]
+  },
+  {
+    "slug": "murray-humility-in-the-life-of-jesus",
+    "title": "IN THE LIFE OF JESUS",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-humility-in-the-life-of-jesus/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-humility-in-the-life-of-jesus/card-01.png",
+        "title": "LET GOD BE ALL"
+      },
+      {
+        "src": "img/murray-humility-in-the-life-of-jesus/card-02.png",
+        "title": "ENTIRE SUBORDINATION"
+      },
+      {
+        "src": "img/murray-humility-in-the-life-of-jesus/card-03.png",
+        "title": "I AM NOTHING THE FATHER IS ALL"
+      },
+      {
+        "src": "img/murray-humility-in-the-life-of-jesus/card-04.png",
+        "title": "PERFECT PEACE AND JOY"
+      },
+      {
+        "src": "img/murray-humility-in-the-life-of-jesus/card-05.png",
+        "title": "THE SERVANT OF ALL"
+      },
+      {
+        "src": "img/murray-humility-in-the-life-of-jesus/card-06.png",
+        "title": "YIELD TO HIM IN PERFECT RESIGNATION"
+      },
+      {
+        "src": "img/murray-humility-in-the-life-of-jesus/card-07.png",
+        "title": "THE ROOT OF ALL VIRTUE"
+      }
+    ]
+  },
+  {
+    "slug": "murray-humility-in-the-teaching-of-jesus",
+    "title": "IN THE TEACHING OF JESUS",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-humility-in-the-teaching-of-jesus/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-humility-in-the-teaching-of-jesus/card-01.png",
+        "title": "THE POOR AND THE MEEK"
+      },
+      {
+        "src": "img/murray-humility-in-the-teaching-of-jesus/card-02.png",
+        "title": "LEARN OF ME"
+      },
+      {
+        "src": "img/murray-humility-in-the-teaching-of-jesus/card-03.png",
+        "title": "THE LOWLIEST IS NEAREST TO GOD"
+      },
+      {
+        "src": "img/murray-humility-in-the-teaching-of-jesus/card-04.png",
+        "title": "DEVOTION TO THE MASTER"
+      },
+      {
+        "src": "img/murray-humility-in-the-teaching-of-jesus/card-05.png",
+        "title": "HIS SERVICE IS OUR HIGHEST LIBERTY"
+      },
+      {
+        "src": "img/murray-humility-in-the-teaching-of-jesus/card-06.png",
+        "title": "WATER FILLS THE LOWEST PLACE"
+      },
+      {
+        "src": "img/murray-humility-in-the-teaching-of-jesus/card-07.png",
+        "title": "THE NOBILITY OF THE KINGDOM"
+      }
+    ]
+  },
+  {
+    "slug": "murray-humility-in-the-disciples",
+    "title": "IN THE DISCIPLES OF JESUS",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-humility-in-the-disciples/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-humility-in-the-disciples/card-01.png",
+        "title": "A DARK POWER TO BE SLAIN"
+      },
+      {
+        "src": "img/murray-humility-in-the-disciples/card-02.png",
+        "title": "CHIEF AND HIGHEST GRACES"
+      },
+      {
+        "src": "img/murray-humility-in-the-disciples/card-03.png",
+        "title": "NO OUTWARD INSTRUCTION CAN CAST OUT PRIDE"
+      },
+      {
+        "src": "img/murray-humility-in-the-disciples/card-04.png",
+        "title": "THE NEW NATURE REVEALED"
+      },
+      {
+        "src": "img/murray-humility-in-the-disciples/card-05.png",
+        "title": "HUMILITY OUR VERY NATURE"
+      },
+      {
+        "src": "img/murray-humility-in-the-disciples/card-06.png",
+        "title": "HE LIVES WITHIN US"
+      },
+      {
+        "src": "img/murray-humility-in-the-disciples/card-07.png",
+        "title": "GOD WILL DO ALL"
+      }
+    ]
+  },
+  {
+    "slug": "murray-humility-in-daily-life",
+    "title": "IN DAILY LIFE",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-humility-in-daily-life/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-humility-in-daily-life/card-01.png",
+        "title": "MEASURED BY EVERYDAY INTERCOURSE"
+      },
+      {
+        "src": "img/murray-humility-in-daily-life/card-02.png",
+        "title": "PROVED IN HUMILITY BEFORE MEN"
+      },
+      {
+        "src": "img/murray-humility-in-daily-life/card-03.png",
+        "title": "THE ONLY HUMILITY REALLY OURS"
+      },
+      {
+        "src": "img/murray-humility-in-daily-life/card-04.png",
+        "title": "CONSENTED TO PART WITH SELF"
+      },
+      {
+        "src": "img/murray-humility-in-daily-life/card-05.png",
+        "title": "SERVANTS ONE OF ANOTHER"
+      },
+      {
+        "src": "img/murray-humility-in-daily-life/card-06.png",
+        "title": "I AM NOTHING"
+      },
+      {
+        "src": "img/murray-humility-in-daily-life/card-07.png",
+        "title": "EVERY BROTHER GOD'S MEANS OF GRACE"
+      }
+    ]
+  },
+  {
+    "slug": "murray-humility-and-holiness",
+    "title": "AND HOLINESS",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-humility-and-holiness/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-humility-and-holiness/card-01.png",
+        "title": "THE GREAT TEST OF HOLINESS"
+      },
+      {
+        "src": "img/murray-humility-and-holiness/card-02.png",
+        "title": "THE SECRET OF HIS LIFE"
+      },
+      {
+        "src": "img/murray-humility-and-holiness/card-03.png",
+        "title": "ON HIS GUARD AGAINST PRIDE"
+      },
+      {
+        "src": "img/murray-humility-and-holiness/card-04.png",
+        "title": "THE HOLIEST THE HUMBLEST"
+      },
+      {
+        "src": "img/murray-humility-and-holiness/card-05.png",
+        "title": "LOVE VAUNTETH NOT ITSELF"
+      },
+      {
+        "src": "img/murray-humility-and-holiness/card-06.png",
+        "title": "GOD'S TEST OF OUR HUMILITY"
+      },
+      {
+        "src": "img/murray-humility-and-holiness/card-07.png",
+        "title": "MAKE HUMILITY OUR STUDY"
+      }
+    ]
+  },
+  {
+    "slug": "murray-humility-and-sin",
+    "title": "AND SIN",
+    "credit": "Andrew Murray",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/murray-humility-and-sin/overview.png",
+    "cards": [
+      {
+        "src": "img/murray-humility-and-sin/card-01.png",
+        "title": "THE DISPLACEMENT OF SELF"
+      },
+      {
+        "src": "img/murray-humility-and-sin/card-02.png",
+        "title": "A RANSOMED AND HOLY MAN"
+      },
+      {
+        "src": "img/murray-humility-and-sin/card-03.png",
+        "title": "A SAVED SINNER"
+      },
+      {
+        "src": "img/murray-humility-and-sin/card-04.png",
+        "title": "THE HANDMAIDS OF HUMILITY"
+      },
+      {
+        "src": "img/murray-humility-and-sin/card-05.png",
+        "title": "NOT SIN BUT GRACE"
+      },
+      {
+        "src": "img/murray-humility-and-sin/card-06.png",
+        "title": "OCCUPIED WITH GOD NOT SELF"
+      },
+      {
+        "src": "img/murray-humility-and-sin/card-07.png",
+        "title": "FILLED WITH HIS PRESENCE"
+      }
+    ]
   }
 ];
