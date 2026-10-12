@@ -2980,5 +2980,237 @@ window.MANIFEST = [
         "title": "ACTUALIZED BY PRACTICE"
       }
     ]
+  },
+  {
+    "slug": "allen-peace-passion",
+    "title": "PASSION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-peace-passion/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-peace-passion/card-01.png",
+        "title": "THE LOWEST LEVEL OF HUMAN LIFE"
+      },
+      {
+        "src": "img/allen-peace-passion/card-02.png",
+        "title": "THE WISE LOOK UP"
+      },
+      {
+        "src": "img/allen-peace-passion/card-03.png",
+        "title": "THE ARCH-ENEMY OF MANKIND"
+      },
+      {
+        "src": "img/allen-peace-passion/card-04.png",
+        "title": "ROOTED IN IGNORANCE"
+      },
+      {
+        "src": "img/allen-peace-passion/card-05.png",
+        "title": "A MENTAL THIRST, A FEVER"
+      },
+      {
+        "src": "img/allen-peace-passion/card-06.png",
+        "title": "NOT BY ACCUSING OTHERS"
+      },
+      {
+        "src": "img/allen-peace-passion/card-07.png",
+        "title": "POWER MISDIRECTED"
+      }
+    ]
+  },
+  {
+    "slug": "allen-peace-aspiration",
+    "title": "ASPIRATION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-peace-aspiration/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-peace-aspiration/card-01.png",
+        "title": "THE RAPTURE OF THE SAINTS"
+      },
+      {
+        "src": "img/allen-peace-aspiration/card-02.png",
+        "title": "THE LONGING FOR HEAVENLY THINGS"
+      },
+      {
+        "src": "img/allen-peace-aspiration/card-03.png",
+        "title": "ALL THINGS POSSIBLE"
+      },
+      {
+        "src": "img/allen-peace-aspiration/card-04.png",
+        "title": "MAN ATTAINS AS HE ASPIRES"
+      },
+      {
+        "src": "img/allen-peace-aspiration/card-05.png",
+        "title": "HIS ERRORS ARE HIS OWN"
+      },
+      {
+        "src": "img/allen-peace-aspiration/card-06.png",
+        "title": "MEN OF ASPIRATION"
+      },
+      {
+        "src": "img/allen-peace-aspiration/card-07.png",
+        "title": "RENEWED DAILY"
+      }
+    ]
+  },
+  {
+    "slug": "allen-peace-temptation",
+    "title": "TEMPTATION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-peace-temptation/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-peace-temptation/card-01.png",
+        "title": "TO REMAIN THERE"
+      },
+      {
+        "src": "img/allen-peace-temptation/card-02.png",
+        "title": "THE REVEALER OF WEAKNESS"
+      },
+      {
+        "src": "img/allen-peace-temptation/card-03.png",
+        "title": "HE BEGINS TO BE TEMPTED"
+      },
+      {
+        "src": "img/allen-peace-temptation/card-04.png",
+        "title": "THE STRONGHOLD IS WITHIN"
+      },
+      {
+        "src": "img/allen-peace-temptation/card-05.png",
+        "title": "TEMPTATION IS TORMENT"
+      },
+      {
+        "src": "img/allen-peace-temptation/card-06.png",
+        "title": "KNOW HIMSELF"
+      },
+      {
+        "src": "img/allen-peace-temptation/card-07.png",
+        "title": "BOTH TEMPTER AND TEMPTED"
+      }
+    ]
+  },
+  {
+    "slug": "allen-peace-transmutation",
+    "title": "TRANSMUTATION",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-peace-transmutation/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-peace-transmutation/card-01.png",
+        "title": "THE PURGATORY OF TRANSMUTATION"
+      },
+      {
+        "src": "img/allen-peace-transmutation/card-02.png",
+        "title": "KNOWLEDGE OF THE MENTAL CAUSE"
+      },
+      {
+        "src": "img/allen-peace-transmutation/card-03.png",
+        "title": "AN ENTIRE REVERSAL"
+      },
+      {
+        "src": "img/allen-peace-transmutation/card-04.png",
+        "title": "THE COUNTRY OF SACRIFICE"
+      },
+      {
+        "src": "img/allen-peace-transmutation/card-05.png",
+        "title": "THE PURE GOLD OF TRUTH"
+      },
+      {
+        "src": "img/allen-peace-transmutation/card-06.png",
+        "title": "GOOD FOR EVIL"
+      },
+      {
+        "src": "img/allen-peace-transmutation/card-07.png",
+        "title": "TURNED IN THE RIGHT DIRECTION"
+      }
+    ]
+  },
+  {
+    "slug": "allen-peace-transcendence",
+    "title": "TRANSCENDENCE",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-peace-transcendence/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-peace-transcendence/card-01.png",
+        "title": "THE SAINT BECOMES A SAGE"
+      },
+      {
+        "src": "img/allen-peace-transcendence/card-02.png",
+        "title": "TRANSCENDENCE IS ATTAINED"
+      },
+      {
+        "src": "img/allen-peace-transcendence/card-03.png",
+        "title": "A NEW FORM OF CONSCIOUSNESS"
+      },
+      {
+        "src": "img/allen-peace-transcendence/card-04.png",
+        "title": "RULED BY PRINCIPLES"
+      },
+      {
+        "src": "img/allen-peace-transcendence/card-05.png",
+        "title": "DESIRE AND DREAD ENDED"
+      },
+      {
+        "src": "img/allen-peace-transcendence/card-06.png",
+        "title": "EVIL IS AN EXPERIENCE"
+      },
+      {
+        "src": "img/allen-peace-transcendence/card-07.png",
+        "title": "INSTRUCTED BY TRUTH"
+      }
+    ]
+  },
+  {
+    "slug": "allen-peace-attained",
+    "title": "PEACE ATTAINED",
+    "credit": "James Allen",
+    "lane": "servants",
+    "topic": "psychology",
+    "overview": "img/allen-peace-attained/overview.png",
+    "cards": [
+      {
+        "src": "img/allen-peace-attained/card-01.png",
+        "title": "LIFE IS BLISS"
+      },
+      {
+        "src": "img/allen-peace-attained/card-02.png",
+        "title": "IT IS HAPPINESS"
+      },
+      {
+        "src": "img/allen-peace-attained/card-03.png",
+        "title": "DIVINE VIRTUE"
+      },
+      {
+        "src": "img/allen-peace-attained/card-04.png",
+        "title": "THE TEN-JEWELLED CROWN"
+      },
+      {
+        "src": "img/allen-peace-attained/card-05.png",
+        "title": "THE SAGE UNMOVED"
+      },
+      {
+        "src": "img/allen-peace-attained/card-06.png",
+        "title": "WHERE PEACE IS"
+      },
+      {
+        "src": "img/allen-peace-attained/card-07.png",
+        "title": "HE WHO CONQUERS HIMSELF"
+      },
+      {
+        "src": "img/allen-peace-attained/card-08.png",
+        "title": "THE BEAUTIFUL CITY OF PEACE"
+      }
+    ]
   }
 ];
