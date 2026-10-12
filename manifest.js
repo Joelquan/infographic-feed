@@ -16744,5 +16744,73 @@ window.MANIFEST = [
         "title": "THERE IS NO FRICTION WHATEVER BETWEEN"
       }
     ]
+  },
+  {
+    "slug": "bounds-definite-standard",
+    "title": "A DEFINITE RELIGIOUS STANDARD",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/bounds-definite-standard/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-definite-standard/card-01.png",
+        "title": "MUCH OF THE FEEBLENESS BARRENNESS"
+      },
+      {
+        "src": "img/bounds-definite-standard/card-02.png",
+        "title": "THE SCRIPTURES EVER SET BEFORE US"
+      },
+      {
+        "src": "img/bounds-definite-standard/card-03.png",
+        "title": "COMPASSION IS MOVED AT THE SIGHT"
+      },
+      {
+        "src": "img/bounds-definite-standard/card-04.png",
+        "title": "GOD IS SOVEREIGN OF THE EARTH"
+      },
+      {
+        "src": "img/bounds-definite-standard/card-05.png",
+        "title": "THE IMPRESSION IS THAT THE CHURCH"
+      },
+      {
+        "src": "img/bounds-definite-standard/card-06.png",
+        "title": "NO MORE IS THIS HARSHNESS THAN"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-universality-and-missions",
+    "title": "THE UNIVERSALITY OF PRAYER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-universality-and-missions/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-universality-and-missions/card-01.png",
+        "title": "PRAYER IS FAR REACHING"
+      },
+      {
+        "src": "img/bounds-universality-and-missions/card-02.png",
+        "title": "IT MAKES GOOD RULERS AND MAKES"
+      },
+      {
+        "src": "img/bounds-universality-and-missions/card-03.png",
+        "title": "PRAYER CREATES AND MAKES MISSIONS SUCCESSFUL"
+      },
+      {
+        "src": "img/bounds-universality-and-missions/card-04.png",
+        "title": "SPIRITUAL AGENCIES AND SPIRITUAL FORCES NEVER"
+      },
+      {
+        "src": "img/bounds-universality-and-missions/card-05.png",
+        "title": "ABOVE EVERYTHING RISE THE PRIMARY QUALIFICATION"
+      },
+      {
+        "src": "img/bounds-universality-and-missions/card-06.png",
+        "title": "SO TODAY THERE IS GREAT NEED"
+      }
+    ]
   }
 ];
