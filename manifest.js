@@ -13144,5 +13144,209 @@ window.MANIFEST = [
         "title": "THOU SHALT HAVE LIBERTY OF HEART"
       }
     ]
+  },
+  {
+    "slug": "kempis-nature-and-grace",
+    "title": "THE MOTIONS OF NATURE AND OF GRACE",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/kempis-nature-and-grace/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-nature-and-grace/card-01.png",
+        "title": "PAY DILIGENT HEED TO THE MOTIONS"
+      },
+      {
+        "src": "img/kempis-nature-and-grace/card-02.png",
+        "title": "NATURE INCLINETH THEE TO CREATED THINGS"
+      },
+      {
+        "src": "img/kempis-nature-and-grace/card-03.png",
+        "title": "O LORD MY GOD WHO HAST"
+      },
+      {
+        "src": "img/kempis-nature-and-grace/card-04.png",
+        "title": "PRESSED DOWN BY MY OWN CORRUPTION"
+      },
+      {
+        "src": "img/kempis-nature-and-grace/card-05.png",
+        "title": "IT IS THE MISTRESS OF TRUTH"
+      },
+      {
+        "src": "img/kempis-nature-and-grace/card-06.png",
+        "title": "COME MY BROTHERS LET US TOGETHER"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-hope-in-god-alone",
+    "title": "ALL HOPE AND TRUST IN GOD ALONE",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-hope-in-god-alone/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-hope-in-god-alone/card-01.png",
+        "title": "PATIENCE AND HUMILITY IN ADVERSITIES"
+      },
+      {
+        "src": "img/kempis-hope-in-god-alone/card-02.png",
+        "title": "O LORD BLESSED BE THY WORD"
+      },
+      {
+        "src": "img/kempis-hope-in-god-alone/card-03.png",
+        "title": "BUT YET WHICH IS FAR BETTER"
+      },
+      {
+        "src": "img/kempis-hope-in-god-alone/card-04.png",
+        "title": "HE WHO CONSIDERETH HOW GREAT ARE"
+      },
+      {
+        "src": "img/kempis-hope-in-god-alone/card-05.png",
+        "title": "O LORD WHAT IS MY TRUST"
+      },
+      {
+        "src": "img/kempis-hope-in-god-alone/card-06.png",
+        "title": "BLESS AND SANCTIFY MY SOUL"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-reverence-in-the-sacrament",
+    "title": "REVERENCE FOR CHRIST IN THE SACRAMENT",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-reverence-in-the-sacrament/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-reverence-in-the-sacrament/card-01.png",
+        "title": "THESE ARE THY WORDS O CHRIST"
+      },
+      {
+        "src": "img/kempis-reverence-in-the-sacrament/card-02.png",
+        "title": "BEHOLD NOAH THAT JUST MAN LABOURED"
+      },
+      {
+        "src": "img/kempis-reverence-in-the-sacrament/card-03.png",
+        "title": "IF SO GREAT DEVOTION WAS THEN"
+      },
+      {
+        "src": "img/kempis-reverence-in-the-sacrament/card-04.png",
+        "title": "GRIEVOUSLY TO BE LAMENTED"
+      },
+      {
+        "src": "img/kempis-reverence-in-the-sacrament/card-05.png",
+        "title": "O MOST SWEET AND TENDER JESUS"
+      },
+      {
+        "src": "img/kempis-reverence-in-the-sacrament/card-06.png",
+        "title": "CONTINUAL RENEWAL OF THY SPIRIT"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-profitable-communion",
+    "title": "PROFITABLE COMMUNION",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-profitable-communion/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-profitable-communion/card-01.png",
+        "title": "GIVE ME THYSELF AND IT SUFFICETH"
+      },
+      {
+        "src": "img/kempis-profitable-communion/card-02.png",
+        "title": "O LORD MY GOD PREVENT THOU"
+      },
+      {
+        "src": "img/kempis-profitable-communion/card-03.png",
+        "title": "EVEN IN SUCH WISE THOU DEALEST"
+      },
+      {
+        "src": "img/kempis-profitable-communion/card-04.png",
+        "title": "WHATSOEVER IS WANTING UNTO ME"
+      },
+      {
+        "src": "img/kempis-profitable-communion/card-05.png",
+        "title": "THEREFORE THOU MUST BELIEVE GOD ALMIGHTY"
+      },
+      {
+        "src": "img/kempis-profitable-communion/card-06.png",
+        "title": "HE MUST BEAR MEEKLY FOR GOD"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-examination-of-conscience",
+    "title": "EXAMINATION OF CONSCIENCE",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/kempis-examination-of-conscience/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-examination-of-conscience/card-01.png",
+        "title": "THY DIGNITY AND MINE OWN VILENESS"
+      },
+      {
+        "src": "img/kempis-examination-of-conscience/card-02.png",
+        "title": "THE PRIEST MUST DRAW NIGH IN HUMILITY"
+      },
+      {
+        "src": "img/kempis-examination-of-conscience/card-03.png",
+        "title": "IF A MAN SHALL HAVE DONE"
+      },
+      {
+        "src": "img/kempis-examination-of-conscience/card-04.png",
+        "title": "I OFFERED MYSELF ON THE CROSS"
+      },
+      {
+        "src": "img/kempis-examination-of-conscience/card-05.png",
+        "title": "I OFFERED MYSELF ALTOGETHER FOR THEE"
+      },
+      {
+        "src": "img/kempis-examination-of-conscience/card-06.png",
+        "title": "THE FREEWILL OFFERING OF THYSELF"
+      }
+    ]
+  },
+  {
+    "slug": "kempis-offering-ourselves-to-god",
+    "title": "OFFERING OURSELVES TO GOD",
+    "credit": "Thomas a Kempis",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/kempis-offering-ourselves-to-god/overview.png",
+    "cards": [
+      {
+        "src": "img/kempis-offering-ourselves-to-god/card-01.png",
+        "title": "WHAT CAN I DO CONCERNING MY"
+      },
+      {
+        "src": "img/kempis-offering-ourselves-to-god/card-02.png",
+        "title": "IF A MAN SOMETIMES ABSTAINETH"
+      },
+      {
+        "src": "img/kempis-offering-ourselves-to-god/card-03.png",
+        "title": "THE TWO TABLES OF THE CHURCH"
+      },
+      {
+        "src": "img/kempis-offering-ourselves-to-god/card-04.png",
+        "title": "WHAT REWARD SHALL I GIVE"
+      },
+      {
+        "src": "img/kempis-offering-ourselves-to-god/card-05.png",
+        "title": "BEHOLD I STAND POOR AND NAKED"
+      },
+      {
+        "src": "img/kempis-offering-ourselves-to-god/card-06.png",
+        "title": "ALL REASON AND NATURAL INVESTIGATION OUGHT"
+      }
+    ]
   }
 ];
