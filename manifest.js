@@ -1058,5 +1058,581 @@ window.MANIFEST = [
         "title": "SILENCE IN HEAVEN"
       }
     ]
+  },
+  {
+    "slug": "bible-trumpets",
+    "title": "The 7 Trumpets",
+    "credit": "Revelation 8-11 (KJV)",
+    "overview": "img/bible-trumpets/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-trumpets/card-01.png",
+        "title": "HAIL AND FIRE"
+      },
+      {
+        "src": "img/bible-trumpets/card-02.png",
+        "title": "BURNING MOUNTAIN"
+      },
+      {
+        "src": "img/bible-trumpets/card-03.png",
+        "title": "FALLEN STAR"
+      },
+      {
+        "src": "img/bible-trumpets/card-04.png",
+        "title": "DARKENED THIRD"
+      },
+      {
+        "src": "img/bible-trumpets/card-05.png",
+        "title": "BOTTOMLESS PIT"
+      },
+      {
+        "src": "img/bible-trumpets/card-06.png",
+        "title": "THE EUPHRATES VOICE"
+      },
+      {
+        "src": "img/bible-trumpets/card-07.png",
+        "title": "KINGDOMS OF OUR LORD"
+      }
+    ]
+  },
+  {
+    "slug": "bible-bowls",
+    "title": "The 7 Bowls of Wrath",
+    "credit": "Revelation 16 (KJV)",
+    "overview": "img/bible-bowls/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-bowls/card-01.png",
+        "title": "GRIEVOUS SORES"
+      },
+      {
+        "src": "img/bible-bowls/card-02.png",
+        "title": "SEA TO BLOOD"
+      },
+      {
+        "src": "img/bible-bowls/card-03.png",
+        "title": "RIVERS TO BLOOD"
+      },
+      {
+        "src": "img/bible-bowls/card-04.png",
+        "title": "SCORCHING SUN"
+      },
+      {
+        "src": "img/bible-bowls/card-05.png",
+        "title": "DARKNESS ON THE BEAST"
+      },
+      {
+        "src": "img/bible-bowls/card-06.png",
+        "title": "EUPHRATES DRIED"
+      },
+      {
+        "src": "img/bible-bowls/card-07.png",
+        "title": "IT IS DONE"
+      }
+    ]
+  },
+  {
+    "slug": "bible-cross-sayings",
+    "title": "The 7 Sayings from the Cross",
+    "credit": "The Gospels (KJV)",
+    "overview": "img/bible-cross-sayings/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-cross-sayings/card-01.png",
+        "title": "FATHER, FORGIVE THEM"
+      },
+      {
+        "src": "img/bible-cross-sayings/card-02.png",
+        "title": "TODAY IN PARADISE"
+      },
+      {
+        "src": "img/bible-cross-sayings/card-03.png",
+        "title": "BEHOLD THY SON"
+      },
+      {
+        "src": "img/bible-cross-sayings/card-04.png",
+        "title": "MY GOD, MY GOD"
+      },
+      {
+        "src": "img/bible-cross-sayings/card-05.png",
+        "title": "I THIRST"
+      },
+      {
+        "src": "img/bible-cross-sayings/card-06.png",
+        "title": "IT IS FINISHED"
+      },
+      {
+        "src": "img/bible-cross-sayings/card-07.png",
+        "title": "INTO THY HANDS"
+      }
+    ]
+  },
+  {
+    "slug": "bible-parables",
+    "title": "The 7 Parables of the Kingdom",
+    "credit": "Matthew 13 (KJV)",
+    "overview": "img/bible-parables/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-parables/card-01.png",
+        "title": "THE WHEAT AND TARES"
+      },
+      {
+        "src": "img/bible-parables/card-02.png",
+        "title": "THE MUSTARD SEED"
+      },
+      {
+        "src": "img/bible-parables/card-03.png",
+        "title": "THE LEAVEN"
+      },
+      {
+        "src": "img/bible-parables/card-04.png",
+        "title": "THE HIDDEN TREASURE"
+      },
+      {
+        "src": "img/bible-parables/card-05.png",
+        "title": "THE PEARL"
+      },
+      {
+        "src": "img/bible-parables/card-06.png",
+        "title": "THE NET"
+      },
+      {
+        "src": "img/bible-parables/card-07.png",
+        "title": "THE HOUSEHOLDER"
+      }
+    ]
+  },
+  {
+    "slug": "bible-signs",
+    "title": "The 7 Signs in John",
+    "credit": "Gospel of John (KJV)",
+    "overview": "img/bible-signs/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-signs/card-01.png",
+        "title": "WATER TO WINE"
+      },
+      {
+        "src": "img/bible-signs/card-02.png",
+        "title": "THE NOBLEMAN'S SON"
+      },
+      {
+        "src": "img/bible-signs/card-03.png",
+        "title": "THE MAN AT BETHESDA"
+      },
+      {
+        "src": "img/bible-signs/card-04.png",
+        "title": "FEEDING THE FIVE THOUSAND"
+      },
+      {
+        "src": "img/bible-signs/card-05.png",
+        "title": "WALKING ON THE SEA"
+      },
+      {
+        "src": "img/bible-signs/card-06.png",
+        "title": "THE BLIND MAN HEALED"
+      },
+      {
+        "src": "img/bible-signs/card-07.png",
+        "title": "LAZARUS RAISED"
+      }
+    ]
+  },
+  {
+    "slug": "bible-gifts",
+    "title": "The Gifts of the Spirit",
+    "credit": "1 Corinthians 12 (KJV)",
+    "overview": "img/bible-gifts/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-gifts/card-01.png",
+        "title": "WORD OF WISDOM"
+      },
+      {
+        "src": "img/bible-gifts/card-02.png",
+        "title": "WORD OF KNOWLEDGE"
+      },
+      {
+        "src": "img/bible-gifts/card-03.png",
+        "title": "FAITH"
+      },
+      {
+        "src": "img/bible-gifts/card-04.png",
+        "title": "GIFTS OF HEALING"
+      },
+      {
+        "src": "img/bible-gifts/card-05.png",
+        "title": "WORKING OF MIRACLES"
+      },
+      {
+        "src": "img/bible-gifts/card-06.png",
+        "title": "PROPHECY"
+      },
+      {
+        "src": "img/bible-gifts/card-07.png",
+        "title": "DISCERNING OF SPIRITS"
+      },
+      {
+        "src": "img/bible-gifts/card-08.png",
+        "title": "DIVERS KINDS OF TONGUES"
+      },
+      {
+        "src": "img/bible-gifts/card-09.png",
+        "title": "INTERPRETATION OF TONGUES"
+      }
+    ]
+  },
+  {
+    "slug": "bible-crowns",
+    "title": "The 5 Crowns",
+    "credit": "The Epistles (KJV)",
+    "overview": "img/bible-crowns/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-crowns/card-01.png",
+        "title": "THE INCORRUPTIBLE CROWN"
+      },
+      {
+        "src": "img/bible-crowns/card-02.png",
+        "title": "THE CROWN OF REJOICING"
+      },
+      {
+        "src": "img/bible-crowns/card-03.png",
+        "title": "THE CROWN OF RIGHTEOUSNESS"
+      },
+      {
+        "src": "img/bible-crowns/card-04.png",
+        "title": "THE CROWN OF LIFE"
+      },
+      {
+        "src": "img/bible-crowns/card-05.png",
+        "title": "THE CROWN OF GLORY"
+      }
+    ]
+  },
+  {
+    "slug": "bible-names",
+    "title": "The Names of God",
+    "credit": "KJV",
+    "overview": "img/bible-names/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-names/card-01.png",
+        "title": "ELOHIM"
+      },
+      {
+        "src": "img/bible-names/card-02.png",
+        "title": "EL ELYON"
+      },
+      {
+        "src": "img/bible-names/card-03.png",
+        "title": "EL SHADDAI"
+      },
+      {
+        "src": "img/bible-names/card-04.png",
+        "title": "JEHOVAH JIREH"
+      },
+      {
+        "src": "img/bible-names/card-05.png",
+        "title": "JEHOVAH RAPHA"
+      },
+      {
+        "src": "img/bible-names/card-06.png",
+        "title": "JEHOVAH NISSI"
+      },
+      {
+        "src": "img/bible-names/card-07.png",
+        "title": "JEHOVAH SHALOM"
+      },
+      {
+        "src": "img/bible-names/card-08.png",
+        "title": "JEHOVAH RAAH"
+      },
+      {
+        "src": "img/bible-names/card-09.png",
+        "title": "JEHOVAH TSIDKENU"
+      },
+      {
+        "src": "img/bible-names/card-10.png",
+        "title": "JEHOVAH SHAMMAH"
+      }
+    ]
+  },
+  {
+    "slug": "bible-lev-offerings",
+    "title": "The 5 Offerings",
+    "credit": "Leviticus 1-7 (KJV)",
+    "overview": "img/bible-lev-offerings/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-lev-offerings/card-01.png",
+        "title": "THE BURNT OFFERING"
+      },
+      {
+        "src": "img/bible-lev-offerings/card-02.png",
+        "title": "THE GRAIN OFFERING"
+      },
+      {
+        "src": "img/bible-lev-offerings/card-03.png",
+        "title": "THE PEACE OFFERING"
+      },
+      {
+        "src": "img/bible-lev-offerings/card-04.png",
+        "title": "THE SIN OFFERING"
+      },
+      {
+        "src": "img/bible-lev-offerings/card-05.png",
+        "title": "THE TRESPASS OFFERING"
+      }
+    ]
+  },
+  {
+    "slug": "bible-lev-feasts",
+    "title": "The 7 Feasts of Israel",
+    "credit": "Leviticus 23 (KJV)",
+    "overview": "img/bible-lev-feasts/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-lev-feasts/card-01.png",
+        "title": "PASSOVER"
+      },
+      {
+        "src": "img/bible-lev-feasts/card-02.png",
+        "title": "UNLEAVENED BREAD"
+      },
+      {
+        "src": "img/bible-lev-feasts/card-03.png",
+        "title": "FIRSTFRUITS"
+      },
+      {
+        "src": "img/bible-lev-feasts/card-04.png",
+        "title": "WEEKS"
+      },
+      {
+        "src": "img/bible-lev-feasts/card-05.png",
+        "title": "TRUMPETS"
+      },
+      {
+        "src": "img/bible-lev-feasts/card-06.png",
+        "title": "DAY OF ATONEMENT"
+      },
+      {
+        "src": "img/bible-lev-feasts/card-07.png",
+        "title": "TABERNACLES"
+      }
+    ]
+  },
+  {
+    "slug": "bible-lev-atonement",
+    "title": "The Day of Atonement",
+    "credit": "Leviticus 16 (KJV)",
+    "overview": "img/bible-lev-atonement/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-lev-atonement/card-01.png",
+        "title": "HOLY GARMENTS"
+      },
+      {
+        "src": "img/bible-lev-atonement/card-02.png",
+        "title": "BULLOCK FOR HIMSELF"
+      },
+      {
+        "src": "img/bible-lev-atonement/card-03.png",
+        "title": "TWO GOATS, TWO LOTS"
+      },
+      {
+        "src": "img/bible-lev-atonement/card-04.png",
+        "title": "THE BULLOCK SLAIN"
+      },
+      {
+        "src": "img/bible-lev-atonement/card-05.png",
+        "title": "BLOOD ON THE MERCY SEAT"
+      },
+      {
+        "src": "img/bible-lev-atonement/card-06.png",
+        "title": "THE PEOPLE'S GOAT"
+      },
+      {
+        "src": "img/bible-lev-atonement/card-07.png",
+        "title": "THE SCAPEGOAT"
+      },
+      {
+        "src": "img/bible-lev-atonement/card-08.png",
+        "title": "WASHED AND RESTORED"
+      }
+    ]
+  },
+  {
+    "slug": "bible-lev-clean",
+    "title": "Clean and Unclean",
+    "credit": "Leviticus 11 (KJV)",
+    "overview": "img/bible-lev-clean/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-lev-clean/card-01.png",
+        "title": "BEASTS OF THE FIELD"
+      },
+      {
+        "src": "img/bible-lev-clean/card-02.png",
+        "title": "CREATURES OF THE WATER"
+      },
+      {
+        "src": "img/bible-lev-clean/card-03.png",
+        "title": "BIRDS OF THE AIR"
+      },
+      {
+        "src": "img/bible-lev-clean/card-04.png",
+        "title": "FLYING CREEPERS"
+      },
+      {
+        "src": "img/bible-lev-clean/card-05.png",
+        "title": "CREEPING THINGS"
+      }
+    ]
+  },
+  {
+    "slug": "bible-lev-priests",
+    "title": "The Priests Consecrated",
+    "credit": "Leviticus 8 (KJV)",
+    "overview": "img/bible-lev-priests/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-lev-priests/card-01.png",
+        "title": "WASHED WITH WATER"
+      },
+      {
+        "src": "img/bible-lev-priests/card-02.png",
+        "title": "CLOTHED IN GLORY"
+      },
+      {
+        "src": "img/bible-lev-priests/card-03.png",
+        "title": "ANOINTED WITH OIL"
+      },
+      {
+        "src": "img/bible-lev-priests/card-04.png",
+        "title": "THE SIN OFFERING"
+      },
+      {
+        "src": "img/bible-lev-priests/card-05.png",
+        "title": "THE BURNT OFFERING"
+      },
+      {
+        "src": "img/bible-lev-priests/card-06.png",
+        "title": "THE RAM OF CONSECRATION"
+      },
+      {
+        "src": "img/bible-lev-priests/card-07.png",
+        "title": "THE WAVE OFFERING"
+      },
+      {
+        "src": "img/bible-lev-priests/card-08.png",
+        "title": "SEVEN DAYS AT THE DOOR"
+      }
+    ]
+  },
+  {
+    "slug": "bible-lev-holiness",
+    "title": "Laws of Holiness",
+    "credit": "Leviticus 19 (KJV)",
+    "overview": "img/bible-lev-holiness/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-lev-holiness/card-01.png",
+        "title": "BE YE HOLY"
+      },
+      {
+        "src": "img/bible-lev-holiness/card-02.png",
+        "title": "HONOR FATHER AND MOTHER"
+      },
+      {
+        "src": "img/bible-lev-holiness/card-03.png",
+        "title": "NO IDOLS"
+      },
+      {
+        "src": "img/bible-lev-holiness/card-04.png",
+        "title": "NO STEALING, NO LYING"
+      },
+      {
+        "src": "img/bible-lev-holiness/card-05.png",
+        "title": "PAY FAIR WAGES"
+      },
+      {
+        "src": "img/bible-lev-holiness/card-06.png",
+        "title": "LOVE THY NEIGHBOR"
+      },
+      {
+        "src": "img/bible-lev-holiness/card-07.png",
+        "title": "HONOR THE AGED"
+      },
+      {
+        "src": "img/bible-lev-holiness/card-08.png",
+        "title": "JUST WEIGHTS"
+      }
+    ]
+  },
+  {
+    "slug": "bible-lev-jubilee",
+    "title": "Sabbath and Jubilee",
+    "credit": "Leviticus 25 (KJV)",
+    "overview": "img/bible-lev-jubilee/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-lev-jubilee/card-01.png",
+        "title": "THE LAND KEEPS SABBATH"
+      },
+      {
+        "src": "img/bible-lev-jubilee/card-02.png",
+        "title": "NO SOWING, NO REAPING"
+      },
+      {
+        "src": "img/bible-lev-jubilee/card-03.png",
+        "title": "THE FIFTIETH YEAR"
+      },
+      {
+        "src": "img/bible-lev-jubilee/card-04.png",
+        "title": "LIBERTY PROCLAIMED"
+      },
+      {
+        "src": "img/bible-lev-jubilee/card-05.png",
+        "title": "EVERY MAN RETURNS"
+      },
+      {
+        "src": "img/bible-lev-jubilee/card-06.png",
+        "title": "NO OPPRESSION"
+      },
+      {
+        "src": "img/bible-lev-jubilee/card-07.png",
+        "title": "THE LAND IS MINE"
+      }
+    ]
+  },
+  {
+    "slug": "bible-lev-vows",
+    "title": "Vows and Dedications",
+    "credit": "Leviticus 27 (KJV)",
+    "overview": "img/bible-lev-vows/overview.png",
+    "cards": [
+      {
+        "src": "img/bible-lev-vows/card-01.png",
+        "title": "VOWS OF PERSONS"
+      },
+      {
+        "src": "img/bible-lev-vows/card-02.png",
+        "title": "VOWS OF BEASTS"
+      },
+      {
+        "src": "img/bible-lev-vows/card-03.png",
+        "title": "VOWS OF HOUSES"
+      },
+      {
+        "src": "img/bible-lev-vows/card-04.png",
+        "title": "VOWS OF FIELDS"
+      },
+      {
+        "src": "img/bible-lev-vows/card-05.png",
+        "title": "THE TITHE IS HOLY"
+      }
+    ]
   }
 ];
