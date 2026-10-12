@@ -18172,5 +18172,345 @@ window.MANIFEST = [
         "title": "THE NAMES WHICH ADAM GAVE THE"
       }
     ]
+  },
+  {
+    "slug": "meyer-david-02",
+    "title": "SUMMONED TO THE PALACE",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-david-02/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-david-02/card-01.png",
+        "title": "STARS DIE OUT AND BECOME INVISIBLE"
+      },
+      {
+        "src": "img/meyer-david-02/card-02.png",
+        "title": "HE HAD LOST ELIAB IN THE"
+      },
+      {
+        "src": "img/meyer-david-02/card-03.png",
+        "title": "THE TEMPTATION WAS SPECIOUS AND MASTERFUL"
+      },
+      {
+        "src": "img/meyer-david-02/card-04.png",
+        "title": "LISTEN TO THE LAUGHTER OF THE"
+      },
+      {
+        "src": "img/meyer-david-02/card-05.png",
+        "title": "TO COME IN THE NAME OF"
+      },
+      {
+        "src": "img/meyer-david-02/card-06.png",
+        "title": "THERE WAS EVIDENTLY NO ATTEMPT MADE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-david-03",
+    "title": "THE FUGITIVE YEARS",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-david-03/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-david-03/card-01.png",
+        "title": "A CHILL STRUCK TO HIS HEART"
+      },
+      {
+        "src": "img/meyer-david-03/card-02.png",
+        "title": "LET US WALK CIRCUMSPECTLY WATCHFULLY PRAYERFULLY"
+      },
+      {
+        "src": "img/meyer-david-03/card-03.png",
+        "title": "IT IS IMPOSSIBLE NOT TO TURN"
+      },
+      {
+        "src": "img/meyer-david-03/card-04.png",
+        "title": "IN THIS BREASTPLATE PERHAPS PART OF"
+      },
+      {
+        "src": "img/meyer-david-03/card-05.png",
+        "title": "DAVID AND HIS MEN IN NUMBER"
+      },
+      {
+        "src": "img/meyer-david-03/card-06.png",
+        "title": "THE HILL OF HACHILAH"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-david-04",
+    "title": "SONGS BORN OF SORROW",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-david-04/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-david-04/card-01.png",
+        "title": "AGAIN SAUL HAD BEEN IN HIS"
+      },
+      {
+        "src": "img/meyer-david-04/card-02.png",
+        "title": "WHEN SAUL WAS AWAY FROM THIS"
+      },
+      {
+        "src": "img/meyer-david-04/card-03.png",
+        "title": "IT WAS THE MEANEST KIND OF"
+      },
+      {
+        "src": "img/meyer-david-04/card-04.png",
+        "title": "IN THAT WHISPERED COLLOQUY OVER THE"
+      },
+      {
+        "src": "img/meyer-david-04/card-05.png",
+        "title": "HOW PRECISELY DO THESE SYMPTOMS OF"
+      },
+      {
+        "src": "img/meyer-david-04/card-06.png",
+        "title": "AS DAVID WAS LEAVING THE BATTLE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-david-05",
+    "title": "THE MERCY OF GOD",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-david-05/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-david-05/card-01.png",
+        "title": "IT WAS ALTOGETHER ACCORDING TO GOD"
+      },
+      {
+        "src": "img/meyer-david-05/card-02.png",
+        "title": "MOREOVER HE SENT A MESSAGE OF"
+      },
+      {
+        "src": "img/meyer-david-05/card-03.png",
+        "title": "MIGHTY MEN OF VALOR FROM JUDAH"
+      },
+      {
+        "src": "img/meyer-david-05/card-04.png",
+        "title": "SOMETIMES WE HAVE TO MARCH SOMETIMES"
+      },
+      {
+        "src": "img/meyer-david-05/card-05.png",
+        "title": "THE CONCEPTION OF THE RIGHTEOUS RULER"
+      },
+      {
+        "src": "img/meyer-david-05/card-06.png",
+        "title": "THE MOMENT THE PROPHET CORDIALLY ASSENTED"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-david-06",
+    "title": "THE KING IN HIS LATTER DAYS",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/meyer-david-06/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-david-06/card-01.png",
+        "title": "AN IMMENSE BODY OF MEN WAS"
+      },
+      {
+        "src": "img/meyer-david-06/card-02.png",
+        "title": "IN PERFECT PEACE HE ANTICIPATES THE"
+      },
+      {
+        "src": "img/meyer-david-06/card-03.png",
+        "title": "THEN AS A FLASH OF LIGHTNING"
+      },
+      {
+        "src": "img/meyer-david-06/card-04.png",
+        "title": "IT WAS AS THOUGH GOD STOOPED"
+      },
+      {
+        "src": "img/meyer-david-06/card-05.png",
+        "title": "THEY MUST HAVE KNOWN GOD'S ASSURANCE"
+      },
+      {
+        "src": "img/meyer-david-06/card-06.png",
+        "title": "YOUNG PEOPLE NEVER SURRENDER YOUR IDEAL"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joshua-01",
+    "title": "THE BOOK AND THE COMMISSION",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-joshua-01/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joshua-01/card-01.png",
+        "title": "IT IS REMARKABLE HOW CONSTANTLY THE"
+      },
+      {
+        "src": "img/meyer-joshua-01/card-02.png",
+        "title": "MOST OF US ARE TOO STRONG"
+      },
+      {
+        "src": "img/meyer-joshua-01/card-03.png",
+        "title": "DO YOU DWELL IN A LAND"
+      },
+      {
+        "src": "img/meyer-joshua-01/card-04.png",
+        "title": "HE WHO HAD NURTURED RAHAB AND"
+      },
+      {
+        "src": "img/meyer-joshua-01/card-05.png",
+        "title": "TEST YOURSELF BY THE PROMISES MADE"
+      },
+      {
+        "src": "img/meyer-joshua-01/card-06.png",
+        "title": "IT MAY SEEM AS IF HE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joshua-02",
+    "title": "PASSING THE JORDAN",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-joshua-02/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joshua-02/card-01.png",
+        "title": "THERE THE FIRST CAMP WAS PITCHED"
+      },
+      {
+        "src": "img/meyer-joshua-02/card-02.png",
+        "title": "THE LAND WAS NOT TO BE"
+      },
+      {
+        "src": "img/meyer-joshua-02/card-03.png",
+        "title": "HE DID NOT REFER TO ANY"
+      },
+      {
+        "src": "img/meyer-joshua-02/card-04.png",
+        "title": "AS TO THE TIME IT WAS"
+      },
+      {
+        "src": "img/meyer-joshua-02/card-05.png",
+        "title": "THE SAINTS OF GOD HAVE NEED"
+      },
+      {
+        "src": "img/meyer-joshua-02/card-06.png",
+        "title": "PROBABLY TO THE LAST OF THE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joshua-03",
+    "title": "JERICHO AND THE VALLEY OF ACHOR",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-joshua-03/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joshua-03/card-01.png",
+        "title": "I HAVE MET WITH OTHERS WHO"
+      },
+      {
+        "src": "img/meyer-joshua-03/card-02.png",
+        "title": "ONLY THE SON OF GOD COULD"
+      },
+      {
+        "src": "img/meyer-joshua-03/card-03.png",
+        "title": "PROBABLY THERE IS NO SINGLE TEMPTATION"
+      },
+      {
+        "src": "img/meyer-joshua-03/card-04.png",
+        "title": "WE LIKE TO AIR OUR GRIEVANCES"
+      },
+      {
+        "src": "img/meyer-joshua-03/card-05.png",
+        "title": "WHOEVER UNDERTAKES IT SHOULD DO SO"
+      },
+      {
+        "src": "img/meyer-joshua-03/card-06.png",
+        "title": "IN EACH ONE OF US THERE"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joshua-04",
+    "title": "CLAIMING VICTORY",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/meyer-joshua-04/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joshua-04/card-01.png",
+        "title": "UP THE SLOPES OF EBAL FINDING"
+      },
+      {
+        "src": "img/meyer-joshua-04/card-02.png",
+        "title": "LET US FIRST BE QUITE SURE"
+      },
+      {
+        "src": "img/meyer-joshua-04/card-03.png",
+        "title": "THERE IS TOO LITTLE OF THIS"
+      },
+      {
+        "src": "img/meyer-joshua-04/card-04.png",
+        "title": "THE STRENGTH OF THE FOE WAS"
+      },
+      {
+        "src": "img/meyer-joshua-04/card-05.png",
+        "title": "NOR CAN WE BETTER CLOSE OUR"
+      },
+      {
+        "src": "img/meyer-joshua-04/card-06.png",
+        "title": "OUR BEST WORK FOR GOD CANNOT"
+      }
+    ]
+  },
+  {
+    "slug": "meyer-joshua-05",
+    "title": "REST IN THE HEAVENLIES",
+    "credit": "F. B. Meyer",
+    "lane": "servants",
+    "topic": "bible",
+    "overview": "img/meyer-joshua-05/overview.png",
+    "cards": [
+      {
+        "src": "img/meyer-joshua-05/card-01.png",
+        "title": "WE FIGHT AND STRIVE AND VOW"
+      },
+      {
+        "src": "img/meyer-joshua-05/card-02.png",
+        "title": "LET US CONSIDER WHETHER THERE MAY"
+      },
+      {
+        "src": "img/meyer-joshua-05/card-03.png",
+        "title": "IF WE UNDERSTAND THE TEACHING OF"
+      },
+      {
+        "src": "img/meyer-joshua-05/card-04.png",
+        "title": "OFTEN AS HE LAY DOWN TO"
+      },
+      {
+        "src": "img/meyer-joshua-05/card-05.png",
+        "title": "THIS BRINGS US OUT UPON THE"
+      },
+      {
+        "src": "img/meyer-joshua-05/card-06.png",
+        "title": "HOW MUCH WE MISS THE NOMAD"
+      }
+    ]
   }
 ];
