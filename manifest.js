@@ -8262,5 +8262,1017 @@ window.MANIFEST = [
         "title": "NOW OR NEVER"
       }
     ]
+  },
+  {
+    "slug": "spurgeon-sermon-christ-crucified",
+    "title": "CHRIST CRUCIFIED",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-sermon-christ-crucified/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-christ-crucified/card-01.png",
+        "title": "A GOSPEL REJECTED"
+      },
+      {
+        "src": "img/spurgeon-sermon-christ-crucified/card-02.png",
+        "title": "THE HEART UNCHANGED"
+      },
+      {
+        "src": "img/spurgeon-sermon-christ-crucified/card-03.png",
+        "title": "THE TWO CALLS"
+      },
+      {
+        "src": "img/spurgeon-sermon-christ-crucified/card-04.png",
+        "title": "NO WITHSTANDING GOD"
+      },
+      {
+        "src": "img/spurgeon-sermon-christ-crucified/card-05.png",
+        "title": "A THING OF POWER"
+      },
+      {
+        "src": "img/spurgeon-sermon-christ-crucified/card-06.png",
+        "title": "THE MARTYR'S STRENGTH"
+      },
+      {
+        "src": "img/spurgeon-sermon-christ-crucified/card-07.png",
+        "title": "JUSTICE AND MERCY MARRIED"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-sermon-compel-them-to-come-in",
+    "title": "COMPEL THEM TO COME IN",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "purpose",
+    "overview": "img/spurgeon-sermon-compel-them-to-come-in/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-compel-them-to-come-in/card-01.png",
+        "title": "IN HASTE TO OBEY"
+      },
+      {
+        "src": "img/spurgeon-sermon-compel-them-to-come-in/card-02.png",
+        "title": "COME AND WELCOME"
+      },
+      {
+        "src": "img/spurgeon-sermon-compel-them-to-come-in/card-03.png",
+        "title": "AN AMBASSADOR OF HEAVEN"
+      },
+      {
+        "src": "img/spurgeon-sermon-compel-them-to-come-in/card-04.png",
+        "title": "A LOVING RECEPTION"
+      },
+      {
+        "src": "img/spurgeon-sermon-compel-them-to-come-in/card-05.png",
+        "title": "THE WORSE, THE MORE WELCOME"
+      },
+      {
+        "src": "img/spurgeon-sermon-compel-them-to-come-in/card-06.png",
+        "title": "GO TO CHRIST WITHOUT FAITH"
+      },
+      {
+        "src": "img/spurgeon-sermon-compel-them-to-come-in/card-07.png",
+        "title": "NO INVITATION FOR TO-MORROW"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-sermon-election-from-the-beginning",
+    "title": "ELECTION",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-sermon-election-from-the-beginning/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-election-from-the-beginning/card-01.png",
+        "title": "ALL SCRIPTURE IS PROFITABLE"
+      },
+      {
+        "src": "img/spurgeon-sermon-election-from-the-beginning/card-02.png",
+        "title": "GOD'S TRUTH ON THE RACK"
+      },
+      {
+        "src": "img/spurgeon-sermon-election-from-the-beginning/card-03.png",
+        "title": "ELECTION IS ABSOLUTE"
+      },
+      {
+        "src": "img/spurgeon-sermon-election-from-the-beginning/card-04.png",
+        "title": "NOTHING TO RECOMMEND ME"
+      },
+      {
+        "src": "img/spurgeon-sermon-election-from-the-beginning/card-05.png",
+        "title": "ELECT UNTO HOLINESS"
+      },
+      {
+        "src": "img/spurgeon-sermon-election-from-the-beginning/card-06.png",
+        "title": "LOOK TO JESUS AND LIVE"
+      },
+      {
+        "src": "img/spurgeon-sermon-election-from-the-beginning/card-07.png",
+        "title": "NO PILLOW TO SLEEP ON"
+      },
+      {
+        "src": "img/spurgeon-sermon-election-from-the-beginning/card-08.png",
+        "title": "LOVED BEFORE THOU HADST A BEING"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-sermon-he-first-loved-us",
+    "title": "HE FIRST LOVED US",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/spurgeon-sermon-he-first-loved-us/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-he-first-loved-us/card-01.png",
+        "title": "LOVE'S PARENT IS GOD'S LOVE"
+      },
+      {
+        "src": "img/spurgeon-sermon-he-first-loved-us/card-02.png",
+        "title": "LOVE FEEDS ON LOVE"
+      },
+      {
+        "src": "img/spurgeon-sermon-he-first-loved-us/card-03.png",
+        "title": "BORN IN GETHSEMANE"
+      },
+      {
+        "src": "img/spurgeon-sermon-he-first-loved-us/card-04.png",
+        "title": "HE THOUGHT OF THEE BEFORE THOU HADST A BEING"
+      },
+      {
+        "src": "img/spurgeon-sermon-he-first-loved-us/card-05.png",
+        "title": "DELIGHT IN EVERY DENOMINATION"
+      },
+      {
+        "src": "img/spurgeon-sermon-he-first-loved-us/card-06.png",
+        "title": "FEED CHRIST, FEED THEM"
+      },
+      {
+        "src": "img/spurgeon-sermon-he-first-loved-us/card-07.png",
+        "title": "HIS LOVE IS STILL AS GREAT"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-sermon-heaven-and-hell",
+    "title": "HEAVEN AND HELL",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/spurgeon-sermon-heaven-and-hell/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-heaven-and-hell/card-01.png",
+        "title": "REST FOR THE WEARY"
+      },
+      {
+        "src": "img/spurgeon-sermon-heaven-and-hell/card-02.png",
+        "title": "MORE IN HEAVEN THAN AMONG THE LOST"
+      },
+      {
+        "src": "img/spurgeon-sermon-heaven-and-hell/card-03.png",
+        "title": "GOD'S SHALLS AND WILLS"
+      },
+      {
+        "src": "img/spurgeon-sermon-heaven-and-hell/card-04.png",
+        "title": "IT MAKES YOU WILLING"
+      },
+      {
+        "src": "img/spurgeon-sermon-heaven-and-hell/card-05.png",
+        "title": "THE CHIEF OF SINNERS CALLED"
+      },
+      {
+        "src": "img/spurgeon-sermon-heaven-and-hell/card-06.png",
+        "title": "GOD CANNOT ASK PAYMENT TWICE"
+      },
+      {
+        "src": "img/spurgeon-sermon-heaven-and-hell/card-07.png",
+        "title": "SEEK GOD FOR YOURSELF"
+      },
+      {
+        "src": "img/spurgeon-sermon-heaven-and-hell/card-08.png",
+        "title": "WEEPING AND GNASHING OF TEETH"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-sermon-pauls-first-prayer",
+    "title": "PAUL'S FIRST PRAYER",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/spurgeon-sermon-pauls-first-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-pauls-first-prayer/card-01.png",
+        "title": "PRAYERS ARE NOTICED IN HEAVEN"
+      },
+      {
+        "src": "img/spurgeon-sermon-pauls-first-prayer/card-02.png",
+        "title": "BEFORE THEY CALL, I WILL ANSWER"
+      },
+      {
+        "src": "img/spurgeon-sermon-pauls-first-prayer/card-03.png",
+        "title": "HE BREATHES, HE IS ALIVE"
+      },
+      {
+        "src": "img/spurgeon-sermon-pauls-first-prayer/card-04.png",
+        "title": "ONE HEARTY PRAYER"
+      },
+      {
+        "src": "img/spurgeon-sermon-pauls-first-prayer/card-05.png",
+        "title": "THE TEST OF SINCERE RELIGION"
+      },
+      {
+        "src": "img/spurgeon-sermon-pauls-first-prayer/card-06.png",
+        "title": "THE MARKS OF ELECTION"
+      },
+      {
+        "src": "img/spurgeon-sermon-pauls-first-prayer/card-07.png",
+        "title": "IT COMMENCED IN MY CLOSET"
+      },
+      {
+        "src": "img/spurgeon-sermon-pauls-first-prayer/card-08.png",
+        "title": "DEATHBED PRAYER"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-sermon-power-of-the-holy-ghost",
+    "title": "THE POWER OF THE HOLY GHOST",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-sermon-power-of-the-holy-ghost/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-power-of-the-holy-ghost/card-01.png",
+        "title": "POWER BELONGS TO GOD"
+      },
+      {
+        "src": "img/spurgeon-sermon-power-of-the-holy-ghost/card-02.png",
+        "title": "ORDER OUT OF CONFUSION"
+      },
+      {
+        "src": "img/spurgeon-sermon-power-of-the-holy-ghost/card-03.png",
+        "title": "NAUGHT LIKE THE POWER OF THE SPIRIT"
+      },
+      {
+        "src": "img/spurgeon-sermon-power-of-the-holy-ghost/card-04.png",
+        "title": "POWER OVER MAN'S HEART"
+      },
+      {
+        "src": "img/spurgeon-sermon-power-of-the-holy-ghost/card-05.png",
+        "title": "FREE-WILL IN PARADISE"
+      },
+      {
+        "src": "img/spurgeon-sermon-power-of-the-holy-ghost/card-06.png",
+        "title": "CAN THESE DRY BONES LIVE?"
+      },
+      {
+        "src": "img/spurgeon-sermon-power-of-the-holy-ghost/card-07.png",
+        "title": "THE POWER OF THE SPIRIT IS OUR POWER"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-sermon-the-immutable-god",
+    "title": "THE IMMUTABLE GOD",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "wisdom",
+    "overview": "img/spurgeon-sermon-the-immutable-god/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-the-immutable-god/card-01.png",
+        "title": "THE STUDY THAT ENLARGES THE SOUL"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-immutable-god/card-02.png",
+        "title": "ALL CREATURES CHANGE, GOD DOES NOT"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-immutable-god/card-03.png",
+        "title": "SEMPER IDEM ON EVERY ATTRIBUTE"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-immutable-god/card-04.png",
+        "title": "GOD ALTERS NOT HIS PLANS"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-immutable-god/card-05.png",
+        "title": "YOU CHANGED, NOT THE PROMISE"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-immutable-god/card-06.png",
+        "title": "A PERFECT BEING CANNOT CHANGE"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-immutable-god/card-07.png",
+        "title": "LOVED ONCE, LOVED FOR EVER"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-sermon-the-new-birth",
+    "title": "THE NEW BIRTH",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/spurgeon-sermon-the-new-birth/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-the-new-birth/card-01.png",
+        "title": "THE NAME IS NOT THE NATURE"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-new-birth/card-02.png",
+        "title": "WHITEWASHED SEPULCHRES"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-new-birth/card-03.png",
+        "title": "SUCH REGENERATION NOT WORTH HAVING"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-new-birth/card-04.png",
+        "title": "THE SPIRIT MUST OPERATE"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-new-birth/card-05.png",
+        "title": "HEAVEN IS A STATE OF THE HEART"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-new-birth/card-06.png",
+        "title": "DEATH FIXES THE STATE"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-new-birth/card-07.png",
+        "title": "ESCAPE FIRST, QUESTIONS AFTER"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-sermon-the-precious-blood",
+    "title": "THE PRECIOUS BLOOD",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-sermon-the-precious-blood/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-the-precious-blood/card-01.png",
+        "title": "GOD'S PEOPLE ARE ALWAYS SAFE"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-precious-blood/card-02.png",
+        "title": "NOTHING BUT THE BLOOD CAN SAVE"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-precious-blood/card-03.png",
+        "title": "THE BLOOD MUST SAVE ALONE"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-precious-blood/card-04.png",
+        "title": "NOT YOUR BELIEVING, BUT CHRIST'S DYING"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-precious-blood/card-05.png",
+        "title": "NO CASE BEYOND ITS VIRTUE"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-precious-blood/card-06.png",
+        "title": "THE BLOOD SAVES SURELY"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-precious-blood/card-07.png",
+        "title": "GOD SEES THE BLOOD"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-sermon-the-prodigals-return",
+    "title": "THE PRODIGAL'S RETURN",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "family",
+    "overview": "img/spurgeon-sermon-the-prodigals-return/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-the-prodigals-return/card-01.png",
+        "title": "BELIEVE GOD TO BE WHAT HE IS"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-prodigals-return/card-02.png",
+        "title": "THE LIGHT SHOWS THE DARKNESS"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-prodigals-return/card-03.png",
+        "title": "NO SINCERE SEEKER EVER PERISHED"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-prodigals-return/card-04.png",
+        "title": "GOD SAW THAT TEAR"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-prodigals-return/card-05.png",
+        "title": "HE IS NOT ANGRY WITH YOU"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-prodigals-return/card-06.png",
+        "title": "HE RAN AND KISSED HIM"
+      },
+      {
+        "src": "img/spurgeon-sermon-the-prodigals-return/card-07.png",
+        "title": "DRY YOUR TEARS"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-sermon-true-prayer-true-power",
+    "title": "TRUE PRAYER, TRUE POWER",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/spurgeon-sermon-true-prayer-true-power/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-sermon-true-prayer-true-power/card-01.png",
+        "title": "DEFINITE OBJECTS IN PRAYER"
+      },
+      {
+        "src": "img/spurgeon-sermon-true-prayer-true-power/card-02.png",
+        "title": "TELL HIM WHAT YOU WANT"
+      },
+      {
+        "src": "img/spurgeon-sermon-true-prayer-true-power/card-03.png",
+        "title": "YOUR OWN WORDS ARE BEST"
+      },
+      {
+        "src": "img/spurgeon-sermon-true-prayer-true-power/card-04.png",
+        "title": "ONE ARROW AT A TIME"
+      },
+      {
+        "src": "img/spurgeon-sermon-true-prayer-true-power/card-05.png",
+        "title": "THE GRANDEST POWER IN THE UNIVERSE"
+      },
+      {
+        "src": "img/spurgeon-sermon-true-prayer-true-power/card-06.png",
+        "title": "POWER TO BE HEARD BEYOND THE STARS"
+      },
+      {
+        "src": "img/spurgeon-sermon-true-prayer-true-power/card-07.png",
+        "title": "GOD BREATHES THE DESIRE"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-affliction",
+    "title": "AFFLICTION AND THE CHRISTIAN",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-affliction/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-affliction/card-01.png",
+        "title": "THE JEWELS OF A CHRISTIAN"
+      },
+      {
+        "src": "img/spurgeon-me-affliction/card-02.png",
+        "title": "LOOK UPON MINE AFFLICTION"
+      },
+      {
+        "src": "img/spurgeon-me-affliction/card-03.png",
+        "title": "SUFFERING WITH CHRIST"
+      },
+      {
+        "src": "img/spurgeon-me-affliction/card-04.png",
+        "title": "TRIALS MAKE THE PROMISE SWEET"
+      },
+      {
+        "src": "img/spurgeon-me-affliction/card-05.png",
+        "title": "WHY SHOULDST THOU MURMUR"
+      },
+      {
+        "src": "img/spurgeon-me-affliction/card-06.png",
+        "title": "TRIALS LURK ON ALL ROADS"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-blood-of-christ",
+    "title": "THE PRECIOUS BLOOD OF CHRIST",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-blood-of-christ/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-blood-of-christ/card-01.png",
+        "title": "PRECIOUS IN ITS PRESERVING POWER"
+      },
+      {
+        "src": "img/spurgeon-me-blood-of-christ/card-02.png",
+        "title": "THAT BLOOD ALONE"
+      },
+      {
+        "src": "img/spurgeon-me-blood-of-christ/card-03.png",
+        "title": "PRICELESS BLOOD"
+      },
+      {
+        "src": "img/spurgeon-me-blood-of-christ/card-04.png",
+        "title": "NOT VENGEANCE BUT MERCY"
+      },
+      {
+        "src": "img/spurgeon-me-blood-of-christ/card-05.png",
+        "title": "OBLIVIOUS OF SELF"
+      },
+      {
+        "src": "img/spurgeon-me-blood-of-christ/card-06.png",
+        "title": "NO PARDON WITHOUT ATONEMENT"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-faith",
+    "title": "THE LIFE OF FAITH",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-faith/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-faith/card-01.png",
+        "title": "WITH FAITH I CAN DO ALL THINGS"
+      },
+      {
+        "src": "img/spurgeon-me-faith/card-02.png",
+        "title": "TAKE GOOD CARE OF THY FAITH"
+      },
+      {
+        "src": "img/spurgeon-me-faith/card-03.png",
+        "title": "THE HEARING OF FAITH"
+      },
+      {
+        "src": "img/spurgeon-me-faith/card-04.png",
+        "title": "PRECIOUS TO DIE BY"
+      },
+      {
+        "src": "img/spurgeon-me-faith/card-05.png",
+        "title": "TRIED FAITH BRINGS EXPERIENCE"
+      },
+      {
+        "src": "img/spurgeon-me-faith/card-06.png",
+        "title": "A LIVING FAITH"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-forgiveness",
+    "title": "THE FORGIVENESS OF SINS",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-forgiveness/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-forgiveness/card-01.png",
+        "title": "A PERFECTLY PARDONED SOUL"
+      },
+      {
+        "src": "img/spurgeon-me-forgiveness/card-02.png",
+        "title": "POWER TO PARDON THEE"
+      },
+      {
+        "src": "img/spurgeon-me-forgiveness/card-03.png",
+        "title": "SIN IS FORGIVEN"
+      },
+      {
+        "src": "img/spurgeon-me-forgiveness/card-04.png",
+        "title": "FORGIVENESS IS A PRESENT THING"
+      },
+      {
+        "src": "img/spurgeon-me-forgiveness/card-05.png",
+        "title": "FORGIVE, AS YOU HOPE TO BE FORGIVEN"
+      },
+      {
+        "src": "img/spurgeon-me-forgiveness/card-06.png",
+        "title": "THE SIN OF A PARDONED SOUL"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-gods-faithfulness",
+    "title": "THE FAITHFULNESS OF GOD",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-gods-faithfulness/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-gods-faithfulness/card-01.png",
+        "title": "AN EVERLASTING COVENANT"
+      },
+      {
+        "src": "img/spurgeon-me-gods-faithfulness/card-02.png",
+        "title": "FAITHFUL SAYINGS"
+      },
+      {
+        "src": "img/spurgeon-me-gods-faithfulness/card-03.png",
+        "title": "GOD'S REMEMBERING ME"
+      },
+      {
+        "src": "img/spurgeon-me-gods-faithfulness/card-04.png",
+        "title": "COVENANT STRENGTH"
+      },
+      {
+        "src": "img/spurgeon-me-gods-faithfulness/card-05.png",
+        "title": "A FAITHFUL AND IMMUTABLE PRESERVER"
+      },
+      {
+        "src": "img/spurgeon-me-gods-faithfulness/card-06.png",
+        "title": "THE QUIET RESTING-PLACES"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-gods-promises",
+    "title": "THE PROMISES OF GOD",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-gods-promises/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-gods-promises/card-01.png",
+        "title": "DO AS THOU HAST SAID"
+      },
+      {
+        "src": "img/spurgeon-me-gods-promises/card-02.png",
+        "title": "THE VERY WORDS OF GOD"
+      },
+      {
+        "src": "img/spurgeon-me-gods-promises/card-03.png",
+        "title": "THE PROMISE MUST AND WILL STAND"
+      },
+      {
+        "src": "img/spurgeon-me-gods-promises/card-04.png",
+        "title": "HE LOOKED TO THE CREATURE"
+      },
+      {
+        "src": "img/spurgeon-me-gods-promises/card-05.png",
+        "title": "TAKE IT BACK TO THE GREAT PROMISER"
+      },
+      {
+        "src": "img/spurgeon-me-gods-promises/card-06.png",
+        "title": "ENOUGH REASON TO ABIDE FIRM"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-grace",
+    "title": "GRACE WITHOUT MEASURE",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-grace/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-grace/card-01.png",
+        "title": "GRACE WILL LIGHT A CANDLE"
+      },
+      {
+        "src": "img/spurgeon-me-grace/card-02.png",
+        "title": "PLENTEOUS GRACE"
+      },
+      {
+        "src": "img/spurgeon-me-grace/card-03.png",
+        "title": "GRACE FOR GRACE"
+      },
+      {
+        "src": "img/spurgeon-me-grace/card-04.png",
+        "title": "HE CANNOT HAVE TOO MUCH GRACE"
+      },
+      {
+        "src": "img/spurgeon-me-grace/card-05.png",
+        "title": "FRUCTIFYING GRACE"
+      },
+      {
+        "src": "img/spurgeon-me-grace/card-06.png",
+        "title": "GRACE THE TOPSTONE"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-heaven",
+    "title": "HEAVEN, OUR COUNTRY",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-heaven/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-heaven/card-01.png",
+        "title": "HEAVEN AND CHRIST THE SAME THING"
+      },
+      {
+        "src": "img/spurgeon-me-heaven/card-02.png",
+        "title": "CITIZENS IN HEAVEN"
+      },
+      {
+        "src": "img/spurgeon-me-heaven/card-03.png",
+        "title": "PARTAKERS OF THE HEAVENLY CALLING"
+      },
+      {
+        "src": "img/spurgeon-me-heaven/card-04.png",
+        "title": "TWO HEAVENS"
+      },
+      {
+        "src": "img/spurgeon-me-heaven/card-05.png",
+        "title": "A LITTLE STAY ON EARTH"
+      },
+      {
+        "src": "img/spurgeon-me-heaven/card-06.png",
+        "title": "FREE ACCESS TO THE INNER COURTS"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-holy-spirit",
+    "title": "THE HOLY SPIRIT OUR COMFORTER",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-holy-spirit/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-holy-spirit/card-01.png",
+        "title": "UNLESS THE SPIRIT SHALL REVEAL"
+      },
+      {
+        "src": "img/spurgeon-me-holy-spirit/card-02.png",
+        "title": "EVERMORE THE COMFORTER"
+      },
+      {
+        "src": "img/spurgeon-me-holy-spirit/card-03.png",
+        "title": "THE CHANNEL OF THE SPIRIT OF GRACE"
+      },
+      {
+        "src": "img/spurgeon-me-holy-spirit/card-04.png",
+        "title": "THROUGH THE SPIRIT'S WORK"
+      },
+      {
+        "src": "img/spurgeon-me-holy-spirit/card-05.png",
+        "title": "THE EARNEST OF OUR INHERITANCE"
+      },
+      {
+        "src": "img/spurgeon-me-holy-spirit/card-06.png",
+        "title": "MATCHLESS CONSOLATION"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-joy",
+    "title": "JOY IN THE LORD",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-joy/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-joy/card-01.png",
+        "title": "GOD, MY EXCEEDING JOY"
+      },
+      {
+        "src": "img/spurgeon-me-joy/card-02.png",
+        "title": "DOUBLE JOY"
+      },
+      {
+        "src": "img/spurgeon-me-joy/card-03.png",
+        "title": "THE OIL OF GLADNESS"
+      },
+      {
+        "src": "img/spurgeon-me-joy/card-04.png",
+        "title": "JOY OVER THEE WITH SINGING"
+      },
+      {
+        "src": "img/spurgeon-me-joy/card-05.png",
+        "title": "MAKE THE SAVIOUR GLAD"
+      },
+      {
+        "src": "img/spurgeon-me-joy/card-06.png",
+        "title": "LAUGH FOR JOY WITH ME"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-love-of-god",
+    "title": "THE LOVE OF GOD IN CHRIST",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-love-of-god/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-love-of-god/card-01.png",
+        "title": "LOVE MUST FEED ON LOVE"
+      },
+      {
+        "src": "img/spurgeon-me-love-of-god/card-02.png",
+        "title": "AN EVERLASTING LOVE"
+      },
+      {
+        "src": "img/spurgeon-me-love-of-god/card-03.png",
+        "title": "THE MATCHLESS LOVER OF SOULS"
+      },
+      {
+        "src": "img/spurgeon-me-love-of-god/card-04.png",
+        "title": "BECAUSE HE FIRST LOVED US"
+      },
+      {
+        "src": "img/spurgeon-me-love-of-god/card-05.png",
+        "title": "DO YOU LOVE HIM"
+      },
+      {
+        "src": "img/spurgeon-me-love-of-god/card-06.png",
+        "title": "AN ENDURING LOVE"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-praise",
+    "title": "PRAISE AND THANKSGIVING",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-praise/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-praise/card-01.png",
+        "title": "GIRDLE THE EARTH WITH PRAISES"
+      },
+      {
+        "src": "img/spurgeon-me-praise/card-02.png",
+        "title": "REDEEMING LOVE THE LOUDEST NOTE"
+      },
+      {
+        "src": "img/spurgeon-me-praise/card-03.png",
+        "title": "GOOD TIDINGS OF GREAT JOY"
+      },
+      {
+        "src": "img/spurgeon-me-praise/card-04.png",
+        "title": "PRAISE FOLLOWS ANSWERED PRAYER"
+      },
+      {
+        "src": "img/spurgeon-me-praise/card-05.png",
+        "title": "PERPETUAL PRAISE AT ALL HOURS"
+      },
+      {
+        "src": "img/spurgeon-me-praise/card-06.png",
+        "title": "HE HIMSELF GIVE ME THE SONG"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-prayer",
+    "title": "THE POWER OF PRAYER",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/spurgeon-me-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-prayer/card-01.png",
+        "title": "IT IS ESSENTIAL THAT IT BE RED HOT"
+      },
+      {
+        "src": "img/spurgeon-me-prayer/card-02.png",
+        "title": "BE MUCH IN SOLITARY PRAYER"
+      },
+      {
+        "src": "img/spurgeon-me-prayer/card-03.png",
+        "title": "THE PRELUDE OF GREAT MERCY"
+      },
+      {
+        "src": "img/spurgeon-me-prayer/card-04.png",
+        "title": "HOW COLD THY PRAYERS HAVE BEEN"
+      },
+      {
+        "src": "img/spurgeon-me-prayer/card-05.png",
+        "title": "PRAYER NEVER RUSTS"
+      },
+      {
+        "src": "img/spurgeon-me-prayer/card-06.png",
+        "title": "AN INVENTORY OF WANTS"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-repentance",
+    "title": "SIN AND REPENTANCE",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/spurgeon-me-repentance/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-repentance/card-01.png",
+        "title": "TOO CHOICE A FLOWER"
+      },
+      {
+        "src": "img/spurgeon-me-repentance/card-02.png",
+        "title": "BY DEGREES FAMILIAR WITH SIN"
+      },
+      {
+        "src": "img/spurgeon-me-repentance/card-03.png",
+        "title": "NO SIN IN GOD'S BOOK"
+      },
+      {
+        "src": "img/spurgeon-me-repentance/card-04.png",
+        "title": "SIN WILL NEVER HAVE DOMINION"
+      },
+      {
+        "src": "img/spurgeon-me-repentance/card-05.png",
+        "title": "I MAY FALL TOMORROW"
+      },
+      {
+        "src": "img/spurgeon-me-repentance/card-06.png",
+        "title": "HE CARRIED YOUR SIN"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-rest",
+    "title": "THE REST WHICH REMAINETH",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-rest/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-rest/card-01.png",
+        "title": "HERE PARTIAL, THERE PERFECT"
+      },
+      {
+        "src": "img/spurgeon-me-rest/card-02.png",
+        "title": "THE REST WHICH REMAINETH"
+      },
+      {
+        "src": "img/spurgeon-me-rest/card-03.png",
+        "title": "NO REST OUT OF THE ARK"
+      },
+      {
+        "src": "img/spurgeon-me-rest/card-04.png",
+        "title": "REST WHERE THOU ART"
+      },
+      {
+        "src": "img/spurgeon-me-rest/card-05.png",
+        "title": "A HAVEN OF DELIGHT"
+      },
+      {
+        "src": "img/spurgeon-me-rest/card-06.png",
+        "title": "THOU CANST NOT FAIL OF ENTERING"
+      }
+    ]
+  },
+  {
+    "slug": "spurgeon-me-the-cross",
+    "title": "THE CROSS OF CHRIST",
+    "credit": "Charles Spurgeon",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/spurgeon-me-the-cross/overview.png",
+    "cards": [
+      {
+        "src": "img/spurgeon-me-the-cross/card-01.png",
+        "title": "NOT YOUR CROSS, BUT CHRIST'S"
+      },
+      {
+        "src": "img/spurgeon-me-the-cross/card-02.png",
+        "title": "YOUR CROSS IS PREPARED FOR YOU"
+      },
+      {
+        "src": "img/spurgeon-me-the-cross/card-03.png",
+        "title": "THE VIRTUAL DYING OF ALL HIS PEOPLE"
+      },
+      {
+        "src": "img/spurgeon-me-the-cross/card-04.png",
+        "title": "MY SINS CRIED CRUCIFY HIM"
+      },
+      {
+        "src": "img/spurgeon-me-the-cross/card-05.png",
+        "title": "TAKE YOUR SINS TO THE CROSS"
+      },
+      {
+        "src": "img/spurgeon-me-the-cross/card-06.png",
+        "title": "THE FOUNTAIN ALWAYS FULL"
+      }
+    ]
   }
 ];
