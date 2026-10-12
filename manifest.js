@@ -16098,5 +16098,345 @@ window.MANIFEST = [
         "title": "WELL WAS IT FOR PRAYING DANIEL"
       }
     ]
+  },
+  {
+    "slug": "bounds-faith-of-sinners",
+    "title": "THE FAITH OF SINNERS IN PRAYER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-faith-of-sinners/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-faith-of-sinners/card-01.png",
+        "title": "ONE OF THE PECULIAR FEATURES"
+      },
+      {
+        "src": "img/bounds-faith-of-sinners/card-02.png",
+        "title": "IT IS BUT ANOTHER CASE WHERE"
+      },
+      {
+        "src": "img/bounds-faith-of-sinners/card-03.png",
+        "title": "HOW INSTANT STRENUOUS PERSISTENT AND PATHETIC"
+      },
+      {
+        "src": "img/bounds-faith-of-sinners/card-04.png",
+        "title": "BUT IF THE GREAT AND GIFTED"
+      },
+      {
+        "src": "img/bounds-faith-of-sinners/card-05.png",
+        "title": "ACCORDING TO PAUL SUPPLICATIONS PRAYERS INTERCESSIONS"
+      },
+      {
+        "src": "img/bounds-faith-of-sinners/card-06.png",
+        "title": "HOW HEART AFFECTING AND HOW SUBLIME"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-paul-and-his-praying",
+    "title": "PAUL AND HIS PRAYING",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-paul-and-his-praying/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-paul-and-his-praying/card-01.png",
+        "title": "HE WHO STUDIES PAUL'S PRAYING BOTH"
+      },
+      {
+        "src": "img/bounds-paul-and-his-praying/card-02.png",
+        "title": "IT WAS WHILE THEY WERE GOING"
+      },
+      {
+        "src": "img/bounds-paul-and-his-praying/card-03.png",
+        "title": "WHAT A SIGHT TO BEHOLD"
+      },
+      {
+        "src": "img/bounds-paul-and-his-praying/card-04.png",
+        "title": "PAUL HAD MANY MIGHTY FORCES"
+      },
+      {
+        "src": "img/bounds-paul-and-his-praying/card-05.png",
+        "title": "THE PROPHETS OF OLD WERE CHARGED"
+      },
+      {
+        "src": "img/bounds-paul-and-his-praying/card-06.png",
+        "title": "HE ASSUMES ALSO THAT PRAYER WILL"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-ministry-of-prayer",
+    "title": "THE MINISTRY OF PRAYER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-ministry-of-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-ministry-of-prayer/card-01.png",
+        "title": "ILLIMITABLE IN ITS BREADTH EXHAUSTLESS"
+      },
+      {
+        "src": "img/bounds-ministry-of-prayer/card-02.png",
+        "title": "WITHOUT INTERMISSION INCESSANTLY ASSIDUOUSLY DESCRIBES"
+      },
+      {
+        "src": "img/bounds-ministry-of-prayer/card-03.png",
+        "title": "WITHOUT THE PROMISE PRAYER IS ECCENTRIC"
+      },
+      {
+        "src": "img/bounds-ministry-of-prayer/card-04.png",
+        "title": "JACOB PURSUES HIS CASE AND PRESSES"
+      },
+      {
+        "src": "img/bounds-ministry-of-prayer/card-05.png",
+        "title": "HOW GREAT HOW SUBLIME AND HOW"
+      },
+      {
+        "src": "img/bounds-ministry-of-prayer/card-06.png",
+        "title": "PRAYER EMBODIES PRECIPITATES AND LOCATES THEM"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-prayer-and-the-promises",
+    "title": "PRAYER AND THE PROMISES",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-prayer-and-the-promises/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-prayer-and-the-promises/card-01.png",
+        "title": "EVERY PROMISE OF SCRIPTURE"
+      },
+      {
+        "src": "img/bounds-prayer-and-the-promises/card-02.png",
+        "title": "THE PROMISE WAS CLEAR AND DEFINITE"
+      },
+      {
+        "src": "img/bounds-prayer-and-the-promises/card-03.png",
+        "title": "THE HOLY GHOST COMES DOWN INTO"
+      },
+      {
+        "src": "img/bounds-prayer-and-the-promises/card-04.png",
+        "title": "WHATEVER IS LEFT OUT OF WHATSOEVER"
+      },
+      {
+        "src": "img/bounds-prayer-and-the-promises/card-05.png",
+        "title": "EITHER THIS IS"
+      },
+      {
+        "src": "img/bounds-prayer-and-the-promises/card-06.png",
+        "title": "RATHER THE WHOLE LIFE"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-its-possibilities",
+    "title": "PRAYER: ITS POSSIBILITIES",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-its-possibilities/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-its-possibilities/card-01.png",
+        "title": "HE WHO HAS THE SPIRIT"
+      },
+      {
+        "src": "img/bounds-its-possibilities/card-02.png",
+        "title": "YET THE RANGE OF PRAYER"
+      },
+      {
+        "src": "img/bounds-its-possibilities/card-03.png",
+        "title": "TO REACH GOD TO KNOW GOD"
+      },
+      {
+        "src": "img/bounds-its-possibilities/card-04.png",
+        "title": "TO LEAVE BUSINESS AND TIME OUT"
+      },
+      {
+        "src": "img/bounds-its-possibilities/card-05.png",
+        "title": "PAUL IN WRITING TO THE PHILIPPIANS"
+      },
+      {
+        "src": "img/bounds-its-possibilities/card-06.png",
+        "title": "FAITH HAS NEVER WON A VICTORY"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-wide-range-of-prayer",
+    "title": "THE WIDE RANGE OF PRAYER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-wide-range-of-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-wide-range-of-prayer/card-01.png",
+        "title": "NOTHING SO PLEASES GOD IN CONNECTION"
+      },
+      {
+        "src": "img/bounds-wide-range-of-prayer/card-02.png",
+        "title": "THE ALL THINGS THE ALL THINGS"
+      },
+      {
+        "src": "img/bounds-wide-range-of-prayer/card-03.png",
+        "title": "WHAT CONFIDENCE HAVE"
+      },
+      {
+        "src": "img/bounds-wide-range-of-prayer/card-04.png",
+        "title": "WHERE IS NO TIME NOR PLACE"
+      },
+      {
+        "src": "img/bounds-wide-range-of-prayer/card-05.png",
+        "title": "PRAYER HAS THE ABILITY TO DO"
+      },
+      {
+        "src": "img/bounds-wide-range-of-prayer/card-06.png",
+        "title": "THE WORD MEANS MILDNESS FAIRNESS GENTLENESS"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-answered-prayer",
+    "title": "ANSWERED PRAYER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-answered-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-answered-prayer/card-01.png",
+        "title": "THE NEGLECT OF PRAYER"
+      },
+      {
+        "src": "img/bounds-answered-prayer/card-02.png",
+        "title": "HOW MUCH IS THE BITTER"
+      },
+      {
+        "src": "img/bounds-answered-prayer/card-03.png",
+        "title": "IT IS ANSWERED PRAYER WHICH BRINGS"
+      },
+      {
+        "src": "img/bounds-answered-prayer/card-04.png",
+        "title": "THE ANSWER OF HIS PRAYER"
+      },
+      {
+        "src": "img/bounds-answered-prayer/card-05.png",
+        "title": "WE ARE RICH AND STRONG GOOD"
+      },
+      {
+        "src": "img/bounds-answered-prayer/card-06.png",
+        "title": "EAGER IS HE TO ANSWER PRAYER"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-prayer-miracles",
+    "title": "ANSWERED PRAYER AND PRAYER MIRACLES",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-prayer-miracles/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-prayer-miracles/card-01.png",
+        "title": "NEVER DID THE CHURCH NEED MORE"
+      },
+      {
+        "src": "img/bounds-prayer-miracles/card-02.png",
+        "title": "HERE THEY WERE REFILLED"
+      },
+      {
+        "src": "img/bounds-prayer-miracles/card-03.png",
+        "title": "WE MEASURE GOD'S ABILITY AND WILLINGNESS"
+      },
+      {
+        "src": "img/bounds-prayer-miracles/card-04.png",
+        "title": "MANY OF HIS MIGHTY WORKS WERE"
+      },
+      {
+        "src": "img/bounds-prayer-miracles/card-05.png",
+        "title": "THEY HAD BEEN SCHOOLED"
+      },
+      {
+        "src": "img/bounds-prayer-miracles/card-06.png",
+        "title": "HE WHO WORKS MIRACLES BY PRAYING"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-wonders-and-providence",
+    "title": "WONDERS OF GOD THROUGH PRAYER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-wonders-and-providence/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-wonders-and-providence/card-01.png",
+        "title": "IN THE FEARFUL CONTEST"
+      },
+      {
+        "src": "img/bounds-wonders-and-providence/card-02.png",
+        "title": "AND IT SHALL COME TO PASS"
+      },
+      {
+        "src": "img/bounds-wonders-and-providence/card-03.png",
+        "title": "ALL ANSWERS TO PRAYER ARE"
+      },
+      {
+        "src": "img/bounds-wonders-and-providence/card-04.png",
+        "title": "BLESSED ARE THE PURE IN HEART"
+      },
+      {
+        "src": "img/bounds-wonders-and-providence/card-05.png",
+        "title": "JOB DID NOT ATTRIBUTE THESE THINGS"
+      },
+      {
+        "src": "img/bounds-wonders-and-providence/card-06.png",
+        "title": "THE BELIEVER IN THE LAW"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-privilege-princely-sacred",
+    "title": "PRAYER, A PRIVILEGE PRINCELY AND SACRED",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-privilege-princely-sacred/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-privilege-princely-sacred/card-01.png",
+        "title": "THE WORD PRAYER EXPRESSES THE LARGEST"
+      },
+      {
+        "src": "img/bounds-privilege-princely-sacred/card-02.png",
+        "title": "THE SPACE OCCUPIED BY PRAYER"
+      },
+      {
+        "src": "img/bounds-privilege-princely-sacred/card-03.png",
+        "title": "PRAYER IS A PRIVILEGE A SACRED"
+      },
+      {
+        "src": "img/bounds-privilege-princely-sacred/card-04.png",
+        "title": "DEFINITION OF PRAYER SCARCELY BELONGS"
+      },
+      {
+        "src": "img/bounds-privilege-princely-sacred/card-05.png",
+        "title": "IS IT POSSIBLE TO HAVE"
+      },
+      {
+        "src": "img/bounds-privilege-princely-sacred/card-06.png",
+        "title": "THE UNLIMITED SUPERLATIVE AND THE UNLIMITED"
+      }
+    ]
   }
 ];
