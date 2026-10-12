@@ -14198,5 +14198,345 @@ window.MANIFEST = [
         "title": "BY VIRTUE OF ENTERING INTO THAT"
       }
     ]
+  },
+  {
+    "slug": "paxson-sanctification",
+    "title": "CHRIST OUR SANCTIFICATION",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/paxson-sanctification/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-sanctification/card-01.png",
+        "title": "THERE IS A DISTINCT LINE OF"
+      },
+      {
+        "src": "img/paxson-sanctification/card-02.png",
+        "title": "HE WOULD DENY HIS OWN NATURE"
+      },
+      {
+        "src": "img/paxson-sanctification/card-03.png",
+        "title": "JUST HERE I CAN ALMOST HEAR"
+      },
+      {
+        "src": "img/paxson-sanctification/card-04.png",
+        "title": "THROUGH FAITH GOD MAKES REAL IN"
+      },
+      {
+        "src": "img/paxson-sanctification/card-05.png",
+        "title": "AS SOON AS THE BELIEVER REALLY"
+      },
+      {
+        "src": "img/paxson-sanctification/card-06.png",
+        "title": "A HOLY GOD HAS OPENED THE"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-captain-and-conqueror",
+    "title": "CHRIST OUR CAPTAIN AND CONQUEROR",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/paxson-captain-and-conqueror/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-captain-and-conqueror/card-01.png",
+        "title": "WHEN GOD EXALTED HIM TO LORDSHIP"
+      },
+      {
+        "src": "img/paxson-captain-and-conqueror/card-02.png",
+        "title": "A FRIEND WHO WAS EAGERLY PRAYING"
+      },
+      {
+        "src": "img/paxson-captain-and-conqueror/card-03.png",
+        "title": "STAND TAKING THE SHIELD OF FAITH"
+      },
+      {
+        "src": "img/paxson-captain-and-conqueror/card-04.png",
+        "title": "OFF YONDER IN THE RANGE OF"
+      },
+      {
+        "src": "img/paxson-captain-and-conqueror/card-05.png",
+        "title": "THIS PURPOSE GOD KEPT HID IN"
+      },
+      {
+        "src": "img/paxson-captain-and-conqueror/card-06.png",
+        "title": "THE THIRD MARK: AN OVERFLOWING LIFE"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-spirit-filled-life",
+    "title": "THE SPIRIT-FILLED LIFE",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/paxson-spirit-filled-life/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-spirit-filled-life/card-01.png",
+        "title": "JESUS CHRIST PROMISED TO BESTOW A"
+      },
+      {
+        "src": "img/paxson-spirit-filled-life/card-02.png",
+        "title": "IN THE DIVINE PLAN THERE IS"
+      },
+      {
+        "src": "img/paxson-spirit-filled-life/card-03.png",
+        "title": "TO BE FILLED WITH THE HOLY"
+      },
+      {
+        "src": "img/paxson-spirit-filled-life/card-04.png",
+        "title": "THE REPRODUCTION OF CHRIST S HOLY"
+      },
+      {
+        "src": "img/paxson-spirit-filled-life/card-05.png",
+        "title": "JUST BEFORE HIS ASCENSION HE TOLD"
+      },
+      {
+        "src": "img/paxson-spirit-filled-life/card-06.png",
+        "title": "IT IS AVAILABLE, IT IS FOR YOU"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-cleansing",
+    "title": "CLEANSING, THE PREREQUISITE TO FULNESS",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/paxson-cleansing/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-cleansing/card-01.png",
+        "title": "SPIRITUALITY DEPENDS UPON AN HARMONIOUS AND"
+      },
+      {
+        "src": "img/paxson-cleansing/card-02.png",
+        "title": "THE RIGHT TO WILL GODWARD"
+      },
+      {
+        "src": "img/paxson-cleansing/card-03.png",
+        "title": "NOTHING BUT THE BLOOD SUFFICES"
+      },
+      {
+        "src": "img/paxson-cleansing/card-04.png",
+        "title": "GOD ASKS FOR THE CLEANSING OF"
+      },
+      {
+        "src": "img/paxson-cleansing/card-05.png",
+        "title": "PERHAPS YOU HAVE BEEN PRAYING FERVENTLY"
+      },
+      {
+        "src": "img/paxson-cleansing/card-06.png",
+        "title": "GOD HAS MADE THE PROVISION BUT"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-yielding",
+    "title": "YIELDING, THE BELIEVER'S PART",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/paxson-yielding/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-yielding/card-01.png",
+        "title": "THE RESPONSIBILITY FOR FULNESS OR LACK"
+      },
+      {
+        "src": "img/paxson-yielding/card-02.png",
+        "title": "THE OTHER WAY IS THROUGH US"
+      },
+      {
+        "src": "img/paxson-yielding/card-03.png",
+        "title": "MAY WE CLEAR THE ATMOSPHERE BY"
+      },
+      {
+        "src": "img/paxson-yielding/card-04.png",
+        "title": "THE HANDS THAT GO WRONG"
+      },
+      {
+        "src": "img/paxson-yielding/card-05.png",
+        "title": "WE WHO HAVE LOVED THE LORD"
+      },
+      {
+        "src": "img/paxson-yielding/card-06.png",
+        "title": "GRACE HAS PROVIDED IN CHRIST JESUS"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-faith-fullness",
+    "title": "FAITH, THE BELIEVER'S PART",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/paxson-faith-fullness/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-faith-fullness/card-01.png",
+        "title": "THIS TRUTH STANDS OUT CRYSTAL CLEAR"
+      },
+      {
+        "src": "img/paxson-faith-fullness/card-02.png",
+        "title": "A YOUNG WOMAN CAME TO ME"
+      },
+      {
+        "src": "img/paxson-faith-fullness/card-03.png",
+        "title": "IT MAY SEEM AS THOUGH GOD"
+      },
+      {
+        "src": "img/paxson-faith-fullness/card-04.png",
+        "title": "I WATCHED TWO YOUNG GIRLS CROSS"
+      },
+      {
+        "src": "img/paxson-faith-fullness/card-05.png",
+        "title": "NOT WORTHY IN THEMSELVES"
+      },
+      {
+        "src": "img/paxson-faith-fullness/card-06.png",
+        "title": "SCRIPTURE SPEAKS OFTEN OF THE BELIEVER"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-obedience",
+    "title": "OBEDIENCE, REMAINING SPIRIT-FILLED",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/paxson-obedience/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-obedience/card-01.png",
+        "title": "THE SON S INCARNATE LIFE OPENED"
+      },
+      {
+        "src": "img/paxson-obedience/card-02.png",
+        "title": "FURTHERMORE WE HAVE HAD FATHERS OF"
+      },
+      {
+        "src": "img/paxson-obedience/card-03.png",
+        "title": "ANOTHER MAY HAVE REFUSED TO ACCEPT"
+      },
+      {
+        "src": "img/paxson-obedience/card-04.png",
+        "title": "NOT CONTENT WITH BEARING FRUIT"
+      },
+      {
+        "src": "img/paxson-obedience/card-05.png",
+        "title": "THE MAN WHO FEEDS UPON GOD"
+      },
+      {
+        "src": "img/paxson-obedience/card-06.png",
+        "title": "COUNTLESS TIMES HAVE I SEEN THE"
+      }
+    ]
+  },
+  {
+    "slug": "paxson-prevailing-prayer",
+    "title": "PRAYER, REMAINING SPIRIT-FILLED",
+    "credit": "Ruth Paxson",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/paxson-prevailing-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/paxson-prevailing-prayer/card-01.png",
+        "title": "ONLY AS WE EAT DIGEST AND"
+      },
+      {
+        "src": "img/paxson-prevailing-prayer/card-02.png",
+        "title": "CAN WE BEGIN TO COMPREHEND THE"
+      },
+      {
+        "src": "img/paxson-prevailing-prayer/card-03.png",
+        "title": "THESE ALL IN PRAYER AND SUPPLICATION"
+      },
+      {
+        "src": "img/paxson-prevailing-prayer/card-04.png",
+        "title": "ACQUAINT YOURSELVES WITH THE WORK"
+      },
+      {
+        "src": "img/paxson-prevailing-prayer/card-05.png",
+        "title": "THE SAME INTENSITY OF DESIRE IS"
+      },
+      {
+        "src": "img/paxson-prevailing-prayer/card-06.png",
+        "title": "DO YOU HONESTLY WISH TO LIVE"
+      }
+    ]
+  },
+  {
+    "slug": "mcdonough-god-the-creator",
+    "title": "GOD THE CREATOR",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/mcdonough-god-the-creator/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-god-the-creator/card-01.png",
+        "title": "THE MASTER WORKMAN"
+      },
+      {
+        "src": "img/mcdonough-god-the-creator/card-02.png",
+        "title": "IT IS NOT THE PURPOSE OF"
+      },
+      {
+        "src": "img/mcdonough-god-the-creator/card-03.png",
+        "title": "THE WORKMANSHIP OF THY TABRETS"
+      },
+      {
+        "src": "img/mcdonough-god-the-creator/card-04.png",
+        "title": "SIN IS WHAT GOD SEES"
+      },
+      {
+        "src": "img/mcdonough-god-the-creator/card-05.png",
+        "title": "ONLY HE WHO CREATES CAN SUSTAIN"
+      },
+      {
+        "src": "img/mcdonough-god-the-creator/card-06.png",
+        "title": "NOTICE THAT THE WORD CREATE IS"
+      }
+    ]
+  },
+  {
+    "slug": "mcdonough-man-in-gods-image",
+    "title": "MAN CREATED IN THE IMAGE OF GOD",
+    "credit": "Mary E. McDonough",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/mcdonough-man-in-gods-image/overview.png",
+    "cards": [
+      {
+        "src": "img/mcdonough-man-in-gods-image/card-01.png",
+        "title": "WHILE MUCH MIGHT BE SAID CONCERNING"
+      },
+      {
+        "src": "img/mcdonough-man-in-gods-image/card-02.png",
+        "title": "A THOUGHT IN MY MIND"
+      },
+      {
+        "src": "img/mcdonough-man-in-gods-image/card-03.png",
+        "title": "GOD IS A THINKING CHOOSING LOVING"
+      },
+      {
+        "src": "img/mcdonough-man-in-gods-image/card-04.png",
+        "title": "THIS POSSIBILITY OF BECOMING A CHILD"
+      },
+      {
+        "src": "img/mcdonough-man-in-gods-image/card-05.png",
+        "title": "THE LORD GOD FORMING THE BODY"
+      },
+      {
+        "src": "img/mcdonough-man-in-gods-image/card-06.png",
+        "title": "THE VERB CREATE"
+      }
+    ]
   }
 ];
