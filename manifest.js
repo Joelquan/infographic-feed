@@ -16438,5 +16438,311 @@ window.MANIFEST = [
         "title": "THE UNLIMITED SUPERLATIVE AND THE UNLIMITED"
       }
     ]
+  },
+  {
+    "slug": "bounds-essence-of-worship",
+    "title": "THE ESSENCE OF EARTHLY WORSHIP",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-essence-of-worship/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-essence-of-worship/card-01.png",
+        "title": "THE JEWISH LAW AND THE PROPHETS"
+      },
+      {
+        "src": "img/bounds-essence-of-worship/card-02.png",
+        "title": "IN THE FIRST CASE CHRIST CAME"
+      },
+      {
+        "src": "img/bounds-essence-of-worship/card-03.png",
+        "title": "THEY ARE NOT SOURCES OF REPUTATION"
+      },
+      {
+        "src": "img/bounds-essence-of-worship/card-04.png",
+        "title": "ALMIGHTY GOD SEEMS TO FEAR"
+      },
+      {
+        "src": "img/bounds-essence-of-worship/card-05.png",
+        "title": "THIS IS THE WILL OF GOD"
+      },
+      {
+        "src": "img/bounds-essence-of-worship/card-06.png",
+        "title": "IS THERE ANY WORK HIGHER WORK"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-christ-the-teacher",
+    "title": "CHRIST, THE DIVINE TEACHER OF PRAYER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-christ-the-teacher/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-christ-the-teacher/card-01.png",
+        "title": "JESUS CHRIST WAS THE DIVINE TEACHER"
+      },
+      {
+        "src": "img/bounds-christ-the-teacher/card-02.png",
+        "title": "IT IS OF PRAYER IN CONCERT"
+      },
+      {
+        "src": "img/bounds-christ-the-teacher/card-03.png",
+        "title": "THE RELATION OF PRAYER TO GOD"
+      },
+      {
+        "src": "img/bounds-christ-the-teacher/card-04.png",
+        "title": "A NOTABLE OCCASION WE HAVE"
+      },
+      {
+        "src": "img/bounds-christ-the-teacher/card-05.png",
+        "title": "IT DOES NOT MEAN"
+      },
+      {
+        "src": "img/bounds-christ-the-teacher/card-06.png",
+        "title": "THEIR LIVES AND THEIR FRUITFULNESS WERE"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-christ-the-example",
+    "title": "CHRIST, AN EXAMPLE OF PRAYER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-christ-the-example/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-christ-the-example/card-01.png",
+        "title": "THE BIBLE RECORD OF THE LIFE"
+      },
+      {
+        "src": "img/bounds-christ-the-example/card-02.png",
+        "title": "PRAYER PRESSED UPON HIM"
+      },
+      {
+        "src": "img/bounds-christ-the-example/card-03.png",
+        "title": "SAVING PEOPLE FROM SIN OR SUFFERING"
+      },
+      {
+        "src": "img/bounds-christ-the-example/card-04.png",
+        "title": "GOD IS NOT GRASPED BY THOUGHT"
+      },
+      {
+        "src": "img/bounds-christ-the-example/card-05.png",
+        "title": "HOLY HANDS AND HOLY PRAYING HAVE"
+      },
+      {
+        "src": "img/bounds-christ-the-example/card-06.png",
+        "title": "ALL ELSE WAS LOOKED"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-model-prayer-and-gethsemane",
+    "title": "THE MODEL PRAYER AND GETHSEMANE",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-model-prayer-and-gethsemane/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-model-prayer-and-gethsemane/card-01.png",
+        "title": "JESUS GIVES US THE PATTERN PRAYER"
+      },
+      {
+        "src": "img/bounds-model-prayer-and-gethsemane/card-02.png",
+        "title": "LET US STOP AND ASK HAVE"
+      },
+      {
+        "src": "img/bounds-model-prayer-and-gethsemane/card-03.png",
+        "title": "GOING BACK AGAIN NOTE PLEASE HOW"
+      },
+      {
+        "src": "img/bounds-model-prayer-and-gethsemane/card-04.png",
+        "title": "HE CANNOT ABIDE THE PRESENCE"
+      },
+      {
+        "src": "img/bounds-model-prayer-and-gethsemane/card-05.png",
+        "title": "WE CAN PRAY AGAINST GOD S"
+      },
+      {
+        "src": "img/bounds-model-prayer-and-gethsemane/card-06.png",
+        "title": "WHAT RESTRAINT FORBEARANCE SELF DENIAL"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-holy-spirit-and-prayer",
+    "title": "THE HOLY SPIRIT AND PRAYER",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "faith",
+    "overview": "img/bounds-holy-spirit-and-prayer/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-holy-spirit-and-prayer/card-01.png",
+        "title": "THE GOSPEL WITHOUT THE HOLY SPIRIT"
+      },
+      {
+        "src": "img/bounds-holy-spirit-and-prayer/card-02.png",
+        "title": "IN THE THIRD CHAPTER OF EPHESIANS"
+      },
+      {
+        "src": "img/bounds-holy-spirit-and-prayer/card-03.png",
+        "title": "THERE IS AN OUGHT ON US"
+      },
+      {
+        "src": "img/bounds-holy-spirit-and-prayer/card-04.png",
+        "title": "THE FACT THAT MAN HAS TWO"
+      },
+      {
+        "src": "img/bounds-holy-spirit-and-prayer/card-05.png",
+        "title": "THE WORD DEPENDS ON PRAYER"
+      },
+      {
+        "src": "img/bounds-holy-spirit-and-prayer/card-06.png",
+        "title": "TWO THINGS MAY BE SAID JUST"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-whole-man-and-humility",
+    "title": "PRAYER TAKES IN THE WHOLE MAN",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-whole-man-and-humility/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-whole-man-and-humility/card-01.png",
+        "title": "MANY A PRAYING PREACHER HAS BEEN"
+      },
+      {
+        "src": "img/bounds-whole-man-and-humility/card-02.png",
+        "title": "A LOYAL INTELLECT MUST CONSPIRE"
+      },
+      {
+        "src": "img/bounds-whole-man-and-humility/card-03.png",
+        "title": "IT TAKES ONLY A MOMENT S"
+      },
+      {
+        "src": "img/bounds-whole-man-and-humility/card-04.png",
+        "title": "GOD PUTS A GREAT PRICE"
+      },
+      {
+        "src": "img/bounds-whole-man-and-humility/card-05.png",
+        "title": "HERE WE SEE BY SHARP CONTRAST"
+      },
+      {
+        "src": "img/bounds-whole-man-and-humility/card-06.png",
+        "title": "THE PRIDE OF DOING SENDS"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-devotion-and-praise",
+    "title": "PRAYER AND DEVOTION",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-devotion-and-praise/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-devotion-and-praise/card-01.png",
+        "title": "A FEEBLE LIVELY SHOWY RELIGIOUS ACTIVITY"
+      },
+      {
+        "src": "img/bounds-devotion-and-praise/card-02.png",
+        "title": "RELIGION HAS TO DO WITH EVERYTHING"
+      },
+      {
+        "src": "img/bounds-devotion-and-praise/card-03.png",
+        "title": "IN THE FOURTH CHAPTER OF REVELATION"
+      },
+      {
+        "src": "img/bounds-devotion-and-praise/card-04.png",
+        "title": "IT IS THE GIVING OUT"
+      },
+      {
+        "src": "img/bounds-devotion-and-praise/card-05.png",
+        "title": "THE SINGING MAY BE SO DIRECTED"
+      },
+      {
+        "src": "img/bounds-devotion-and-praise/card-06.png",
+        "title": "IT IS INDEED A PLEASING THOUGHT"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-prayer-and-trouble",
+    "title": "PRAYER AND TROUBLE",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "prayer",
+    "overview": "img/bounds-prayer-and-trouble/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-prayer-and-trouble/card-01.png",
+        "title": "TROUBLE AND PRAYER ARE CLOSELY RELATED"
+      },
+      {
+        "src": "img/bounds-prayer-and-trouble/card-02.png",
+        "title": "TROUBLE BELONGS TO THE DISCIPLINARY PART"
+      },
+      {
+        "src": "img/bounds-prayer-and-trouble/card-03.png",
+        "title": "PRAYER IN THE TIME OF TROUBLE"
+      },
+      {
+        "src": "img/bounds-prayer-and-trouble/card-04.png",
+        "title": "PRAYER SO PREPARES THE HEART"
+      },
+      {
+        "src": "img/bounds-prayer-and-trouble/card-05.png",
+        "title": "IT IS IN THE FIRES"
+      },
+      {
+        "src": "img/bounds-prayer-and-trouble/card-06.png",
+        "title": "OH CHILDREN OF GOD YE WHO"
+      }
+    ]
+  },
+  {
+    "slug": "bounds-gods-work-and-consecration",
+    "title": "PRAYER AND GOD'S WORK",
+    "credit": "E. M. Bounds",
+    "lane": "servants",
+    "topic": "character",
+    "overview": "img/bounds-gods-work-and-consecration/overview.png",
+    "cards": [
+      {
+        "src": "img/bounds-gods-work-and-consecration/card-01.png",
+        "title": "LET IT BE ITERATED AND REITERATED"
+      },
+      {
+        "src": "img/bounds-gods-work-and-consecration/card-02.png",
+        "title": "LET US ASK AS TO ANOTHER"
+      },
+      {
+        "src": "img/bounds-gods-work-and-consecration/card-03.png",
+        "title": "WHEN THE CHIEF SHEPHERDS AND THOSE"
+      },
+      {
+        "src": "img/bounds-gods-work-and-consecration/card-04.png",
+        "title": "FULL CONSECRATION IS THE HIGHEST TYPE"
+      },
+      {
+        "src": "img/bounds-gods-work-and-consecration/card-05.png",
+        "title": "THERE IS MUCH TALK TODAY"
+      },
+      {
+        "src": "img/bounds-gods-work-and-consecration/card-06.png",
+        "title": "THERE IS NO FRICTION WHATEVER BETWEEN"
+      }
+    ]
   }
 ];
