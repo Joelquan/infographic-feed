@@ -20008,5 +20008,719 @@ window.MANIFEST = [
         "title": "AS TO THE AGE WHEN THE"
       }
     ]
+  },
+  {
+    "slug": "white-true-remedies",
+    "title": "NATURE'S TRUE REMEDIES",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-true-remedies/overview.png",
+    "cards": [
+      {
+        "src": "img/white-true-remedies/card-01.png",
+        "title": "THE FREE USE OF POISONOUS DRUGS"
+      },
+      {
+        "src": "img/white-true-remedies/card-02.png",
+        "title": "RESTORATIVE POWER IS NOT IN DRUGS, BUT IN NATURE"
+      },
+      {
+        "src": "img/white-true-remedies/card-03.png",
+        "title": "THE DRUG ONLY CHANGES THE FORM OF THE DISEASE"
+      },
+      {
+        "src": "img/white-true-remedies/card-04.png",
+        "title": "PATENT MEDICINES THAT LEAD TO THE LIQUOR HABIT"
+      },
+      {
+        "src": "img/white-true-remedies/card-05.png",
+        "title": "THE EIGHT TRUE REMEDIES"
+      },
+      {
+        "src": "img/white-true-remedies/card-06.png",
+        "title": "NATURE, UNTRAMMELED, DOES HER WORK WISELY AND WELL"
+      }
+    ]
+  },
+  {
+    "slug": "white-preservation-of-health",
+    "title": "THE PRESERVATION OF HEALTH",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-preservation-of-health/overview.png",
+    "cards": [
+      {
+        "src": "img/white-preservation-of-health/card-01.png",
+        "title": "LEARN THE LAWS OF LIFE, AND OBEY THEM"
+      },
+      {
+        "src": "img/white-preservation-of-health/card-02.png",
+        "title": "THE FOUNDATION OF ALL ENDURING REFORM"
+      },
+      {
+        "src": "img/white-preservation-of-health/card-03.png",
+        "title": "INSTRUCTION IN HEALTH BEGINS IN THE HOME"
+      },
+      {
+        "src": "img/white-preservation-of-health/card-04.png",
+        "title": "WHEN THE PHYSICIAN HIMSELF USES TOBACCO"
+      },
+      {
+        "src": "img/white-preservation-of-health/card-05.png",
+        "title": "THE PHYSICIAN MUST HIMSELF HAVE VIGOROUS HEALTH"
+      },
+      {
+        "src": "img/white-preservation-of-health/card-06.png",
+        "title": "THE PHYSICIAN IN THE BATTLE WITH DISEASE"
+      }
+    ]
+  },
+  {
+    "slug": "white-sick-room",
+    "title": "IN THE SICK-ROOM",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-sick-room/overview.png",
+    "cards": [
+      {
+        "src": "img/white-sick-room/card-01.png",
+        "title": "SMALL NEGLECT IN THE SICK-ROOM MAY TURN THE SCALE"
+      },
+      {
+        "src": "img/white-sick-room/card-02.png",
+        "title": "THE NURSE NEEDS PHYSICAL VIGOR"
+      },
+      {
+        "src": "img/white-sick-room/card-03.png",
+        "title": "A CURRENT OF FRESH AIR, NIGHT AND DAY"
+      },
+      {
+        "src": "img/white-sick-room/card-04.png",
+        "title": "THE PATIENT'S DIET MUST NOT OVERTAX"
+      },
+      {
+        "src": "img/white-sick-room/card-05.png",
+        "title": "CHEERFULNESS IN THE SANITARIUM AND HOSPITAL"
+      },
+      {
+        "src": "img/white-sick-room/card-06.png",
+        "title": "A FRIEND MEANS MORE THAN THE BEST TREATMENT"
+      }
+    ]
+  },
+  {
+    "slug": "white-rational-remedies",
+    "title": "RATIONAL REMEDIES",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-rational-remedies/overview.png",
+    "cards": [
+      {
+        "src": "img/white-rational-remedies/card-01.png",
+        "title": "NATURE NEEDS RELIEF, NOT MORE BURDEN"
+      },
+      {
+        "src": "img/white-rational-remedies/card-02.png",
+        "title": "FIRST REMOVE THE CAUSE OF THE SICKNESS"
+      },
+      {
+        "src": "img/white-rational-remedies/card-03.png",
+        "title": "WATER APPLIED: TONIC AND CLEANSER"
+      },
+      {
+        "src": "img/white-rational-remedies/card-04.png",
+        "title": "REST FROM WEARING THOUGHT"
+      },
+      {
+        "src": "img/white-rational-remedies/card-05.png",
+        "title": "INACTIVITY IS THE INVALID'S GREATEST CURSE"
+      },
+      {
+        "src": "img/white-rational-remedies/card-06.png",
+        "title": "CHEERFUL EXERCISE BETTER THAN THE MINERAL SPRING"
+      }
+    ]
+  },
+  {
+    "slug": "white-gratitude-and-praise",
+    "title": "GRATITUDE AND PRAISE",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-gratitude-and-praise/overview.png",
+    "cards": [
+      {
+        "src": "img/white-gratitude-and-praise/card-01.png",
+        "title": "GRATITUDE PROMOTES HEALTH OF BODY AND SOUL"
+      },
+      {
+        "src": "img/white-gratitude-and-praise/card-02.png",
+        "title": "EDUCATE THE SOUL TO BE HOPEFUL"
+      },
+      {
+        "src": "img/white-gratitude-and-praise/card-03.png",
+        "title": "DO NOT TALK OF YOUR SORROWS"
+      },
+      {
+        "src": "img/white-gratitude-and-praise/card-04.png",
+        "title": "HELPING OTHERS DISPELS OUR OWN DARKNESS"
+      },
+      {
+        "src": "img/white-gratitude-and-praise/card-05.png",
+        "title": "IMPART SYMPATHY INSTEAD OF REQUIRING IT"
+      },
+      {
+        "src": "img/white-gratitude-and-praise/card-06.png",
+        "title": "FORGET SELF, AND HEALTH SPRINGS FORTH"
+      }
+    ]
+  },
+  {
+    "slug": "white-contact-with-nature",
+    "title": "IN CONTACT WITH NATURE",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-contact-with-nature/overview.png",
+    "cards": [
+      {
+        "src": "img/white-contact-with-nature/card-01.png",
+        "title": "THE GARDEN GOD PREPARED FOR HIS CHILDREN"
+      },
+      {
+        "src": "img/white-contact-with-nature/card-02.png",
+        "title": "THE CITY'S AIR IS A PERIL TO THE SICK"
+      },
+      {
+        "src": "img/white-contact-with-nature/card-03.png",
+        "title": "THE QUIET AND FREEDOM OF THE COUNTRY"
+      },
+      {
+        "src": "img/white-contact-with-nature/card-04.png",
+        "title": "KEEP PATIENTS OUT OF DOORS"
+      },
+      {
+        "src": "img/white-contact-with-nature/card-05.png",
+        "title": "SHUT UP IN THE HOUSE, HE GROWS GLOOMY"
+      },
+      {
+        "src": "img/white-contact-with-nature/card-06.png",
+        "title": "MANY FIND HEALTH UNDER SUCH INFLUENCES"
+      }
+    ]
+  },
+  {
+    "slug": "white-general-hygiene",
+    "title": "GENERAL HYGIENE",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-general-hygiene/overview.png",
+    "cards": [
+      {
+        "src": "img/white-general-hygiene/card-01.png",
+        "title": "THE LUNGS NEED CONSTANT FRESH AIR"
+      },
+      {
+        "src": "img/white-general-hygiene/card-02.png",
+        "title": "WHEN IMPURE AIR IS BREATHED BACK"
+      },
+      {
+        "src": "img/white-general-hygiene/card-03.png",
+        "title": "VENTILATION AND SUNLIGHT IN EVERY BUILDING"
+      },
+      {
+        "src": "img/white-general-hygiene/card-04.png",
+        "title": "WHAT PLANTS NEED, FAMILIES NEED MORE"
+      },
+      {
+        "src": "img/white-general-hygiene/card-05.png",
+        "title": "SCRUPULOUS CLEANLINESS THROUGH THE SKIN"
+      },
+      {
+        "src": "img/white-general-hygiene/card-06.png",
+        "title": "THE BATH INVIGORATES MIND AND BODY"
+      }
+    ]
+  },
+  {
+    "slug": "white-healthful-dress",
+    "title": "HEALTHFUL DRESS",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-healthful-dress/overview.png",
+    "cards": [
+      {
+        "src": "img/white-healthful-dress/card-01.png",
+        "title": "CLOTHING OF GOOD QUALITY, CHOSEN FOR SERVICE"
+      },
+      {
+        "src": "img/white-healthful-dress/card-02.png",
+        "title": "FASHION'S COSTUMES AND CEASELESS DRUDGERY"
+      },
+      {
+        "src": "img/white-healthful-dress/card-03.png",
+        "title": "THE WEIGHT OF SKIRTS SUSTAINED BY THE HIPS"
+      },
+      {
+        "src": "img/white-healthful-dress/card-04.png",
+        "title": "STUDY THE NEEDS OF EVERY PART OF THE BODY"
+      },
+      {
+        "src": "img/white-healthful-dress/card-05.png",
+        "title": "INVALIDS WHO MIGHT HAVE ENJOYED HEALTH"
+      },
+      {
+        "src": "img/white-healthful-dress/card-06.png",
+        "title": "SENSIBLE DRESSING AND EXERCISE IN OPEN AIR"
+      }
+    ]
+  },
+  {
+    "slug": "white-diet-and-health",
+    "title": "DIET AND HEALTH",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-diet-and-health/overview.png",
+    "cards": [
+      {
+        "src": "img/white-diet-and-health/card-01.png",
+        "title": "FAR TOO MUCH SUGAR"
+      },
+      {
+        "src": "img/white-diet-and-health/card-02.png",
+        "title": "LEARN THE ART OF HEALTHFUL COOKERY"
+      },
+      {
+        "src": "img/white-diet-and-health/card-03.png",
+        "title": "FIVE OR SIX HOURS BETWEEN MEALS"
+      },
+      {
+        "src": "img/white-diet-and-health/card-04.png",
+        "title": "GIVE THE STOMACH REST"
+      },
+      {
+        "src": "img/white-diet-and-health/card-05.png",
+        "title": "STRICT TEMPERANCE FOR THOSE WHO THINK RAPIDLY"
+      },
+      {
+        "src": "img/white-diet-and-health/card-06.png",
+        "title": "WE SUFFER THE RESULTS OF VIOLATED LAW"
+      }
+    ]
+  },
+  {
+    "slug": "white-flesh-as-food",
+    "title": "FLESH AS FOOD",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-flesh-as-food/overview.png",
+    "cards": [
+      {
+        "src": "img/white-flesh-as-food/card-01.png",
+        "title": "THE BEST DIET SHOWN IN EDEN"
+      },
+      {
+        "src": "img/white-flesh-as-food/card-02.png",
+        "title": "GRAINS AND VEGETABLES AT SECOND HAND"
+      },
+      {
+        "src": "img/white-flesh-as-food/card-03.png",
+        "title": "DISEASED ANIMALS SOLD FOR FOOD"
+      },
+      {
+        "src": "img/white-flesh-as-food/card-04.png",
+        "title": "FISH FED ON THE CONTENTS OF DRAINS"
+      },
+      {
+        "src": "img/white-flesh-as-food/card-05.png",
+        "title": "GRAINS, NUTS, VEGETABLES, AND FRUITS IN ITS PLACE"
+      },
+      {
+        "src": "img/white-flesh-as-food/card-06.png",
+        "title": "IS IT NOT TIME TO DISPENSE WITH FLESH FOODS?"
+      }
+    ]
+  },
+  {
+    "slug": "white-extremes-in-diet",
+    "title": "EXTREMES IN DIET",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-extremes-in-diet/overview.png",
+    "cards": [
+      {
+        "src": "img/white-extremes-in-diet/card-01.png",
+        "title": "GOING TO THE OPPOSITE EXTREME"
+      },
+      {
+        "src": "img/white-extremes-in-diet/card-02.png",
+        "title": "APPETITE UNDER THE CONTROL OF REASON"
+      },
+      {
+        "src": "img/white-extremes-in-diet/card-03.png",
+        "title": "EGGS AND MILK: A MEASURED WORD"
+      },
+      {
+        "src": "img/white-extremes-in-diet/card-04.png",
+        "title": "AN IMPOVERISHED DIET PRODUCES POVERTY OF BLOOD"
+      },
+      {
+        "src": "img/white-extremes-in-diet/card-05.png",
+        "title": "ALL SHOULD LEARN WHAT TO EAT"
+      },
+      {
+        "src": "img/white-extremes-in-diet/card-06.png",
+        "title": "DO NOT BELITTLE REFORM BY NARROW PRACTISES"
+      }
+    ]
+  },
+  {
+    "slug": "white-stimulants-and-narcotics",
+    "title": "STIMULANTS AND NARCOTICS",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-stimulants-and-narcotics/overview.png",
+    "cards": [
+      {
+        "src": "img/white-stimulants-and-narcotics/card-01.png",
+        "title": "TEA AND COFFEE DO NOT NOURISH"
+      },
+      {
+        "src": "img/white-stimulants-and-narcotics/card-02.png",
+        "title": "TOBACCO AMONG CHILDREN AND YOUTH"
+      },
+      {
+        "src": "img/white-stimulants-and-narcotics/card-03.png",
+        "title": "NO HUMAN BEING NEEDS TOBACCO"
+      },
+      {
+        "src": "img/white-stimulants-and-narcotics/card-04.png",
+        "title": "DANGER IN EVEN SWEET CIDER"
+      },
+      {
+        "src": "img/white-stimulants-and-narcotics/card-05.png",
+        "title": "JOHN THE BAPTIST DRANK NEITHER WINE NOR STRONG DRINK"
+      },
+      {
+        "src": "img/white-stimulants-and-narcotics/card-06.png",
+        "title": "NARCOTICS LOWER THE INTELLECT AND MORALS"
+      }
+    ]
+  },
+  {
+    "slug": "white-choice-of-home",
+    "title": "CHOICE OF THE HOME",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-choice-of-home/overview.png",
+    "cards": [
+      {
+        "src": "img/white-choice-of-home/card-01.png",
+        "title": "THOSE WHO SELECT A HOME"
+      },
+      {
+        "src": "img/white-choice-of-home/card-02.png",
+        "title": "LIFE IN THE CITIES IS FALSE AND ARTIFICIAL"
+      },
+      {
+        "src": "img/white-choice-of-home/card-03.png",
+        "title": "REARED IN COUNTRY HOMES"
+      },
+      {
+        "src": "img/white-choice-of-home/card-04.png",
+        "title": "GO WHERE YOU CAN LOOK UPON THE WORKS OF GOD"
+      },
+      {
+        "src": "img/white-choice-of-home/card-05.png",
+        "title": "ROOMS FURNISHED BEYOND THE MEANS"
+      },
+      {
+        "src": "img/white-choice-of-home/card-06.png",
+        "title": "A GRASSY LAWN AND A FEW SHADE TREES"
+      }
+    ]
+  },
+  {
+    "slug": "white-natural-law",
+    "title": "NATURAL LAW",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-natural-law/overview.png",
+    "cards": [
+      {
+        "src": "img/white-natural-law/card-01.png",
+        "title": "EVERY LAW OF THE HUMAN MACHINERY IS DIVINE"
+      },
+      {
+        "src": "img/white-natural-law/card-02.png",
+        "title": "KEEP THE BODY IN SUBJECTION"
+      },
+      {
+        "src": "img/white-natural-law/card-03.png",
+        "title": "MINISTERS SHOULD BE INTELLIGENT UPON HEALTH REFORM"
+      },
+      {
+        "src": "img/white-natural-law/card-04.png",
+        "title": "HEALTHFUL HABITS ARE PART OF THE MESSAGE"
+      },
+      {
+        "src": "img/white-natural-law/card-05.png",
+        "title": "GLOOM OFTEN COMES FROM DISREGARDED PHYSICAL LAW"
+      },
+      {
+        "src": "img/white-natural-law/card-06.png",
+        "title": "EXCESSIVE EATING OF EVEN THE BEST FOOD"
+      }
+    ]
+  },
+  {
+    "slug": "white-resistance-to-disease",
+    "title": "RESISTANCE TO DISEASE",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-resistance-to-disease/overview.png",
+    "cards": [
+      {
+        "src": "img/white-resistance-to-disease/card-01.png",
+        "title": "THE EFFECTS OF CLOSE, ILL-VENTILATED ROOMS"
+      },
+      {
+        "src": "img/white-resistance-to-disease/card-02.png",
+        "title": "WHEN WE FEED ON FLESH"
+      },
+      {
+        "src": "img/white-resistance-to-disease/card-03.png",
+        "title": "THE CONDITION OF PARENTS IS PERPETUATED"
+      },
+      {
+        "src": "img/white-resistance-to-disease/card-04.png",
+        "title": "DECAYING MATTER POISONS THE AIR OF THE PREMISES"
+      },
+      {
+        "src": "img/white-resistance-to-disease/card-05.png",
+        "title": "EVERY WHEEL IN THE MACHINERY MUST WORK"
+      },
+      {
+        "src": "img/white-resistance-to-disease/card-06.png",
+        "title": "DOING GOOD CONTRIBUTES TO OUR OWN HEALTH"
+      }
+    ]
+  },
+  {
+    "slug": "white-ventilation",
+    "title": "VENTILATION",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-ventilation/overview.png",
+    "cards": [
+      {
+        "src": "img/white-ventilation/card-01.png",
+        "title": "LET AIR INTO THE SLEEPING-ROOM BY DEGREES"
+      },
+      {
+        "src": "img/white-ventilation/card-02.png",
+        "title": "PURE AIR AND THE CIRCULATION OF THE BLOOD"
+      },
+      {
+        "src": "img/white-ventilation/card-03.png",
+        "title": "AIR, AIR, THE PRECIOUS BOON OF HEAVEN"
+      },
+      {
+        "src": "img/white-ventilation/card-04.png",
+        "title": "SMALL SLEEPING-ROOMS, OCCUPIED FOR YEARS"
+      },
+      {
+        "src": "img/white-ventilation/card-05.png",
+        "title": "EVERY BREATH OF VITAL AIR IN THE SICK-ROOM"
+      },
+      {
+        "src": "img/white-ventilation/card-06.png",
+        "title": "A DRAUGHT OF AIR THROUGH THE SICK-ROOM"
+      }
+    ]
+  },
+  {
+    "slug": "white-rational-treatment",
+    "title": "RATIONAL REMEDIES FOR DISEASE",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-rational-treatment/overview.png",
+    "cards": [
+      {
+        "src": "img/white-rational-treatment/card-01.png",
+        "title": "PRESS OUT INTO THE SUNSHINE"
+      },
+      {
+        "src": "img/white-rational-treatment/card-02.png",
+        "title": "RESPIRATION IS FREER IF BATHING IS PRACTISED"
+      },
+      {
+        "src": "img/white-rational-treatment/card-03.png",
+        "title": "WHAT BATHING DOES FOR THE WHOLE SYSTEM"
+      },
+      {
+        "src": "img/white-rational-treatment/card-04.png",
+        "title": "THE POWER OF THE MIND OVER THE BODY"
+      },
+      {
+        "src": "img/white-rational-treatment/card-05.png",
+        "title": "WHEN THE MIND PREVENTS THE BLOOD FROM FLOWING"
+      },
+      {
+        "src": "img/white-rational-treatment/card-06.png",
+        "title": "DOING GOOD BENEFITS GIVER AND RECEIVER"
+      }
+    ]
+  },
+  {
+    "slug": "white-diet",
+    "title": "DIET",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-diet/overview.png",
+    "cards": [
+      {
+        "src": "img/white-diet/card-01.png",
+        "title": "MADE SICK BY THE INDULGENCE OF APPETITE"
+      },
+      {
+        "src": "img/white-diet/card-02.png",
+        "title": "SALERATUS SHOULD NOT ENTER THE STOMACH"
+      },
+      {
+        "src": "img/white-diet/card-03.png",
+        "title": "FOOD SHOULD BE EATEN SLOWLY"
+      },
+      {
+        "src": "img/white-diet/card-04.png",
+        "title": "OVEREATING BENUMBS THE BRAIN"
+      },
+      {
+        "src": "img/white-diet/card-05.png",
+        "title": "CONDIMENTS AND SPICES ARE A FALSE HELP"
+      },
+      {
+        "src": "img/white-diet/card-06.png",
+        "title": "A PERVERTED TASTE MUST BE RETRAINED"
+      }
+    ]
+  },
+  {
+    "slug": "white-exercise",
+    "title": "EXERCISE",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-exercise/overview.png",
+    "cards": [
+      {
+        "src": "img/white-exercise/card-01.png",
+        "title": "THE BODY IS NICELY ADJUSTED MACHINERY"
+      },
+      {
+        "src": "img/white-exercise/card-02.png",
+        "title": "DO NOT GIVE UP THE USE OF THE MUSCLES"
+      },
+      {
+        "src": "img/white-exercise/card-03.png",
+        "title": "NO EXERCISE LIKE WALKING"
+      },
+      {
+        "src": "img/white-exercise/card-04.png",
+        "title": "NO VIOLENT EXERCISE AFTER A FULL MEAL"
+      },
+      {
+        "src": "img/white-exercise/card-05.png",
+        "title": "THE TEMPERATE FARMER'S DEEP BREATHING"
+      },
+      {
+        "src": "img/white-exercise/card-06.png",
+        "title": "INVALIDS MUST NOT DISCONTINUE EXERCISE"
+      }
+    ]
+  },
+  {
+    "slug": "white-hygiene",
+    "title": "HYGIENE",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-hygiene/overview.png",
+    "cards": [
+      {
+        "src": "img/white-hygiene/card-01.png",
+        "title": "DANGEROUS TO SLEEP IN UNAIRED ROOMS"
+      },
+      {
+        "src": "img/white-hygiene/card-02.png",
+        "title": "THE CHILD'S FIRST EDUCATION: PHYSICAL HEALTH"
+      },
+      {
+        "src": "img/white-hygiene/card-03.png",
+        "title": "INFANTS NEED NO GIRTS OR BANDS"
+      },
+      {
+        "src": "img/white-hygiene/card-04.png",
+        "title": "CHILDREN ON HARD BENCHES IN IMPURE AIR"
+      },
+      {
+        "src": "img/white-hygiene/card-05.png",
+        "title": "THE MOTHER'S LABOR SHOULD BE LIGHTENED"
+      },
+      {
+        "src": "img/white-hygiene/card-06.png",
+        "title": "FEVER NEED NOT SPREAD THROUGH THE FAMILY"
+      }
+    ]
+  },
+  {
+    "slug": "white-lungs-and-respiration",
+    "title": "THE LUNGS AND RESPIRATION",
+    "credit": "Ellen G. White",
+    "lane": "servants",
+    "topic": "health",
+    "overview": "img/white-lungs-and-respiration/overview.png",
+    "cards": [
+      {
+        "src": "img/white-lungs-and-respiration/card-01.png",
+        "title": "TIGHT LACING CRAMPS THE LOWER LUNGS"
+      },
+      {
+        "src": "img/white-lungs-and-respiration/card-02.png",
+        "title": "THEY KEEP THEIR WINDOWS AND DOORS CLOSED"
+      },
+      {
+        "src": "img/white-lungs-and-respiration/card-03.png",
+        "title": "CARE AND TRAINING FOR THE VOCAL ORGANS"
+      },
+      {
+        "src": "img/white-lungs-and-respiration/card-04.png",
+        "title": "DO NOT LET THE LABOR FALL ON THE UPPER ORGANS"
+      },
+      {
+        "src": "img/white-lungs-and-respiration/card-05.png",
+        "title": "THE CHEST MUST HAVE ROOM TO EXPAND"
+      },
+      {
+        "src": "img/white-lungs-and-respiration/card-06.png",
+        "title": "DO NOT EXCLUDE THE AIR WHEN YOU HAVE TAKEN COLD"
+      }
+    ]
   }
 ];
